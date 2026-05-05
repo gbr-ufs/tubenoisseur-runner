@@ -29,7 +29,6 @@
     "gitlab.freedesktop.org": 1,
     "goodtech.info": 1,
     "itsfoss.com": 11,
-    "joplinapp.org": 2,
     "keepandroidopen.org": 1,
     "liberapay.com": 15,
     "linuxiac.com": 7,
@@ -43,14 +42,12 @@
     "open-buro.eu": 1,
     "playnix.io": 1,
     "proton.me": 4,
-    "protonvpn.com": 1,
     "redmine.documentfoundation.org": 1,
     "store.steampowered.com": 1,
     "support.mozilla.org": 1,
     "the-linux-experiment.creator-spring.com": 15,
     "thecybersecguru.com": 1,
     "tintotint.eu": 1,
-    "tuxcare.com": 2,
     "usebottles.com": 1,
     "winboat.app": 1,
     "www.404media.co": 1,
@@ -84,7 +81,11 @@
     "www.tuxedocomputers.com",
     "www.youtube.com",
     "www.patreon.com",
-    "paypal.me"
+    "paypal.me",
+    "proton.me",
+    "tuxcare.com",
+    "joplinapp.org",
+    "protonvpn.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
   "lastVideoID": "upOaSBo5ygU",
@@ -155,7 +156,6 @@
       "published": "2026-04-18T09:14:41+00:00",
       "title": "Germany's moving to Open Source, Age verification gets worse - Linux weekly News",
       "urls": [
-        "https://tuxcare.com/endless-lifecycle-support/alpine-linux-eol-support/?utm_source=youtube\u0026utm_medium=social\u0026utm_campaign=alpine-linux-els\u0026utm_term=the-linux-experiment\u0026utm_content=youtube_announcement",
         "https://liberapay.com/TheLinuxExperiment/",
         "https://the-linux-experiment.creator-spring.com/",
         "https://deutschland-stack.gov.de/gesamtbild/",
@@ -179,7 +179,6 @@
       "published": "2026-04-16T13:34:22+00:00",
       "title": "OPEN SOURCE alternatives for the MOST POPULAR productivity apps (2026 edition)",
       "urls": [
-        "https://tuxcare.com/cve-tracker/?utm_source=youtube\u0026utm_medium=social_organic\u0026utm_campaign=cvetracker_launch\u0026utm_term=the-linux-experiment\u0026utm_content=youtube_announcement",
         "https://liberapay.com/TheLinuxExperiment/",
         "https://the-linux-experiment.creator-spring.com/"
       ]
@@ -234,7 +233,6 @@
       "published": "2026-04-01T12:15:00+00:00",
       "title": "Ranking Linux distributions for 2026: not your average tier list !",
       "urls": [
-        "https://joplinapp.org/?source=TheLinuxEXP",
         "https://liberapay.com/TheLinuxExperiment/",
         "https://the-linux-experiment.creator-spring.com/"
       ]
@@ -244,7 +242,6 @@
       "published": "2026-03-28T09:34:26+00:00",
       "title": "The Linux Age Verification situation is escalating \u0026 other Linux Weekly News",
       "urls": [
-        "https://protonvpn.com/TheLinuxEXP",
         "https://liberapay.com/TheLinuxExperiment/",
         "https://the-linux-experiment.creator-spring.com/",
         "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws",
@@ -295,7 +292,6 @@
       "published": "2026-03-18T10:37:16+00:00",
       "title": "GNOME 50: a MASSIVE release that delivers what users asked for!",
       "urls": [
-        "https://joplinapp.org/?source=TheLinuxEXP",
         "https://liberapay.com/TheLinuxExperiment/",
         "https://the-linux-experiment.creator-spring.com/"
       ]

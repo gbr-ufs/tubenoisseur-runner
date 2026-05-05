@@ -17,8 +17,6 @@ Top Sources:
 - blog.mozilla.org = 3
 - fedoramagazine.org = 3
 - 9to5linux.com = 2
-- joplinapp.org = 2
-- tuxcare.com = 2
 - www.neowin.net = 2
 - youtu.be = 2
 - almalinux.org = 1
@@ -52,7 +50,6 @@ Top Sources:
 - news.apache.org = 1
 - open-buro.eu = 1
 - playnix.io = 1
-- protonvpn.com = 1
 - redmine.documentfoundation.org = 1
 - store.steampowered.com = 1
 - support.mozilla.org = 1
@@ -152,7 +149,6 @@ Top Sources:
 
 ### References
 
-- https://tuxcare.com/endless-lifecycle-support/alpine-linux-eol-support/?utm_source=youtube&utm_medium=social&utm_campaign=alpine-linux-els&utm_term=the-linux-experiment&utm_content=youtube_announcement
 - https://liberapay.com/TheLinuxExperiment/
 - https://the-linux-experiment.creator-spring.com/
 - https://deutschland-stack.gov.de/gesamtbild/
@@ -177,7 +173,6 @@ Top Sources:
 
 ### References
 
-- https://tuxcare.com/cve-tracker/?utm_source=youtube&utm_medium=social_organic&utm_campaign=cvetracker_launch&utm_term=the-linux-experiment&utm_content=youtube_announcement
 - https://liberapay.com/TheLinuxExperiment/
 - https://the-linux-experiment.creator-spring.com/
 
@@ -235,7 +230,6 @@ Top Sources:
 
 ### References
 
-- https://joplinapp.org/?source=TheLinuxEXP
 - https://liberapay.com/TheLinuxExperiment/
 - https://the-linux-experiment.creator-spring.com/
 
@@ -246,7 +240,6 @@ Top Sources:
 
 ### References
 
-- https://protonvpn.com/TheLinuxEXP
 - https://liberapay.com/TheLinuxExperiment/
 - https://the-linux-experiment.creator-spring.com/
 - https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws
@@ -299,7 +292,6 @@ Top Sources:
 
 ### References
 
-- https://joplinapp.org/?source=TheLinuxEXP
 - https://liberapay.com/TheLinuxExperiment/
 - https://the-linux-experiment.creator-spring.com/
 
