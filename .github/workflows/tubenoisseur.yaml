@@ -42,6 +42,8 @@ jobs:
       run: go install github.com/gbr-ufs/tubenoisseur@v0.0.0-20260505022416-8a1b3637c278
     - name: Tubenoisseur
       run: tubenoisseur ${{ matrix.channel }} --debug
+      env:
+        CLICOLOR_FORCE: "1"
     - name: Git Pull
       run: git pull origin ${{ github.ref_name }} --autostash --rebase
     - name: Commit
