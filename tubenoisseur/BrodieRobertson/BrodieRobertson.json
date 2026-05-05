@@ -1,0 +1,231 @@
+{
+  "channelHandle": "BrodieRobertson",
+  "domainCounts": {
+    "access.redhat.com": 1,
+    "bazzite.gg": 1,
+    "blogs.gnome.org": 1,
+    "blogs.kde.org": 1,
+    "bugzilla.gnome.org": 1,
+    "canonical.com": 1,
+    "copy.fail": 1,
+    "cybernews.com": 1,
+    "discourse.gnome.org": 1,
+    "discuss.kde.org": 1,
+    "en.wikipedia.org": 1,
+    "fedoraproject.org": 1,
+    "filipfila.wordpress.com": 1,
+    "git.kernel.org": 2,
+    "github.com": 8,
+    "gitlab.gnome.org": 1,
+    "invent.kde.org": 1,
+    "lore.kernel.org": 2,
+    "mailarchive.ietf.org": 1,
+    "my.devsuite.app": 1,
+    "news.ycombinator.com": 2,
+    "nobaraproject.org": 1,
+    "odin-lang.org": 1,
+    "pinheiro-kde.blogspot.com": 1,
+    "security-tracker.debian.org": 1,
+    "steambrew.app": 3,
+    "store.steampowered.com": 2,
+    "ubuntu.com": 2,
+    "usbguard.github.io": 1,
+    "wiki.archlinux.org": 1,
+    "wiki.gnome.org": 1,
+    "www.8bitdo.com": 1,
+    "www.anthropic.com": 1,
+    "www.guru3d.com": 1,
+    "www.ietf.org": 2,
+    "www.ign.com": 1,
+    "www.notebookcheck.net": 1,
+    "www.pcgamer.com": 1,
+    "www.raylib.com": 1,
+    "www.reddit.com": 1,
+    "www.rfc-editor.org": 3,
+    "www.suse.com": 1,
+    "www.techpowerup.com": 1,
+    "x.com": 5,
+    "xint.io": 1
+  },
+  "excludedDomains": [
+    "brodierobertson.xyz",
+    "www.youtube.com",
+    "techovertea.xyz",
+    "www.instagram.com",
+    "ncs.io"
+  ],
+  "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+  "lastVideoID": "pQSXJjVYan0",
+  "videos": [
+    {
+      "id": "pQSXJjVYan0",
+      "published": "2026-05-04T17:30:18+00:00",
+      "title": "Fedora Is Replacing Ubuntu Linux As The Default",
+      "urls": [
+        "https://ubuntu.com/",
+        "https://fedoraproject.org/",
+        "https://canonical.com/blog/shipit-comes-to-an-end",
+        "https://bazzite.gg/",
+        "https://nobaraproject.org/"
+      ]
+    },
+    {
+      "id": "bWTfMZiwx-E",
+      "published": "2026-05-03T17:30:11+00:00",
+      "title": "Linux Ricing Brings Back Steam Skins With Millennium",
+      "urls": [
+        "https://steambrew.app/",
+        "https://steambrew.app/themes",
+        "https://steambrew.app/plugins"
+      ]
+    },
+    {
+      "id": "HcJJ7UldMc8",
+      "published": "2026-05-02T17:30:08+00:00",
+      "title": "GNOME Logout Button Situation Is Crazy",
+      "urls": [
+        "https://discourse.gnome.org/t/please-add-log-out-even-when-there-is-only-one-user-account/34780",
+        "https://wiki.gnome.org/Design(2f)OS(2f)SystemStopRestart(2f)History.html",
+        "http://bugzilla.gnome.org/show_bug.cgi?id=657011",
+        "https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/9100"
+      ]
+    },
+    {
+      "id": "PFLpDc909yY",
+      "published": "2026-04-30T19:01:56+00:00",
+      "title": "CopyFail Compromises The Last 9 Years Of Linux Distros",
+      "urls": [
+        "https://copy.fail/",
+        "https://xint.io/blog/copy-fail-linux-distributions",
+        "https://github.com/theori-io/copy-fail-CVE-2026-31431/blob/main/copy_fail_exp.py",
+        "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a664bf3d603d",
+        "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=72548b093ee3",
+        "https://security-tracker.debian.org/tracker/CVE-2026-31431",
+        "https://ubuntu.com/security/CVE-2026-31431",
+        "https://www.suse.com/security/cve/CVE-2026-31431.html",
+        "https://access.redhat.com/security/cve/cve-2026-31431",
+        "https://discuss.kde.org/t/kde-linux-images-202604210254-are-vulnerable-to-cve-2026-31431/46632",
+        "https://github.com/advisories/GHSA-2274-3hgr-wxv6"
+      ]
+    },
+    {
+      "id": "npKb9UAxDxQ",
+      "published": "2026-04-29T17:30:28+00:00",
+      "title": "The Future Of KDE Plasma Looks Incredible",
+      "urls": [
+        "https://blogs.kde.org/categories/this-week-in-plasma/"
+      ]
+    },
+    {
+      "id": "lIK4hKCXZHs",
+      "published": "2026-04-28T17:30:22+00:00",
+      "title": "Valve has Cooked Up Something Amazing",
+      "urls": [
+        "https://www.notebookcheck.net/Valve-adds-new-tools-for-developers-to-track-Steam-Deck-framerate-and-player-feedback-data-to-help-improve-performance.1281922.0.html",
+        "https://www.techpowerup.com/348023/steam-will-estimate-game-fps-before-purchase-to-show-expected-pc-performance",
+        "https://x.com/SadlyItsBradley/status/2044888780440551671",
+        "https://x.com/SadlyItsBradley/status/2044892275201790251",
+        "https://github.com/chaitan3/steam_installer_linuxarm64",
+        "https://store.steampowered.com/news/group/45479024/view/508485755865137686",
+        "https://store.steampowered.com/sale/steamcontroller",
+        "https://github.com/C0rn3j/sc-controller",
+        "https://www.8bitdo.com/ultimate-2-wireless-controller/",
+        "https://www.pcgamer.com/hardware/game-pads/valve-will-be-providing-steam-controller-replacement-parts-via-ifixit-after-launch/",
+        "https://x.com/SadlyItsBradley/status/2048818605991604356",
+        "https://www.ign.com/articles/valve-says-its-hard-at-work-on-steam-deck-2-but-theres-still-no-release-window"
+      ]
+    },
+    {
+      "id": "tLKOH-CUWyI",
+      "published": "2026-04-27T17:30:30+00:00",
+      "title": "Protect Your Linux Desktop From Malicious USB Devices",
+      "urls": [
+        "https://lore.kernel.org/lkml/20260404133746.80914-1-zybo1000@gmail.com",
+        "https://usbguard.github.io/",
+        "https://wiki.archlinux.org/title/USBGuard",
+        "https://github.com/fabiogermann/usbkill",
+        "https://github.com/kmille/silk-guardian"
+      ]
+    },
+    {
+      "id": "989vCMg3Qv8",
+      "published": "2026-04-26T17:30:03+00:00",
+      "title": "One Maintainer Is All It Takes To Break A Project",
+      "urls": [
+        "https://my.devsuite.app/@chergert/116408667154713506",
+        "https://blogs.gnome.org/chergert/2026/02/06/mid-life-transitions/"
+      ]
+    },
+    {
+      "id": "kvMBenjrbOA",
+      "published": "2026-04-25T17:30:10+00:00",
+      "title": "There's No Way This Web Extension Is Real",
+      "urls": [
+        "https://www.reddit.com/r/browsers/comments/1slgyt9/finally_built_a_solution_preventing_yahoo_taking"
+      ]
+    },
+    {
+      "id": "I4sP8K8c6yc",
+      "published": "2026-04-23T17:30:04+00:00",
+      "title": "Oxygen Squared The KDE Design We Never Had",
+      "urls": [
+        "https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/",
+        "https://pinheiro-kde.blogspot.com/2020/09/week-report-0.html",
+        "https://invent.kde.org/pinheiro/oxygen2"
+      ]
+    },
+    {
+      "id": "7YPnh6dlyQQ",
+      "published": "2026-04-22T17:30:04+00:00",
+      "title": "IPv8 Changes Everything We Know About IP",
+      "urls": [
+        "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html",
+        "https://www.guru3d.com/story/ipv8-draft-proposes-backwardcompatible-ipv4-evolution-with-integrated-routing-and-security/",
+        "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
+        "https://mailarchive.ietf.org/arch/msg/ietf/tpJOKSWGRMGOANSCrDFQTud80T0/",
+        "https://www.rfc-editor.org/rfc/rfc1883",
+        "https://news.ycombinator.com/item?id=47788857",
+        "https://cybernews.com/tech/ipv8-proposal-slammed-by-tech-professionals/",
+        "https://www.rfc-editor.org/rfc/rfc1606",
+        "https://www.rfc-editor.org/rfc/rfc2549.htmlR"
+      ]
+    },
+    {
+      "id": "a4BxvWs9PGE",
+      "published": "2026-04-21T17:30:00+00:00",
+      "title": "Github Hates That This Repo Still Exists",
+      "urls": [
+        "https://github.com/jshchnz/codemaxxed",
+        "https://github.com/jshchnz/codemaxxing",
+        "https://x.com/jshchnz/status/2038760791688790282",
+        "https://x.com/jshchnz/status/2045183451691905237",
+        "https://news.ycombinator.com/item?id=47808458"
+      ]
+    },
+    {
+      "id": "83heISygLyA",
+      "published": "2026-04-20T17:30:02+00:00",
+      "title": "Bizarre World Of Wikipedia Deleting Programming Pages",
+      "urls": [
+        "https://en.wikipedia.org/wiki/Wikipedia%3AArticles_for_deletion%2FOdin_(programming_language)",
+        "https://odin-lang.org/",
+        "https://www.raylib.com/"
+      ]
+    },
+    {
+      "id": "g9TEuezEm9c",
+      "published": "2026-04-19T17:30:10+00:00",
+      "title": "The Linux Kernel Has Ancient Weird Problems",
+      "urls": [
+        "https://lore.kernel.org/lkml/20260410120044.031381086@kernel.org/",
+        "https://www.anthropic.com/glasswing"
+      ]
+    },
+    {
+      "id": "HRsdi7YJ8dI",
+      "published": "2026-04-18T17:30:09+00:00",
+      "title": "I'm Conflicted About Future Of Open Source",
+      "urls": []
+    }
+  ]
+}
