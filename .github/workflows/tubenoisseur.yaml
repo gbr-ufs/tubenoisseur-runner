@@ -1,0 +1,52 @@
+# SPDX-FileCopyrightText: 2026 Gabriel Santos de Souza <gabriel.santosdesouza@dcomp.ufs.br>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+name: Tubenoisseur
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: 0 1 * * *
+  workflow_dispatch:
+jobs:
+  tubenoisseur:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        include:
+          - channel: BrodieRobertson
+            channel_exclude: --exclude 'brodierobertson.xyz' --exclude 'www.youtube.com' --exclude 'techovertea.xyz' --exclude 'www.instagram.com' --exclude 'ncs.io'
+          - channel: TheLinuxEXP
+            channel_exclude: --exclude 'squarespace.com' --exclude 'www.tuxedocomputers.com' --exclude 'www.youtube.com' --exclude 'www.patreon.com' --exclude 'paypal.me'
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+    - name: Cache
+      id: cache
+      uses: actions/cache@640a1c2554105b57832a23eea0b4672fc7a790d5
+      with:
+        key: ${{ runner.os }}-go-tubenoisseur-v0.0.0-20260505022416-8a1b3637c278
+        path: ~/go/bin/tubenoisseur
+    - name: Add Go Binary Directory to $PATH
+      if: ${{ steps.cache.outputs.cache-hit == 'true' }}
+      run: echo "$HOME/go/bin" >> $GITHUB_PATH
+    - name: Set Up Go
+      if: ${{ steps.cache.outputs.cache-hit != 'true' }}
+      uses: actions/setup-go@4a3601121dd01d1626a1e23e37211e3254c1c06c
+      with:
+        go-version: 1.26.2
+    - name: Install Tubenoisseur
+      if: ${{ steps.cache.outputs.cache-hit != 'true' }}
+      run: go install github.com/gbr-ufs/tubenoisseur@v0.0.0-20260505022416-8a1b3637c278
+    - name: Tubenoisseur
+      run: tubenoisseur ${{ matrix.channel }} ${{ matrix.channel_exclude }} --save-exclusions
+    - name: Git Pull
+      run: git pull origin ${{ github.ref_name }} --autostash --rebase
+    - name: Commit
+      uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
+      with:
+        commit_message: "chore: update ${{ matrix.channel }}"
