@@ -1,0 +1,384 @@
+# TheLinuxEXP
+
+Top Sources:
+
+- www.phoronix.com = 16
+- liberapay.com = 15
+- the-linux-experiment.creator-spring.com = 15
+- www.gamingonlinux.com = 12
+- itsfoss.com = 11
+- www.omgubuntu.co.uk = 8
+- github.com = 7
+- linuxiac.com = 7
+- www.techradar.com = 6
+- discourse.ubuntu.com = 4
+- proton.me = 4
+- arstechnica.com = 3
+- blog.mozilla.org = 3
+- fedoramagazine.org = 3
+- 9to5linux.com = 2
+- joplinapp.org = 2
+- tuxcare.com = 2
+- www.neowin.net = 2
+- youtu.be = 2
+- almalinux.org = 1
+- android-developers.googleblog.com = 1
+- blog.documentfoundation.org = 1
+- blog.linuxmint.com = 1
+- blog.system76.com = 1
+- blog.thunderbird.net = 1
+- blogs.gnome.org = 1
+- community.kde.org = 1
+- cybernews.com = 1
+- deutschland-stack.gov.de = 1
+- discussion.fedoraproject.org = 1
+- documentation.ubuntu.com = 1
+- en.ubunlog.com = 1
+- filipfila.wordpress.com = 1
+- forum.manjaro.org = 1
+- forum.zorin.com = 1
+- fosstodon.org = 1
+- getsol.us = 1
+- github.blog = 1
+- gitlab.freedesktop.org = 1
+- goodtech.info = 1
+- keepandroidopen.org = 1
+- lists.debian.org = 1
+- lists.linuxfromscratch.org = 1
+- merritt.codes = 1
+- motorolanews.com = 1
+- natlawreview.com = 1
+- nerds.xyz = 1
+- news.apache.org = 1
+- open-buro.eu = 1
+- playnix.io = 1
+- protonvpn.com = 1
+- redmine.documentfoundation.org = 1
+- store.steampowered.com = 1
+- support.mozilla.org = 1
+- thecybersecguru.com = 1
+- tintotint.eu = 1
+- usebottles.com = 1
+- winboat.app = 1
+- www.404media.co = 1
+- www.anthropic.com = 1
+- www.blender.org = 1
+- www.collaboraonline.com = 1
+- www.dw.com = 1
+- www.firefox.com = 1
+- www.fsf.org = 1
+- www.heise.de = 1
+- www.numerique.gouv.fr = 1
+- www.pcgamer.com = 1
+- www.pcworld.com = 1
+- www.reuters.com = 1
+- www.soeren-hentzschel.at = 1
+- www.theverge.com = 1
+- www.thunderbolt.io = 1
+- www.tomshardware.com = 1
+- www.xda-developers.com = 1
+- x.com = 1
+- xint.io = 1
+
+
+## Ubuntu under attack, Big flaw affects all Linux distros, Linux beats Windows - Linux Weekly News
+
+- ID: upOaSBo5ygU
+- Published: 2026-05-02T09:46:06+00:00
+
+### References
+
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://thecybersecguru.com/news/massive-attack-ubuntu-canonical-313-team-extortion/
+- https://nerds.xyz/2026/04/copy-fail-linux-root-exploit/
+- https://xint.io/blog/copy-fail-linux-distributions
+- https://www.pcworld.com/article/3123900/framework-new-linux-laptop-is-selling-faster-than-its-windows-one.html
+- https://www.phoronix.com/review/ubuntu-2604-windows-11/7
+- https://discourse.ubuntu.com/t/the-future-of-ai-in-ubuntu/81130
+- https://discourse.ubuntu.com/t/the-future-of-ai-in-ubuntu/81130/41
+- https://www.techradar.com/vpn/vpn-privacy-security/the-eus-age-verification-app-has-a-privacy-problem-and-it-may-be-more-than-just-a-bug-in-an-app
+- https://cybernews.com/security/eu-age-verification-app-hack/
+- https://store.steampowered.com/sale/steamcontroller
+- https://www.techradar.com/computing/peripherals-accessories/valve-steam-controller-2026
+- https://www.gamingonlinux.com/2026/04/valve-have-plans-for-the-steam-deck-2-plus-a-brief-steam-machine-steam-frame-update/
+- https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/
+- https://www.anthropic.com/news/claude-for-creative-work
+- https://www.gamingonlinux.com/2026/05/blender-change-the-anthropic-ai-funding-deal-with-discussions-planned-for-ai-policies/
+- https://fedoramagazine.org/announcing-fedora-linux-44/
+- https://fedoramagazine.org/whats-new-in-fedora-kde-plasma-desktop-44/
+- https://fedoramagazine.org/fedora-asahi-remix-44-is-now-available/
+- https://keepandroidopen.org/en/
+
+## FSF settles the Office Suite debacle, good news on age verification - Linux Weekly News
+
+- ID: Z6n5r6Y47n8
+- Published: 2026-04-25T08:32:41+00:00
+
+### References
+
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away
+- https://9to5linux.com/colorado-age-attestation-bill-may-exclude-open-source-oses-and-apps
+- https://almalinux.org/blog/2026-04-21-california-age-verification-law/
+- https://proton.me/blog/keep-age-verification-from-killing-anonymity-online
+- https://itsfoss.com/news/mozillas-firefox-mascot-gender-controversy/
+- https://linuxiac.com/debian-names-a-new-leader-for-the-project/
+- https://itsfoss.com/news/kubuntu-26-04-lts/
+- https://youtu.be/4MYxtL0AW2g
+- https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773
+- https://playnix.io/
+- https://www.firefox.com/en-US/smart-window/?view=waitlist
+- https://support.mozilla.org/en-US/kb/smart-window-models
+- https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/
+- https://www.gamingonlinux.com/2026/04/valve-make-steps-to-improve-steam-deck-verification-giving-developers-more-performance-data/
+
+## Ubuntu 26.04: there are some big changes in there!
+
+- ID: 4MYxtL0AW2g
+- Published: 2026-04-23T09:07:57+00:00
+
+### References
+
+- https://proton.me/mail/TheLinuxEXP
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+
+## Germany's moving to Open Source, Age verification gets worse - Linux weekly News
+
+- ID: IkAld223VYI
+- Published: 2026-04-18T09:14:41+00:00
+
+### References
+
+- https://tuxcare.com/endless-lifecycle-support/alpine-linux-eol-support/?utm_source=youtube&utm_medium=social&utm_campaign=alpine-linux-els&utm_term=the-linux-experiment&utm_content=youtube_announcement
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://deutschland-stack.gov.de/gesamtbild/
+- https://linuxiac.com/federal-bill-would-bring-os-level-age-verification-to-the-entire-us/
+- https://www.dw.com/en/eu-chief-urges-bloc-wide-push-on-age-verification-app-to-protect-children-online/a-76788202
+- https://www.omgubuntu.co.uk/2026/04/linux-7-0-kernel-features
+- https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+- https://www.phoronix.com/review/firefox-chrome-2026
+- https://www.techradar.com/gaming/gaming-accessories/valves-steam-controller-launch-looks-imminent-based-on-new-public-records-and-it-might-finally-give-me-the-perfect-excuse-to-build-a-custom-steam-machine
+- https://merritt.codes/blog/2026/04/15/2026/_kde_mega_sprint
+- https://itsfoss.com/news/kde-plasma-per-screen-virtual-desktops/
+- https://blog.linuxmint.com/?p=5019
+- https://github.com/ValveSoftware/Proton/releases/tag/proton-11.0-1-beta1
+- https://www.thunderbolt.io/
+- https://github.com/thunderbird/thunderbolt
+- https://github.com/thunderbird/thunderbolt/blob/main/TELEMETRY.md
+
+## OPEN SOURCE alternatives for the MOST POPULAR productivity apps (2026 edition)
+
+- ID: 4NdlRlie-A8
+- Published: 2026-04-16T13:34:22+00:00
+
+### References
+
+- https://tuxcare.com/cve-tracker/?utm_source=youtube&utm_medium=social_organic&utm_campaign=cvetracker_launch&utm_term=the-linux-experiment&utm_content=youtube_announcement
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+
+## France moves to Linux, KDE gets more theme, more age verification stance & other Linux News
+
+- ID: Hbfyv7HJZrc
+- Published: 2026-04-11T08:38:27+00:00
+
+### References
+
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://linuxiac.com/france-launches-government-linux-desktop-plan-as-windows-exit-begins/
+- https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/
+- https://getsol.us/2026/04/solus-and-age-verification/
+- https://forum.zorin.com/t/statement-about-age-verification-laws/61052
+- https://lists.debian.org/debian-devel-announce/2026/04/msg00001.html
+- https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/
+- https://www.phoronix.com/news/Mesa-Two-Gen-AI-Policies
+- https://itsfoss.com/news/linux-driver-proposal-malicious-hid-devices/
+- https://github.com/pop-os/cosmic-epoch/releases/tag/epoch-1.0.9
+- https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/
+- https://news.apache.org/foundation/entry/the-apache-software-foundation-announces-1-5m-donation-from-anthropic
+- https://www.phoronix.com/news/Valve-Better-Gaming-Low-vRAM
+- https://www.gamingonlinux.com/2026/04/wine-11-6-is-an-exciting-release-to-make-modding-windows-games-on-linux-simpler/
+- https://www.phoronix.com/news/Wine-11.6-Released
+
+## What is happening to our Office Suites?! - Linux Weekly News
+
+- ID: eweMlWewcVg
+- Published: 2026-04-04T09:00:30+00:00
+
+### References
+
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://github.com/Euro-Office/
+- https://linuxiac.com/onlyoffice-accuses-euro-office-of-license-violations/
+- https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/
+- https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/
+- https://itsfoss.com/news/wayland-session-management/
+- https://www.phoronix.com/news/xx-fractional-scale-v2-MR-KWin
+- https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/
+- https://www.techradar.com/pro/this-is-horrific-github-kills-copilot-pull-request-ads-after-user-backlash
+- https://www.omgubuntu.co.uk/2026/03/ubuntu-mate-needs-new-maintainer
+- https://itsfoss.com/news/gnome-drops-google-drive-support/
+- https://www.gamingonlinux.com/2026/04/linux-smashes-past-5-percent-on-the-steam-survey-for-the-first-time/
+- https://www.gamingonlinux.com/2026/04/nvidia-announce-a-preview-of-drm-per-plane-color-pipeline-api-support-on-linux-good-for-hdr/
+- https://www.gamingonlinux.com/2026/04/a-future-wine-release-could-use-zink-to-run-opengl-via-vulkan/
+
+## Ranking Linux distributions for 2026: not your average tier list !
+
+- ID: dJKne9nWVLk
+- Published: 2026-04-01T12:15:00+00:00
+
+### References
+
+- https://joplinapp.org/?source=TheLinuxEXP
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+
+## The Linux Age Verification situation is escalating & other Linux Weekly News
+
+- ID: IYtqghw3LVY
+- Published: 2026-03-28T09:34:26+00:00
+
+### References
+
+- https://protonvpn.com/TheLinuxEXP
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws
+- https://itsfoss.com/news/systemd-age-verification/
+- https://itsfoss.com/news/systemd-fork-strips-out-age-verification/
+- https://itsfoss.com/dylan-taylor-systemd-controversy/
+- https://itsfoss.com/news/fedora-leader-suggests-age-verification-api/
+- https://discussion.fedoraproject.org/t/a-practical-architectural-solution-to-os-level-age-verification-laws/183387
+- https://www.phoronix.com/news/SteamOS-3.8-Preview
+- https://www.techradar.com/gaming/steam-deck/valves-steam-machine-gets-its-first-support-update-ahead-of-launch-via-steamos-preview-3-8-0-and-it-includes-one-major-fix-ive-been-waiting-for
+- https://redmine.documentfoundation.org/issues/3867
+- https://blogs.gnome.org/foundation/2026/03/24/introducing-gnome-fellowship/
+- https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069
+- https://www.omgubuntu.co.uk/2026/03/ubuntu-security-center-ubuntu-pro
+- https://documentation.ubuntu.com/release-notes/26.04/changes-since-previous-interim/
+- https://www.omgubuntu.co.uk/2026/03/ubuntu-2604-new-folder-icons
+- https://www.phoronix.com/review/ubuntu-2604-gnome-kde/4
+- https://www.phoronix.com/review/nvidia-595-kde-gnome/5
+- https://www.phoronix.com/review/linux-70-nouveau/7
+- https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
+
+## Manjaro trouble, Germany mandates open formats, Google destroys sideloading - Linux Weekly News
+
+- ID: c1PluBjD1v0
+- Published: 2026-03-21T10:02:32+00:00
+
+### References
+
+- https://proton.me/mail/TheLinuxEXP
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://forum.manjaro.org/t/manjaro-2-0-manifesto/186171/28
+- https://itsfoss.com/news/android-developer-verification/
+- https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+- https://linuxiac.com/germany-mandates-odf-for-public-administration/
+- https://www.omgubuntu.co.uk/2026/03/orion-for-linux-beta-release
+- https://www.xda-developers.com/cachyos-dethrones-arch-as-the-top-desktop-distro-for-linux-gamers-on-protondb/
+- https://blog.mozilla.org/en/firefox/firefox-148-149-new-features/
+- https://blog.mozilla.org/en/firefox/meet-kit/
+- https://youtu.be/lrLlQlvHV1Q
+- https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/
+- https://www.phoronix.com/news/Mesa-AMDGPU-PS5-Patches
+- https://x.com/theflow0/status/2030011206040256841
+- https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/
+
+## GNOME 50: a MASSIVE release that delivers what users asked for!
+
+- ID: lrLlQlvHV1Q
+- Published: 2026-03-18T10:37:16+00:00
+
+### References
+
+- https://joplinapp.org/?source=TheLinuxEXP
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+
+## Linux Weekly News: AI invades Kwin, Lutris & AMD drivers, SUSE could be sold
+
+- ID: DzFglOqtvZA
+- Published: 2026-03-14T08:32:18+00:00
+
+### References
+
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://www.gamingonlinux.com/2026/03/lutris-now-being-built-with-claude-ai-developer-decides-to-hide-it-after-backlash
+- https://www.phoronix.com/news/AMD-More-HDR-KWin-Claude-Code
+- https://www.heise.de/en/news/Paying-without-Google-New-consortium-wants-to-remove-custom-ROM-hurdles-11204037.html
+- https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09/
+- https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-03/msg00000.html
+- https://www.404media.co/ai-translations-are-adding-hallucinations-to-wikipedia-articles/
+- https://www.techradar.com/pro/security/anthropic-says-it-found-a-heap-of-firefox-security-flaws-using-new-claude-tools-says-ai-is-making-it-possible-to-detect-severe-security-vulnerabilities-at-highly-accelerated-speeds
+- https://www.phoronix.com/news/Mesa-RADV-More-Per-Game-Tuning
+- https://linuxiac.com/xdg-age-verification-interface-proposal-closed/
+- https://fosstodon.org/@carlrichell/116201429639953387
+- https://www.gamingonlinux.com/2026/03/unity-announce-expanded-supported-for-steam-linux-steam-deck-and-steam-machine/
+- https://www.gamingonlinux.com/2026/03/valve-detail-steam-frame-and-steam-machine-verified-requirements-at-gdc-2026/
+
+## How to run most Windows apps on Linux, and why it won't really help
+
+- ID: qEI95GIRKaU
+- Published: 2026-03-10T14:10:27+00:00
+
+### References
+
+- https://winboat.app/
+- https://usebottles.com/
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+
+## Firefox redesign, Graphene OS's new partner, Plasma drops X11 in August - Linux Weekly News
+
+- ID: E9Y-t6AwAtI
+- Published: 2026-03-06T12:17:36+00:00
+
+### References
+
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://natlawreview.com/article/california-introduces-new-age-verification-requirements-software-applications
+- https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash
+- https://blog.system76.com/post/system76-on-age-verification
+- https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/
+- https://community.kde.org/index.php?title=Plasma%2FWayland_Known_Significant_Issues&diff=106180&oldid=106129
+- https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/40109/diffs?commit_id=0c1a286f2aea094f6a4709b160632ee1403db596
+- https://www.soeren-hentzschel.at/firefox/exklusiv-so-sieht-das-neue-nova-design-von-firefox-aus/?ref=omgubuntu.co.uk
+- https://blog.documentfoundation.org/blog/2026/02/27/odf-is-just-the-first-of-lo-advantages/
+- https://www.omgubuntu.co.uk/2026/03/xournalpp-tablet-mode-ui
+- https://android-developers.googleblog.com/2026/03/a-new-era-for-choice-and-openness.html
+- https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032
+- https://www.gamingonlinux.com/2026/03/ea-javelin-anticheat-job-listing-mentions-future-support-for-linux-and-proton/
+- https://www.pcgamer.com/gaming-industry/kiss-goodbye-to-ghost-of-yotei-on-pc-sony-is-u-turning-on-its-lets-put-our-games-on-pc-strategy-and-bunkering-back-down-with-console-exclusives-says-bloomberg/
+
+## Nvidia & Intel focus on Linux, KDE Connect redesign, standard for digital apps - Linux Weekly News
+
+- ID: lGUU1mfq-40
+- Published: 2026-02-28T09:00:01+00:00
+
+### References
+
+- https://proton.me/pass/TheLinuxEXP
+- https://liberapay.com/TheLinuxExperiment/
+- https://the-linux-experiment.creator-spring.com/
+- https://www.gamingonlinux.com/2026/02/nvidia-hiring-linux-driver-engineers-to-help-with-vulkan-proton-and-more/
+- https://www.phoronix.com/news/Intel-Linux-Jobs-February-2026
+- https://tintotint.eu/programming/kde-connect/
+- https://goodtech.info/openburo-standard-europeen-orchestration-alternative-microsoft-365-dinum-linagora/
+- https://open-buro.eu/#news
+- https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-sudo-password-asterisks
+- https://www.omgubuntu.co.uk/2026/02/firefox-148-released-ai-kill-switch
+- https://linuxiac.com/libreoffice-online-project-reopened-with-new-community-focus/
+- https://en.ubunlog.com/LibreOffice-Online-Resurrection-Conflict-Collabora-Document-Foundation/
+- https://www.phoronix.com/news/CoreCollective
+- https://github.com/systemd/systemd/releases/tag/v260-rc1
+- https://www.phoronix.com/news/DX-Shader-Compiler-Better-VLK
