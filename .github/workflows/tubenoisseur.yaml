@@ -17,11 +17,9 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        include:
-          - channel: BrodieRobertson
-            channel_exclude: --exclude 'brodierobertson.xyz' --exclude 'www.youtube.com' --exclude 'techovertea.xyz' --exclude 'www.instagram.com' --exclude 'ncs.io'
-          - channel: TheLinuxEXP
-            channel_exclude: --exclude 'squarespace.com' --exclude 'www.tuxedocomputers.com' --exclude 'www.youtube.com' --exclude 'www.patreon.com' --exclude 'paypal.me'
+        channel:
+          - BrodieRobertson
+          - TheLinuxEXP
     steps:
     - name: Checkout Repository
       uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
@@ -43,7 +41,7 @@ jobs:
       if: ${{ steps.cache.outputs.cache-hit != 'true' }}
       run: go install github.com/gbr-ufs/tubenoisseur@v0.0.0-20260505022416-8a1b3637c278
     - name: Tubenoisseur
-      run: tubenoisseur ${{ matrix.channel }} ${{ matrix.channel_exclude }} --save-exclusions
+      run: tubenoisseur ${{ matrix.channel }} --debug
     - name: Git Pull
       run: git pull origin ${{ github.ref_name }} --autostash --rebase
     - name: Commit
