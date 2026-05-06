@@ -2,13 +2,13 @@
 
 Top Sources:
 
-- github.com = 8
+- github.com = 11
 - x.com = 5
+- news.ycombinator.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
 - git.kernel.org = 2
 - lore.kernel.org = 2
-- news.ycombinator.com = 2
 - store.steampowered.com = 2
 - ubuntu.com = 2
 - www.ietf.org = 2
@@ -48,6 +48,18 @@ Top Sources:
 - www.techpowerup.com = 1
 - xint.io = 1
 
+
+## Microsoft Pulled A Funny With VSCode
+
+- ID: PUTTsp8qhOI
+- Published: 2026-05-05T17:30:16+00:00
+
+### References
+
+- https://github.com/microsoft/vscode/pull/310226
+- https://github.com/microsoft/vscode/pull/313931
+- https://news.ycombinator.com/item?id=47989883
+- https://github.com/microsoft/vscode/issues/314311
 
 ## Fedora Is Replacing Ubuntu Linux As The Default
 
