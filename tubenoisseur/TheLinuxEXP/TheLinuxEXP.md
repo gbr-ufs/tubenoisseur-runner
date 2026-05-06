@@ -3,8 +3,6 @@
 Top Sources:
 
 - www.phoronix.com = 16
-- liberapay.com = 15
-- the-linux-experiment.creator-spring.com = 15
 - www.gamingonlinux.com = 12
 - itsfoss.com = 11
 - www.omgubuntu.co.uk = 8
@@ -85,8 +83,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://thecybersecguru.com/news/massive-attack-ubuntu-canonical-313-team-extortion/
 - https://nerds.xyz/2026/04/copy-fail-linux-root-exploit/
 - https://xint.io/blog/copy-fail-linux-distributions
@@ -114,8 +110,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away
 - https://9to5linux.com/colorado-age-attestation-bill-may-exclude-open-source-oses-and-apps
 - https://almalinux.org/blog/2026-04-21-california-age-verification-law/
@@ -139,8 +133,6 @@ Top Sources:
 ### References
 
 - https://proton.me/mail/TheLinuxEXP
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 
 ## Germany's moving to Open Source, Age verification gets worse - Linux weekly News
 
@@ -149,8 +141,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://deutschland-stack.gov.de/gesamtbild/
 - https://linuxiac.com/federal-bill-would-bring-os-level-age-verification-to-the-entire-us/
 - https://www.dw.com/en/eu-chief-urges-bloc-wide-push-on-age-verification-app-to-protect-children-online/a-76788202
@@ -173,8 +163,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 
 ## France moves to Linux, KDE gets more theme, more age verification stance & other Linux News
 
@@ -183,8 +171,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://linuxiac.com/france-launches-government-linux-desktop-plan-as-windows-exit-begins/
 - https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/
 - https://getsol.us/2026/04/solus-and-age-verification/
@@ -207,8 +193,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://github.com/Euro-Office/
 - https://linuxiac.com/onlyoffice-accuses-euro-office-of-license-violations/
 - https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/
@@ -230,8 +214,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 
 ## The Linux Age Verification situation is escalating & other Linux Weekly News
 
@@ -240,8 +222,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws
 - https://itsfoss.com/news/systemd-age-verification/
 - https://itsfoss.com/news/systemd-fork-strips-out-age-verification/
@@ -269,8 +249,6 @@ Top Sources:
 ### References
 
 - https://proton.me/mail/TheLinuxEXP
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://forum.manjaro.org/t/manjaro-2-0-manifesto/186171/28
 - https://itsfoss.com/news/android-developer-verification/
 - https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
@@ -292,8 +270,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 
 ## Linux Weekly News: AI invades Kwin, Lutris & AMD drivers, SUSE could be sold
 
@@ -302,8 +278,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://www.gamingonlinux.com/2026/03/lutris-now-being-built-with-claude-ai-developer-decides-to-hide-it-after-backlash
 - https://www.phoronix.com/news/AMD-More-HDR-KWin-Claude-Code
 - https://www.heise.de/en/news/Paying-without-Google-New-consortium-wants-to-remove-custom-ROM-hurdles-11204037.html
@@ -326,8 +300,6 @@ Top Sources:
 
 - https://winboat.app/
 - https://usebottles.com/
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 
 ## Firefox redesign, Graphene OS's new partner, Plasma drops X11 in August - Linux Weekly News
 
@@ -336,8 +308,6 @@ Top Sources:
 
 ### References
 
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://natlawreview.com/article/california-introduces-new-age-verification-requirements-software-applications
 - https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash
 - https://blog.system76.com/post/system76-on-age-verification
@@ -360,8 +330,6 @@ Top Sources:
 ### References
 
 - https://proton.me/pass/TheLinuxEXP
-- https://liberapay.com/TheLinuxExperiment/
-- https://the-linux-experiment.creator-spring.com/
 - https://www.gamingonlinux.com/2026/02/nvidia-hiring-linux-driver-engineers-to-help-with-vulkan-proton-and-more/
 - https://www.phoronix.com/news/Intel-Linux-Jobs-February-2026
 - https://tintotint.eu/programming/kde-connect/
