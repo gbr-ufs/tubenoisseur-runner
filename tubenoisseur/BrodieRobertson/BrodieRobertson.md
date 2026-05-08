@@ -3,15 +3,21 @@
 Top Sources:
 
 - github.com = 11
-- x.com = 5
+- x.com = 6
+- gitlab.freedesktop.org = 3
 - news.ycombinator.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
+- en.wikipedia.org = 2
 - git.kernel.org = 2
 - lore.kernel.org = 2
+- status.denic.de = 2
 - store.steampowered.com = 2
 - ubuntu.com = 2
+- wiki.archlinux.org = 2
+- www.cloudflare.com = 2
 - www.ietf.org = 2
+- www.reddit.com = 2
 - access.redhat.com = 1
 - bazzite.gg = 1
 - blogs.gnome.org = 1
@@ -22,32 +28,60 @@ Top Sources:
 - cybernews.com = 1
 - discourse.gnome.org = 1
 - discuss.kde.org = 1
-- en.wikipedia.org = 1
 - fedoraproject.org = 1
 - filipfila.wordpress.com = 1
 - gitlab.gnome.org = 1
 - invent.kde.org = 1
 - mailarchive.ietf.org = 1
+- mstdn.social = 1
 - my.devsuite.app = 1
 - nobaraproject.org = 1
 - odin-lang.org = 1
 - pinheiro-kde.blogspot.com = 1
 - security-tracker.debian.org = 1
 - usbguard.github.io = 1
-- wiki.archlinux.org = 1
 - wiki.gnome.org = 1
 - www.8bitdo.com = 1
 - www.anthropic.com = 1
+- www.cloudflarestatus.com = 1
 - www.guru3d.com = 1
 - www.ign.com = 1
 - www.notebookcheck.net = 1
 - www.pcgamer.com = 1
 - www.raylib.com = 1
-- www.reddit.com = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
 - xint.io = 1
 
+
+## Linux Just Standardized Something We All Use
+
+- ID: X_MDhNVN3e0
+- Published: 2026-05-07T17:30:17+00:00
+
+### References
+
+- https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/work_items/3
+- https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/blob/85558b8afbaf404b7d14a5a9d45a94cfdfc863f8/translate.c
+- https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/merge_requests/24/diffs?commit_id=217cae71c620ed2b3ed2936256ece68defccc6ab
+- https://wiki.archlinux.org/title/XDG_user_directories
+
+## Germany Was Just Deleted From The Internet
+
+- ID: 7PAweKMC110
+- Published: 2026-05-06T17:30:02+00:00
+
+### References
+
+- https://www.reddit.com/r/LinusTechTips/comments/1t4ttuw/no_its_not_you_all_german_de_domains_are/
+- https://x.com/geerlingguy/status/2051803148281434490
+- https://www.cloudflare.com/learning/dns/dns-records/dns-ns-record/
+- https://en.wikipedia.org/wiki/DENIC
+- https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
+- https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38
+- https://mstdn.social/@rysiek/116523894072281086
+- https://www.cloudflarestatus.com/
+- https://status.denic.de/pages/maintenance/592577eab611ce1e0d00046f/69fa0dee54fd6005141db1e2
 
 ## Microsoft Pulled A Funny With VSCode
 
