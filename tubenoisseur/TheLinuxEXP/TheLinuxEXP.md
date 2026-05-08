@@ -76,6 +76,14 @@ Top Sources:
 - xint.io = 1
 
 
+## My Worst tech decisions as a Linux user (and in general): hardware & software !
+
+- ID: CT7Fp2Zv5fY
+- Published: 2026-05-07T10:26:48+00:00
+
+### References
+
+
 ## Ubuntu under attack, Big flaw affects all Linux distros, Linux beats Windows - Linux Weekly News
 
 - ID: upOaSBo5ygU

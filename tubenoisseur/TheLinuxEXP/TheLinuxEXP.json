@@ -88,8 +88,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "upOaSBo5ygU",
+  "lastVideoID": "CT7Fp2Zv5fY",
   "videos": [
+    {
+      "id": "CT7Fp2Zv5fY",
+      "published": "2026-05-07T10:26:48+00:00",
+      "title": "My Worst tech decisions as a Linux user (and in general): hardware \u0026 software !",
+      "urls": []
+    },
     {
       "id": "upOaSBo5ygU",
       "published": "2026-05-02T09:46:06+00:00",
@@ -170,8 +176,7 @@
       "id": "4NdlRlie-A8",
       "published": "2026-04-16T13:34:22+00:00",
       "title": "OPEN SOURCE alternatives for the MOST POPULAR productivity apps (2026 edition)",
-      "urls": [
-      ]
+      "urls": []
     },
     {
       "id": "Hbfyv7HJZrc",
@@ -218,8 +223,7 @@
       "id": "dJKne9nWVLk",
       "published": "2026-04-01T12:15:00+00:00",
       "title": "Ranking Linux distributions for 2026: not your average tier list !",
-      "urls": [
-      ]
+      "urls": []
     },
     {
       "id": "IYtqghw3LVY",
@@ -271,8 +275,7 @@
       "id": "lrLlQlvHV1Q",
       "published": "2026-03-18T10:37:16+00:00",
       "title": "GNOME 50: a MASSIVE release that delivers what users asked for!",
-      "urls": [
-      ]
+      "urls": []
     },
     {
       "id": "DzFglOqtvZA",
