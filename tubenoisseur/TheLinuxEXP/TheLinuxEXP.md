@@ -2,24 +2,24 @@
 
 Top Sources:
 
-- www.phoronix.com = 16
-- www.gamingonlinux.com = 12
-- itsfoss.com = 11
-- www.omgubuntu.co.uk = 8
+- www.phoronix.com = 17
+- www.gamingonlinux.com = 13
+- itsfoss.com = 12
+- www.omgubuntu.co.uk = 9
 - github.com = 7
 - linuxiac.com = 7
 - www.techradar.com = 6
 - discourse.ubuntu.com = 4
 - proton.me = 4
+- 9to5linux.com = 3
 - arstechnica.com = 3
 - blog.mozilla.org = 3
 - fedoramagazine.org = 3
-- 9to5linux.com = 2
+- blog.documentfoundation.org = 2
 - www.neowin.net = 2
 - youtu.be = 2
 - almalinux.org = 1
 - android-developers.googleblog.com = 1
-- blog.documentfoundation.org = 1
 - blog.linuxmint.com = 1
 - blog.system76.com = 1
 - blog.thunderbird.net = 1
@@ -35,6 +35,7 @@ Top Sources:
 - forum.zorin.com = 1
 - fosstodon.org = 1
 - getsol.us = 1
+- git.kernel.org = 1
 - github.blog = 1
 - gitlab.freedesktop.org = 1
 - goodtech.info = 1
@@ -54,11 +55,13 @@ Top Sources:
 - thecybersecguru.com = 1
 - tintotint.eu = 1
 - usebottles.com = 1
+- vng.nl = 1
 - winboat.app = 1
 - www.404media.co = 1
 - www.anthropic.com = 1
 - www.blender.org = 1
 - www.collaboraonline.com = 1
+- www.digitalfoundry.net = 1
 - www.dw.com = 1
 - www.firefox.com = 1
 - www.fsf.org = 1
@@ -68,13 +71,34 @@ Top Sources:
 - www.pcworld.com = 1
 - www.reuters.com = 1
 - www.soeren-hentzschel.at = 1
+- www.thatprivacyguy.com = 1
 - www.theverge.com = 1
 - www.thunderbolt.io = 1
 - www.tomshardware.com = 1
 - www.xda-developers.com = 1
 - x.com = 1
 - xint.io = 1
+- zamundaaa.github.io = 1
 
+
+## More Office Suite drama, Chrome downloads AI model without consent, Plasma 6.7 things - Linux News
+
+- ID: lC_d-65yMxY
+- Published: 2026-05-09T10:42:54+00:00
+
+### References
+
+- https://blog.documentfoundation.org/blog/2026/05/05/thank-you-on-behalf-of-odf
+- https://9to5linux.com/kdes-new-css-based-style-engine-union-is-coming-to-kde-plasma-6-7
+- https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html
+- https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
+- https://git.kernel.org/pub/scm/linux/kernel/git/vfs/vfs.git/commit/?h=vfs-7.2.misc&id=b34d597faae60a4c89235205478497b975e86bc5
+- https://vng.nl/artikelen/digitale-werkplek-geen-memo-maar-demo-werkplekken-in-open-source
+- https://www.omgubuntu.co.uk/2026/05/ubuntu-unity-desktop-wayfire-recreation
+- https://www.phoronix.com/news/Dell-Lenovo-Sponsoring-LVFS
+- https://itsfoss.com/news/ubuntu-twitter-compromised/
+- https://www.gamingonlinux.com/2026/05/valve-announce-a-reservation-system-for-the-new-steam-controller/
+- https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
 
 ## My Worst tech decisions as a Linux user (and in general): hardware & software !
 
