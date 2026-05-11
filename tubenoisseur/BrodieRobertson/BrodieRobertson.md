@@ -3,12 +3,13 @@
 Top Sources:
 
 - github.com = 11
-- x.com = 6
+- x.com = 11
+- news.ycombinator.com = 4
 - gitlab.freedesktop.org = 3
-- news.ycombinator.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
 - en.wikipedia.org = 2
+- git.devuan.org = 2
 - git.kernel.org = 2
 - lore.kernel.org = 2
 - status.denic.de = 2
@@ -26,6 +27,7 @@ Top Sources:
 - canonical.com = 1
 - copy.fail = 1
 - cybernews.com = 1
+- devuanusers.com = 1
 - discourse.gnome.org = 1
 - discuss.kde.org = 1
 - fedoraproject.org = 1
@@ -33,6 +35,8 @@ Top Sources:
 - gitlab.gnome.org = 1
 - invent.kde.org = 1
 - mailarchive.ietf.org = 1
+- mitchellh.com = 1
+- mrshu.github.io = 1
 - mstdn.social = 1
 - my.devsuite.app = 1
 - nobaraproject.org = 1
@@ -44,6 +48,7 @@ Top Sources:
 - www.8bitdo.com = 1
 - www.anthropic.com = 1
 - www.cloudflarestatus.com = 1
+- www.githubstatus.com = 1
 - www.guru3d.com = 1
 - www.ign.com = 1
 - www.notebookcheck.net = 1
@@ -51,8 +56,38 @@ Top Sources:
 - www.raylib.com = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
+- www.wiz.io = 1
 - xint.io = 1
 
+
+## GTK2 Is Rising From The Ashes Of Linux
+
+- ID: 7S2qf8i5nWk
+- Published: 2026-05-10T17:30:01+00:00
+
+### References
+
+- https://git.devuan.org/Daemonratte/gtk2-ng
+- https://git.devuan.org/Daemonratte
+- https://devuanusers.com/thread-gtk2-revival-thread--80
+
+## Github Has Become Too Big To Function
+
+- ID: UdAgczSVJ3U
+- Published: 2026-05-09T17:30:07+00:00
+
+### References
+
+- https://mitchellh.com/writing/ghostty-leaving-github
+- https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854
+- https://x.com/mitchellh/status/2043788123008868600
+- https://x.com/mitchellh/status/2036866220449030168
+- https://x.com/mitchellh/status/2036925909572469023
+- https://x.com/mitchellh/status/2036855931569651884
+- https://x.com/mitchellh/status/2036546464802124182
+- https://www.githubstatus.com/
+- https://mrshu.github.io/github-statuses
+- https://news.ycombinator.com/item?id=47939579
 
 ## Linux Just Standardized Something We All Use
 
