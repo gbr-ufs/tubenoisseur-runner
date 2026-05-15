@@ -2,25 +2,27 @@
 
 Top Sources:
 
-- github.com = 11
+- github.com = 12
 - x.com = 11
+- gitlab.freedesktop.org = 4
+- lore.kernel.org = 4
 - news.ycombinator.com = 4
-- gitlab.freedesktop.org = 3
 - steambrew.app = 3
+- www.reddit.com = 3
 - www.rfc-editor.org = 3
 - en.wikipedia.org = 2
 - git.devuan.org = 2
 - git.kernel.org = 2
-- lore.kernel.org = 2
 - status.denic.de = 2
 - store.steampowered.com = 2
 - ubuntu.com = 2
 - wiki.archlinux.org = 2
 - www.cloudflare.com = 2
 - www.ietf.org = 2
-- www.reddit.com = 2
+- www.phoronix.com = 2
 - access.redhat.com = 1
 - bazzite.gg = 1
+- blog.orhun.dev = 1
 - blogs.gnome.org = 1
 - blogs.kde.org = 1
 - bugzilla.gnome.org = 1
@@ -42,6 +44,7 @@ Top Sources:
 - nobaraproject.org = 1
 - odin-lang.org = 1
 - pinheiro-kde.blogspot.com = 1
+- ratty-term.org = 1
 - security-tracker.debian.org = 1
 - usbguard.github.io = 1
 - wiki.gnome.org = 1
@@ -58,6 +61,47 @@ Top Sources:
 - www.techpowerup.com = 1
 - www.wiz.io = 1
 - xint.io = 1
+
+
+## Linux Pro Reacts To LTT Linux Challenge 2026 Pt 2
+
+- ID: 6tw8DvK0X88
+- Published: 2026-05-14T17:30:02+00:00
+
+### References
+
+
+## The Ratty Linux Terminal Is Absolutely Insane
+
+- ID: IyYQZG9vQV0
+- Published: 2026-05-13T17:30:11+00:00
+
+### References
+
+- https://github.com/orhun/ratty
+- https://ratty-term.org/
+- https://blog.orhun.dev/introducing-ratty/
+
+## AMD Is Finally Allowed To Fix HDMI 2.1 On Linux
+
+- ID: g-dvzJ2GIYA
+- Published: 2026-05-12T17:30:11+00:00
+
+### References
+
+- https://gitlab.freedesktop.org/drm/amd/-/work_items/1417
+- https://www.phoronix.com/news/HDMI-Closed-Spec-Hurts-Open
+- https://www.reddit.com/r/linux_gaming/comments/1r793et/hdmi_21_frl_looking_for_testers/
+- https://lore.kernel.org/amd-gfx/20260501140441.41068-1-harry.wentland@amd.com/
+- https://www.phoronix.com/forums/forum/linux-graphics-x-org-drivers/open-source-amd-linux/1631149-amd-posts-hdmi-2-1-frl-patches-for-their-amdgpu-linux-driver#post1631154
+- https://lore.kernel.org/amd-gfx/20260511155212.73586-1-harry.wentland@amd.com/
+
+## eDex-UI Is The Movie Hacking Terminal Of Your Dreams
+
+- ID: czqdj3RuJOQ
+- Published: 2026-05-11T17:30:22+00:00
+
+### References
 
 
 ## GTK2 Is Rising From The Ashes Of Linux

@@ -3,6 +3,7 @@
   "domainCounts": {
     "access.redhat.com": 1,
     "bazzite.gg": 1,
+    "blog.orhun.dev": 1,
     "blogs.gnome.org": 1,
     "blogs.kde.org": 1,
     "bugzilla.gnome.org": 1,
@@ -17,11 +18,11 @@
     "filipfila.wordpress.com": 1,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 11,
-    "gitlab.freedesktop.org": 3,
+    "github.com": 12,
+    "gitlab.freedesktop.org": 4,
     "gitlab.gnome.org": 1,
     "invent.kde.org": 1,
-    "lore.kernel.org": 2,
+    "lore.kernel.org": 4,
     "mailarchive.ietf.org": 1,
     "mitchellh.com": 1,
     "mrshu.github.io": 1,
@@ -31,6 +32,7 @@
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
     "pinheiro-kde.blogspot.com": 1,
+    "ratty-term.org": 1,
     "security-tracker.debian.org": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
@@ -49,8 +51,9 @@
     "www.ign.com": 1,
     "www.notebookcheck.net": 1,
     "www.pcgamer.com": 1,
+    "www.phoronix.com": 2,
     "www.raylib.com": 1,
-    "www.reddit.com": 2,
+    "www.reddit.com": 3,
     "www.rfc-editor.org": 3,
     "www.suse.com": 1,
     "www.techpowerup.com": 1,
@@ -66,8 +69,43 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "7S2qf8i5nWk",
+  "lastVideoID": "6tw8DvK0X88",
   "videos": [
+    {
+      "id": "6tw8DvK0X88",
+      "published": "2026-05-14T17:30:02+00:00",
+      "title": "Linux Pro Reacts To LTT Linux Challenge 2026 Pt 2",
+      "urls": []
+    },
+    {
+      "id": "IyYQZG9vQV0",
+      "published": "2026-05-13T17:30:11+00:00",
+      "title": "The Ratty Linux Terminal Is Absolutely Insane",
+      "urls": [
+        "https://github.com/orhun/ratty",
+        "https://ratty-term.org/",
+        "https://blog.orhun.dev/introducing-ratty/"
+      ]
+    },
+    {
+      "id": "g-dvzJ2GIYA",
+      "published": "2026-05-12T17:30:11+00:00",
+      "title": "AMD Is Finally Allowed To Fix HDMI 2.1 On Linux",
+      "urls": [
+        "https://gitlab.freedesktop.org/drm/amd/-/work_items/1417",
+        "https://www.phoronix.com/news/HDMI-Closed-Spec-Hurts-Open",
+        "https://www.reddit.com/r/linux_gaming/comments/1r793et/hdmi_21_frl_looking_for_testers/",
+        "https://lore.kernel.org/amd-gfx/20260501140441.41068-1-harry.wentland@amd.com/",
+        "https://www.phoronix.com/forums/forum/linux-graphics-x-org-drivers/open-source-amd-linux/1631149-amd-posts-hdmi-2-1-frl-patches-for-their-amdgpu-linux-driver#post1631154",
+        "https://lore.kernel.org/amd-gfx/20260511155212.73586-1-harry.wentland@amd.com/"
+      ]
+    },
+    {
+      "id": "czqdj3RuJOQ",
+      "published": "2026-05-11T17:30:22+00:00",
+      "title": "eDex-UI Is The Movie Hacking Terminal Of Your Dreams",
+      "urls": []
+    },
     {
       "id": "7S2qf8i5nWk",
       "published": "2026-05-10T17:30:01+00:00",
