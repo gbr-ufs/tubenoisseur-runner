@@ -14,6 +14,7 @@
     "community.kde.org": 1,
     "cybernews.com": 1,
     "deutschland-stack.gov.de": 1,
+    "devices.ubuntu-touch.io": 1,
     "discourse.ubuntu.com": 4,
     "discussion.fedoraproject.org": 1,
     "documentation.ubuntu.com": 1,
@@ -93,8 +94,16 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "lC_d-65yMxY",
+  "lastVideoID": "8LzTow_X5b4",
   "videos": [
+    {
+      "id": "8LzTow_X5b4",
+      "published": "2026-05-14T13:47:29+00:00",
+      "title": "UBUNTU TOUCH in 2026: it's really close!",
+      "urls": [
+        "https://devices.ubuntu-touch.io/device/fajita/"
+      ]
+    },
     {
       "id": "lC_d-65yMxY",
       "published": "2026-05-09T10:42:54+00:00",

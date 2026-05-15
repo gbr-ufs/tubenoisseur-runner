@@ -27,6 +27,7 @@ Top Sources:
 - community.kde.org = 1
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
+- devices.ubuntu-touch.io = 1
 - discussion.fedoraproject.org = 1
 - documentation.ubuntu.com = 1
 - en.ubunlog.com = 1
@@ -80,6 +81,15 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## UBUNTU TOUCH in 2026: it's really close!
+
+- ID: 8LzTow_X5b4
+- Published: 2026-05-14T13:47:29+00:00
+
+### References
+
+- https://devices.ubuntu-touch.io/device/fajita/
 
 ## More Office Suite drama, Chrome downloads AI model without consent, Plasma 6.7 things - Linux News
 
