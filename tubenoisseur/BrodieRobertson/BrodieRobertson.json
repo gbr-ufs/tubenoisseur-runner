@@ -13,6 +13,7 @@
     "devuanusers.com": 1,
     "discourse.gnome.org": 1,
     "discuss.kde.org": 1,
+    "discussion.fedoraproject.org": 1,
     "en.wikipedia.org": 2,
     "fedoraproject.org": 1,
     "filipfila.wordpress.com": 1,
@@ -22,8 +23,9 @@
     "gitlab.freedesktop.org": 4,
     "gitlab.gnome.org": 1,
     "invent.kde.org": 1,
-    "lore.kernel.org": 4,
+    "lore.kernel.org": 5,
     "mailarchive.ietf.org": 1,
+    "man7.org": 1,
     "mitchellh.com": 1,
     "mrshu.github.io": 1,
     "mstdn.social": 1,
@@ -54,6 +56,7 @@
     "www.phoronix.com": 2,
     "www.raylib.com": 1,
     "www.reddit.com": 3,
+    "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.suse.com": 1,
     "www.techpowerup.com": 1,
@@ -69,8 +72,26 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "6tw8DvK0X88",
+  "lastVideoID": "i4Ub8vnskgc",
   "videos": [
+    {
+      "id": "i4Ub8vnskgc",
+      "published": "2026-05-17T17:30:10+00:00",
+      "title": "The Linux Kernel Killswitch Changes Things Forever",
+      "urls": [
+        "https://lore.kernel.org/all/20260507070547.2268452-1-sashal@kernel.org/",
+        "https://man7.org/linux/man-pages/man7/kernel_lockdown.7.html"
+      ]
+    },
+    {
+      "id": "vmdY8o8TOPQ",
+      "published": "2026-05-16T17:30:10+00:00",
+      "title": "AI Is Tearing Fedora Linux Community Apart",
+      "urls": [
+        "https://www.redhat.com/en/about/press-releases/fedora-hummingbird-linux-brings-agentic-linux-builders",
+        "https://discussion.fedoraproject.org/t/fedora-ai-developer-desktop-objective/184941"
+      ]
+    },
     {
       "id": "6tw8DvK0X88",
       "published": "2026-05-14T17:30:02+00:00",

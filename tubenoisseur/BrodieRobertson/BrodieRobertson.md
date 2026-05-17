@@ -4,8 +4,8 @@ Top Sources:
 
 - github.com = 12
 - x.com = 11
+- lore.kernel.org = 5
 - gitlab.freedesktop.org = 4
-- lore.kernel.org = 4
 - news.ycombinator.com = 4
 - steambrew.app = 3
 - www.reddit.com = 3
@@ -32,11 +32,13 @@ Top Sources:
 - devuanusers.com = 1
 - discourse.gnome.org = 1
 - discuss.kde.org = 1
+- discussion.fedoraproject.org = 1
 - fedoraproject.org = 1
 - filipfila.wordpress.com = 1
 - gitlab.gnome.org = 1
 - invent.kde.org = 1
 - mailarchive.ietf.org = 1
+- man7.org = 1
 - mitchellh.com = 1
 - mrshu.github.io = 1
 - mstdn.social = 1
@@ -57,11 +59,32 @@ Top Sources:
 - www.notebookcheck.net = 1
 - www.pcgamer.com = 1
 - www.raylib.com = 1
+- www.redhat.com = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
 - www.wiz.io = 1
 - xint.io = 1
 
+
+## The Linux Kernel Killswitch Changes Things Forever
+
+- ID: i4Ub8vnskgc
+- Published: 2026-05-17T17:30:10+00:00
+
+### References
+
+- https://lore.kernel.org/all/20260507070547.2268452-1-sashal@kernel.org/
+- https://man7.org/linux/man-pages/man7/kernel_lockdown.7.html
+
+## AI Is Tearing Fedora Linux Community Apart
+
+- ID: vmdY8o8TOPQ
+- Published: 2026-05-16T17:30:10+00:00
+
+### References
+
+- https://www.redhat.com/en/about/press-releases/fedora-hummingbird-linux-brings-agentic-linux-builders
+- https://discussion.fedoraproject.org/t/fedora-ai-developer-desktop-objective/184941
 
 ## Linux Pro Reacts To LTT Linux Challenge 2026 Pt 2
 
