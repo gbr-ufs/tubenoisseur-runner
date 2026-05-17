@@ -2,33 +2,34 @@
 
 Top Sources:
 
-- www.phoronix.com = 17
+- www.phoronix.com = 19
+- itsfoss.com = 13
 - www.gamingonlinux.com = 13
-- itsfoss.com = 12
-- www.omgubuntu.co.uk = 9
-- github.com = 7
-- linuxiac.com = 7
-- www.techradar.com = 6
+- www.omgubuntu.co.uk = 10
+- github.com = 8
+- linuxiac.com = 8
+- www.techradar.com = 8
 - discourse.ubuntu.com = 4
 - proton.me = 4
 - 9to5linux.com = 3
 - arstechnica.com = 3
 - blog.mozilla.org = 3
+- discussion.fedoraproject.org = 3
 - fedoramagazine.org = 3
 - blog.documentfoundation.org = 2
+- community.kde.org = 2
 - www.neowin.net = 2
 - youtu.be = 2
+- abstract3d.com = 1
 - almalinux.org = 1
 - android-developers.googleblog.com = 1
 - blog.linuxmint.com = 1
 - blog.system76.com = 1
 - blog.thunderbird.net = 1
 - blogs.gnome.org = 1
-- community.kde.org = 1
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
 - devices.ubuntu-touch.io = 1
-- discussion.fedoraproject.org = 1
 - documentation.ubuntu.com = 1
 - en.ubunlog.com = 1
 - filipfila.wordpress.com = 1
@@ -40,6 +41,7 @@ Top Sources:
 - github.blog = 1
 - gitlab.freedesktop.org = 1
 - goodtech.info = 1
+- kde.org = 1
 - keepandroidopen.org = 1
 - lists.debian.org = 1
 - lists.linuxfromscratch.org = 1
@@ -51,6 +53,7 @@ Top Sources:
 - open-buro.eu = 1
 - playnix.io = 1
 - redmine.documentfoundation.org = 1
+- rentry.org = 1
 - store.steampowered.com = 1
 - support.mozilla.org = 1
 - thecybersecguru.com = 1
@@ -60,6 +63,7 @@ Top Sources:
 - winboat.app = 1
 - www.404media.co = 1
 - www.anthropic.com = 1
+- www.bleepingcomputer.com = 1
 - www.blender.org = 1
 - www.collaboraonline.com = 1
 - www.digitalfoundry.net = 1
@@ -67,6 +71,7 @@ Top Sources:
 - www.firefox.com = 1
 - www.fsf.org = 1
 - www.heise.de = 1
+- www.microsoft.com = 1
 - www.numerique.gouv.fr = 1
 - www.pcgamer.com = 1
 - www.pcworld.com = 1
@@ -81,6 +86,30 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## KDE gets €1M, 3 big vulnerabilities for Linux, EU privacy disaster brewing - Linux Weekly News
+
+- ID: 72wqoWl18Yg
+- Published: 2026-05-16T09:57:10+00:00
+
+### References
+
+- https://kde.org/announcements/sovereign-tech-fund-invests-kde/
+- https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/
+- https://www.phoronix.com/news/Linux-7.0.6-Released
+- https://itsfoss.com/news/linux-killswitch-proposal/
+- https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/
+- https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn
+- https://community.kde.org/Plasma/Plasma_6#Plasma_6.7
+- https://www.techradar.com/vpn/vpn-privacy-security/google-is-not-collaborative-and-not-in-the-spirit-of-complying-with-this-regulation-can-the-eu-commission-strong-arm-google-into-levelling-the-playing-field-of-the-search-engine-market-and-is-this-really-in-the-interest-of-your-privacy
+- https://discussion.fedoraproject.org/t/fedora-ai-developer-desktop-objective/184941
+- https://discussion.fedoraproject.org/t/fedora-ai-developer-desktop-objective/184941/54
+- https://www.techradar.com/pro/i-have-zero-evidence-in-front-of-me-that-users-are-being-driven-away-from-fedora-because-of-ai-ubuntu-and-fedora-confirmed-to-both-get-ai-support-soon
+- https://linuxiac.com/fedora-ai-desktop-initiative-blocked-after-council-vote-reversal/
+- https://abstract3d.com/2026/05/01/abstract-rolls-out-native-linux-support-built-for-the-pipelines-that-power-production/
+- https://www.omgubuntu.co.uk/2026/05/cemu-linux-malware
+- https://rentry.org/cemu-security-psa
+- https://www.phoronix.com/news/Wine-Wayland-Pointer-Warp
 
 ## UBUNTU TOUCH in 2026: it's really close!
 
