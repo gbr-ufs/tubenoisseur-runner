@@ -99,8 +99,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "72wqoWl18Yg",
+  "lastVideoID": "o2RXI7yuIQI",
   "videos": [
+    {
+      "id": "o2RXI7yuIQI",
+      "published": "2026-05-21T12:42:41+00:00",
+      "title": "My complete Linux Setup: KDE tweaks, theme + all apps \u0026 utilities I use",
+      "urls": []
+    },
     {
       "id": "72wqoWl18Yg",
       "published": "2026-05-16T09:57:10+00:00",

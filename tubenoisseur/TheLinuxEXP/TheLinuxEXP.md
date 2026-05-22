@@ -87,6 +87,14 @@ Top Sources:
 - zamundaaa.github.io = 1
 
 
+## My complete Linux Setup: KDE tweaks, theme + all apps & utilities I use
+
+- ID: o2RXI7yuIQI
+- Published: 2026-05-21T12:42:41+00:00
+
+### References
+
+
 ## KDE gets €1M, 3 big vulnerabilities for Linux, EU privacy disaster brewing - Linux Weekly News
 
 - ID: 72wqoWl18Yg
