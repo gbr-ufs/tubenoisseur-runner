@@ -2,41 +2,50 @@
 
 Top Sources:
 
-- github.com = 12
+- github.com = 13
 - x.com = 11
 - lore.kernel.org = 5
+- www.sovereign.tech = 5
 - gitlab.freedesktop.org = 4
 - news.ycombinator.com = 4
+- www.reddit.com = 4
+- filipfila.wordpress.com = 3
 - steambrew.app = 3
-- www.reddit.com = 3
 - www.rfc-editor.org = 3
+- blogs.gnome.org = 2
 - en.wikipedia.org = 2
 - git.devuan.org = 2
 - git.kernel.org = 2
+- kde.org = 2
+- quantumproductions.info = 2
 - status.denic.de = 2
 - store.steampowered.com = 2
 - ubuntu.com = 2
 - wiki.archlinux.org = 2
 - www.cloudflare.com = 2
 - www.ietf.org = 2
+- www.pcgamer.com = 2
 - www.phoronix.com = 2
 - access.redhat.com = 1
 - bazzite.gg = 1
+- blog.davidedmundson.co.uk = 1
 - blog.orhun.dev = 1
-- blogs.gnome.org = 1
 - blogs.kde.org = 1
 - bugzilla.gnome.org = 1
 - canonical.com = 1
+- conf.kde.org = 1
 - copy.fail = 1
 - cybernews.com = 1
+- develop.kde.org = 1
 - devuanusers.com = 1
+- discord.com = 1
 - discourse.gnome.org = 1
 - discuss.kde.org = 1
 - discussion.fedoraproject.org = 1
 - fedoraproject.org = 1
-- filipfila.wordpress.com = 1
 - gitlab.gnome.org = 1
 - invent.kde.org = 1
+- linux.kde.org = 1
 - mailarchive.ietf.org = 1
 - man7.org = 1
 - mitchellh.com = 1
@@ -53,18 +62,73 @@ Top Sources:
 - www.8bitdo.com = 1
 - www.anthropic.com = 1
 - www.cloudflarestatus.com = 1
+- www.gamingonlinux.com = 1
 - www.githubstatus.com = 1
 - www.guru3d.com = 1
 - www.ign.com = 1
 - www.notebookcheck.net = 1
-- www.pcgamer.com = 1
 - www.raylib.com = 1
 - www.redhat.com = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
 - www.wiz.io = 1
 - xint.io = 1
+- xkcd.com = 1
 
+
+## KDE Was Just Given A Massive Public Investment
+
+- ID: f1qKh06znoA
+- Published: 2026-05-21T17:30:06+00:00
+
+### References
+
+- https://kde.org/community/donations/previousdonations/
+- https://www.pcgamer.com/software/linux/germany-cuts-steam-deck-desktop-devs-a-usd1-5-million-cheque-they-declare-an-end-to-insecure-spyware-riddled-software-imposed-by-the-likes-of-microsoft/
+- https://www.sovereign.tech/tech/kde
+- https://www.sovereign.tech/tech/gnome
+- https://www.sovereign.tech/tech/python-package-index
+- https://www.sovereign.tech/tech/prossimo
+- https://linux.kde.org/
+- https://www.sovereign.tech/programs/fund#module-what-happens-after-i-submit-an-application
+- https://blogs.gnome.org/foundation/2023/11/09/gnome-recognized-as-public-interest-infrastructure/
+- https://kde.org/announcements/sovereign-tech-fund-invests-kde/
+
+## Minecraft Is A Linux Wayland Compositor??
+
+- ID: hNFAQzrjNEs
+- Published: 2026-05-20T17:30:21+00:00
+
+### References
+
+- https://github.com/EVV1E/waylandcraft
+
+## KDE Plasma Is About To Fix Desktop Theming
+
+- ID: 6kLk_NLd-Js
+- Published: 2026-05-19T17:30:01+00:00
+
+### References
+
+- https://conf.kde.org/event/6/contributions/206/attachments/115/145/arjen-hiemstra-akademy2024.pdf
+- https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future
+- https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/
+- https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/
+- https://quantumproductions.info/articles/2026-05/union-spring-2026-update
+- https://develop.kde.org/docs/plasma/theme/theme-svg/
+- https://xkcd.com/927/
+
+## Discord Suddenly Cares About Linux!?!?
+
+- ID: 5qcf-WBriv4
+- Published: 2026-05-18T17:30:04+00:00
+
+### References
+
+- https://discord.com/blog/discord-patch-notes-may-4-2026
+- https://blog.davidedmundson.co.uk/blog/xwaylandvideobridge/
+- https://www.gamingonlinux.com/2024/12/looks-like-discord-finally-fixed-linux-screen-and-audio-sharing-with-wayland/
+- https://www.reddit.com/r/linux_gaming/comments/1iclq1q/i_heard_discord_fixed_screen_sharing_on_wayland/
 
 ## The Linux Kernel Killswitch Changes Things Forever
 
