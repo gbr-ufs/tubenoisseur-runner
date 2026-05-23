@@ -2,21 +2,22 @@
 
 Top Sources:
 
-- www.phoronix.com = 19
-- itsfoss.com = 13
+- www.phoronix.com = 20
+- itsfoss.com = 15
 - www.gamingonlinux.com = 13
+- linuxiac.com = 11
+- github.com = 10
 - www.omgubuntu.co.uk = 10
-- github.com = 8
-- linuxiac.com = 8
 - www.techradar.com = 8
+- blog.mozilla.org = 4
 - discourse.ubuntu.com = 4
+- fedoramagazine.org = 4
 - proton.me = 4
 - 9to5linux.com = 3
 - arstechnica.com = 3
-- blog.mozilla.org = 3
 - discussion.fedoraproject.org = 3
-- fedoramagazine.org = 3
 - blog.documentfoundation.org = 2
+- blogs.gnome.org = 2
 - community.kde.org = 2
 - www.neowin.net = 2
 - youtu.be = 2
@@ -26,7 +27,6 @@ Top Sources:
 - blog.linuxmint.com = 1
 - blog.system76.com = 1
 - blog.thunderbird.net = 1
-- blogs.gnome.org = 1
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
 - devices.ubuntu-touch.io = 1
@@ -44,6 +44,7 @@ Top Sources:
 - kde.org = 1
 - keepandroidopen.org = 1
 - lists.debian.org = 1
+- lists.fedoraproject.org = 1
 - lists.linuxfromscratch.org = 1
 - merritt.codes = 1
 - motorolanews.com = 1
@@ -51,14 +52,17 @@ Top Sources:
 - nerds.xyz = 1
 - news.apache.org = 1
 - open-buro.eu = 1
+- pagure.io = 1
 - playnix.io = 1
 - redmine.documentfoundation.org = 1
 - rentry.org = 1
+- security.opensuse.org = 1
 - store.steampowered.com = 1
 - support.mozilla.org = 1
 - thecybersecguru.com = 1
 - tintotint.eu = 1
 - usebottles.com = 1
+- vivaldi.com = 1
 - vng.nl = 1
 - winboat.app = 1
 - www.404media.co = 1
@@ -86,6 +90,29 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Linux fights back on AI slop, More Adobe on Linux, big browser redesigns - Linux Weekly News
+
+- ID: 5SGqX7rgrEo
+- Published: 2026-05-23T09:56:54+00:00
+
+### References
+
+- https://www.phoronix.com/news/Torvalds-AI-Tools-Can-Be-Great
+- https://linuxiac.com/linus-torvalds-merges-new-linux-kernel-security-bug-guidelines/
+- https://github.com/sander110419/lightroom-cc-on-linux
+- https://vivaldi.com/blog/vivaldi-on-desktop-8-0/
+- https://blog.mozilla.org/en/firefox/new-firefox-design/
+- https://itsfoss.com/news/linux-kernel-rust-cve-reduction/
+- https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html
+- https://pagure.io/fesco/issue/3409
+- https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/YFZBLHOTVMINNY5I7JSO4JOXHFH3SARN/
+- https://linuxiac.com/bitwarden-faces-questions-after-quiet-leadership-and-messaging-changes/
+- https://linuxiac.com/modulejail-blocks-unused-linux-kernel-modules-to-limit-attack-surface/
+- https://itsfoss.com/news/azure-linux-4/
+- https://github.com/microsoft/azurelinux/blob/4.0/README.md
+- https://blogs.gnome.org/hughsie/2026/05/20/lvfs-sponsorship-announcement-hp/
+- https://fedoramagazine.org/fedora-verified-what-does-the-community-think/
 
 ## My complete Linux Setup: KDE tweaks, theme + all apps & utilities I use
 
