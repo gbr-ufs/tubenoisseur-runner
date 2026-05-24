@@ -2,12 +2,13 @@
 
 Top Sources:
 
-- github.com = 13
+- github.com = 14
 - x.com = 11
 - lore.kernel.org = 5
+- news.ycombinator.com = 5
 - www.sovereign.tech = 5
 - gitlab.freedesktop.org = 4
-- news.ycombinator.com = 4
+- www.ietf.org = 4
 - www.reddit.com = 4
 - filipfila.wordpress.com = 3
 - steambrew.app = 3
@@ -23,7 +24,6 @@ Top Sources:
 - ubuntu.com = 2
 - wiki.archlinux.org = 2
 - www.cloudflare.com = 2
-- www.ietf.org = 2
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
 - access.redhat.com = 1
@@ -71,10 +71,24 @@ Top Sources:
 - www.redhat.com = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
+- www.theregister.com = 1
 - www.wiz.io = 1
 - xint.io = 1
 - xkcd.com = 1
 
+
+## He's Actually Trying To Make IPv8 A Thing
+
+- ID: sFCOO0Ke45Q
+- Published: 2026-05-23T17:30:07+00:00
+
+### References
+
+- https://www.ietf.org/archive/id/draft-thain-ipv8-00.html
+- https://news.ycombinator.com/item?id=47788857
+- https://www.ietf.org/archive/id/draft-meow-mrrp-00.html
+- https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474
+- https://github.com/jamieopenipv8/openipv8
 
 ## KDE Was Just Given A Massive Public Investment
 

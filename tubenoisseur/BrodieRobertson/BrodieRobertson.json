@@ -23,7 +23,7 @@
     "filipfila.wordpress.com": 3,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 13,
+    "github.com": 14,
     "gitlab.freedesktop.org": 4,
     "gitlab.gnome.org": 1,
     "invent.kde.org": 1,
@@ -36,7 +36,7 @@
     "mrshu.github.io": 1,
     "mstdn.social": 1,
     "my.devsuite.app": 1,
-    "news.ycombinator.com": 4,
+    "news.ycombinator.com": 5,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
     "pinheiro-kde.blogspot.com": 1,
@@ -57,7 +57,7 @@
     "www.gamingonlinux.com": 1,
     "www.githubstatus.com": 1,
     "www.guru3d.com": 1,
-    "www.ietf.org": 2,
+    "www.ietf.org": 4,
     "www.ign.com": 1,
     "www.notebookcheck.net": 1,
     "www.pcgamer.com": 2,
@@ -69,6 +69,7 @@
     "www.sovereign.tech": 5,
     "www.suse.com": 1,
     "www.techpowerup.com": 1,
+    "www.theregister.com": 1,
     "www.wiz.io": 1,
     "x.com": 11,
     "xint.io": 1,
@@ -82,8 +83,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "f1qKh06znoA",
+  "lastVideoID": "sFCOO0Ke45Q",
   "videos": [
+    {
+      "id": "sFCOO0Ke45Q",
+      "published": "2026-05-23T17:30:07+00:00",
+      "title": "He's Actually Trying To Make IPv8 A Thing",
+      "urls": [
+        "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
+        "https://news.ycombinator.com/item?id=47788857",
+        "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html",
+        "https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474",
+        "https://github.com/jamieopenipv8/openipv8"
+      ]
+    },
     {
       "id": "f1qKh06znoA",
       "published": "2026-05-21T17:30:06+00:00",
