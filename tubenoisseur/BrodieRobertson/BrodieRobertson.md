@@ -58,6 +58,7 @@ Top Sources:
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
 - usbguard.github.io = 1
+- web.archive.org = 1
 - wiki.gnome.org = 1
 - www.8bitdo.com = 1
 - www.anthropic.com = 1
@@ -67,6 +68,7 @@ Top Sources:
 - www.guru3d.com = 1
 - www.ign.com = 1
 - www.notebookcheck.net = 1
+- www.osnews.com = 1
 - www.raylib.com = 1
 - www.redhat.com = 1
 - www.suse.com = 1
@@ -76,6 +78,16 @@ Top Sources:
 - xint.io = 1
 - xkcd.com = 1
 
+
+## The Birth Of The Linux Ricer
+
+- ID: 7wNmYMJv-UE
+- Published: 2026-05-24T17:30:01+00:00
+
+### References
+
+- https://www.osnews.com/story/12129/a-slacker-tries-his-hand-at-gentoo/
+- https://web.archive.org/web/20050217094757/http://funroll-loops.org/
 
 ## He's Actually Trying To Make IPv8 A Thing
 

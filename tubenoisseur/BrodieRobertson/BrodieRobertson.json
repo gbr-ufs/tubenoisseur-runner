@@ -48,6 +48,7 @@
     "store.steampowered.com": 2,
     "ubuntu.com": 2,
     "usbguard.github.io": 1,
+    "web.archive.org": 1,
     "wiki.archlinux.org": 2,
     "wiki.gnome.org": 1,
     "www.8bitdo.com": 1,
@@ -60,6 +61,7 @@
     "www.ietf.org": 4,
     "www.ign.com": 1,
     "www.notebookcheck.net": 1,
+    "www.osnews.com": 1,
     "www.pcgamer.com": 2,
     "www.phoronix.com": 2,
     "www.raylib.com": 1,
@@ -83,8 +85,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "sFCOO0Ke45Q",
+  "lastVideoID": "7wNmYMJv-UE",
   "videos": [
+    {
+      "id": "7wNmYMJv-UE",
+      "published": "2026-05-24T17:30:01+00:00",
+      "title": "The Birth Of The Linux Ricer",
+      "urls": [
+        "https://www.osnews.com/story/12129/a-slacker-tries-his-hand-at-gentoo/",
+        "https://web.archive.org/web/20050217094757/http://funroll-loops.org/"
+      ]
+    },
     {
       "id": "sFCOO0Ke45Q",
       "published": "2026-05-23T17:30:07+00:00",
