@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 14
+- github.com = 15
 - x.com = 11
 - lore.kernel.org = 5
 - news.ycombinator.com = 5
@@ -14,6 +14,7 @@ Top Sources:
 - steambrew.app = 3
 - www.rfc-editor.org = 3
 - blogs.gnome.org = 2
+- daniel.haxx.se = 2
 - en.wikipedia.org = 2
 - git.devuan.org = 2
 - git.kernel.org = 2
@@ -23,6 +24,7 @@ Top Sources:
 - store.steampowered.com = 2
 - ubuntu.com = 2
 - wiki.archlinux.org = 2
+- www.anthropic.com = 2
 - www.cloudflare.com = 2
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
@@ -31,6 +33,7 @@ Top Sources:
 - blog.davidedmundson.co.uk = 1
 - blog.orhun.dev = 1
 - blogs.kde.org = 1
+- bugs.kde.org = 1
 - bugzilla.gnome.org = 1
 - canonical.com = 1
 - conf.kde.org = 1
@@ -43,6 +46,8 @@ Top Sources:
 - discuss.kde.org = 1
 - discussion.fedoraproject.org = 1
 - fedoraproject.org = 1
+- forge.fedoraproject.org = 1
+- gitlab.com = 1
 - gitlab.gnome.org = 1
 - invent.kde.org = 1
 - linux.kde.org = 1
@@ -61,7 +66,6 @@ Top Sources:
 - web.archive.org = 1
 - wiki.gnome.org = 1
 - www.8bitdo.com = 1
-- www.anthropic.com = 1
 - www.cloudflarestatus.com = 1
 - www.gamingonlinux.com = 1
 - www.githubstatus.com = 1
@@ -78,6 +82,29 @@ Top Sources:
 - xint.io = 1
 - xkcd.com = 1
 
+
+## Curl Is Not Convinced By Anthropic's Mythos
+
+- ID: sMussF5snME
+- Published: 2026-05-26T17:30:05+00:00
+
+### References
+
+- https://daniel.haxx.se/blog/
+- https://www.anthropic.com/glasswing
+- https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
+
+## No One Can Agree Who Is Responsible For Linux
+
+- ID: wQcCQiApHnA
+- Published: 2026-05-25T17:30:18+00:00
+
+### References
+
+- https://gitlab.com/linuxmint/pins/mint/gnome-calendar/-/work_items/1
+- https://bugs.kde.org/show_bug.cgi?id=519870
+- https://github.com/bottlesdevs/Bottles/issues/2345
+- https://forge.fedoraproject.org/flatpak/tickets/issues/39
 
 ## The Birth Of The Linux Ricer
 

@@ -7,11 +7,13 @@
     "blog.orhun.dev": 1,
     "blogs.gnome.org": 2,
     "blogs.kde.org": 1,
+    "bugs.kde.org": 1,
     "bugzilla.gnome.org": 1,
     "canonical.com": 1,
     "conf.kde.org": 1,
     "copy.fail": 1,
     "cybernews.com": 1,
+    "daniel.haxx.se": 2,
     "develop.kde.org": 1,
     "devuanusers.com": 1,
     "discord.com": 1,
@@ -21,9 +23,11 @@
     "en.wikipedia.org": 2,
     "fedoraproject.org": 1,
     "filipfila.wordpress.com": 3,
+    "forge.fedoraproject.org": 1,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 14,
+    "github.com": 15,
+    "gitlab.com": 1,
     "gitlab.freedesktop.org": 4,
     "gitlab.gnome.org": 1,
     "invent.kde.org": 1,
@@ -52,7 +56,7 @@
     "wiki.archlinux.org": 2,
     "wiki.gnome.org": 1,
     "www.8bitdo.com": 1,
-    "www.anthropic.com": 1,
+    "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
     "www.gamingonlinux.com": 1,
@@ -85,8 +89,29 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "7wNmYMJv-UE",
+  "lastVideoID": "sMussF5snME",
   "videos": [
+    {
+      "id": "sMussF5snME",
+      "published": "2026-05-26T17:30:05+00:00",
+      "title": "Curl Is Not Convinced By Anthropic's Mythos",
+      "urls": [
+        "https://daniel.haxx.se/blog/",
+        "https://www.anthropic.com/glasswing",
+        "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"
+      ]
+    },
+    {
+      "id": "wQcCQiApHnA",
+      "published": "2026-05-25T17:30:18+00:00",
+      "title": "No One Can Agree Who Is Responsible For Linux",
+      "urls": [
+        "https://gitlab.com/linuxmint/pins/mint/gnome-calendar/-/work_items/1",
+        "https://bugs.kde.org/show_bug.cgi?id=519870",
+        "https://github.com/bottlesdevs/Bottles/issues/2345",
+        "https://forge.fedoraproject.org/flatpak/tickets/issues/39"
+      ]
+    },
     {
       "id": "7wNmYMJv-UE",
       "published": "2026-05-24T17:30:01+00:00",
