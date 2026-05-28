@@ -30,6 +30,7 @@
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 4,
     "gitlab.gnome.org": 1,
+    "hachyderm.io": 1,
     "invent.kde.org": 1,
     "kde.org": 2,
     "linux.kde.org": 1,
@@ -89,8 +90,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "sMussF5snME",
+  "lastVideoID": "Ys44BKMd7i8",
   "videos": [
+    {
+      "id": "Ys44BKMd7i8",
+      "published": "2026-05-27T17:30:38+00:00",
+      "title": "Flatpak Next: Dropping Systemd and X11?",
+      "urls": [
+        "https://hachyderm.io/@jorge/116607961190448307"
+      ]
+    },
     {
       "id": "sMussF5snME",
       "published": "2026-05-26T17:30:05+00:00",

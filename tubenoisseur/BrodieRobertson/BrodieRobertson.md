@@ -49,6 +49,7 @@ Top Sources:
 - forge.fedoraproject.org = 1
 - gitlab.com = 1
 - gitlab.gnome.org = 1
+- hachyderm.io = 1
 - invent.kde.org = 1
 - linux.kde.org = 1
 - mailarchive.ietf.org = 1
@@ -82,6 +83,15 @@ Top Sources:
 - xint.io = 1
 - xkcd.com = 1
 
+
+## Flatpak Next: Dropping Systemd and X11?
+
+- ID: Ys44BKMd7i8
+- Published: 2026-05-27T17:30:38+00:00
+
+### References
+
+- https://hachyderm.io/@jorge/116607961190448307
 
 ## Curl Is Not Convinced By Anthropic's Mythos
 
