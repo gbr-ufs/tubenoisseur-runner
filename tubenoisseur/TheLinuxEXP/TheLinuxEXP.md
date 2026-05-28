@@ -27,6 +27,7 @@ Top Sources:
 - blog.linuxmint.com = 1
 - blog.system76.com = 1
 - blog.thunderbird.net = 1
+- cachyos.org = 1
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
 - devices.ubuntu-touch.io = 1
@@ -90,6 +91,15 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Cachy OS benchmarked (on Tuxedo InfinityBook Max 16): Hype or Real performance?
+
+- ID: dGQNM6fcikM
+- Published: 2026-05-28T13:09:36+00:00
+
+### References
+
+- https://cachyos.org/
 
 ## Linux fights back on AI slop, More Adobe on Linux, big browser redesigns - Linux Weekly News
 
