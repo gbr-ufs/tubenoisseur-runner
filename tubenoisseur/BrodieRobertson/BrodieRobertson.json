@@ -3,6 +3,7 @@
   "domainCounts": {
     "access.redhat.com": 1,
     "bazzite.gg": 1,
+    "bbs.deepin.org": 1,
     "blog.davidedmundson.co.uk": 1,
     "blog.orhun.dev": 1,
     "blogs.gnome.org": 2,
@@ -34,6 +35,7 @@
     "invent.kde.org": 1,
     "kde.org": 2,
     "linux.kde.org": 1,
+    "lists.fedoraproject.org": 1,
     "lore.kernel.org": 5,
     "mailarchive.ietf.org": 1,
     "man7.org": 1,
@@ -44,10 +46,12 @@
     "news.ycombinator.com": 5,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
+    "pagure.io": 1,
     "pinheiro-kde.blogspot.com": 1,
     "quantumproductions.info": 2,
     "ratty-term.org": 1,
     "security-tracker.debian.org": 1,
+    "security.opensuse.org": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
     "store.steampowered.com": 2,
@@ -90,8 +94,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "Ys44BKMd7i8",
+  "lastVideoID": "dtYh50RzNxc",
   "videos": [
+    {
+      "id": "dtYh50RzNxc",
+      "published": "2026-05-28T17:30:24+00:00",
+      "title": "Another Linux Distro Dropped Deepin Desktop",
+      "urls": [
+        "https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/YFZBLHOTVMINNY5I7JSO4JOXHFH3SARN/",
+        "https://pagure.io/fesco/issue/3409",
+        "https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html",
+        "https://bbs.deepin.org/en/post/287017"
+      ]
+    },
     {
       "id": "Ys44BKMd7i8",
       "published": "2026-05-27T17:30:38+00:00",

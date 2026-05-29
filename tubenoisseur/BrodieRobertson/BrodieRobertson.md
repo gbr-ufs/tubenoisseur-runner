@@ -30,6 +30,7 @@ Top Sources:
 - www.phoronix.com = 2
 - access.redhat.com = 1
 - bazzite.gg = 1
+- bbs.deepin.org = 1
 - blog.davidedmundson.co.uk = 1
 - blog.orhun.dev = 1
 - blogs.kde.org = 1
@@ -52,6 +53,7 @@ Top Sources:
 - hachyderm.io = 1
 - invent.kde.org = 1
 - linux.kde.org = 1
+- lists.fedoraproject.org = 1
 - mailarchive.ietf.org = 1
 - man7.org = 1
 - mitchellh.com = 1
@@ -60,9 +62,11 @@ Top Sources:
 - my.devsuite.app = 1
 - nobaraproject.org = 1
 - odin-lang.org = 1
+- pagure.io = 1
 - pinheiro-kde.blogspot.com = 1
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
+- security.opensuse.org = 1
 - usbguard.github.io = 1
 - web.archive.org = 1
 - wiki.gnome.org = 1
@@ -83,6 +87,18 @@ Top Sources:
 - xint.io = 1
 - xkcd.com = 1
 
+
+## Another Linux Distro Dropped Deepin Desktop
+
+- ID: dtYh50RzNxc
+- Published: 2026-05-28T17:30:24+00:00
+
+### References
+
+- https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/YFZBLHOTVMINNY5I7JSO4JOXHFH3SARN/
+- https://pagure.io/fesco/issue/3409
+- https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html
+- https://bbs.deepin.org/en/post/287017
 
 ## Flatpak Next: Dropping Systemd and X11?
 
