@@ -2,32 +2,34 @@
 
 Top Sources:
 
-- www.phoronix.com = 20
-- itsfoss.com = 15
-- www.gamingonlinux.com = 13
-- linuxiac.com = 11
-- github.com = 10
+- www.phoronix.com = 21
+- itsfoss.com = 17
+- www.gamingonlinux.com = 14
+- linuxiac.com = 13
+- github.com = 11
 - www.omgubuntu.co.uk = 10
-- www.techradar.com = 8
+- www.techradar.com = 9
 - blog.mozilla.org = 4
 - discourse.ubuntu.com = 4
 - fedoramagazine.org = 4
 - proton.me = 4
 - 9to5linux.com = 3
 - arstechnica.com = 3
+- blog.documentfoundation.org = 3
 - discussion.fedoraproject.org = 3
-- blog.documentfoundation.org = 2
+- blog.linuxmint.com = 2
 - blogs.gnome.org = 2
 - community.kde.org = 2
 - www.neowin.net = 2
 - youtu.be = 2
 - abstract3d.com = 1
 - almalinux.org = 1
+- anditosan.wordpress.com = 1
 - android-developers.googleblog.com = 1
-- blog.linuxmint.com = 1
 - blog.system76.com = 1
 - blog.thunderbird.net = 1
 - cachyos.org = 1
+- canonical.com = 1
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
 - devices.ubuntu-touch.io = 1
@@ -76,6 +78,8 @@ Top Sources:
 - www.firefox.com = 1
 - www.fsf.org = 1
 - www.heise.de = 1
+- www.ign.com = 1
+- www.linuxfoundation.org = 1
 - www.microsoft.com = 1
 - www.numerique.gouv.fr = 1
 - www.pcgamer.com = 1
@@ -83,6 +87,7 @@ Top Sources:
 - www.reuters.com = 1
 - www.soeren-hentzschel.at = 1
 - www.thatprivacyguy.com = 1
+- www.theregister.com = 1
 - www.theverge.com = 1
 - www.thunderbolt.io = 1
 - www.tomshardware.com = 1
@@ -91,6 +96,29 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Linux News - No Age verification for Linux, New KDE theme, Flatpak redesign with systemD
+
+- ID: xOZCYBTTRng
+- Published: 2026-05-30T10:33:10+00:00
+
+### References
+
+- https://www.phoronix.com/news/California-AB-1856
+- https://itsfoss.com/news/age-verification-open-source-exemptions/
+- https://www.gamingonlinux.com/2026/05/linux-and-open-source-getting-age-checking-exemptions-could-be-problematic/
+- https://anditosan.wordpress.com/2026/05/22/ocean-design-for-plasma-may-updates/
+- https://linuxiac.com/flatpaks-future-may-leave-non-systemd-distros-behind/
+- https://linuxiac.com/flathub-now-rejects-ai-assisted-apps-and-submissions/
+- https://github.com/flathub-infra/documentation/commit/992f57b30de98ddbd5e80959e9672998c83c8c97
+- https://blog.linuxmint.com/?p=5025
+- https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/
+- https://blog.documentfoundation.org/blog/2026/05/27/new-web-and-mobile-strategy-for-libreoffice/
+- https://canonical.com/blog/introducing-workshop-sandboxed-development-environments
+- https://www.techradar.com/pro/eu-to-back-european-alternatives-to-us-dominated-software-and-services-in-major-push-for-tech-sovereignty
+- https://www.theregister.com/on-prem/2026/05/28/europe-told-to-cool-its-datacenter-boom-before-water-and-power-run-short/5247994
+- https://www.linuxfoundation.org/press/linux-foundation-releases-openmdw-1.1-nvidia-adopts-openmdw-for-cosmos-isaac-gr00t-ising-and-nemotron-ai-model-families
+- https://www.ign.com/articles/the-steam-deck-is-sold-out-again-even-after-the-huge-price-rise
 
 ## Cachy OS benchmarked (on Tuxedo InfinityBook Max 16): Hype or Real performance?
 
