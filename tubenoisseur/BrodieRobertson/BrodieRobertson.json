@@ -94,8 +94,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "dtYh50RzNxc",
+  "lastVideoID": "4D8I970MGH4",
   "videos": [
+    {
+      "id": "4D8I970MGH4",
+      "published": "2026-05-30T17:30:11+00:00",
+      "title": "Linus Tech Tips Did Nothing Wrong | LTT Linux Challenge React",
+      "urls": []
+    },
     {
       "id": "dtYh50RzNxc",
       "published": "2026-05-28T17:30:24+00:00",
