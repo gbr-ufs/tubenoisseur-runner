@@ -6,7 +6,7 @@
     "bbs.deepin.org": 1,
     "blog.davidedmundson.co.uk": 1,
     "blog.orhun.dev": 1,
-    "blogs.gnome.org": 2,
+    "blogs.gnome.org": 3,
     "blogs.kde.org": 1,
     "bugs.kde.org": 1,
     "bugzilla.gnome.org": 1,
@@ -30,7 +30,7 @@
     "github.com": 15,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 4,
-    "gitlab.gnome.org": 1,
+    "gitlab.gnome.org": 4,
     "hachyderm.io": 1,
     "invent.kde.org": 1,
     "kde.org": 2,
@@ -59,7 +59,7 @@
     "usbguard.github.io": 1,
     "web.archive.org": 1,
     "wiki.archlinux.org": 2,
-    "wiki.gnome.org": 1,
+    "wiki.gnome.org": 2,
     "www.8bitdo.com": 1,
     "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
@@ -94,8 +94,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "4D8I970MGH4",
+  "lastVideoID": "UlAS7d4Lzdo",
   "videos": [
+    {
+      "id": "UlAS7d4Lzdo",
+      "published": "2026-05-31T17:30:15+00:00",
+      "title": "The GNOME Desktop Shell Everyone Forgot About",
+      "urls": [
+        "https://gitlab.gnome.org/GNOME/gnome-flashback",
+        "https://gitlab.gnome.org/GNOME/metacity",
+        "https://gitlab.gnome.org/GNOME/gnome-applets",
+        "https://wiki.gnome.org/Projects/GnomeFlashback",
+        "https://blogs.gnome.org/mclasen/2012/12/05/gnome-3-7-what-is-happening-now/"
+      ]
+    },
     {
       "id": "4D8I970MGH4",
       "published": "2026-05-30T17:30:11+00:00",

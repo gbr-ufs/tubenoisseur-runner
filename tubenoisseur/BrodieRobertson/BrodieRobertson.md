@@ -8,12 +8,13 @@ Top Sources:
 - news.ycombinator.com = 5
 - www.sovereign.tech = 5
 - gitlab.freedesktop.org = 4
+- gitlab.gnome.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
+- blogs.gnome.org = 3
 - filipfila.wordpress.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
-- blogs.gnome.org = 2
 - daniel.haxx.se = 2
 - en.wikipedia.org = 2
 - git.devuan.org = 2
@@ -24,6 +25,7 @@ Top Sources:
 - store.steampowered.com = 2
 - ubuntu.com = 2
 - wiki.archlinux.org = 2
+- wiki.gnome.org = 2
 - www.anthropic.com = 2
 - www.cloudflare.com = 2
 - www.pcgamer.com = 2
@@ -49,7 +51,6 @@ Top Sources:
 - fedoraproject.org = 1
 - forge.fedoraproject.org = 1
 - gitlab.com = 1
-- gitlab.gnome.org = 1
 - hachyderm.io = 1
 - invent.kde.org = 1
 - linux.kde.org = 1
@@ -69,7 +70,6 @@ Top Sources:
 - security.opensuse.org = 1
 - usbguard.github.io = 1
 - web.archive.org = 1
-- wiki.gnome.org = 1
 - www.8bitdo.com = 1
 - www.cloudflarestatus.com = 1
 - www.gamingonlinux.com = 1
@@ -87,6 +87,19 @@ Top Sources:
 - xint.io = 1
 - xkcd.com = 1
 
+
+## The GNOME Desktop Shell Everyone Forgot About
+
+- ID: UlAS7d4Lzdo
+- Published: 2026-05-31T17:30:15+00:00
+
+### References
+
+- https://gitlab.gnome.org/GNOME/gnome-flashback
+- https://gitlab.gnome.org/GNOME/metacity
+- https://gitlab.gnome.org/GNOME/gnome-applets
+- https://wiki.gnome.org/Projects/GnomeFlashback
+- https://blogs.gnome.org/mclasen/2012/12/05/gnome-3-7-what-is-happening-now/
 
 ## Linus Tech Tips Did Nothing Wrong | LTT Linux Challenge React
 
