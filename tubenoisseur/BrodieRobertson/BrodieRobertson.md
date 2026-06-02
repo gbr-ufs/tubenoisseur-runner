@@ -31,6 +31,7 @@ Top Sources:
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
 - access.redhat.com = 1
+- apps.kde.org = 1
 - bazzite.gg = 1
 - bbs.deepin.org = 1
 - blog.davidedmundson.co.uk = 1
@@ -48,6 +49,7 @@ Top Sources:
 - discourse.gnome.org = 1
 - discuss.kde.org = 1
 - discussion.fedoraproject.org = 1
+- excalidraw.com = 1
 - fedoraproject.org = 1
 - forge.fedoraproject.org = 1
 - gitlab.com = 1
@@ -65,6 +67,7 @@ Top Sources:
 - odin-lang.org = 1
 - pagure.io = 1
 - pinheiro-kde.blogspot.com = 1
+- prayag2.github.io = 1
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
 - security.opensuse.org = 1
@@ -87,6 +90,17 @@ Top Sources:
 - xint.io = 1
 - xkcd.com = 1
 
+
+## Friendship Ended With Excalidraw, Drawy Is My New Best Friend
+
+- ID: cvxJ3aDGvbE
+- Published: 2026-06-01T17:30:27+00:00
+
+### References
+
+- https://excalidraw.com/
+- https://prayag2.github.io/posts/meet-drawy/
+- https://apps.kde.org/drawy/
 
 ## The GNOME Desktop Shell Everyone Forgot About
 
