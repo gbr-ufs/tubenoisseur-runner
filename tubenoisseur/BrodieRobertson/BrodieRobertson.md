@@ -2,10 +2,10 @@
 
 Top Sources:
 
-- github.com = 15
+- github.com = 28
 - x.com = 11
+- news.ycombinator.com = 6
 - lore.kernel.org = 5
-- news.ycombinator.com = 5
 - www.sovereign.tech = 5
 - gitlab.freedesktop.org = 4
 - gitlab.gnome.org = 4
@@ -57,8 +57,10 @@ Top Sources:
 - invent.kde.org = 1
 - linux.kde.org = 1
 - lists.fedoraproject.org = 1
+- lwn.net = 1
 - mailarchive.ietf.org = 1
 - man7.org = 1
+- mastodon.gamedev.place = 1
 - mitchellh.com = 1
 - mrshu.github.io = 1
 - mstdn.social = 1
@@ -71,6 +73,7 @@ Top Sources:
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
 - security.opensuse.org = 1
+- social.treehouse.systems = 1
 - usbguard.github.io = 1
 - web.archive.org = 1
 - www.8bitdo.com = 1
@@ -90,6 +93,31 @@ Top Sources:
 - xint.io = 1
 - xkcd.com = 1
 
+
+## The Rsync Situation Has Gone Too Far
+
+- ID: FLCfRs6nKW8
+- Published: 2026-06-02T17:30:01+00:00
+
+### References
+
+- https://github.com/RsyncProject/rsync/commit/aa142f08ef31d3ffa8d6b3b8af16d00324a98c1b
+- https://github.com/RsyncProject/rsync/pull/903/
+- https://github.com/RsyncProject/rsync/issues/896
+- https://github.com/RsyncProject/rsync/issues/897
+- https://github.com/RsyncProject/rsync/issues/905
+- https://github.com/RsyncProject/rsync/issues/910
+- https://github.com/RsyncProject/rsync/issues/915
+- https://github.com/RsyncProject/rsync/issues/900
+- https://github.com/RsyncProject/rsync/issues/922
+- https://github.com/RsyncProject/rsync/issues/927
+- https://github.com/RsyncProject/rsync/issues/899
+- https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390
+- https://github.com/RsyncProject/rsync/issues/929
+- https://news.ycombinator.com/item?id=48342705
+- https://github.com/RsyncProject/rsync/issues/934
+- https://social.treehouse.systems/@thesamesam/116662824873341085
+- https://lwn.net/Articles/968732/
 
 ## Friendship Ended With Excalidraw, Drawy Is My New Best Friend
 
