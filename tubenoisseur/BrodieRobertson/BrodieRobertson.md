@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 28
+- github.com = 29
 - x.com = 11
 - news.ycombinator.com = 6
 - lore.kernel.org = 5
@@ -28,6 +28,7 @@ Top Sources:
 - wiki.gnome.org = 2
 - www.anthropic.com = 2
 - www.cloudflare.com = 2
+- www.omgubuntu.co.uk = 2
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
 - access.redhat.com = 1
@@ -37,6 +38,7 @@ Top Sources:
 - blog.davidedmundson.co.uk = 1
 - blog.orhun.dev = 1
 - blogs.kde.org = 1
+- brodierobertson.dev = 1
 - bugs.kde.org = 1
 - bugzilla.gnome.org = 1
 - canonical.com = 1
@@ -51,6 +53,7 @@ Top Sources:
 - discussion.fedoraproject.org = 1
 - excalidraw.com = 1
 - fedoraproject.org = 1
+- flutter.dev = 1
 - forge.fedoraproject.org = 1
 - gitlab.com = 1
 - hachyderm.io = 1
@@ -73,6 +76,7 @@ Top Sources:
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
 - security.opensuse.org = 1
+- snapcraft.io = 1
 - social.treehouse.systems = 1
 - usbguard.github.io = 1
 - web.archive.org = 1
@@ -92,7 +96,23 @@ Top Sources:
 - www.wiz.io = 1
 - xint.io = 1
 - xkcd.com = 1
+- youtu.be = 1
 
+
+## Canonical Just Took On Another Crazy Project
+
+- ID: t7LMAzDGGzQ
+- Published: 2026-06-03T17:30:20+00:00
+
+### References
+
+- https://brodierobertson.dev/convex
+- https://flutter.dev/
+- https://github.com/localsend/localsend
+- https://youtu.be/I1uIbGh1dGE?t=2352
+- https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter
+- https://www.omgubuntu.co.uk/2021/03/ubuntu-building-apps-with-flutter-in-future
+- https://www.omgubuntu.co.uk/2021/02/ubuntu-is-working-on-a-brand-new-installer
 
 ## The Rsync Situation Has Gone Too Far
 

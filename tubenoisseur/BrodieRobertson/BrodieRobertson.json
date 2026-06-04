@@ -9,6 +9,7 @@
     "blog.orhun.dev": 1,
     "blogs.gnome.org": 3,
     "blogs.kde.org": 1,
+    "brodierobertson.dev": 1,
     "bugs.kde.org": 1,
     "bugzilla.gnome.org": 1,
     "canonical.com": 1,
@@ -26,10 +27,11 @@
     "excalidraw.com": 1,
     "fedoraproject.org": 1,
     "filipfila.wordpress.com": 3,
+    "flutter.dev": 1,
     "forge.fedoraproject.org": 1,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 28,
+    "github.com": 29,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 4,
     "gitlab.gnome.org": 4,
@@ -57,6 +59,7 @@
     "ratty-term.org": 1,
     "security-tracker.debian.org": 1,
     "security.opensuse.org": 1,
+    "snapcraft.io": 1,
     "social.treehouse.systems": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
@@ -76,6 +79,7 @@
     "www.ietf.org": 4,
     "www.ign.com": 1,
     "www.notebookcheck.net": 1,
+    "www.omgubuntu.co.uk": 2,
     "www.osnews.com": 1,
     "www.pcgamer.com": 2,
     "www.phoronix.com": 2,
@@ -90,7 +94,8 @@
     "www.wiz.io": 1,
     "x.com": 11,
     "xint.io": 1,
-    "xkcd.com": 1
+    "xkcd.com": 1,
+    "youtu.be": 1
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -100,8 +105,22 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "FLCfRs6nKW8",
+  "lastVideoID": "t7LMAzDGGzQ",
   "videos": [
+    {
+      "id": "t7LMAzDGGzQ",
+      "published": "2026-06-03T17:30:20+00:00",
+      "title": "Canonical Just Took On Another Crazy Project",
+      "urls": [
+        "https://brodierobertson.dev/convex",
+        "https://flutter.dev/",
+        "https://github.com/localsend/localsend",
+        "https://youtu.be/I1uIbGh1dGE?t=2352",
+        "https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter",
+        "https://www.omgubuntu.co.uk/2021/03/ubuntu-building-apps-with-flutter-in-future",
+        "https://www.omgubuntu.co.uk/2021/02/ubuntu-is-working-on-a-brand-new-installer"
+      ]
+    },
     {
       "id": "FLCfRs6nKW8",
       "published": "2026-06-02T17:30:01+00:00",
