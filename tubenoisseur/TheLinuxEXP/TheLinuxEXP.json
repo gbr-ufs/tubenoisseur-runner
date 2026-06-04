@@ -109,8 +109,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "xOZCYBTTRng",
+  "lastVideoID": "7rtuxo1Bw04",
   "videos": [
+    {
+      "id": "7rtuxo1Bw04",
+      "published": "2026-06-04T11:41:35+00:00",
+      "title": "I'm moving to an Open Source Phone, and ditching (almost) all proprietary software",
+      "urls": []
+    },
     {
       "id": "xOZCYBTTRng",
       "published": "2026-05-30T10:33:10+00:00",

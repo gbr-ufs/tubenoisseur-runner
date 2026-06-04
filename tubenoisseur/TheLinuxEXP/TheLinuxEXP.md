@@ -97,6 +97,14 @@ Top Sources:
 - zamundaaa.github.io = 1
 
 
+## I'm moving to an Open Source Phone, and ditching (almost) all proprietary software
+
+- ID: 7rtuxo1Bw04
+- Published: 2026-06-04T11:41:35+00:00
+
+### References
+
+
 ## Linux News - No Age verification for Linux, New KDE theme, Flatpak redesign with systemD
 
 - ID: xOZCYBTTRng
