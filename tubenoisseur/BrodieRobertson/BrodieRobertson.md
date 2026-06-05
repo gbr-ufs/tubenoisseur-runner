@@ -2,13 +2,13 @@
 
 Top Sources:
 
-- github.com = 29
+- github.com = 31
 - x.com = 11
 - news.ycombinator.com = 6
+- gitlab.gnome.org = 5
 - lore.kernel.org = 5
 - www.sovereign.tech = 5
 - gitlab.freedesktop.org = 4
-- gitlab.gnome.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
 - blogs.gnome.org = 3
@@ -21,6 +21,7 @@ Top Sources:
 - git.kernel.org = 2
 - kde.org = 2
 - quantumproductions.info = 2
+- social.treehouse.systems = 2
 - status.denic.de = 2
 - store.steampowered.com = 2
 - ubuntu.com = 2
@@ -29,6 +30,7 @@ Top Sources:
 - www.anthropic.com = 2
 - www.cloudflare.com = 2
 - www.omgubuntu.co.uk = 2
+- www.osnews.com = 2
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
 - access.redhat.com = 1
@@ -56,6 +58,7 @@ Top Sources:
 - flutter.dev = 1
 - forge.fedoraproject.org = 1
 - gitlab.com = 1
+- gjs.guide = 1
 - hachyderm.io = 1
 - invent.kde.org = 1
 - linux.kde.org = 1
@@ -77,7 +80,6 @@ Top Sources:
 - security-tracker.debian.org = 1
 - security.opensuse.org = 1
 - snapcraft.io = 1
-- social.treehouse.systems = 1
 - usbguard.github.io = 1
 - web.archive.org = 1
 - www.8bitdo.com = 1
@@ -87,7 +89,6 @@ Top Sources:
 - www.guru3d.com = 1
 - www.ign.com = 1
 - www.notebookcheck.net = 1
-- www.osnews.com = 1
 - www.raylib.com = 1
 - www.redhat.com = 1
 - www.suse.com = 1
@@ -98,6 +99,20 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Flathub's New AI Policy Has Some Problems
+
+- ID: UIT4w9bndqE
+- Published: 2026-06-04T17:30:09+00:00
+
+### References
+
+- https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated
+- https://gitlab.gnome.org/Teams/Releng/AppOrganization/-/blob/main/AppCriteria.md#circle-app-criteria
+- https://social.treehouse.systems/@barthalion/116657011366876079
+- https://github.com/flathub/flathub/pulls?q=is%3Apr+is%3Aclosed+label%3A%22AI+Slop%22
+- https://github.com/flathub-infra/documentation/commit/992f57b30de98ddbd5e80959e9672998c83c8c97
+- https://www.osnews.com/story/145144/flathub-bans-slopcoded-applications-but-not-if-theyre-from-a-mature-well-maintained-project/
 
 ## Canonical Just Took On Another Crazy Project
 
