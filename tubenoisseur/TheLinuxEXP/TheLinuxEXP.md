@@ -3,33 +3,37 @@
 Top Sources:
 
 - www.phoronix.com = 21
-- itsfoss.com = 17
+- itsfoss.com = 18
 - www.gamingonlinux.com = 14
 - linuxiac.com = 13
+- www.omgubuntu.co.uk = 12
 - github.com = 11
-- www.omgubuntu.co.uk = 10
 - www.techradar.com = 9
+- discourse.ubuntu.com = 5
+- arstechnica.com = 4
 - blog.mozilla.org = 4
-- discourse.ubuntu.com = 4
 - fedoramagazine.org = 4
 - proton.me = 4
 - 9to5linux.com = 3
-- arstechnica.com = 3
 - blog.documentfoundation.org = 3
 - discussion.fedoraproject.org = 3
 - blog.linuxmint.com = 2
 - blogs.gnome.org = 2
 - community.kde.org = 2
 - www.neowin.net = 2
+- www.politico.eu = 2
 - youtu.be = 2
 - abstract3d.com = 1
 - almalinux.org = 1
 - anditosan.wordpress.com = 1
 - android-developers.googleblog.com = 1
+- blog.davidedmundson.co.uk = 1
 - blog.system76.com = 1
 - blog.thunderbird.net = 1
+- brave.com = 1
 - cachyos.org = 1
 - canonical.com = 1
+- consumerrights.wiki = 1
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
 - devices.ubuntu-touch.io = 1
@@ -60,6 +64,7 @@ Top Sources:
 - redmine.documentfoundation.org = 1
 - rentry.org = 1
 - security.opensuse.org = 1
+- steamcommunity.com = 1
 - store.steampowered.com = 1
 - support.mozilla.org = 1
 - thecybersecguru.com = 1
@@ -72,6 +77,7 @@ Top Sources:
 - www.anthropic.com = 1
 - www.bleepingcomputer.com = 1
 - www.blender.org = 1
+- www.cnet.com = 1
 - www.collaboraonline.com = 1
 - www.digitalfoundry.net = 1
 - www.dw.com = 1
@@ -83,6 +89,7 @@ Top Sources:
 - www.microsoft.com = 1
 - www.numerique.gouv.fr = 1
 - www.pcgamer.com = 1
+- www.pcmag.com = 1
 - www.pcworld.com = 1
 - www.reuters.com = 1
 - www.soeren-hentzschel.at = 1
@@ -96,6 +103,27 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Linux News - EU ditches Google Search, Brave's Paid browser, Ubuntu makes big moves
+
+- ID: CQ2Pb0YNeqE
+- Published: 2026-06-06T08:51:30+00:00
+
+### References
+
+- https://www.politico.eu/article/european-parliament-ditches-google-for-french-search-engine/
+- https://www.politico.eu/article/eu-plots-long-game-against-us-digital-supremacy/
+- https://brave.com/blog/brave-origin/
+- https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained
+- https://www.omgubuntu.co.uk/2026/06/ubuntu-speech-to-text-ai
+- https://discourse.ubuntu.com/t/ubuntu-desktop-26-10-stonking-stingray-roadmap-building-toward-ubuntu-28-04-lts/83751
+- https://blog.davidedmundson.co.uk/blog/596/
+- https://www.cnet.com/tech/gaming/acer-nitro-blaze-link-remote-play-handheld-acers-computex-launches/
+- https://www.pcmag.com/news/acer-launching-streaming-only-handheld-gaming-pc
+- https://itsfoss.com/news/windows-coreutils/
+- https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)#cite_note-ms-learn-cert-1
+- https://steamcommunity.com/groups/steamworks/announcements/detail/716780409378048028
+- https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/
 
 ## I'm moving to an Open Source Phone, and ditching (almost) all proprietary software
 
