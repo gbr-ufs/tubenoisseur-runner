@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 31
+- github.com = 36
 - x.com = 11
 - news.ycombinator.com = 6
 - gitlab.gnome.org = 5
@@ -15,6 +15,7 @@ Top Sources:
 - filipfila.wordpress.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
+- chromium-review.googlesource.com = 2
 - daniel.haxx.se = 2
 - en.wikipedia.org = 2
 - git.devuan.org = 2
@@ -99,6 +100,21 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## My Biggest Wayland Problem is Almost Fixed
+
+- ID: aPV6mIufdqA
+- Published: 2026-06-06T17:30:39+00:00
+
+### References
+
+- https://github.com/obsproject/obs-browser/issues/279
+- https://github.com/obsproject/obs-studio/pull/4436
+- https://github.com/chromiumembedded/cef
+- https://github.com/chromiumembedded/cef/issues/2804
+- https://github.com/obsproject/obs-studio/issues/9369
+- https://chromium-review.googlesource.com/c/angle/angle/+/6164683
+- https://chromium-review.googlesource.com/c/angle/angle/+/7844989
 
 ## Flathub's New AI Policy Has Some Problems
 
