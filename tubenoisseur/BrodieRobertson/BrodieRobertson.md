@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 36
+- github.com = 38
 - x.com = 11
 - news.ycombinator.com = 6
 - gitlab.gnome.org = 5
@@ -26,6 +26,7 @@ Top Sources:
 - status.denic.de = 2
 - store.steampowered.com = 2
 - ubuntu.com = 2
+- web.archive.org = 2
 - wiki.archlinux.org = 2
 - wiki.gnome.org = 2
 - www.anthropic.com = 2
@@ -39,6 +40,7 @@ Top Sources:
 - bazzite.gg = 1
 - bbs.deepin.org = 1
 - blog.davidedmundson.co.uk = 1
+- blog.myli.page = 1
 - blog.orhun.dev = 1
 - blogs.kde.org = 1
 - brodierobertson.dev = 1
@@ -82,7 +84,6 @@ Top Sources:
 - security.opensuse.org = 1
 - snapcraft.io = 1
 - usbguard.github.io = 1
-- web.archive.org = 1
 - www.8bitdo.com = 1
 - www.cloudflarestatus.com = 1
 - www.gamingonlinux.com = 1
@@ -100,6 +101,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Even More Dumb Software Licenses
+
+- ID: oV1ug0u8vas
+- Published: 2026-06-07T17:30:02+00:00
+
+### References
+
+- https://github.com/Zuhaitz-dev/URPL
+- https://blog.myli.page/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891
+- https://github.com/ErikMcClure/bad-licenses
+- https://web.archive.org/web/20240324055031/https://cohost.org/lifning/post/1023282-bbhl-license-v1
 
 ## My Biggest Wayland Problem is Almost Fixed
 

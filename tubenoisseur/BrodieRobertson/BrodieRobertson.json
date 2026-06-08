@@ -6,6 +6,7 @@
     "bazzite.gg": 1,
     "bbs.deepin.org": 1,
     "blog.davidedmundson.co.uk": 1,
+    "blog.myli.page": 1,
     "blog.orhun.dev": 1,
     "blogs.gnome.org": 3,
     "blogs.kde.org": 1,
@@ -32,7 +33,7 @@
     "forge.fedoraproject.org": 1,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 36,
+    "github.com": 38,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 4,
     "gitlab.gnome.org": 5,
@@ -68,7 +69,7 @@
     "store.steampowered.com": 2,
     "ubuntu.com": 2,
     "usbguard.github.io": 1,
-    "web.archive.org": 1,
+    "web.archive.org": 2,
     "wiki.archlinux.org": 2,
     "wiki.gnome.org": 2,
     "www.8bitdo.com": 1,
@@ -107,8 +108,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "aPV6mIufdqA",
+  "lastVideoID": "oV1ug0u8vas",
   "videos": [
+    {
+      "id": "oV1ug0u8vas",
+      "published": "2026-06-07T17:30:02+00:00",
+      "title": "Even More Dumb Software Licenses",
+      "urls": [
+        "https://github.com/Zuhaitz-dev/URPL",
+        "https://blog.myli.page/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891",
+        "https://github.com/ErikMcClure/bad-licenses",
+        "https://web.archive.org/web/20240324055031/https://cohost.org/lifning/post/1023282-bbhl-license-v1"
+      ]
+    },
     {
       "id": "aPV6mIufdqA",
       "published": "2026-06-06T17:30:39+00:00",
