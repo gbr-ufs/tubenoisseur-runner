@@ -78,6 +78,7 @@ Top Sources:
 - odin-lang.org = 1
 - pagure.io = 1
 - pinheiro-kde.blogspot.com = 1
+- pointieststick.com = 1
 - prayag2.github.io = 1
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
@@ -101,6 +102,15 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Nobody Understands LTS Linux Distros
+
+- ID: mawalnYGQkA
+- Published: 2026-06-08T17:30:24+00:00
+
+### References
+
+- https://pointieststick.com/2026/05/23/long-term-support-doesnt-mean-what-you-think/
 
 ## Even More Dumb Software Licenses
 
