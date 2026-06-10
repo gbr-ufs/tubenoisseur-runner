@@ -4,14 +4,15 @@ Top Sources:
 
 - github.com = 38
 - x.com = 11
+- www.sovereign.tech = 7
+- blogs.gnome.org = 6
 - news.ycombinator.com = 6
 - gitlab.gnome.org = 5
 - lore.kernel.org = 5
-- www.sovereign.tech = 5
 - gitlab.freedesktop.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
-- blogs.gnome.org = 3
+- discourse.gnome.org = 3
 - filipfila.wordpress.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
@@ -42,6 +43,7 @@ Top Sources:
 - blog.davidedmundson.co.uk = 1
 - blog.myli.page = 1
 - blog.orhun.dev = 1
+- blog.sonny.re = 1
 - blogs.kde.org = 1
 - brodierobertson.dev = 1
 - bugs.kde.org = 1
@@ -53,7 +55,6 @@ Top Sources:
 - develop.kde.org = 1
 - devuanusers.com = 1
 - discord.com = 1
-- discourse.gnome.org = 1
 - discuss.kde.org = 1
 - discussion.fedoraproject.org = 1
 - excalidraw.com = 1
@@ -70,6 +71,7 @@ Top Sources:
 - mailarchive.ietf.org = 1
 - man7.org = 1
 - mastodon.gamedev.place = 1
+- mastodon.social = 1
 - mitchellh.com = 1
 - mrshu.github.io = 1
 - mstdn.social = 1
@@ -102,6 +104,23 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## GNOME Board Bans Sonny Piers, He Reveals Everything
+
+- ID: 36pHSM0mzXE
+- Published: 2026-06-09T18:47:18+00:00
+
+### References
+
+- https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201
+- https://blog.sonny.re/retrospective-as-gnome-director
+- https://blogs.gnome.org/steven/2026/05/31/stay-and-fight/
+- https://discourse.gnome.org/t/2026-board-candidate-robert-mcqueen/35308
+- https://www.sovereign.tech/tech/gnome
+- https://www.sovereign.tech/tech/kde
+- https://mastodon.social/@tbernard/113792715412102767
+- https://blogs.gnome.org/foundation/2024/07/12/gnome-foundation-announces-transition-of-executive-director/
+- https://blogs.gnome.org/aday/2025/08/29/thanks-and-farewell-to-steven-deobald/
 
 ## Nobody Understands LTS Linux Distros
 
