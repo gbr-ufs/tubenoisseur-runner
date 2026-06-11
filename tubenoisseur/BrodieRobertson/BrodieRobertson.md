@@ -16,6 +16,7 @@ Top Sources:
 - filipfila.wordpress.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
+- bugs.launchpad.net = 2
 - chromium-review.googlesource.com = 2
 - daniel.haxx.se = 2
 - en.wikipedia.org = 2
@@ -38,6 +39,7 @@ Top Sources:
 - www.phoronix.com = 2
 - access.redhat.com = 1
 - apps.kde.org = 1
+- aur.archlinux.org = 1
 - bazzite.gg = 1
 - bbs.deepin.org = 1
 - blog.davidedmundson.co.uk = 1
@@ -61,6 +63,7 @@ Top Sources:
 - fedoraproject.org = 1
 - flutter.dev = 1
 - forge.fedoraproject.org = 1
+- forums.linuxmint.com = 1
 - gitlab.com = 1
 - gjs.guide = 1
 - hachyderm.io = 1
@@ -104,6 +107,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Ubuntu LTS Randomly Dropped Support For Nvidia Kepler GPUs
+
+- ID: nwHjVOcUMaw
+- Published: 2026-06-10T17:30:12+00:00
+
+### References
+
+- https://aur.archlinux.org/packages/nvidia-470xx-dkms
+- https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338
+- https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202
+- https://forums.linuxmint.com/viewtopic.php?t=469946
 
 ## GNOME Board Bans Sonny Piers, He Reveals Everything
 

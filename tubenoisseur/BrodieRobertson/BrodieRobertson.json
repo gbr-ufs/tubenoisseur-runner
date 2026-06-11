@@ -3,6 +3,7 @@
   "domainCounts": {
     "access.redhat.com": 1,
     "apps.kde.org": 1,
+    "aur.archlinux.org": 1,
     "bazzite.gg": 1,
     "bbs.deepin.org": 1,
     "blog.davidedmundson.co.uk": 1,
@@ -13,6 +14,7 @@
     "blogs.kde.org": 1,
     "brodierobertson.dev": 1,
     "bugs.kde.org": 1,
+    "bugs.launchpad.net": 2,
     "bugzilla.gnome.org": 1,
     "canonical.com": 1,
     "chromium-review.googlesource.com": 2,
@@ -32,6 +34,7 @@
     "filipfila.wordpress.com": 3,
     "flutter.dev": 1,
     "forge.fedoraproject.org": 1,
+    "forums.linuxmint.com": 1,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
     "github.com": 38,
@@ -111,8 +114,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "36pHSM0mzXE",
+  "lastVideoID": "nwHjVOcUMaw",
   "videos": [
+    {
+      "id": "nwHjVOcUMaw",
+      "published": "2026-06-10T17:30:12+00:00",
+      "title": "Ubuntu LTS Randomly Dropped Support For Nvidia Kepler GPUs",
+      "urls": [
+        "https://aur.archlinux.org/packages/nvidia-470xx-dkms",
+        "https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338",
+        "https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202",
+        "https://forums.linuxmint.com/viewtopic.php?t=469946"
+      ]
+    },
     {
       "id": "36pHSM0mzXE",
       "published": "2026-06-09T18:47:18+00:00",
