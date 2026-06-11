@@ -104,6 +104,14 @@ Top Sources:
 - zamundaaa.github.io = 1
 
 
+## How I customized my KDE Desktop: Auto tiling, theme, icons, layout, activites..
+
+- ID: UUn-7H35cFQ
+- Published: 2026-06-11T11:13:50+00:00
+
+### References
+
+
 ## Linux News - EU ditches Google Search, Brave's Paid browser, Ubuntu makes big moves
 
 - ID: CQ2Pb0YNeqE

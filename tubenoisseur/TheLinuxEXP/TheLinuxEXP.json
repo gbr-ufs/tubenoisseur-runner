@@ -116,8 +116,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "CQ2Pb0YNeqE",
+  "lastVideoID": "UUn-7H35cFQ",
   "videos": [
+    {
+      "id": "UUn-7H35cFQ",
+      "published": "2026-06-11T11:13:50+00:00",
+      "title": "How I customized my KDE Desktop: Auto tiling, theme, icons, layout, activites..",
+      "urls": []
+    },
     {
       "id": "CQ2Pb0YNeqE",
       "published": "2026-06-06T08:51:30+00:00",
