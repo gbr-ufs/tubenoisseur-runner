@@ -47,6 +47,7 @@ Top Sources:
 - blog.orhun.dev = 1
 - blog.sonny.re = 1
 - blogs.kde.org = 1
+- brave.com = 1
 - brodierobertson.dev = 1
 - bugs.kde.org = 1
 - bugzilla.gnome.org = 1
@@ -107,6 +108,15 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Brave Origin Charges You For A Problem Brave Created
+
+- ID: _Axl-_DG5eo
+- Published: 2026-06-11T17:30:24+00:00
+
+### References
+
+- https://brave.com/origin/
 
 ## Ubuntu LTS Randomly Dropped Support For Nvidia Kepler GPUs
 

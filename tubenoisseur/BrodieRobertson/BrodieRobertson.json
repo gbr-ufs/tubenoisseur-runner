@@ -12,6 +12,7 @@
     "blog.sonny.re": 1,
     "blogs.gnome.org": 6,
     "blogs.kde.org": 1,
+    "brave.com": 1,
     "brodierobertson.dev": 1,
     "bugs.kde.org": 1,
     "bugs.launchpad.net": 2,
@@ -114,8 +115,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "nwHjVOcUMaw",
+  "lastVideoID": "_Axl-_DG5eo",
   "videos": [
+    {
+      "id": "_Axl-_DG5eo",
+      "published": "2026-06-11T17:30:24+00:00",
+      "title": "Brave Origin Charges You For A Problem Brave Created",
+      "urls": [
+        "https://brave.com/origin/"
+      ]
+    },
     {
       "id": "nwHjVOcUMaw",
       "published": "2026-06-10T17:30:12+00:00",
