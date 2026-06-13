@@ -3,9 +3,10 @@
 Top Sources:
 
 - github.com = 38
-- x.com = 11
+- x.com = 12
 - www.sovereign.tech = 7
 - blogs.gnome.org = 6
+- lists.archlinux.org = 6
 - news.ycombinator.com = 6
 - gitlab.gnome.org = 5
 - lore.kernel.org = 5
@@ -58,6 +59,7 @@ Top Sources:
 - develop.kde.org = 1
 - devuanusers.com = 1
 - discord.com = 1
+- discuss.cachyos.org = 1
 - discuss.kde.org = 1
 - discussion.fedoraproject.org = 1
 - excalidraw.com = 1
@@ -69,6 +71,7 @@ Top Sources:
 - gjs.guide = 1
 - hachyderm.io = 1
 - invent.kde.org = 1
+- ioctl.fail = 1
 - linux.kde.org = 1
 - lists.fedoraproject.org = 1
 - lwn.net = 1
@@ -108,6 +111,23 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Massive AUR Malware Attack: DO NOT UPDATE
+
+- ID: WoxR7fGl4CI
+- Published: 2026-06-12T17:30:31+00:00
+
+### References
+
+- https://x.com/vxunderground/status/2065123579541238223
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/2LGBF2AZBPVCCY4VTN6DOVUNNBURFJ2J/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/CIKQJQI3AREXIR6IQVWPBYFJPYLM45EF/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L2JXQNYBGWOQQQXDEPEAICBHKFEFANUC/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/
+- https://discuss.cachyos.org/t/aur-compromised-400-packages-affected-20260611/31040
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WS2K2XGMLPBFZ3WGOPLF2UP32HZJ6ZSP/
+- https://ioctl.fail/preliminary-analysis-of-aur-malware/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/LB6TBHDXLQRPR4UVIQULCI6MZ77XYLL2/
 
 ## Brave Origin Charges You For A Problem Brave Created
 

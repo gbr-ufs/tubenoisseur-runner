@@ -27,6 +27,7 @@
     "devuanusers.com": 1,
     "discord.com": 1,
     "discourse.gnome.org": 3,
+    "discuss.cachyos.org": 1,
     "discuss.kde.org": 1,
     "discussion.fedoraproject.org": 1,
     "en.wikipedia.org": 2,
@@ -45,8 +46,10 @@
     "gjs.guide": 1,
     "hachyderm.io": 1,
     "invent.kde.org": 1,
+    "ioctl.fail": 1,
     "kde.org": 2,
     "linux.kde.org": 1,
+    "lists.archlinux.org": 6,
     "lists.fedoraproject.org": 1,
     "lore.kernel.org": 5,
     "lwn.net": 1,
@@ -102,7 +105,7 @@
     "www.techpowerup.com": 1,
     "www.theregister.com": 1,
     "www.wiz.io": 1,
-    "x.com": 11,
+    "x.com": 12,
     "xint.io": 1,
     "xkcd.com": 1,
     "youtu.be": 1
@@ -115,8 +118,24 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "_Axl-_DG5eo",
+  "lastVideoID": "WoxR7fGl4CI",
   "videos": [
+    {
+      "id": "WoxR7fGl4CI",
+      "published": "2026-06-12T17:30:31+00:00",
+      "title": "Massive AUR Malware Attack: DO NOT UPDATE",
+      "urls": [
+        "https://x.com/vxunderground/status/2065123579541238223",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/2LGBF2AZBPVCCY4VTN6DOVUNNBURFJ2J/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/CIKQJQI3AREXIR6IQVWPBYFJPYLM45EF/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L2JXQNYBGWOQQQXDEPEAICBHKFEFANUC/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/",
+        "https://discuss.cachyos.org/t/aur-compromised-400-packages-affected-20260611/31040",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WS2K2XGMLPBFZ3WGOPLF2UP32HZJ6ZSP/",
+        "https://ioctl.fail/preliminary-analysis-of-aur-malware/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/LB6TBHDXLQRPR4UVIQULCI6MZ77XYLL2/"
+      ]
+    },
     {
       "id": "_Axl-_DG5eo",
       "published": "2026-06-11T17:30:24+00:00",
