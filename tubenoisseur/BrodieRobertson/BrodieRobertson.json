@@ -6,12 +6,13 @@
     "aur.archlinux.org": 1,
     "bazzite.gg": 1,
     "bbs.deepin.org": 1,
-    "blog.davidedmundson.co.uk": 1,
+    "blog.davidedmundson.co.uk": 2,
     "blog.myli.page": 1,
     "blog.orhun.dev": 1,
     "blog.sonny.re": 1,
+    "blog.vladzahorodnii.com": 1,
     "blogs.gnome.org": 6,
-    "blogs.kde.org": 1,
+    "blogs.kde.org": 2,
     "brave.com": 1,
     "brodierobertson.dev": 1,
     "bugs.kde.org": 1,
@@ -23,6 +24,7 @@
     "copy.fail": 1,
     "cybernews.com": 1,
     "daniel.haxx.se": 2,
+    "desktopsummit.org": 1,
     "develop.kde.org": 1,
     "devuanusers.com": 1,
     "discord.com": 1,
@@ -41,7 +43,7 @@
     "git.kernel.org": 2,
     "github.com": 38,
     "gitlab.com": 1,
-    "gitlab.freedesktop.org": 4,
+    "gitlab.freedesktop.org": 5,
     "gitlab.gnome.org": 5,
     "gjs.guide": 1,
     "hachyderm.io": 1,
@@ -118,8 +120,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "WoxR7fGl4CI",
+  "lastVideoID": "gXQLC3Sontc",
   "videos": [
+    {
+      "id": "gXQLC3Sontc",
+      "published": "2026-06-13T17:30:17+00:00",
+      "title": "KDE Plasma 6.7: The Final Release Before X11 Is GONE",
+      "urls": [
+        "https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a",
+        "https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf",
+        "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
+        "https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/",
+        "https://blog.davidedmundson.co.uk/blog/596/"
+      ]
+    },
     {
       "id": "WoxR7fGl4CI",
       "published": "2026-06-12T17:30:31+00:00",

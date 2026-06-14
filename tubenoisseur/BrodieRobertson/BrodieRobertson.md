@@ -8,15 +8,17 @@ Top Sources:
 - blogs.gnome.org = 6
 - lists.archlinux.org = 6
 - news.ycombinator.com = 6
+- gitlab.freedesktop.org = 5
 - gitlab.gnome.org = 5
 - lore.kernel.org = 5
-- gitlab.freedesktop.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
 - discourse.gnome.org = 3
 - filipfila.wordpress.com = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
+- blog.davidedmundson.co.uk = 2
+- blogs.kde.org = 2
 - bugs.launchpad.net = 2
 - chromium-review.googlesource.com = 2
 - daniel.haxx.se = 2
@@ -43,11 +45,10 @@ Top Sources:
 - aur.archlinux.org = 1
 - bazzite.gg = 1
 - bbs.deepin.org = 1
-- blog.davidedmundson.co.uk = 1
 - blog.myli.page = 1
 - blog.orhun.dev = 1
 - blog.sonny.re = 1
-- blogs.kde.org = 1
+- blog.vladzahorodnii.com = 1
 - brave.com = 1
 - brodierobertson.dev = 1
 - bugs.kde.org = 1
@@ -56,6 +57,7 @@ Top Sources:
 - conf.kde.org = 1
 - copy.fail = 1
 - cybernews.com = 1
+- desktopsummit.org = 1
 - develop.kde.org = 1
 - devuanusers.com = 1
 - discord.com = 1
@@ -111,6 +113,19 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## KDE Plasma 6.7: The Final Release Before X11 Is GONE
+
+- ID: gXQLC3Sontc
+- Published: 2026-06-13T17:30:17+00:00
+
+### References
+
+- https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a
+- https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf
+- https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/
+- https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/
+- https://blog.davidedmundson.co.uk/blog/596/
 
 ## Massive AUR Malware Attack: DO NOT UPDATE
 
