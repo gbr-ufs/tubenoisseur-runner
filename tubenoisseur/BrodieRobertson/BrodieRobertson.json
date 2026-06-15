@@ -120,8 +120,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "gXQLC3Sontc",
+  "lastVideoID": "BBwZs0lxeNk",
   "videos": [
+    {
+      "id": "BBwZs0lxeNk",
+      "published": "2026-06-14T17:30:02+00:00",
+      "title": "It's Finally The Year Of The Linux Desktop | LTT Linux Challenge React",
+      "urls": []
+    },
     {
       "id": "gXQLC3Sontc",
       "published": "2026-06-13T17:30:17+00:00",

@@ -114,6 +114,14 @@ Top Sources:
 - youtu.be = 1
 
 
+## It's Finally The Year Of The Linux Desktop | LTT Linux Challenge React
+
+- ID: BBwZs0lxeNk
+- Published: 2026-06-14T17:30:02+00:00
+
+### References
+
+
 ## KDE Plasma 6.7: The Final Release Before X11 Is GONE
 
 - ID: gXQLC3Sontc
