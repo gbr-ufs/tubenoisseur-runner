@@ -3,7 +3,7 @@
 Top Sources:
 
 - github.com = 38
-- x.com = 12
+- x.com = 14
 - www.sovereign.tech = 7
 - blogs.gnome.org = 6
 - lists.archlinux.org = 6
@@ -15,6 +15,7 @@ Top Sources:
 - www.reddit.com = 4
 - discourse.gnome.org = 3
 - filipfila.wordpress.com = 3
+- ladybird.org = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
 - blog.davidedmundson.co.uk = 2
@@ -94,6 +95,7 @@ Top Sources:
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
 - security.opensuse.org = 1
+- servo.org = 1
 - snapcraft.io = 1
 - usbguard.github.io = 1
 - www.8bitdo.com = 1
@@ -113,6 +115,20 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Ladybird Browser Stops Accepting Public Pull Requests
+
+- ID: dFnZyoLXVa4
+- Published: 2026-06-15T17:30:03+00:00
+
+### References
+
+- https://ladybird.org/
+- https://servo.org/
+- https://ladybird.org/posts/adopting-rust/
+- https://x.com/awesomekling/status/2063559555515117691
+- https://x.com/ladybirdbrowser/status/2062794886626078923
+- https://ladybird.org/posts/changing-how-we-develop-ladybird/
 
 ## It's Finally The Year Of The Linux Desktop | LTT Linux Challenge React
 

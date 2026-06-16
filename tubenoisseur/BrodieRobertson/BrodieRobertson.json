@@ -50,6 +50,7 @@
     "invent.kde.org": 1,
     "ioctl.fail": 1,
     "kde.org": 2,
+    "ladybird.org": 3,
     "linux.kde.org": 1,
     "lists.archlinux.org": 6,
     "lists.fedoraproject.org": 1,
@@ -74,6 +75,7 @@
     "ratty-term.org": 1,
     "security-tracker.debian.org": 1,
     "security.opensuse.org": 1,
+    "servo.org": 1,
     "snapcraft.io": 1,
     "social.treehouse.systems": 2,
     "status.denic.de": 2,
@@ -107,7 +109,7 @@
     "www.techpowerup.com": 1,
     "www.theregister.com": 1,
     "www.wiz.io": 1,
-    "x.com": 12,
+    "x.com": 14,
     "xint.io": 1,
     "xkcd.com": 1,
     "youtu.be": 1
@@ -120,8 +122,21 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "BBwZs0lxeNk",
+  "lastVideoID": "dFnZyoLXVa4",
   "videos": [
+    {
+      "id": "dFnZyoLXVa4",
+      "published": "2026-06-15T17:30:03+00:00",
+      "title": "Ladybird Browser Stops Accepting Public Pull Requests",
+      "urls": [
+        "https://ladybird.org/",
+        "https://servo.org/",
+        "https://ladybird.org/posts/adopting-rust/",
+        "https://x.com/awesomekling/status/2063559555515117691",
+        "https://x.com/ladybirdbrowser/status/2062794886626078923",
+        "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
+      ]
+    },
     {
       "id": "BBwZs0lxeNk",
       "published": "2026-06-14T17:30:02+00:00",
