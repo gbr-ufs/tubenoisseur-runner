@@ -104,6 +104,14 @@ Top Sources:
 - zamundaaa.github.io = 1
 
 
+## KDE Plasma 6.7 review: still the best Linux Desktop IMO
+
+- ID: 5qJSapprdSQ
+- Published: 2026-06-16T11:11:56+00:00
+
+### References
+
+
 ## How I customized my KDE Desktop: Auto tiling, theme, icons, layout, activites..
 
 - ID: UUn-7H35cFQ

@@ -116,8 +116,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "UUn-7H35cFQ",
+  "lastVideoID": "5qJSapprdSQ",
   "videos": [
+    {
+      "id": "5qJSapprdSQ",
+      "published": "2026-06-16T11:11:56+00:00",
+      "title": "KDE Plasma 6.7 review: still the best Linux Desktop IMO",
+      "urls": []
+    },
     {
       "id": "UUn-7H35cFQ",
       "published": "2026-06-11T11:13:50+00:00",
