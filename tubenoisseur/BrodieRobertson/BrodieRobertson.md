@@ -4,15 +4,16 @@ Top Sources:
 
 - github.com = 38
 - x.com = 14
+- lists.archlinux.org = 11
 - www.sovereign.tech = 7
 - blogs.gnome.org = 6
-- lists.archlinux.org = 6
 - news.ycombinator.com = 6
 - gitlab.freedesktop.org = 5
 - gitlab.gnome.org = 5
 - lore.kernel.org = 5
 - www.ietf.org = 4
 - www.reddit.com = 4
+- aur.archlinux.org = 3
 - discourse.gnome.org = 3
 - filipfila.wordpress.com = 3
 - ladybird.org = 3
@@ -26,6 +27,7 @@ Top Sources:
 - en.wikipedia.org = 2
 - git.devuan.org = 2
 - git.kernel.org = 2
+- ioctl.fail = 2
 - kde.org = 2
 - quantumproductions.info = 2
 - social.treehouse.systems = 2
@@ -43,7 +45,7 @@ Top Sources:
 - www.phoronix.com = 2
 - access.redhat.com = 1
 - apps.kde.org = 1
-- aur.archlinux.org = 1
+- archlinux.org = 1
 - bazzite.gg = 1
 - bbs.deepin.org = 1
 - blog.myli.page = 1
@@ -74,7 +76,6 @@ Top Sources:
 - gjs.guide = 1
 - hachyderm.io = 1
 - invent.kde.org = 1
-- ioctl.fail = 1
 - linux.kde.org = 1
 - lists.fedoraproject.org = 1
 - lwn.net = 1
@@ -82,6 +83,7 @@ Top Sources:
 - man7.org = 1
 - mastodon.gamedev.place = 1
 - mastodon.social = 1
+- md.archlinux.org = 1
 - mitchellh.com = 1
 - mrshu.github.io = 1
 - mstdn.social = 1
@@ -115,6 +117,24 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## The AUR Malware Attack Never Stopped
+
+- ID: VeudOzqpHHs
+- Published: 2026-06-16T17:30:08+00:00
+
+### References
+
+- https://md.archlinux.org/s/SxbqukK6IA#
+- https://ioctl.fail/preliminary-analysis-of-aur-malware/
+- https://archlinux.org/news/active-aur-malicious-packages-incident/
+- https://aur.archlinux.org/cgit/aur.git/commit/?h=hack-browser-data-git&id=191ddf65e0337ee9df30d7e643fc13f6cea3f30d
+- https://aur.archlinux.org/cgit/aur.git/commit/PKGBUILD?h=gtk2%2bextra&id=424199b8cc09ff19fc8043bf0e017d1219c66654
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FEQAUX55CKTWAGSYQKQY5ZMPWNUW7UXM/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/ASQP7CC4EOMEG7GASDHJBZEINBEQKD65/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/E26JEFVSR6YG4GBQUZYDMWYCXD7S7N5V/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DWY3WBOI3QM3MVUTPOTSQAW7D47ATG2T/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/NCLGU23LSLOFXMBGG7HH67EWDZC2TJB3/
 
 ## Ladybird Browser Stops Accepting Public Pull Requests
 

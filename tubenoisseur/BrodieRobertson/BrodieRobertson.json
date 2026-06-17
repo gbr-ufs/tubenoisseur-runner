@@ -3,7 +3,8 @@
   "domainCounts": {
     "access.redhat.com": 1,
     "apps.kde.org": 1,
-    "aur.archlinux.org": 1,
+    "archlinux.org": 1,
+    "aur.archlinux.org": 3,
     "bazzite.gg": 1,
     "bbs.deepin.org": 1,
     "blog.davidedmundson.co.uk": 2,
@@ -48,11 +49,11 @@
     "gjs.guide": 1,
     "hachyderm.io": 1,
     "invent.kde.org": 1,
-    "ioctl.fail": 1,
+    "ioctl.fail": 2,
     "kde.org": 2,
     "ladybird.org": 3,
     "linux.kde.org": 1,
-    "lists.archlinux.org": 6,
+    "lists.archlinux.org": 11,
     "lists.fedoraproject.org": 1,
     "lore.kernel.org": 5,
     "lwn.net": 1,
@@ -60,6 +61,7 @@
     "man7.org": 1,
     "mastodon.gamedev.place": 1,
     "mastodon.social": 1,
+    "md.archlinux.org": 1,
     "mitchellh.com": 1,
     "mrshu.github.io": 1,
     "mstdn.social": 1,
@@ -122,8 +124,25 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "dFnZyoLXVa4",
+  "lastVideoID": "VeudOzqpHHs",
   "videos": [
+    {
+      "id": "VeudOzqpHHs",
+      "published": "2026-06-16T17:30:08+00:00",
+      "title": "The AUR Malware Attack Never Stopped",
+      "urls": [
+        "https://md.archlinux.org/s/SxbqukK6IA#",
+        "https://ioctl.fail/preliminary-analysis-of-aur-malware/",
+        "https://archlinux.org/news/active-aur-malicious-packages-incident/",
+        "https://aur.archlinux.org/cgit/aur.git/commit/?h=hack-browser-data-git\u0026id=191ddf65e0337ee9df30d7e643fc13f6cea3f30d",
+        "https://aur.archlinux.org/cgit/aur.git/commit/PKGBUILD?h=gtk2%2bextra\u0026id=424199b8cc09ff19fc8043bf0e017d1219c66654",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FEQAUX55CKTWAGSYQKQY5ZMPWNUW7UXM/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/ASQP7CC4EOMEG7GASDHJBZEINBEQKD65/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/E26JEFVSR6YG4GBQUZYDMWYCXD7S7N5V/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DWY3WBOI3QM3MVUTPOTSQAW7D47ATG2T/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/NCLGU23LSLOFXMBGG7HH67EWDZC2TJB3/"
+      ]
+    },
     {
       "id": "dFnZyoLXVa4",
       "published": "2026-06-15T17:30:03+00:00",
