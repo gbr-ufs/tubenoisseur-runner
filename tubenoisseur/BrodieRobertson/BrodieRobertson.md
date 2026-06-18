@@ -10,17 +10,18 @@ Top Sources:
 - news.ycombinator.com = 6
 - gitlab.freedesktop.org = 5
 - gitlab.gnome.org = 5
+- kde.org = 5
 - lore.kernel.org = 5
 - www.ietf.org = 4
 - www.reddit.com = 4
 - aur.archlinux.org = 3
+- blogs.kde.org = 3
 - discourse.gnome.org = 3
 - filipfila.wordpress.com = 3
 - ladybird.org = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
 - blog.davidedmundson.co.uk = 2
-- blogs.kde.org = 2
 - bugs.launchpad.net = 2
 - chromium-review.googlesource.com = 2
 - daniel.haxx.se = 2
@@ -28,7 +29,6 @@ Top Sources:
 - git.devuan.org = 2
 - git.kernel.org = 2
 - ioctl.fail = 2
-- kde.org = 2
 - quantumproductions.info = 2
 - social.treehouse.systems = 2
 - status.denic.de = 2
@@ -117,6 +117,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## KDE Plasma 6.7 Has Finally Come
+
+- ID: tgyxIC3J8cs
+- Published: 2026-06-17T17:30:31+00:00
+
+### References
+
+- https://kde.org/donate/
+- https://blogs.kde.org/categories/this-week-in-plasma/
+- https://kde.org/announcements/changelogs/plasma/6/6.6.5-6.7.0/
+- https://kde.org/announcements/plasma/6/6.7.0/
 
 ## The AUR Malware Attack Never Stopped
 

@@ -13,7 +13,7 @@
     "blog.sonny.re": 1,
     "blog.vladzahorodnii.com": 1,
     "blogs.gnome.org": 6,
-    "blogs.kde.org": 2,
+    "blogs.kde.org": 3,
     "brave.com": 1,
     "brodierobertson.dev": 1,
     "bugs.kde.org": 1,
@@ -50,7 +50,7 @@
     "hachyderm.io": 1,
     "invent.kde.org": 1,
     "ioctl.fail": 2,
-    "kde.org": 2,
+    "kde.org": 5,
     "ladybird.org": 3,
     "linux.kde.org": 1,
     "lists.archlinux.org": 11,
@@ -124,8 +124,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "VeudOzqpHHs",
+  "lastVideoID": "tgyxIC3J8cs",
   "videos": [
+    {
+      "id": "tgyxIC3J8cs",
+      "published": "2026-06-17T17:30:31+00:00",
+      "title": "KDE Plasma 6.7 Has Finally Come",
+      "urls": [
+        "https://kde.org/donate/",
+        "https://blogs.kde.org/categories/this-week-in-plasma/",
+        "https://kde.org/announcements/changelogs/plasma/6/6.6.5-6.7.0/",
+        "https://kde.org/announcements/plasma/6/6.7.0/"
+      ]
+    },
     {
       "id": "VeudOzqpHHs",
       "published": "2026-06-16T17:30:08+00:00",
