@@ -15,13 +15,13 @@ Top Sources:
 - www.ietf.org = 4
 - www.reddit.com = 4
 - aur.archlinux.org = 3
+- blog.davidedmundson.co.uk = 3
 - blogs.kde.org = 3
 - discourse.gnome.org = 3
 - filipfila.wordpress.com = 3
 - ladybird.org = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
-- blog.davidedmundson.co.uk = 2
 - bugs.launchpad.net = 2
 - chromium-review.googlesource.com = 2
 - daniel.haxx.se = 2
@@ -84,6 +84,7 @@ Top Sources:
 - mastodon.gamedev.place = 1
 - mastodon.social = 1
 - md.archlinux.org = 1
+- medium.com = 1
 - mitchellh.com = 1
 - mrshu.github.io = 1
 - mstdn.social = 1
@@ -117,6 +118,16 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Tridge Responds To The Claimed Rsync AI Caused Regressions
+
+- ID: d7MTYqID8VY
+- Published: 2026-06-18T17:30:02+00:00
+
+### References
+
+- https://blog.davidedmundson.co.uk/blog/596/
+- https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0
 
 ## KDE Plasma 6.7 Has Finally Come
 
