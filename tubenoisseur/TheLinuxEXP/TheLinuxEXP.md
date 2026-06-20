@@ -2,27 +2,28 @@
 
 Top Sources:
 
-- www.phoronix.com = 21
-- itsfoss.com = 18
-- www.gamingonlinux.com = 14
-- linuxiac.com = 13
-- www.omgubuntu.co.uk = 12
+- www.phoronix.com = 23
+- itsfoss.com = 20
+- linuxiac.com = 15
+- www.gamingonlinux.com = 15
+- www.omgubuntu.co.uk = 13
 - github.com = 11
 - www.techradar.com = 9
-- discourse.ubuntu.com = 5
+- discourse.ubuntu.com = 6
+- blog.mozilla.org = 5
 - arstechnica.com = 4
-- blog.mozilla.org = 4
 - fedoramagazine.org = 4
 - proton.me = 4
 - 9to5linux.com = 3
 - blog.documentfoundation.org = 3
 - discussion.fedoraproject.org = 3
+- youtu.be = 3
 - blog.linuxmint.com = 2
 - blogs.gnome.org = 2
 - community.kde.org = 2
+- www.firefox.com = 2
 - www.neowin.net = 2
 - www.politico.eu = 2
-- youtu.be = 2
 - abstract3d.com = 1
 - almalinux.org = 1
 - anditosan.wordpress.com = 1
@@ -37,6 +38,7 @@ Top Sources:
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
 - devices.ubuntu-touch.io = 1
+- discourse.gnome.org = 1
 - documentation.ubuntu.com = 1
 - en.ubunlog.com = 1
 - filipfila.wordpress.com = 1
@@ -81,7 +83,6 @@ Top Sources:
 - www.collaboraonline.com = 1
 - www.digitalfoundry.net = 1
 - www.dw.com = 1
-- www.firefox.com = 1
 - www.fsf.org = 1
 - www.heise.de = 1
 - www.ign.com = 1
@@ -93,6 +94,7 @@ Top Sources:
 - www.pcworld.com = 1
 - www.reuters.com = 1
 - www.soeren-hentzschel.at = 1
+- www.sonatype.com = 1
 - www.thatprivacyguy.com = 1
 - www.theregister.com = 1
 - www.theverge.com = 1
@@ -103,6 +105,28 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Linux Weekly News - GNOME Foundation issues, AUR under attack, Firefox's big plans
+
+- ID: gxzle1WPTos
+- Published: 2026-06-20T08:36:08+00:00
+
+### References
+
+- https://discourse.gnome.org/t/2026-board-candidate-robert-mcqueen/35308/31
+- https://www.sonatype.com/blog/atomic-arch-npm-campaign-adds-malicious-dependency
+- https://linuxiac.com/yay-13-0-adds-new-review-and-automation-features/
+- https://www.phoronix.com/news/Arch-Linux-AUR-Russian-Spam
+- https://blog.mozilla.org/en/firefox/firefox-roadmap-152/
+- https://www.firefox.com/en-US/whatsnext/
+- https://itsfoss.com/news/yserver/
+- https://www.phoronix.com/review/linux-71-features-changes
+- https://linuxiac.com/chrome-closes-another-door-on-classic-ublock-origin/
+- https://www.omgubuntu.co.uk/2026/06/mozilla-firefox-android-google-play-integrity
+- https://youtu.be/5qJSapprdSQ
+- https://itsfoss.com/sonicde-x11-kde-plasma-fork/
+- https://discourse.ubuntu.com/t/introducing-myna-speech-to-text-for-ubuntu-desktop/84251
+- https://www.gamingonlinux.com/2026/06/european-commission-rejects-new-laws-for-stop-destroying-videogames/
 
 ## KDE Plasma 6.7 review: still the best Linux Desktop IMO
 
