@@ -12,6 +12,7 @@ Top Sources:
 - gitlab.gnome.org = 5
 - kde.org = 5
 - lore.kernel.org = 5
+- wiki.archlinux.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
 - aur.archlinux.org = 3
@@ -35,7 +36,6 @@ Top Sources:
 - store.steampowered.com = 2
 - ubuntu.com = 2
 - web.archive.org = 2
-- wiki.archlinux.org = 2
 - wiki.gnome.org = 2
 - www.anthropic.com = 2
 - www.cloudflare.com = 2
@@ -118,6 +118,16 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Stay Safe On The AUR In The Face Of Arch Linux Malware
+
+- ID: VR20JYYXH6Q
+- Published: 2026-06-20T17:30:08+00:00
+
+### References
+
+- https://wiki.archlinux.org/title/Arch_User_Repository
+- https://wiki.archlinux.org/title/Creating_package
 
 ## Tridge Responds To The Claimed Rsync AI Caused Regressions
 
