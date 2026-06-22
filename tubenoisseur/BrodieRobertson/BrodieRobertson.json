@@ -67,6 +67,7 @@
     "mrshu.github.io": 1,
     "mstdn.social": 1,
     "my.devsuite.app": 1,
+    "newgtldprogram.icann.org": 1,
     "news.ycombinator.com": 6,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
@@ -89,10 +90,12 @@
     "web.archive.org": 2,
     "wiki.archlinux.org": 4,
     "wiki.gnome.org": 2,
+    "wiki.opennic.org": 1,
     "www.8bitdo.com": 1,
     "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
+    "www.dotfurry.org": 1,
     "www.gamingonlinux.com": 1,
     "www.githubstatus.com": 1,
     "www.guru3d.com": 1,
@@ -125,8 +128,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "VR20JYYXH6Q",
+  "lastVideoID": "uswAKkgmllA",
   "videos": [
+    {
+      "id": "uswAKkgmllA",
+      "published": "2026-06-21T17:30:38+00:00",
+      "title": "The Weird World Of Alternate Root DNS",
+      "urls": [
+        "https://www.dotfurry.org/",
+        "https://newgtldprogram.icann.org/en/application-rounds/round2/asp",
+        "https://wiki.opennic.org/opennic/dot"
+      ]
+    },
     {
       "id": "VR20JYYXH6Q",
       "published": "2026-06-20T17:30:08+00:00",

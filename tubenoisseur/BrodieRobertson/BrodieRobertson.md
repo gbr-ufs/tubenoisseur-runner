@@ -89,6 +89,7 @@ Top Sources:
 - mrshu.github.io = 1
 - mstdn.social = 1
 - my.devsuite.app = 1
+- newgtldprogram.icann.org = 1
 - nobaraproject.org = 1
 - odin-lang.org = 1
 - pagure.io = 1
@@ -101,8 +102,10 @@ Top Sources:
 - servo.org = 1
 - snapcraft.io = 1
 - usbguard.github.io = 1
+- wiki.opennic.org = 1
 - www.8bitdo.com = 1
 - www.cloudflarestatus.com = 1
+- www.dotfurry.org = 1
 - www.gamingonlinux.com = 1
 - www.githubstatus.com = 1
 - www.guru3d.com = 1
@@ -118,6 +121,17 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## The Weird World Of Alternate Root DNS
+
+- ID: uswAKkgmllA
+- Published: 2026-06-21T17:30:38+00:00
+
+### References
+
+- https://www.dotfurry.org/
+- https://newgtldprogram.icann.org/en/application-rounds/round2/asp
+- https://wiki.opennic.org/opennic/dot
 
 ## Stay Safe On The AUR In The Face Of Arch Linux Malware
 
