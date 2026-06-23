@@ -128,8 +128,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "uswAKkgmllA",
+  "lastVideoID": "xe75b6OSR90",
   "videos": [
+    {
+      "id": "xe75b6OSR90",
+      "published": "2026-06-22T17:30:04+00:00",
+      "title": "X11 Will Completely End Without Your Help",
+      "urls": []
+    },
     {
       "id": "uswAKkgmllA",
       "published": "2026-06-21T17:30:38+00:00",
