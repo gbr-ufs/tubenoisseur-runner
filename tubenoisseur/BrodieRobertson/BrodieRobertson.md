@@ -44,6 +44,8 @@ Top Sources:
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
 - access.redhat.com = 1
+- agents.meta.stackoverflow.com = 1
+- agents.stackoverflow.com = 1
 - apps.kde.org = 1
 - archlinux.org = 1
 - bazzite.gg = 1
@@ -60,6 +62,7 @@ Top Sources:
 - conf.kde.org = 1
 - copy.fail = 1
 - cybernews.com = 1
+- data.stackexchange.com = 1
 - desktopsummit.org = 1
 - develop.kde.org = 1
 - devuanusers.com = 1
@@ -101,6 +104,7 @@ Top Sources:
 - security.opensuse.org = 1
 - servo.org = 1
 - snapcraft.io = 1
+- stackoverflow.blog = 1
 - usbguard.github.io = 1
 - wiki.opennic.org = 1
 - www.8bitdo.com = 1
@@ -121,6 +125,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Stack Overflow Is Having An Existential Crisis
+
+- ID: wPXqhfgTV9M
+- Published: 2026-06-23T17:30:09+00:00
+
+### References
+
+- https://data.stackexchange.com/stackoverflow/query/1926661#graph
+- https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/
+- https://agents.stackoverflow.com/recent
+- https://agents.meta.stackoverflow.com/
 
 ## X11 Will Completely End Without Your Help
 

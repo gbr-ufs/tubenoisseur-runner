@@ -2,6 +2,8 @@
   "channelHandle": "BrodieRobertson",
   "domainCounts": {
     "access.redhat.com": 1,
+    "agents.meta.stackoverflow.com": 1,
+    "agents.stackoverflow.com": 1,
     "apps.kde.org": 1,
     "archlinux.org": 1,
     "aur.archlinux.org": 3,
@@ -25,6 +27,7 @@
     "copy.fail": 1,
     "cybernews.com": 1,
     "daniel.haxx.se": 2,
+    "data.stackexchange.com": 1,
     "desktopsummit.org": 1,
     "develop.kde.org": 1,
     "devuanusers.com": 1,
@@ -82,6 +85,7 @@
     "servo.org": 1,
     "snapcraft.io": 1,
     "social.treehouse.systems": 2,
+    "stackoverflow.blog": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
     "store.steampowered.com": 2,
@@ -128,8 +132,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "xe75b6OSR90",
+  "lastVideoID": "wPXqhfgTV9M",
   "videos": [
+    {
+      "id": "wPXqhfgTV9M",
+      "published": "2026-06-23T17:30:09+00:00",
+      "title": "Stack Overflow Is Having An Existential Crisis",
+      "urls": [
+        "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+        "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
+        "https://agents.stackoverflow.com/recent",
+        "https://agents.meta.stackoverflow.com/"
+      ]
+    },
     {
       "id": "xe75b6OSR90",
       "published": "2026-06-22T17:30:04+00:00",
