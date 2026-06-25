@@ -88,10 +88,10 @@
     "stackoverflow.blog": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
-    "store.steampowered.com": 2,
+    "store.steampowered.com": 3,
     "ubuntu.com": 2,
     "usbguard.github.io": 1,
-    "web.archive.org": 2,
+    "web.archive.org": 3,
     "wiki.archlinux.org": 4,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 1,
@@ -132,8 +132,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "wPXqhfgTV9M",
+  "lastVideoID": "iWcFXmnPYoQ",
   "videos": [
+    {
+      "id": "iWcFXmnPYoQ",
+      "published": "2026-06-24T17:30:15+00:00",
+      "title": "I was wrong about SteamOS",
+      "urls": [
+        "https://web.archive.org/web/20260623000206/https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+        "https://store.steampowered.com/news/app/1675200/view/697641379212298072"
+      ]
+    },
     {
       "id": "wPXqhfgTV9M",
       "published": "2026-06-23T17:30:09+00:00",

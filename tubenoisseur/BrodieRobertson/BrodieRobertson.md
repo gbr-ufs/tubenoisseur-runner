@@ -22,6 +22,8 @@ Top Sources:
 - filipfila.wordpress.com = 3
 - ladybird.org = 3
 - steambrew.app = 3
+- store.steampowered.com = 3
+- web.archive.org = 3
 - www.rfc-editor.org = 3
 - bugs.launchpad.net = 2
 - chromium-review.googlesource.com = 2
@@ -33,9 +35,7 @@ Top Sources:
 - quantumproductions.info = 2
 - social.treehouse.systems = 2
 - status.denic.de = 2
-- store.steampowered.com = 2
 - ubuntu.com = 2
-- web.archive.org = 2
 - wiki.gnome.org = 2
 - www.anthropic.com = 2
 - www.cloudflare.com = 2
@@ -125,6 +125,16 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## I was wrong about SteamOS
+
+- ID: iWcFXmnPYoQ
+- Published: 2026-06-24T17:30:15+00:00
+
+### References
+
+- https://web.archive.org/web/20260623000206/https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
+- https://store.steampowered.com/news/app/1675200/view/697641379212298072
 
 ## Stack Overflow Is Having An Existential Crisis
 
