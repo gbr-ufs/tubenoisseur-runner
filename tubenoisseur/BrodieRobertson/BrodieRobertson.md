@@ -5,13 +5,14 @@ Top Sources:
 - github.com = 38
 - x.com = 14
 - lists.archlinux.org = 11
+- news.ycombinator.com = 7
 - www.sovereign.tech = 7
 - blogs.gnome.org = 6
-- news.ycombinator.com = 6
 - gitlab.freedesktop.org = 5
 - gitlab.gnome.org = 5
 - kde.org = 5
 - lore.kernel.org = 5
+- daniel.haxx.se = 4
 - wiki.archlinux.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
@@ -25,9 +26,9 @@ Top Sources:
 - store.steampowered.com = 3
 - web.archive.org = 3
 - www.rfc-editor.org = 3
+- brodierobertson.dev = 2
 - bugs.launchpad.net = 2
 - chromium-review.googlesource.com = 2
-- daniel.haxx.se = 2
 - en.wikipedia.org = 2
 - git.devuan.org = 2
 - git.kernel.org = 2
@@ -55,7 +56,6 @@ Top Sources:
 - blog.sonny.re = 1
 - blog.vladzahorodnii.com = 1
 - brave.com = 1
-- brodierobertson.dev = 1
 - bugs.kde.org = 1
 - bugzilla.gnome.org = 1
 - canonical.com = 1
@@ -125,6 +125,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## CURL Just Did Something We All Wish We Could
+
+- ID: h7h4dprHnBs
+- Published: 2026-06-25T17:30:12+00:00
+
+### References
+
+- https://brodierobertson.dev/blacksmith
+- https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/
+- https://daniel.haxx.se/blog/2026/05/26/the-pressure/
+- https://news.ycombinator.com/item?id=48537165
 
 ## I was wrong about SteamOS
 

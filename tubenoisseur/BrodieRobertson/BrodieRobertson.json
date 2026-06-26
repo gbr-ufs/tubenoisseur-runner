@@ -17,7 +17,7 @@
     "blogs.gnome.org": 6,
     "blogs.kde.org": 3,
     "brave.com": 1,
-    "brodierobertson.dev": 1,
+    "brodierobertson.dev": 2,
     "bugs.kde.org": 1,
     "bugs.launchpad.net": 2,
     "bugzilla.gnome.org": 1,
@@ -26,7 +26,7 @@
     "conf.kde.org": 1,
     "copy.fail": 1,
     "cybernews.com": 1,
-    "daniel.haxx.se": 2,
+    "daniel.haxx.se": 4,
     "data.stackexchange.com": 1,
     "desktopsummit.org": 1,
     "develop.kde.org": 1,
@@ -71,7 +71,7 @@
     "mstdn.social": 1,
     "my.devsuite.app": 1,
     "newgtldprogram.icann.org": 1,
-    "news.ycombinator.com": 6,
+    "news.ycombinator.com": 7,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
     "pagure.io": 1,
@@ -132,8 +132,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "iWcFXmnPYoQ",
+  "lastVideoID": "h7h4dprHnBs",
   "videos": [
+    {
+      "id": "h7h4dprHnBs",
+      "published": "2026-06-25T17:30:12+00:00",
+      "title": "CURL Just Did Something We All Wish We Could",
+      "urls": [
+        "https://brodierobertson.dev/blacksmith",
+        "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+        "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
+        "https://news.ycombinator.com/item?id=48537165"
+      ]
+    },
     {
       "id": "iWcFXmnPYoQ",
       "published": "2026-06-24T17:30:15+00:00",
