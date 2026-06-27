@@ -4,10 +4,10 @@ Top Sources:
 
 - www.phoronix.com = 23
 - itsfoss.com = 20
-- linuxiac.com = 15
+- linuxiac.com = 17
 - www.gamingonlinux.com = 15
-- www.omgubuntu.co.uk = 13
-- github.com = 11
+- www.omgubuntu.co.uk = 14
+- github.com = 13
 - www.techradar.com = 9
 - discourse.ubuntu.com = 6
 - blog.mozilla.org = 5
@@ -21,10 +21,14 @@ Top Sources:
 - blog.linuxmint.com = 2
 - blogs.gnome.org = 2
 - community.kde.org = 2
+- store.steampowered.com = 2
+- www.404media.co = 2
 - www.firefox.com = 2
 - www.neowin.net = 2
 - www.politico.eu = 2
+- www.theverge.com = 2
 - abstract3d.com = 1
+- aftermath.site = 1
 - almalinux.org = 1
 - anditosan.wordpress.com = 1
 - android-developers.googleblog.com = 1
@@ -50,6 +54,7 @@ Top Sources:
 - github.blog = 1
 - gitlab.freedesktop.org = 1
 - goodtech.info = 1
+- help.steampowered.com = 1
 - kde.org = 1
 - keepandroidopen.org = 1
 - lists.debian.org = 1
@@ -67,7 +72,6 @@ Top Sources:
 - rentry.org = 1
 - security.opensuse.org = 1
 - steamcommunity.com = 1
-- store.steampowered.com = 1
 - support.mozilla.org = 1
 - thecybersecguru.com = 1
 - tintotint.eu = 1
@@ -75,14 +79,16 @@ Top Sources:
 - vivaldi.com = 1
 - vng.nl = 1
 - winboat.app = 1
-- www.404media.co = 1
 - www.anthropic.com = 1
+- www.aswf.io = 1
 - www.bleepingcomputer.com = 1
 - www.blender.org = 1
+- www.cloudflare.com = 1
 - www.cnet.com = 1
 - www.collaboraonline.com = 1
 - www.digitalfoundry.net = 1
 - www.dw.com = 1
+- www.france24.com = 1
 - www.fsf.org = 1
 - www.heise.de = 1
 - www.ign.com = 1
@@ -93,11 +99,12 @@ Top Sources:
 - www.pcmag.com = 1
 - www.pcworld.com = 1
 - www.reuters.com = 1
+- www.rockpapershotgun.com = 1
 - www.soeren-hentzschel.at = 1
 - www.sonatype.com = 1
+- www.spurint.org = 1
 - www.thatprivacyguy.com = 1
 - www.theregister.com = 1
-- www.theverge.com = 1
 - www.thunderbolt.io = 1
 - www.tomshardware.com = 1
 - www.xda-developers.com = 1
@@ -105,6 +112,29 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Linux Weekly News - Steam machine disappointment, Epic made a Git competitor
+
+- ID: p5aE1FpFmtY
+- Published: 2026-06-27T09:35:43+00:00
+
+### References
+
+- https://store.steampowered.com/news/group/45479024/view/685257114654870245
+- https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
+- https://www.rockpapershotgun.com/steam-machine-review
+- https://aftermath.site/steam-machine-review-price/
+- https://help.steampowered.com/en/faqs/view/65B4-2AA3-5F37-4227
+- https://linuxiac.com/epic-games-open-sources-lore-version-control-system/
+- https://linuxiac.com/bcachefs-is-no-longer-experimental-but-caution-still-applies/
+- https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release
+- https://www.omgubuntu.co.uk/2026/06/cosmic-desktop-update-system-monitor
+- https://www.france24.com/en/live-news/20260622-wikipedia-won-t-let-ai-edit-articles-cofounder-says
+- https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/
+- https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/
+- https://www.aswf.io/blog/academy-software-foundation-launches-new-wayland-for-artists-working-group/
+- https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1
+- https://github.com/doitsujin/dxvk/releases/tag/v3.0
 
 ## Linux Weekly News - GNOME Foundation issues, AUR under attack, Firefox's big plans
 
