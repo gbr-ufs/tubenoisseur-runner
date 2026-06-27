@@ -2,24 +2,24 @@
   "channelHandle": "BrodieRobertson",
   "domainCounts": {
     "access.redhat.com": 1,
-    "agents.meta.stackoverflow.com": 1,
-    "agents.stackoverflow.com": 1,
+    "agents.meta.stackoverflow.com": 2,
+    "agents.stackoverflow.com": 2,
     "apps.kde.org": 1,
-    "archlinux.org": 1,
-    "aur.archlinux.org": 3,
+    "archlinux.org": 2,
+    "aur.archlinux.org": 6,
     "bazzite.gg": 1,
     "bbs.deepin.org": 1,
-    "blog.davidedmundson.co.uk": 3,
+    "blog.davidedmundson.co.uk": 5,
     "blog.myli.page": 1,
     "blog.orhun.dev": 1,
-    "blog.sonny.re": 1,
-    "blog.vladzahorodnii.com": 1,
-    "blogs.gnome.org": 6,
-    "blogs.kde.org": 3,
-    "brave.com": 1,
+    "blog.sonny.re": 2,
+    "blog.vladzahorodnii.com": 2,
+    "blogs.gnome.org": 9,
+    "blogs.kde.org": 5,
+    "brave.com": 2,
     "brodierobertson.dev": 2,
     "bugs.kde.org": 1,
-    "bugs.launchpad.net": 2,
+    "bugs.launchpad.net": 4,
     "bugzilla.gnome.org": 1,
     "canonical.com": 1,
     "chromium-review.googlesource.com": 2,
@@ -27,13 +27,13 @@
     "copy.fail": 1,
     "cybernews.com": 1,
     "daniel.haxx.se": 4,
-    "data.stackexchange.com": 1,
-    "desktopsummit.org": 1,
+    "data.stackexchange.com": 2,
+    "desktopsummit.org": 2,
     "develop.kde.org": 1,
     "devuanusers.com": 1,
     "discord.com": 1,
-    "discourse.gnome.org": 3,
-    "discuss.cachyos.org": 1,
+    "discourse.gnome.org": 5,
+    "discuss.cachyos.org": 2,
     "discuss.kde.org": 1,
     "discussion.fedoraproject.org": 1,
     "en.wikipedia.org": 2,
@@ -42,35 +42,35 @@
     "filipfila.wordpress.com": 3,
     "flutter.dev": 1,
     "forge.fedoraproject.org": 1,
-    "forums.linuxmint.com": 1,
+    "forums.linuxmint.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
     "github.com": 38,
     "gitlab.com": 1,
-    "gitlab.freedesktop.org": 5,
+    "gitlab.freedesktop.org": 6,
     "gitlab.gnome.org": 5,
     "gjs.guide": 1,
     "hachyderm.io": 1,
     "invent.kde.org": 1,
-    "ioctl.fail": 2,
-    "kde.org": 5,
-    "ladybird.org": 3,
+    "ioctl.fail": 4,
+    "kde.org": 8,
+    "ladybird.org": 6,
     "linux.kde.org": 1,
-    "lists.archlinux.org": 11,
+    "lists.archlinux.org": 22,
     "lists.fedoraproject.org": 1,
     "lore.kernel.org": 5,
     "lwn.net": 1,
     "mailarchive.ietf.org": 1,
     "man7.org": 1,
     "mastodon.gamedev.place": 1,
-    "mastodon.social": 1,
-    "md.archlinux.org": 1,
-    "medium.com": 1,
+    "mastodon.social": 2,
+    "md.archlinux.org": 2,
+    "medium.com": 2,
     "mitchellh.com": 1,
     "mrshu.github.io": 1,
     "mstdn.social": 1,
     "my.devsuite.app": 1,
-    "newgtldprogram.icann.org": 1,
+    "newgtldprogram.icann.org": 2,
     "news.ycombinator.com": 7,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
@@ -82,24 +82,24 @@
     "ratty-term.org": 1,
     "security-tracker.debian.org": 1,
     "security.opensuse.org": 1,
-    "servo.org": 1,
+    "servo.org": 2,
     "snapcraft.io": 1,
     "social.treehouse.systems": 2,
-    "stackoverflow.blog": 1,
+    "stackoverflow.blog": 2,
     "status.denic.de": 2,
     "steambrew.app": 3,
-    "store.steampowered.com": 3,
+    "store.steampowered.com": 4,
     "ubuntu.com": 2,
     "usbguard.github.io": 1,
-    "web.archive.org": 3,
-    "wiki.archlinux.org": 4,
+    "web.archive.org": 4,
+    "wiki.archlinux.org": 6,
     "wiki.gnome.org": 2,
-    "wiki.opennic.org": 1,
+    "wiki.opennic.org": 2,
     "www.8bitdo.com": 1,
     "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
-    "www.dotfurry.org": 1,
+    "www.dotfurry.org": 2,
     "www.gamingonlinux.com": 1,
     "www.githubstatus.com": 1,
     "www.guru3d.com": 1,
@@ -114,12 +114,12 @@
     "www.reddit.com": 4,
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
-    "www.sovereign.tech": 7,
+    "www.sovereign.tech": 9,
     "www.suse.com": 1,
     "www.techpowerup.com": 1,
     "www.theregister.com": 1,
     "www.wiz.io": 1,
-    "x.com": 14,
+    "x.com": 17,
     "xint.io": 1,
     "xkcd.com": 1,
     "youtu.be": 1
@@ -132,8 +132,172 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "h7h4dprHnBs",
+  "lastVideoID": "iWcFXmnPYoQ",
   "videos": [
+    {
+      "id": "iWcFXmnPYoQ",
+      "published": "2026-06-24T17:30:15+00:00",
+      "title": "I was wrong about SteamOS",
+      "urls": [
+        "https://web.archive.org/web/20260623000206/https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+        "https://store.steampowered.com/news/app/1675200/view/697641379212298072"
+      ]
+    },
+    {
+      "id": "wPXqhfgTV9M",
+      "published": "2026-06-23T17:30:09+00:00",
+      "title": "Stack Overflow Is Having An Existential Crisis",
+      "urls": [
+        "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+        "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
+        "https://agents.stackoverflow.com/recent",
+        "https://agents.meta.stackoverflow.com/"
+      ]
+    },
+    {
+      "id": "xe75b6OSR90",
+      "published": "2026-06-22T17:30:04+00:00",
+      "title": "X11 Will Completely End Without Your Help",
+      "urls": []
+    },
+    {
+      "id": "uswAKkgmllA",
+      "published": "2026-06-21T17:30:38+00:00",
+      "title": "The Weird World Of Alternate Root DNS",
+      "urls": [
+        "https://www.dotfurry.org/",
+        "https://newgtldprogram.icann.org/en/application-rounds/round2/asp",
+        "https://wiki.opennic.org/opennic/dot"
+      ]
+    },
+    {
+      "id": "VR20JYYXH6Q",
+      "published": "2026-06-20T17:30:08+00:00",
+      "title": "Stay Safe On The AUR In The Face Of Arch Linux Malware",
+      "urls": [
+        "https://wiki.archlinux.org/title/Arch_User_Repository",
+        "https://wiki.archlinux.org/title/Creating_package"
+      ]
+    },
+    {
+      "id": "d7MTYqID8VY",
+      "published": "2026-06-18T17:30:02+00:00",
+      "title": "Tridge Responds To The Claimed Rsync AI Caused Regressions",
+      "urls": [
+        "https://blog.davidedmundson.co.uk/blog/596/",
+        "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0"
+      ]
+    },
+    {
+      "id": "tgyxIC3J8cs",
+      "published": "2026-06-17T17:30:31+00:00",
+      "title": "KDE Plasma 6.7 Has Finally Come",
+      "urls": [
+        "https://kde.org/donate/",
+        "https://blogs.kde.org/categories/this-week-in-plasma/",
+        "https://kde.org/announcements/changelogs/plasma/6/6.6.5-6.7.0/",
+        "https://kde.org/announcements/plasma/6/6.7.0/"
+      ]
+    },
+    {
+      "id": "VeudOzqpHHs",
+      "published": "2026-06-16T17:30:08+00:00",
+      "title": "The AUR Malware Attack Never Stopped",
+      "urls": [
+        "https://md.archlinux.org/s/SxbqukK6IA#",
+        "https://ioctl.fail/preliminary-analysis-of-aur-malware/",
+        "https://archlinux.org/news/active-aur-malicious-packages-incident/",
+        "https://aur.archlinux.org/cgit/aur.git/commit/?h=hack-browser-data-git\u0026id=191ddf65e0337ee9df30d7e643fc13f6cea3f30d",
+        "https://aur.archlinux.org/cgit/aur.git/commit/PKGBUILD?h=gtk2%2bextra\u0026id=424199b8cc09ff19fc8043bf0e017d1219c66654",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FEQAUX55CKTWAGSYQKQY5ZMPWNUW7UXM/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/ASQP7CC4EOMEG7GASDHJBZEINBEQKD65/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/E26JEFVSR6YG4GBQUZYDMWYCXD7S7N5V/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DWY3WBOI3QM3MVUTPOTSQAW7D47ATG2T/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/NCLGU23LSLOFXMBGG7HH67EWDZC2TJB3/"
+      ]
+    },
+    {
+      "id": "dFnZyoLXVa4",
+      "published": "2026-06-15T17:30:03+00:00",
+      "title": "Ladybird Browser Stops Accepting Public Pull Requests",
+      "urls": [
+        "https://ladybird.org/",
+        "https://servo.org/",
+        "https://ladybird.org/posts/adopting-rust/",
+        "https://x.com/awesomekling/status/2063559555515117691",
+        "https://x.com/ladybirdbrowser/status/2062794886626078923",
+        "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
+      ]
+    },
+    {
+      "id": "BBwZs0lxeNk",
+      "published": "2026-06-14T17:30:02+00:00",
+      "title": "It's Finally The Year Of The Linux Desktop | LTT Linux Challenge React",
+      "urls": []
+    },
+    {
+      "id": "gXQLC3Sontc",
+      "published": "2026-06-13T17:30:17+00:00",
+      "title": "KDE Plasma 6.7: The Final Release Before X11 Is GONE",
+      "urls": [
+        "https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a",
+        "https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf",
+        "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
+        "https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/",
+        "https://blog.davidedmundson.co.uk/blog/596/"
+      ]
+    },
+    {
+      "id": "WoxR7fGl4CI",
+      "published": "2026-06-12T17:30:31+00:00",
+      "title": "Massive AUR Malware Attack: DO NOT UPDATE",
+      "urls": [
+        "https://x.com/vxunderground/status/2065123579541238223",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/2LGBF2AZBPVCCY4VTN6DOVUNNBURFJ2J/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/CIKQJQI3AREXIR6IQVWPBYFJPYLM45EF/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L2JXQNYBGWOQQQXDEPEAICBHKFEFANUC/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/",
+        "https://discuss.cachyos.org/t/aur-compromised-400-packages-affected-20260611/31040",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WS2K2XGMLPBFZ3WGOPLF2UP32HZJ6ZSP/",
+        "https://ioctl.fail/preliminary-analysis-of-aur-malware/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/LB6TBHDXLQRPR4UVIQULCI6MZ77XYLL2/"
+      ]
+    },
+    {
+      "id": "_Axl-_DG5eo",
+      "published": "2026-06-11T17:30:24+00:00",
+      "title": "Brave Origin Charges You For A Problem Brave Created",
+      "urls": [
+        "https://brave.com/origin/"
+      ]
+    },
+    {
+      "id": "nwHjVOcUMaw",
+      "published": "2026-06-10T17:30:12+00:00",
+      "title": "Ubuntu LTS Randomly Dropped Support For Nvidia Kepler GPUs",
+      "urls": [
+        "https://aur.archlinux.org/packages/nvidia-470xx-dkms",
+        "https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338",
+        "https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202",
+        "https://forums.linuxmint.com/viewtopic.php?t=469946"
+      ]
+    },
+    {
+      "id": "36pHSM0mzXE",
+      "published": "2026-06-09T18:47:18+00:00",
+      "title": "GNOME Board Bans Sonny Piers, He Reveals Everything",
+      "urls": [
+        "https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201",
+        "https://blog.sonny.re/retrospective-as-gnome-director",
+        "https://blogs.gnome.org/steven/2026/05/31/stay-and-fight/",
+        "https://discourse.gnome.org/t/2026-board-candidate-robert-mcqueen/35308",
+        "https://www.sovereign.tech/tech/gnome",
+        "https://www.sovereign.tech/tech/kde",
+        "https://mastodon.social/@tbernard/113792715412102767",
+        "https://blogs.gnome.org/foundation/2024/07/12/gnome-foundation-announces-transition-of-executive-director/",
+        "https://blogs.gnome.org/aday/2025/08/29/thanks-and-farewell-to-steven-deobald/"
+      ]
+    },
     {
       "id": "h7h4dprHnBs",
       "published": "2026-06-25T17:30:12+00:00",
