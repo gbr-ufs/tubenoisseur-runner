@@ -53,7 +53,7 @@
     "hachyderm.io": 1,
     "invent.kde.org": 1,
     "ioctl.fail": 4,
-    "kde.org": 8,
+    "kde.org": 9,
     "ladybird.org": 6,
     "linux.kde.org": 1,
     "lists.archlinux.org": 22,
@@ -132,8 +132,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "iWcFXmnPYoQ",
+  "lastVideoID": "C7rXBdgObno",
   "videos": [
+    {
+      "id": "C7rXBdgObno",
+      "published": "2026-06-27T17:30:35+00:00",
+      "title": "I'm In Love With KDE Plasma's New Theme",
+      "urls": [
+        "https://kde.org/donate/"
+      ]
+    },
     {
       "id": "iWcFXmnPYoQ",
       "published": "2026-06-24T17:30:15+00:00",

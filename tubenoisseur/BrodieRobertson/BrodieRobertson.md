@@ -6,8 +6,8 @@ Top Sources:
 - lists.archlinux.org = 22
 - x.com = 17
 - blogs.gnome.org = 9
+- kde.org = 9
 - www.sovereign.tech = 9
-- kde.org = 8
 - news.ycombinator.com = 7
 - aur.archlinux.org = 6
 - gitlab.freedesktop.org = 6
@@ -125,6 +125,15 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## I'm In Love With KDE Plasma's New Theme
+
+- ID: C7rXBdgObno
+- Published: 2026-06-27T17:30:35+00:00
+
+### References
+
+- https://kde.org/donate/
 
 ## I was wrong about SteamOS
 
