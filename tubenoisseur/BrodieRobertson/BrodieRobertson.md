@@ -18,10 +18,10 @@ Top Sources:
 - discourse.gnome.org = 5
 - gitlab.gnome.org = 5
 - lore.kernel.org = 5
+- store.steampowered.com = 5
 - bugs.launchpad.net = 4
 - daniel.haxx.se = 4
 - ioctl.fail = 4
-- store.steampowered.com = 4
 - web.archive.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
@@ -115,16 +115,29 @@ Top Sources:
 - www.guru3d.com = 1
 - www.ign.com = 1
 - www.notebookcheck.net = 1
+- www.pcworld.com = 1
 - www.raylib.com = 1
 - www.redhat.com = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
 - www.theregister.com = 1
+- www.theverge.com = 1
 - www.wiz.io = 1
 - xint.io = 1
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## I tried installing Steam OS
+
+- ID: 3PzEmiSDgd0
+- Published: 2026-06-28T17:30:01+00:00
+
+### References
+
+- https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
+- https://www.pcworld.com/article/3173750/valves-steam-machine-is-pricey-i-built-a-diy-rival-for-150-less.html
+- https://store.steampowered.com/steamos/download/?ver=steamdeck&snr=100601___
 
 ## I'm In Love With KDE Plasma's New Theme
 

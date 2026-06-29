@@ -88,7 +88,7 @@
     "stackoverflow.blog": 2,
     "status.denic.de": 2,
     "steambrew.app": 3,
-    "store.steampowered.com": 4,
+    "store.steampowered.com": 5,
     "ubuntu.com": 2,
     "usbguard.github.io": 1,
     "web.archive.org": 4,
@@ -109,6 +109,7 @@
     "www.omgubuntu.co.uk": 2,
     "www.osnews.com": 2,
     "www.pcgamer.com": 2,
+    "www.pcworld.com": 1,
     "www.phoronix.com": 2,
     "www.raylib.com": 1,
     "www.reddit.com": 4,
@@ -118,6 +119,7 @@
     "www.suse.com": 1,
     "www.techpowerup.com": 1,
     "www.theregister.com": 1,
+    "www.theverge.com": 1,
     "www.wiz.io": 1,
     "x.com": 17,
     "xint.io": 1,
@@ -132,8 +134,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "C7rXBdgObno",
+  "lastVideoID": "3PzEmiSDgd0",
   "videos": [
+    {
+      "id": "3PzEmiSDgd0",
+      "published": "2026-06-28T17:30:01+00:00",
+      "title": "I tried installing Steam OS",
+      "urls": [
+        "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+        "https://www.pcworld.com/article/3173750/valves-steam-machine-is-pricey-i-built-a-diy-rival-for-150-less.html",
+        "https://store.steampowered.com/steamos/download/?ver=steamdeck\u0026snr=100601___"
+      ]
+    },
     {
       "id": "C7rXBdgObno",
       "published": "2026-06-27T17:30:35+00:00",
