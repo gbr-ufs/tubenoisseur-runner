@@ -11,18 +11,18 @@ Top Sources:
 - news.ycombinator.com = 7
 - aur.archlinux.org = 6
 - gitlab.freedesktop.org = 6
+- gitlab.gnome.org = 6
 - ladybird.org = 6
 - wiki.archlinux.org = 6
 - blog.davidedmundson.co.uk = 5
 - blogs.kde.org = 5
 - discourse.gnome.org = 5
-- gitlab.gnome.org = 5
 - lore.kernel.org = 5
 - store.steampowered.com = 5
+- web.archive.org = 5
 - bugs.launchpad.net = 4
 - daniel.haxx.se = 4
 - ioctl.fail = 4
-- web.archive.org = 4
 - www.ietf.org = 4
 - www.reddit.com = 4
 - filipfila.wordpress.com = 3
@@ -64,6 +64,7 @@ Top Sources:
 - www.phoronix.com = 2
 - access.redhat.com = 1
 - apps.kde.org = 1
+- balooii.pages.gitlab.gnome.org = 1
 - bazzite.gg = 1
 - bbs.deepin.org = 1
 - blog.myli.page = 1
@@ -127,6 +128,17 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## The Most Important Version Of GIMP Ever Released
+
+- ID: KwbdJfblQGM
+- Published: 2026-06-29T17:30:36+00:00
+
+### References
+
+- https://gitlab.gnome.org/balooii/gimp-0.54
+- https://balooii.pages.gitlab.gnome.org/gimp-0.54/
+- https://web.archive.org/web/19980216074452/http://gimp.foebud.org/registry/view.phtml?version=0
 
 ## I tried installing Steam OS
 

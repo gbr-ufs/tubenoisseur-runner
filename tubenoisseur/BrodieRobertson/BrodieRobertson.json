@@ -7,6 +7,7 @@
     "apps.kde.org": 1,
     "archlinux.org": 2,
     "aur.archlinux.org": 6,
+    "balooii.pages.gitlab.gnome.org": 1,
     "bazzite.gg": 1,
     "bbs.deepin.org": 1,
     "blog.davidedmundson.co.uk": 5,
@@ -48,7 +49,7 @@
     "github.com": 38,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 6,
-    "gitlab.gnome.org": 5,
+    "gitlab.gnome.org": 6,
     "gjs.guide": 1,
     "hachyderm.io": 1,
     "invent.kde.org": 1,
@@ -91,7 +92,7 @@
     "store.steampowered.com": 5,
     "ubuntu.com": 2,
     "usbguard.github.io": 1,
-    "web.archive.org": 4,
+    "web.archive.org": 5,
     "wiki.archlinux.org": 6,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
@@ -134,8 +135,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "3PzEmiSDgd0",
+  "lastVideoID": "KwbdJfblQGM",
   "videos": [
+    {
+      "id": "KwbdJfblQGM",
+      "published": "2026-06-29T17:30:36+00:00",
+      "title": "The Most Important Version Of GIMP Ever Released",
+      "urls": [
+        "https://gitlab.gnome.org/balooii/gimp-0.54",
+        "https://balooii.pages.gitlab.gnome.org/gimp-0.54/",
+        "https://web.archive.org/web/19980216074452/http://gimp.foebud.org/registry/view.phtml?version=0"
+      ]
+    },
     {
       "id": "3PzEmiSDgd0",
       "published": "2026-06-28T17:30:01+00:00",
