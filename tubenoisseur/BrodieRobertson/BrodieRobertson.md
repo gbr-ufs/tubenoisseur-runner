@@ -30,6 +30,7 @@ Top Sources:
 - www.rfc-editor.org = 3
 - agents.meta.stackoverflow.com = 2
 - agents.stackoverflow.com = 2
+- archive.md = 2
 - archlinux.org = 2
 - blog.sonny.re = 2
 - blog.vladzahorodnii.com = 2
@@ -43,6 +44,8 @@ Top Sources:
 - forums.linuxmint.com = 2
 - git.devuan.org = 2
 - git.kernel.org = 2
+- lkml.iu.edu = 2
+- lkml.org = 2
 - mastodon.social = 2
 - md.archlinux.org = 2
 - medium.com = 2
@@ -53,6 +56,7 @@ Top Sources:
 - stackoverflow.blog = 2
 - status.denic.de = 2
 - ubuntu.com = 2
+- upload.wikimedia.org = 2
 - wiki.gnome.org = 2
 - wiki.opennic.org = 2
 - www.anthropic.com = 2
@@ -86,6 +90,8 @@ Top Sources:
 - forge.fedoraproject.org = 1
 - gitlab.com = 1
 - gjs.guide = 1
+- gregroelofs.com = 1
+- groups.google.com = 1
 - hachyderm.io = 1
 - invent.kde.org = 1
 - linux.kde.org = 1
@@ -114,7 +120,9 @@ Top Sources:
 - www.gamingonlinux.com = 1
 - www.githubstatus.com = 1
 - www.guru3d.com = 1
+- www.ibiblio.org = 1
 - www.ign.com = 1
+- www.linuxjournal.com = 1
 - www.notebookcheck.net = 1
 - www.pcworld.com = 1
 - www.raylib.com = 1
@@ -128,6 +136,26 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Hilarious Origin Of Linux's Penguin Mascot
+
+- ID: NR5_FQlJeUc
+- Published: 2026-06-30T17:30:31+00:00
+
+### References
+
+- https://www.linuxjournal.com/article/36
+- https://archive.md/Xja4Q
+- https://upload.wikimedia.org/wikipedia/commons/1/17/TheStoryBehindTux.jpg
+- https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/logos/INDEX.short.html
+- https://lkml.org/lkml/1996/5/4/3
+- https://lkml.org/lkml/1996/5/6/44
+- https://upload.wikimedia.org/wikipedia/en/d/de/Ccpenguin%2C_the_ancestor_of_Tux.jpg
+- https://lkml.iu.edu/hypermail/linux/kernel/9605/0855.html
+- https://archive.md/ZoZUO
+- http://gregroelofs.com/greg_lnxpeng.html
+- https://groups.google.com/g/comp.os.linux.announce/c/yLMIRkrdJSI/m/kGSlHl6pov4J?pli=1
+- https://lkml.iu.edu/hypermail/linux/kernel/9606.1/0175.html
 
 ## The Most Important Version Of GIMP Ever Released
 
