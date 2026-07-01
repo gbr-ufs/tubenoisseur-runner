@@ -125,8 +125,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "p5aE1FpFmtY",
+  "lastVideoID": "a0NYSOG5yLI",
   "videos": [
+    {
+      "id": "a0NYSOG5yLI",
+      "published": "2026-06-30T13:20:38+00:00",
+      "title": "Linux vs Mac: we could still learn a few things here!",
+      "urls": []
+    },
     {
       "id": "p5aE1FpFmtY",
       "published": "2026-06-27T09:35:43+00:00",
