@@ -8,8 +8,8 @@ Top Sources:
 - blogs.gnome.org = 9
 - kde.org = 9
 - www.sovereign.tech = 9
+- aur.archlinux.org = 7
 - news.ycombinator.com = 7
-- aur.archlinux.org = 6
 - gitlab.freedesktop.org = 6
 - gitlab.gnome.org = 6
 - ladybird.org = 6
@@ -67,6 +67,7 @@ Top Sources:
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
 - access.redhat.com = 1
+- alexxcons.github.io = 1
 - apps.kde.org = 1
 - balooii.pages.gitlab.gnome.org = 1
 - bazzite.gg = 1
@@ -115,6 +116,7 @@ Top Sources:
 - security.opensuse.org = 1
 - snapcraft.io = 1
 - usbguard.github.io = 1
+- wiki.xfce.org = 1
 - www.8bitdo.com = 1
 - www.cloudflarestatus.com = 1
 - www.gamingonlinux.com = 1
@@ -127,6 +129,7 @@ Top Sources:
 - www.pcworld.com = 1
 - www.raylib.com = 1
 - www.redhat.com = 1
+- www.spurint.org = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
 - www.theregister.com = 1
@@ -136,6 +139,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Let's Try XFCE's Upcoming Wayland Mode
+
+- ID: s4u2A8qoCqk
+- Published: 2026-07-01T17:30:10+00:00
+
+### References
+
+- https://alexxcons.github.io/blogpost_15.html
+- https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release
+- https://aur.archlinux.org/packages/xfwl4-devel
+- https://wiki.xfce.org/xfwl4_faq
 
 ## Hilarious Origin Of Linux's Penguin Mascot
 

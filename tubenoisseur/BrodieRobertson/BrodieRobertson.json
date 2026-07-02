@@ -4,10 +4,11 @@
     "access.redhat.com": 1,
     "agents.meta.stackoverflow.com": 2,
     "agents.stackoverflow.com": 2,
+    "alexxcons.github.io": 1,
     "apps.kde.org": 1,
     "archive.md": 2,
     "archlinux.org": 2,
-    "aur.archlinux.org": 6,
+    "aur.archlinux.org": 7,
     "balooii.pages.gitlab.gnome.org": 1,
     "bazzite.gg": 1,
     "bbs.deepin.org": 1,
@@ -102,6 +103,7 @@
     "wiki.archlinux.org": 6,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
+    "wiki.xfce.org": 1,
     "www.8bitdo.com": 1,
     "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
@@ -125,6 +127,7 @@
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.sovereign.tech": 9,
+    "www.spurint.org": 1,
     "www.suse.com": 1,
     "www.techpowerup.com": 1,
     "www.theregister.com": 1,
@@ -143,8 +146,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "NR5_FQlJeUc",
+  "lastVideoID": "s4u2A8qoCqk",
   "videos": [
+    {
+      "id": "s4u2A8qoCqk",
+      "published": "2026-07-01T17:30:10+00:00",
+      "title": "Let's Try XFCE's Upcoming Wayland Mode",
+      "urls": [
+        "https://alexxcons.github.io/blogpost_15.html",
+        "https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release",
+        "https://aur.archlinux.org/packages/xfwl4-devel",
+        "https://wiki.xfce.org/xfwl4_faq"
+      ]
+    },
     {
       "id": "NR5_FQlJeUc",
       "published": "2026-06-30T17:30:31+00:00",
