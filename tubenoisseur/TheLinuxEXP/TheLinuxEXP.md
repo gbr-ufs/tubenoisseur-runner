@@ -2,14 +2,14 @@
 
 Top Sources:
 
-- www.phoronix.com = 23
+- www.phoronix.com = 24
 - itsfoss.com = 20
 - linuxiac.com = 17
-- www.gamingonlinux.com = 15
+- www.gamingonlinux.com = 16
 - www.omgubuntu.co.uk = 14
 - github.com = 13
-- www.techradar.com = 9
-- discourse.ubuntu.com = 6
+- www.techradar.com = 12
+- discourse.ubuntu.com = 7
 - blog.mozilla.org = 5
 - arstechnica.com = 4
 - fedoramagazine.org = 4
@@ -21,8 +21,10 @@ Top Sources:
 - blog.linuxmint.com = 2
 - blogs.gnome.org = 2
 - community.kde.org = 2
+- lists.fedoraproject.org = 2
 - store.steampowered.com = 2
 - www.404media.co = 2
+- www.bleepingcomputer.com = 2
 - www.firefox.com = 2
 - www.neowin.net = 2
 - www.politico.eu = 2
@@ -33,6 +35,8 @@ Top Sources:
 - anditosan.wordpress.com = 1
 - android-developers.googleblog.com = 1
 - blog.davidedmundson.co.uk = 1
+- blog.kimiblock.top = 1
+- blog.playstation.com = 1
 - blog.system76.com = 1
 - blog.thunderbird.net = 1
 - brave.com = 1
@@ -41,6 +45,7 @@ Top Sources:
 - consumerrights.wiki = 1
 - cybernews.com = 1
 - deutschland-stack.gov.de = 1
+- devblogs.microsoft.com = 1
 - devices.ubuntu-touch.io = 1
 - discourse.gnome.org = 1
 - documentation.ubuntu.com = 1
@@ -55,10 +60,10 @@ Top Sources:
 - gitlab.freedesktop.org = 1
 - goodtech.info = 1
 - help.steampowered.com = 1
+- junocomputers.com = 1
 - kde.org = 1
 - keepandroidopen.org = 1
 - lists.debian.org = 1
-- lists.fedoraproject.org = 1
 - lists.linuxfromscratch.org = 1
 - merritt.codes = 1
 - motorolanews.com = 1
@@ -74,14 +79,16 @@ Top Sources:
 - steamcommunity.com = 1
 - support.mozilla.org = 1
 - thecybersecguru.com = 1
+- thisweek.gnome.org = 1
 - tintotint.eu = 1
+- ubuntu.com = 1
 - usebottles.com = 1
 - vivaldi.com = 1
 - vng.nl = 1
 - winboat.app = 1
 - www.anthropic.com = 1
 - www.aswf.io = 1
-- www.bleepingcomputer.com = 1
+- www.bbc.com = 1
 - www.blender.org = 1
 - www.cloudflare.com = 1
 - www.cnet.com = 1
@@ -112,6 +119,29 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Linux's biggest opportunity yet, New Linux Tablet, Google fined €4B - Linux Weekly News
+
+- ID: KWxTP8FDocg
+- Published: 2026-07-04T08:47:36+00:00
+
+### References
+
+- https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
+- https://www.bbc.com/news/articles/c0ryjyvjq41o
+- https://www.techradar.com/gaming/sony-announces-that-the-ps3-and-vita-stores-are-going-offline-on-the-same-day-it-tells-us-we-wont-be-able-to-buy-physical-games-in-future-this-is-why-physical-media-matters
+- https://www.techradar.com/streaming/entertainment/this-should-be-illegal-sony-is-deleting-over-500-movies-that-people-bought-from-their-digital-libraries-just-proving-further-why-4k-blu-rays-popularity-keeps-growing
+- https://www.techradar.com/gaming/xbox-might-be-following-playstations-lead-as-new-reports-claim-microsoft-is-testing-a-new-disc-to-digital-game-feature-called-positron-and-the-next-gen-project-helix-console-wont-have-a-disc-drive
+- https://www.gamingonlinux.com/2026/07/playstation-5-linux-project-gets-upgraded-to-support-new-firmware-and-ps5-slim/
+- https://junocomputers.com/juno-tab-4-wifi/
+- https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/
+- https://thisweek.gnome.org/posts/2026/06/twig-255/
+- https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/
+- https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/
+- https://ubuntu.com/blog/canonical-becomes-gold-sponsor-of-trifecta-tech-foundation
+- https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995
+- https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/O2ZTWWB4FWP2H5R2FHED2QTGCJSNJ53I/
+- https://www.phoronix.com/news/Linux-AI-Attribution-Again
 
 ## Linux vs Mac: we could still learn a few things here!
 
