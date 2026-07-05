@@ -19,6 +19,8 @@
     "blog.vladzahorodnii.com": 2,
     "blogs.gnome.org": 9,
     "blogs.kde.org": 5,
+    "blogs.microsoft.com": 1,
+    "blogs.windows.com": 1,
     "brave.com": 2,
     "brodierobertson.dev": 2,
     "bugs.kde.org": 1,
@@ -82,6 +84,7 @@
     "news.ycombinator.com": 7,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
+    "openai.com": 1,
     "pagure.io": 1,
     "pinheiro-kde.blogspot.com": 1,
     "pointieststick.com": 1,
@@ -133,7 +136,9 @@
     "www.techpowerup.com": 1,
     "www.theregister.com": 1,
     "www.theverge.com": 1,
+    "www.windowscentral.com": 1,
     "www.wiz.io": 1,
+    "www.zdnet.com": 1,
     "x.com": 17,
     "xint.io": 1,
     "xkcd.com": 1,
@@ -147,8 +152,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "855QEhMlFXg",
+  "lastVideoID": "5DHZhHtZ3sg",
   "videos": [
+    {
+      "id": "5DHZhHtZ3sg",
+      "published": "2026-07-04T17:30:08+00:00",
+      "title": "Microsoft Threatens To Make Windows Even Worse",
+      "urls": [
+        "https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai",
+        "https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/",
+        "https://blogs.windows.com/windowsexperience/2024/01/04/introducing-a-new-copilot-key-to-kick-off-the-year-of-ai-powered-windows-pcs/",
+        "https://openai.com/index/microsoft-invests-in-and-partners-with-openai/",
+        "https://www.zdnet.com/article/what-is-microsofts-metaos/"
+      ]
+    },
     {
       "id": "855QEhMlFXg",
       "published": "2026-07-02T17:30:00+00:00",

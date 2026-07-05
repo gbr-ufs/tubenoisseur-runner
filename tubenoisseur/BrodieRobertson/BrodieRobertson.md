@@ -74,6 +74,8 @@ Top Sources:
 - bbs.deepin.org = 1
 - blog.myli.page = 1
 - blog.orhun.dev = 1
+- blogs.microsoft.com = 1
+- blogs.windows.com = 1
 - bugs.kde.org = 1
 - bugzilla.gnome.org = 1
 - canonical.com = 1
@@ -108,6 +110,7 @@ Top Sources:
 - my.devsuite.app = 1
 - nobaraproject.org = 1
 - odin-lang.org = 1
+- openai.com = 1
 - pagure.io = 1
 - pinheiro-kde.blogspot.com = 1
 - pointieststick.com = 1
@@ -135,11 +138,26 @@ Top Sources:
 - www.techpowerup.com = 1
 - www.theregister.com = 1
 - www.theverge.com = 1
+- www.windowscentral.com = 1
 - www.wiz.io = 1
+- www.zdnet.com = 1
 - xint.io = 1
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Microsoft Threatens To Make Windows Even Worse
+
+- ID: 5DHZhHtZ3sg
+- Published: 2026-07-04T17:30:08+00:00
+
+### References
+
+- https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai
+- https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/
+- https://blogs.windows.com/windowsexperience/2024/01/04/introducing-a-new-copilot-key-to-kick-off-the-year-of-ai-powered-windows-pcs/
+- https://openai.com/index/microsoft-invests-in-and-partners-with-openai/
+- https://www.zdnet.com/article/what-is-microsofts-metaos/
 
 ## DistroFighter: Fight For Your Linux Distro Recommendation
 
