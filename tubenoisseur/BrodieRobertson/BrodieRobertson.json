@@ -59,7 +59,7 @@
     "gregroelofs.com": 1,
     "groups.google.com": 1,
     "hachyderm.io": 1,
-    "invent.kde.org": 1,
+    "invent.kde.org": 3,
     "ioctl.fail": 4,
     "kde.org": 9,
     "ladybird.org": 6,
@@ -87,7 +87,7 @@
     "openai.com": 1,
     "pagure.io": 1,
     "pinheiro-kde.blogspot.com": 1,
-    "pointieststick.com": 1,
+    "pointieststick.com": 2,
     "prayag2.github.io": 1,
     "quantumproductions.info": 2,
     "ratty-term.org": 1,
@@ -152,8 +152,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "5DHZhHtZ3sg",
+  "lastVideoID": "g4tXOwlom9Q",
   "videos": [
+    {
+      "id": "g4tXOwlom9Q",
+      "published": "2026-07-05T17:30:13+00:00",
+      "title": "KDE's Plasma Wants To Become The Linux Standard",
+      "urls": [
+        "https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items",
+        "https://invent.kde.org/kde-linux/kde-linux/-/work_items/661",
+        "https://pointieststick.com/2026/06/26/submit-a-kde-goal/"
+      ]
+    },
     {
       "id": "5DHZhHtZ3sg",
       "published": "2026-07-04T17:30:08+00:00",

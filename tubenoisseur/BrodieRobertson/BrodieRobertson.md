@@ -26,6 +26,7 @@ Top Sources:
 - www.ietf.org = 4
 - www.reddit.com = 4
 - filipfila.wordpress.com = 3
+- invent.kde.org = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
 - agents.meta.stackoverflow.com = 2
@@ -50,6 +51,7 @@ Top Sources:
 - md.archlinux.org = 2
 - medium.com = 2
 - newgtldprogram.icann.org = 2
+- pointieststick.com = 2
 - quantumproductions.info = 2
 - servo.org = 2
 - social.treehouse.systems = 2
@@ -97,7 +99,6 @@ Top Sources:
 - gregroelofs.com = 1
 - groups.google.com = 1
 - hachyderm.io = 1
-- invent.kde.org = 1
 - linux.kde.org = 1
 - lists.fedoraproject.org = 1
 - lwn.net = 1
@@ -113,7 +114,6 @@ Top Sources:
 - openai.com = 1
 - pagure.io = 1
 - pinheiro-kde.blogspot.com = 1
-- pointieststick.com = 1
 - prayag2.github.io = 1
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
@@ -145,6 +145,17 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## KDE's Plasma Wants To Become The Linux Standard
+
+- ID: g4tXOwlom9Q
+- Published: 2026-07-05T17:30:13+00:00
+
+### References
+
+- https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items
+- https://invent.kde.org/kde-linux/kde-linux/-/work_items/661
+- https://pointieststick.com/2026/06/26/submit-a-kde-goal/
 
 ## Microsoft Threatens To Make Windows Even Worse
 
