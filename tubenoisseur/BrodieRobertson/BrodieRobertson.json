@@ -112,6 +112,7 @@
     "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
+    "www.davidrevoy.com": 1,
     "www.dotfurry.org": 2,
     "www.gamingonlinux.com": 1,
     "www.githubstatus.com": 1,
@@ -152,8 +153,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "g4tXOwlom9Q",
+  "lastVideoID": "6LnUvXj-pUA",
   "videos": [
+    {
+      "id": "6LnUvXj-pUA",
+      "published": "2026-07-06T17:30:26+00:00",
+      "title": "Linux Drawing Tablet Support Is Weird",
+      "urls": [
+        "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers"
+      ]
+    },
     {
       "id": "g4tXOwlom9Q",
       "published": "2026-07-05T17:30:13+00:00",

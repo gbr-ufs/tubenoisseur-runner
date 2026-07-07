@@ -123,6 +123,7 @@ Top Sources:
 - wiki.xfce.org = 1
 - www.8bitdo.com = 1
 - www.cloudflarestatus.com = 1
+- www.davidrevoy.com = 1
 - www.gamingonlinux.com = 1
 - www.githubstatus.com = 1
 - www.guru3d.com = 1
@@ -145,6 +146,15 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Linux Drawing Tablet Support Is Weird
+
+- ID: 6LnUvXj-pUA
+- Published: 2026-07-06T17:30:26+00:00
+
+### References
+
+- https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers
 
 ## KDE's Plasma Wants To Become The Linux Standard
 
