@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 38
+- github.com = 39
 - lists.archlinux.org = 22
 - x.com = 17
 - blogs.gnome.org = 9
@@ -10,10 +10,10 @@ Top Sources:
 - www.sovereign.tech = 9
 - aur.archlinux.org = 7
 - news.ycombinator.com = 7
+- wiki.archlinux.org = 7
 - gitlab.freedesktop.org = 6
 - gitlab.gnome.org = 6
 - ladybird.org = 6
-- wiki.archlinux.org = 6
 - blog.davidedmundson.co.uk = 5
 - blogs.kde.org = 5
 - discourse.gnome.org = 5
@@ -146,6 +146,16 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## ArchInstall Changed Everything About Installing Arch Linux
+
+- ID: PCx1ooaN_AA
+- Published: 2026-07-07T17:30:17+00:00
+
+### References
+
+- https://wiki.archlinux.org/title/Archinstall
+- https://github.com/archlinux/archinstall
 
 ## Linux Drawing Tablet Support Is Weird
 

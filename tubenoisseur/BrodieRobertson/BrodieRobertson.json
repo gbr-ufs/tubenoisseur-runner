@@ -51,7 +51,7 @@
     "forums.linuxmint.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 38,
+    "github.com": 39,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 6,
     "gitlab.gnome.org": 6,
@@ -104,7 +104,7 @@
     "upload.wikimedia.org": 2,
     "usbguard.github.io": 1,
     "web.archive.org": 5,
-    "wiki.archlinux.org": 6,
+    "wiki.archlinux.org": 7,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
     "wiki.xfce.org": 1,
@@ -153,8 +153,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "6LnUvXj-pUA",
+  "lastVideoID": "PCx1ooaN_AA",
   "videos": [
+    {
+      "id": "PCx1ooaN_AA",
+      "published": "2026-07-07T17:30:17+00:00",
+      "title": "ArchInstall Changed Everything About Installing Arch Linux",
+      "urls": [
+        "https://wiki.archlinux.org/title/Archinstall",
+        "https://github.com/archlinux/archinstall"
+      ]
+    },
     {
       "id": "6LnUvXj-pUA",
       "published": "2026-07-06T17:30:26+00:00",
