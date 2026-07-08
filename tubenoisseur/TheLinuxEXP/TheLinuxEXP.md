@@ -120,6 +120,14 @@ Top Sources:
 - zamundaaa.github.io = 1
 
 
+## iOS and Android suck now, so I used a Linux Phone for 30 days
+
+- ID: uWWPebWHs8s
+- Published: 2026-07-08T11:00:13+00:00
+
+### References
+
+
 ## Linux's biggest opportunity yet, New Linux Tablet, Google fined €4B - Linux Weekly News
 
 - ID: KWxTP8FDocg

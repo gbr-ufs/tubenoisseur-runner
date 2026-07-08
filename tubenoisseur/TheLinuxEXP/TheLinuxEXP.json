@@ -132,8 +132,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "KWxTP8FDocg",
+  "lastVideoID": "uWWPebWHs8s",
   "videos": [
+    {
+      "id": "uWWPebWHs8s",
+      "published": "2026-07-08T11:00:13+00:00",
+      "title": "iOS and Android suck now, so I used a Linux Phone for 30 days",
+      "urls": []
+    },
     {
       "id": "KWxTP8FDocg",
       "published": "2026-07-04T08:47:36+00:00",
