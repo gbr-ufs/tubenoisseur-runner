@@ -65,6 +65,7 @@
     "ladybird.org": 6,
     "linux.kde.org": 1,
     "lists.archlinux.org": 22,
+    "lists.debian.org": 3,
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
     "lkml.org": 2,
@@ -120,6 +121,7 @@
     "www.ibiblio.org": 1,
     "www.ietf.org": 4,
     "www.ign.com": 1,
+    "www.ioccc.org": 2,
     "www.linuxjournal.com": 1,
     "www.notebookcheck.net": 1,
     "www.omgubuntu.co.uk": 2,
@@ -153,8 +155,27 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "PCx1ooaN_AA",
+  "lastVideoID": "RKnLF2Fo2WE",
   "videos": [
+    {
+      "id": "RKnLF2Fo2WE",
+      "published": "2026-07-09T17:30:02+00:00",
+      "title": "You Can't Make Code This Insane In Rust",
+      "urls": [
+        "https://www.ioccc.org/",
+        "https://www.ioccc.org/years.html"
+      ]
+    },
+    {
+      "id": "XToJVU7r-q8",
+      "published": "2026-07-08T17:30:06+00:00",
+      "title": "Debian Linux GNU Coreutils Situation Is Crazy",
+      "urls": [
+        "https://lists.debian.org/debian-devel/2026/06/msg00315.html",
+        "https://lists.debian.org/debian-devel/2026/07/msg00011.html",
+        "https://lists.debian.org/debian-devel/2026/07/msg00059.html"
+      ]
+    },
     {
       "id": "PCx1ooaN_AA",
       "published": "2026-07-07T17:30:17+00:00",

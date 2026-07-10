@@ -27,6 +27,7 @@ Top Sources:
 - www.reddit.com = 4
 - filipfila.wordpress.com = 3
 - invent.kde.org = 3
+- lists.debian.org = 3
 - steambrew.app = 3
 - www.rfc-editor.org = 3
 - agents.meta.stackoverflow.com = 2
@@ -64,6 +65,7 @@ Top Sources:
 - www.anthropic.com = 2
 - www.cloudflare.com = 2
 - www.dotfurry.org = 2
+- www.ioccc.org = 2
 - www.omgubuntu.co.uk = 2
 - www.osnews.com = 2
 - www.pcgamer.com = 2
@@ -146,6 +148,27 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## You Can't Make Code This Insane In Rust
+
+- ID: RKnLF2Fo2WE
+- Published: 2026-07-09T17:30:02+00:00
+
+### References
+
+- https://www.ioccc.org/
+- https://www.ioccc.org/years.html
+
+## Debian Linux GNU Coreutils Situation Is Crazy
+
+- ID: XToJVU7r-q8
+- Published: 2026-07-08T17:30:06+00:00
+
+### References
+
+- https://lists.debian.org/debian-devel/2026/06/msg00315.html
+- https://lists.debian.org/debian-devel/2026/07/msg00011.html
+- https://lists.debian.org/debian-devel/2026/07/msg00059.html
 
 ## ArchInstall Changed Everything About Installing Arch Linux
 
