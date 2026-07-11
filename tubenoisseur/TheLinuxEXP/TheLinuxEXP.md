@@ -2,23 +2,23 @@
 
 Top Sources:
 
-- www.phoronix.com = 24
+- www.phoronix.com = 27
 - itsfoss.com = 20
-- linuxiac.com = 17
+- linuxiac.com = 19
 - www.gamingonlinux.com = 16
 - www.omgubuntu.co.uk = 14
 - github.com = 13
-- www.techradar.com = 12
-- discourse.ubuntu.com = 7
+- www.techradar.com = 13
+- discourse.ubuntu.com = 8
 - blog.mozilla.org = 5
 - arstechnica.com = 4
 - fedoramagazine.org = 4
 - proton.me = 4
 - 9to5linux.com = 3
 - blog.documentfoundation.org = 3
+- blog.linuxmint.com = 3
 - discussion.fedoraproject.org = 3
 - youtu.be = 3
-- blog.linuxmint.com = 2
 - blogs.gnome.org = 2
 - community.kde.org = 2
 - lists.fedoraproject.org = 2
@@ -26,6 +26,7 @@ Top Sources:
 - www.404media.co = 2
 - www.bleepingcomputer.com = 2
 - www.firefox.com = 2
+- www.fsf.org = 2
 - www.neowin.net = 2
 - www.politico.eu = 2
 - www.theverge.com = 2
@@ -52,6 +53,7 @@ Top Sources:
 - en.ubunlog.com = 1
 - filipfila.wordpress.com = 1
 - forum.manjaro.org = 1
+- forum.openmandriva.org = 1
 - forum.zorin.com = 1
 - fosstodon.org = 1
 - getsol.us = 1
@@ -59,6 +61,7 @@ Top Sources:
 - github.blog = 1
 - gitlab.freedesktop.org = 1
 - goodtech.info = 1
+- gs.statcounter.com = 1
 - help.steampowered.com = 1
 - junocomputers.com = 1
 - kde.org = 1
@@ -96,7 +99,6 @@ Top Sources:
 - www.digitalfoundry.net = 1
 - www.dw.com = 1
 - www.france24.com = 1
-- www.fsf.org = 1
 - www.heise.de = 1
 - www.ign.com = 1
 - www.linuxfoundation.org = 1
@@ -105,6 +107,7 @@ Top Sources:
 - www.pcgamer.com = 1
 - www.pcmag.com = 1
 - www.pcworld.com = 1
+- www.regierung-mv.de = 1
 - www.reuters.com = 1
 - www.rockpapershotgun.com = 1
 - www.soeren-hentzschel.at = 1
@@ -119,6 +122,26 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Windows 11 is losing users really quickly - Linux Weekly News
+
+- ID: DpRiMPuoqFg
+- Published: 2026-07-11T09:37:24+00:00
+
+### References
+
+- https://www.regierung-mv.de/Aktuell/?id=221531&processor=processor.sa.pressemitteilung
+- https://linuxiac.com/windows-drops-under-60-in-global-desktop-os-share-for-the-first-time-in-years/
+- https://gs.statcounter.com/os-market-share/desktop/worldwide/
+- https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997
+- https://www.phoronix.com/news/GNOME-51-Alpha
+- https://www.phoronix.com/news/GNOME-Mutter-Background-Blur
+- https://www.fsf.org/bulletin/2026/summer/ensuring-freedom-one-blob-at-a-time
+- https://discourse.ubuntu.com/t/ubuntu-on-arm-summer-26-update/84872
+- https://www.phoronix.com/news/Marek-Double-VRS-RADV-Perf
+- https://blog.linuxmint.com/?p=5046
+- https://www.techradar.com/computing/gaming-pcs/lies-about-driver-support-valve-now-lets-you-install-windows-11-on-a-steam-machine-but-many-people-dont-want-to-be-fooled-twice
+- https://linuxiac.com/proton-11-0-released-with-big-compatibility-boost-for-linux-gaming/
 
 ## iOS and Android suck now, so I used a Linux Phone for 30 days
 
