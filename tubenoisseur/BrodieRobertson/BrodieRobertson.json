@@ -88,6 +88,7 @@
     "openai.com": 1,
     "pagure.io": 1,
     "pinheiro-kde.blogspot.com": 1,
+    "plasma-bigscreen.org": 1,
     "pointieststick.com": 2,
     "prayag2.github.io": 1,
     "quantumproductions.info": 2,
@@ -155,8 +156,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "RKnLF2Fo2WE",
+  "lastVideoID": "uWw5u2iJweQ",
   "videos": [
+    {
+      "id": "uWw5u2iJweQ",
+      "published": "2026-07-11T17:30:32+00:00",
+      "title": "Let's Try KDE Plasma's New TV Interface",
+      "urls": [
+        "https://plasma-bigscreen.org/"
+      ]
+    },
     {
       "id": "RKnLF2Fo2WE",
       "published": "2026-07-09T17:30:02+00:00",

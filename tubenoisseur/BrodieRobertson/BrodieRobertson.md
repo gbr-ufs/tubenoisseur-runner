@@ -116,6 +116,7 @@ Top Sources:
 - openai.com = 1
 - pagure.io = 1
 - pinheiro-kde.blogspot.com = 1
+- plasma-bigscreen.org = 1
 - prayag2.github.io = 1
 - ratty-term.org = 1
 - security-tracker.debian.org = 1
@@ -148,6 +149,15 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Let's Try KDE Plasma's New TV Interface
+
+- ID: uWw5u2iJweQ
+- Published: 2026-07-11T17:30:32+00:00
+
+### References
+
+- https://plasma-bigscreen.org/
 
 ## You Can't Make Code This Insane In Rust
 
