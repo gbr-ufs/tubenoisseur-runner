@@ -52,7 +52,7 @@
     "forums.linuxmint.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 42,
+    "github.com": 43,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 6,
     "gitlab.gnome.org": 6,
@@ -162,8 +162,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "8qOXRSZsI3A",
+  "lastVideoID": "1s21MQAC-oM",
   "videos": [
+    {
+      "id": "1s21MQAC-oM",
+      "published": "2026-07-13T17:30:26+00:00",
+      "title": "The Linux Distro Much Cooler Than Arch Linux",
+      "urls": [
+        "https://github.com/dzumq/Linux-Larp"
+      ]
+    },
     {
       "id": "8qOXRSZsI3A",
       "published": "2026-07-12T17:30:29+00:00",

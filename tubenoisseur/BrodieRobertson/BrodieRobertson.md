@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 42
+- github.com = 43
 - lists.archlinux.org = 22
 - x.com = 17
 - blogs.gnome.org = 9
@@ -155,6 +155,15 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## The Linux Distro Much Cooler Than Arch Linux
+
+- ID: 1s21MQAC-oM
+- Published: 2026-07-13T17:30:26+00:00
+
+### References
+
+- https://github.com/dzumq/Linux-Larp
 
 ## A Linux Distro In Under 20 Megabytes
 
