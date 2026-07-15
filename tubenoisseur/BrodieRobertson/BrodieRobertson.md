@@ -77,6 +77,7 @@ Top Sources:
 - balooii.pages.gitlab.gnome.org = 1
 - bazzite.gg = 1
 - bbs.deepin.org = 1
+- blog.linuxmint.com = 1
 - blog.myli.page = 1
 - blog.orhun.dev = 1
 - blogs.microsoft.com = 1
@@ -103,6 +104,7 @@ Top Sources:
 - groups.google.com = 1
 - hachyderm.io = 1
 - linux.kde.org = 1
+- linuxmint.com = 1
 - lists.fedoraproject.org = 1
 - lwn.net = 1
 - mailarchive.ietf.org = 1
@@ -155,6 +157,16 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Linux Mint's Wayland Session Is Ready After 3 Years
+
+- ID: 1jJfPRG2eVA
+- Published: 2026-07-14T17:30:33+00:00
+
+### References
+
+- https://linuxmint.com/
+- https://blog.linuxmint.com/?p=5046
 
 ## The Linux Distro Much Cooler Than Arch Linux
 
