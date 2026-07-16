@@ -60,12 +60,14 @@
     "gjs.guide": 1,
     "gregroelofs.com": 1,
     "groups.google.com": 1,
+    "gs.statcounter.com": 1,
     "hachyderm.io": 1,
     "invent.kde.org": 3,
     "ioctl.fail": 4,
     "kde.org": 9,
     "ladybird.org": 6,
     "linux.kde.org": 1,
+    "linuxiac.com": 1,
     "linuxmint.com": 1,
     "lists.archlinux.org": 22,
     "lists.debian.org": 3,
@@ -149,6 +151,7 @@
     "www.theverge.com": 1,
     "www.tinycorelinux.net": 1,
     "www.windowscentral.com": 1,
+    "www.windowslatest.com": 2,
     "www.wiz.io": 1,
     "www.zdnet.com": 1,
     "x.com": 17,
@@ -164,8 +167,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "1jJfPRG2eVA",
+  "lastVideoID": "g-6krGvyxh4",
   "videos": [
+    {
+      "id": "g-6krGvyxh4",
+      "published": "2026-07-15T17:30:29+00:00",
+      "title": "Windows Marketshare Is Trending Down",
+      "urls": [
+        "https://linuxiac.com/windows-drops-under-60-in-global-desktop-os-share-for-the-first-time-in-years/",
+        "https://gs.statcounter.com/os-market-share/desktop/worldwide",
+        "https://www.windowslatest.com/2026/07/12/no-windows-did-not-fall-below-60-market-share-or-lose-15-points-to-linux/",
+        "https://www.windowslatest.com/2025/10/02/no-windows-7-isnt-gaining-market-share-in-2025/"
+      ]
+    },
     {
       "id": "1jJfPRG2eVA",
       "published": "2026-07-14T17:30:33+00:00",

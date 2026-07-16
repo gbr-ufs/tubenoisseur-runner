@@ -70,6 +70,7 @@ Top Sources:
 - www.osnews.com = 2
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
+- www.windowslatest.com = 2
 - access.redhat.com = 1
 - alexxcons.github.io = 1
 - alpinelinux.org = 1
@@ -102,8 +103,10 @@ Top Sources:
 - gjs.guide = 1
 - gregroelofs.com = 1
 - groups.google.com = 1
+- gs.statcounter.com = 1
 - hachyderm.io = 1
 - linux.kde.org = 1
+- linuxiac.com = 1
 - linuxmint.com = 1
 - lists.fedoraproject.org = 1
 - lwn.net = 1
@@ -157,6 +160,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Windows Marketshare Is Trending Down
+
+- ID: g-6krGvyxh4
+- Published: 2026-07-15T17:30:29+00:00
+
+### References
+
+- https://linuxiac.com/windows-drops-under-60-in-global-desktop-os-share-for-the-first-time-in-years/
+- https://gs.statcounter.com/os-market-share/desktop/worldwide
+- https://www.windowslatest.com/2026/07/12/no-windows-did-not-fall-below-60-market-share-or-lose-15-points-to-linux/
+- https://www.windowslatest.com/2025/10/02/no-windows-7-isnt-gaining-market-share-in-2025/
 
 ## Linux Mint's Wayland Session Is Ready After 3 Years
 
