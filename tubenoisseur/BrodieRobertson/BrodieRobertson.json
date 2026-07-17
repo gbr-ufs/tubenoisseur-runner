@@ -44,6 +44,7 @@
     "discuss.kde.org": 1,
     "discussion.fedoraproject.org": 1,
     "distrofighter.com": 1,
+    "docs.kernel.org": 1,
     "en.wikipedia.org": 2,
     "excalidraw.com": 1,
     "fedoraproject.org": 1,
@@ -53,7 +54,7 @@
     "forums.linuxmint.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 43,
+    "github.com": 44,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 6,
     "gitlab.gnome.org": 6,
@@ -74,7 +75,7 @@
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
     "lkml.org": 2,
-    "lore.kernel.org": 5,
+    "lore.kernel.org": 6,
     "lwn.net": 1,
     "mailarchive.ietf.org": 1,
     "man7.org": 1,
@@ -147,7 +148,7 @@
     "www.spurint.org": 1,
     "www.suse.com": 1,
     "www.techpowerup.com": 1,
-    "www.theregister.com": 1,
+    "www.theregister.com": 2,
     "www.theverge.com": 1,
     "www.tinycorelinux.net": 1,
     "www.windowscentral.com": 1,
@@ -167,8 +168,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "g-6krGvyxh4",
+  "lastVideoID": "_Okkcg-lsXI",
   "videos": [
+    {
+      "id": "_Okkcg-lsXI",
+      "published": "2026-07-16T17:30:13+00:00",
+      "title": "Linus Torvalds Tells AI Haters To Fork The Kernel",
+      "urls": [
+        "https://docs.kernel.org/process/coding-assistants.html",
+        "https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256",
+        "https://lore.kernel.org/linux-media/20260530103004.6fe2ffa7@foz.lan/",
+        "https://github.com/sashiko-dev/sashiko"
+      ]
+    },
     {
       "id": "g-6krGvyxh4",
       "published": "2026-07-15T17:30:29+00:00",

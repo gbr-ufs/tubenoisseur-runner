@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 43
+- github.com = 44
 - lists.archlinux.org = 22
 - x.com = 17
 - blogs.gnome.org = 9
@@ -14,10 +14,10 @@ Top Sources:
 - gitlab.freedesktop.org = 6
 - gitlab.gnome.org = 6
 - ladybird.org = 6
+- lore.kernel.org = 6
 - blog.davidedmundson.co.uk = 5
 - blogs.kde.org = 5
 - discourse.gnome.org = 5
-- lore.kernel.org = 5
 - store.steampowered.com = 5
 - web.archive.org = 5
 - bugs.launchpad.net = 4
@@ -70,6 +70,7 @@ Top Sources:
 - www.osnews.com = 2
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
+- www.theregister.com = 2
 - www.windowslatest.com = 2
 - access.redhat.com = 1
 - alexxcons.github.io = 1
@@ -95,6 +96,7 @@ Top Sources:
 - discuss.kde.org = 1
 - discussion.fedoraproject.org = 1
 - distrofighter.com = 1
+- docs.kernel.org = 1
 - excalidraw.com = 1
 - fedoraproject.org = 1
 - flutter.dev = 1
@@ -150,7 +152,6 @@ Top Sources:
 - www.spurint.org = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
-- www.theregister.com = 1
 - www.theverge.com = 1
 - www.tinycorelinux.net = 1
 - www.windowscentral.com = 1
@@ -160,6 +161,18 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Linus Torvalds Tells AI Haters To Fork The Kernel
+
+- ID: _Okkcg-lsXI
+- Published: 2026-07-16T17:30:13+00:00
+
+### References
+
+- https://docs.kernel.org/process/coding-assistants.html
+- https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256
+- https://lore.kernel.org/linux-media/20260530103004.6fe2ffa7@foz.lan/
+- https://github.com/sashiko-dev/sashiko
 
 ## Windows Marketshare Is Trending Down
 
