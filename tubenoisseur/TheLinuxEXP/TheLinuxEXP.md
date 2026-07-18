@@ -2,19 +2,19 @@
 
 Top Sources:
 
-- www.phoronix.com = 27
+- www.phoronix.com = 29
 - itsfoss.com = 20
-- linuxiac.com = 19
+- linuxiac.com = 20
 - www.gamingonlinux.com = 16
-- www.omgubuntu.co.uk = 14
-- github.com = 13
-- www.techradar.com = 13
+- www.omgubuntu.co.uk = 15
+- github.com = 14
+- www.techradar.com = 14
 - discourse.ubuntu.com = 8
-- blog.mozilla.org = 5
+- blog.mozilla.org = 6
+- 9to5linux.com = 4
 - arstechnica.com = 4
 - fedoramagazine.org = 4
 - proton.me = 4
-- 9to5linux.com = 3
 - blog.documentfoundation.org = 3
 - blog.linuxmint.com = 3
 - discussion.fedoraproject.org = 3
@@ -42,6 +42,7 @@ Top Sources:
 - blog.thunderbird.net = 1
 - brave.com = 1
 - cachyos.org = 1
+- cakehonolulu.github.io = 1
 - canonical.com = 1
 - consumerrights.wiki = 1
 - cybernews.com = 1
@@ -61,14 +62,17 @@ Top Sources:
 - github.blog = 1
 - gitlab.freedesktop.org = 1
 - goodtech.info = 1
+- groups.google.com = 1
 - gs.statcounter.com = 1
 - help.steampowered.com = 1
+- isene.org = 1
 - junocomputers.com = 1
 - kde.org = 1
 - keepandroidopen.org = 1
 - lists.debian.org = 1
 - lists.linuxfromscratch.org = 1
 - merritt.codes = 1
+- modal.cx = 1
 - motorolanews.com = 1
 - natlawreview.com = 1
 - nerds.xyz = 1
@@ -79,6 +83,7 @@ Top Sources:
 - redmine.documentfoundation.org = 1
 - rentry.org = 1
 - security.opensuse.org = 1
+- sfconservancy.org = 1
 - steamcommunity.com = 1
 - support.mozilla.org = 1
 - thecybersecguru.com = 1
@@ -118,10 +123,33 @@ Top Sources:
 - www.thunderbolt.io = 1
 - www.tomshardware.com = 1
 - www.xda-developers.com = 1
+- www.zdnet.com = 1
 - x.com = 1
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Torvalds talks A.I. and Linux, Wayland beats X11, Age verification getting worse - Linux Weekly News
+
+- ID: 8NePj4xHU8I
+- Published: 2026-07-17T15:45:43+00:00
+
+### References
+
+- https://www.zdnet.com/article/open-source-summit-linus-torvalds/
+- https://www.phoronix.com/news/Linux-Is-Not-Anti-AI
+- https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html
+- https://www.phoronix.com/review/plasma-67-wayland-cachyos/3
+- https://www.techradar.com/vpn/vpn-privacy-security/the-death-of-privacy-online-proton-launches-interactive-map-to-show-age-verification-laws-are-spreading-fast
+- https://9to5linux.com/first-look-at-cosmic-desktop-environments-frosted-glass-effect
+- https://linuxiac.com/cosmic-desktop-1-3-shines-with-its-new-frosted-glass-design/
+- https://isene.org/2026/07/Frame.html
+- https://modal.cx/blog/image-based-for-developers/
+- https://cakehonolulu.github.io/linux-on-32x/
+- https://groups.google.com/a/mozilla.org/g/dev-platform/c/qlaQ1YSlOP8?pli=1
+- https://blog.mozilla.org/en/mozilla/browser-choice-windows-report-over-the-edge-2/
+- https://github.com/kem-a/AppManager
+- https://www.omgubuntu.co.uk/2026/07/appmanager-appimage-installer-linux
 
 ## Windows 11 is losing users really quickly - Linux Weekly News
 
