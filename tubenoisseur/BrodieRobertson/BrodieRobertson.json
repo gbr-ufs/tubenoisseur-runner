@@ -168,8 +168,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "u2nWI3FOM58",
+  "lastVideoID": "hE6wWn8JNjQ",
   "videos": [
+    {
+      "id": "hE6wWn8JNjQ",
+      "published": "2026-07-19T17:30:31+00:00",
+      "title": "How Terrible Is Modern Linux On An Old PC?",
+      "urls": []
+    },
     {
       "id": "u2nWI3FOM58",
       "published": "2026-07-18T17:30:30+00:00",

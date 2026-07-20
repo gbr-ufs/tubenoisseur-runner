@@ -162,6 +162,14 @@ Top Sources:
 - youtu.be = 1
 
 
+## How Terrible Is Modern Linux On An Old PC?
+
+- ID: hE6wWn8JNjQ
+- Published: 2026-07-19T17:30:31+00:00
+
+### References
+
+
 ## End Of Debian Linux 32 Bit x86 Has Come
 
 - ID: u2nWI3FOM58
