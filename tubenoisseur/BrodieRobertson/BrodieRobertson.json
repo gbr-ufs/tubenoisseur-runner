@@ -112,7 +112,7 @@
     "upload.wikimedia.org": 2,
     "usbguard.github.io": 1,
     "voidlinux.org": 1,
-    "web.archive.org": 5,
+    "web.archive.org": 6,
     "wiki.archlinux.org": 7,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
@@ -132,10 +132,11 @@
     "www.ietf.org": 4,
     "www.ign.com": 1,
     "www.ioccc.org": 2,
+    "www.islinuxaboutchoice.com": 1,
     "www.linuxjournal.com": 1,
     "www.notebookcheck.net": 1,
     "www.omgubuntu.co.uk": 2,
-    "www.osnews.com": 2,
+    "www.osnews.com": 3,
     "www.pcgamer.com": 2,
     "www.pcworld.com": 1,
     "www.phoronix.com": 2,
@@ -168,8 +169,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "hE6wWn8JNjQ",
+  "lastVideoID": "DF47ErcoO-Y",
   "videos": [
+    {
+      "id": "DF47ErcoO-Y",
+      "published": "2026-07-20T17:30:01+00:00",
+      "title": "Linux Is About A Certain Kind Of Choice",
+      "urls": [
+        "https://www.osnews.com/story/7251/opinion-linux-in-2004-usability-needs-a-facelift/",
+        "https://web.archive.org/web/20210228005331/https://listman.redhat.com/archives/fedora-devel-list/2008-January/msg00861.html",
+        "http://www.islinuxaboutchoice.com/"
+      ]
+    },
     {
       "id": "hE6wWn8JNjQ",
       "published": "2026-07-19T17:30:31+00:00",

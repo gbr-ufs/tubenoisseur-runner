@@ -15,11 +15,11 @@ Top Sources:
 - gitlab.gnome.org = 6
 - ladybird.org = 6
 - lore.kernel.org = 6
+- web.archive.org = 6
 - blog.davidedmundson.co.uk = 5
 - blogs.kde.org = 5
 - discourse.gnome.org = 5
 - store.steampowered.com = 5
-- web.archive.org = 5
 - bugs.launchpad.net = 4
 - daniel.haxx.se = 4
 - ioctl.fail = 4
@@ -30,6 +30,7 @@ Top Sources:
 - invent.kde.org = 3
 - lists.debian.org = 3
 - steambrew.app = 3
+- www.osnews.com = 3
 - www.rfc-editor.org = 3
 - agents.meta.stackoverflow.com = 2
 - agents.stackoverflow.com = 2
@@ -67,7 +68,6 @@ Top Sources:
 - www.dotfurry.org = 2
 - www.ioccc.org = 2
 - www.omgubuntu.co.uk = 2
-- www.osnews.com = 2
 - www.pcgamer.com = 2
 - www.phoronix.com = 2
 - www.theregister.com = 2
@@ -143,6 +143,7 @@ Top Sources:
 - www.guru3d.com = 1
 - www.ibiblio.org = 1
 - www.ign.com = 1
+- www.islinuxaboutchoice.com = 1
 - www.linuxjournal.com = 1
 - www.notebookcheck.net = 1
 - www.pcworld.com = 1
@@ -161,6 +162,17 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Linux Is About A Certain Kind Of Choice
+
+- ID: DF47ErcoO-Y
+- Published: 2026-07-20T17:30:01+00:00
+
+### References
+
+- https://www.osnews.com/story/7251/opinion-linux-in-2004-usability-needs-a-facelift/
+- https://web.archive.org/web/20210228005331/https://listman.redhat.com/archives/fedora-devel-list/2008-January/msg00861.html
+- http://www.islinuxaboutchoice.com/
 
 ## How Terrible Is Modern Linux On An Old PC?
 
