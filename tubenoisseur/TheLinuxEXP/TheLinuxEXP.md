@@ -129,6 +129,14 @@ Top Sources:
 - zamundaaa.github.io = 1
 
 
+## Linux Mint vs Apps: why the fixed distro model doesn't work
+
+- ID: 1ebkQq5TcMw
+- Published: 2026-07-21T12:31:54+00:00
+
+### References
+
+
 ## Torvalds talks A.I. and Linux, Wayland beats X11, Age verification getting worse - Linux Weekly News
 
 - ID: 8NePj4xHU8I

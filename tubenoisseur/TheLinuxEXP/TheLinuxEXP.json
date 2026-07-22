@@ -141,8 +141,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "8NePj4xHU8I",
+  "lastVideoID": "1ebkQq5TcMw",
   "videos": [
+    {
+      "id": "1ebkQq5TcMw",
+      "published": "2026-07-21T12:31:54+00:00",
+      "title": "Linux Mint vs Apps: why the fixed distro model doesn't work",
+      "urls": []
+    },
     {
       "id": "8NePj4xHU8I",
       "published": "2026-07-17T15:45:43+00:00",
