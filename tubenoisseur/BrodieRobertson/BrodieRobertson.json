@@ -121,6 +121,7 @@
     "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
+    "www.collabora.com": 1,
     "www.damnsmalllinux.org": 1,
     "www.davidrevoy.com": 1,
     "www.dotfurry.org": 2,
@@ -169,8 +170,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "DF47ErcoO-Y",
+  "lastVideoID": "c7dY-YulDEg",
   "videos": [
+    {
+      "id": "c7dY-YulDEg",
+      "published": "2026-07-21T17:30:24+00:00",
+      "title": "Valve's Steam Frame Is Reinventing Arch Linux On ARM",
+      "urls": [
+        "https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html"
+      ]
+    },
     {
       "id": "DF47ErcoO-Y",
       "published": "2026-07-20T17:30:01+00:00",

@@ -135,6 +135,7 @@ Top Sources:
 - wiki.xfce.org = 1
 - www.8bitdo.com = 1
 - www.cloudflarestatus.com = 1
+- www.collabora.com = 1
 - www.damnsmalllinux.org = 1
 - www.davidrevoy.com = 1
 - www.gamingonlinux.com = 1
@@ -162,6 +163,15 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Valve's Steam Frame Is Reinventing Arch Linux On ARM
+
+- ID: c7dY-YulDEg
+- Published: 2026-07-21T17:30:24+00:00
+
+### References
+
+- https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html
 
 ## Linux Is About A Certain Kind Of Choice
 
