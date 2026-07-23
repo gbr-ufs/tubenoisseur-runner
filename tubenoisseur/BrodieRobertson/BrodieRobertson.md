@@ -31,6 +31,7 @@ Top Sources:
 - lists.debian.org = 3
 - steambrew.app = 3
 - www.osnews.com = 3
+- www.phoronix.com = 3
 - www.rfc-editor.org = 3
 - agents.meta.stackoverflow.com = 2
 - agents.stackoverflow.com = 2
@@ -69,13 +70,13 @@ Top Sources:
 - www.ioccc.org = 2
 - www.omgubuntu.co.uk = 2
 - www.pcgamer.com = 2
-- www.phoronix.com = 2
 - www.theregister.com = 2
 - www.windowslatest.com = 2
 - access.redhat.com = 1
 - alexxcons.github.io = 1
 - alpinelinux.org = 1
 - apps.kde.org = 1
+- arstechnica.com = 1
 - balooii.pages.gitlab.gnome.org = 1
 - bazzite.gg = 1
 - bbs.deepin.org = 1
@@ -115,6 +116,7 @@ Top Sources:
 - mailarchive.ietf.org = 1
 - man7.org = 1
 - mastodon.gamedev.place = 1
+- meta.wikimedia.org = 1
 - mitchellh.com = 1
 - mrshu.github.io = 1
 - mstdn.social = 1
@@ -154,6 +156,8 @@ Top Sources:
 - www.spurint.org = 1
 - www.suse.com = 1
 - www.techpowerup.com = 1
+- www.techtimes.com = 1
+- www.thebroadcastbridge.com = 1
 - www.theverge.com = 1
 - www.tinycorelinux.net = 1
 - www.windowscentral.com = 1
@@ -163,6 +167,19 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## You're A Criminal If You Watch Video On Linux
+
+- ID: hX4Oaz7FHfg
+- Published: 2026-07-22T17:30:27+00:00
+
+### References
+
+- https://www.thebroadcastbridge.com/content/entry/21840/standards-about-the-mpeg-4-standard
+- https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired
+- https://meta.wikimedia.org/wiki/Have_the_patents_for_H.264_MPEG-4_AVC_expired_yet%3F
+- https://www.techtimes.com/articles/320983/20260719/last-mpeg-4-visual-patent-expires-today-freeing-divx-xvid-globally.htm
+- https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/
 
 ## Valve's Steam Frame Is Reinventing Arch Linux On ARM
 
