@@ -2,24 +2,25 @@
 
 Top Sources:
 
-- www.phoronix.com = 29
+- www.phoronix.com = 30
+- linuxiac.com = 22
 - itsfoss.com = 20
-- linuxiac.com = 20
+- www.omgubuntu.co.uk = 17
 - www.gamingonlinux.com = 16
-- www.omgubuntu.co.uk = 15
 - github.com = 14
 - www.techradar.com = 14
 - discourse.ubuntu.com = 8
 - blog.mozilla.org = 6
 - 9to5linux.com = 4
 - arstechnica.com = 4
+- blog.documentfoundation.org = 4
 - fedoramagazine.org = 4
 - proton.me = 4
-- blog.documentfoundation.org = 3
 - blog.linuxmint.com = 3
+- blogs.gnome.org = 3
 - discussion.fedoraproject.org = 3
 - youtu.be = 3
-- blogs.gnome.org = 2
+- bbhtt.in = 2
 - community.kde.org = 2
 - lists.fedoraproject.org = 2
 - store.steampowered.com = 2
@@ -29,6 +30,7 @@ Top Sources:
 - www.fsf.org = 2
 - www.neowin.net = 2
 - www.politico.eu = 2
+- www.theregister.com = 2
 - www.theverge.com = 2
 - abstract3d.com = 1
 - aftermath.site = 1
@@ -52,7 +54,9 @@ Top Sources:
 - discourse.gnome.org = 1
 - documentation.ubuntu.com = 1
 - en.ubunlog.com = 1
+- enblog.eischmann.cz = 1
 - filipfila.wordpress.com = 1
+- forum.jellyfin.org = 1
 - forum.manjaro.org = 1
 - forum.openmandriva.org = 1
 - forum.zorin.com = 1
@@ -60,6 +64,7 @@ Top Sources:
 - getsol.us = 1
 - git.kernel.org = 1
 - github.blog = 1
+- gitlab.com = 1
 - gitlab.freedesktop.org = 1
 - goodtech.info = 1
 - groups.google.com = 1
@@ -86,6 +91,7 @@ Top Sources:
 - sfconservancy.org = 1
 - steamcommunity.com = 1
 - support.mozilla.org = 1
+- tesk.page = 1
 - thecybersecguru.com = 1
 - thisweek.gnome.org = 1
 - tintotint.eu = 1
@@ -100,6 +106,7 @@ Top Sources:
 - www.blender.org = 1
 - www.cloudflare.com = 1
 - www.cnet.com = 1
+- www.collabora.com = 1
 - www.collaboraonline.com = 1
 - www.digitalfoundry.net = 1
 - www.dw.com = 1
@@ -119,7 +126,6 @@ Top Sources:
 - www.sonatype.com = 1
 - www.spurint.org = 1
 - www.thatprivacyguy.com = 1
-- www.theregister.com = 1
 - www.thunderbolt.io = 1
 - www.tomshardware.com = 1
 - www.xda-developers.com = 1
@@ -128,6 +134,29 @@ Top Sources:
 - xint.io = 1
 - zamundaaa.github.io = 1
 
+
+## Egos ruining Open Source projects, distros vs software conflicts - Linux Weekly News
+
+- ID: 2cQ9-_7GwmQ
+- Published: 2026-07-25T09:43:02+00:00
+
+### References
+
+- https://linuxiac.com/linux-mint-and-gnome-calendar-clash-resurfaces-months-later/
+- https://gitlab.com/linuxmint/pins/mint/gnome-calendar/-/work_items/1
+- https://tesk.page/2026/07/18/how-far-would-hostile-distributions-go-to-hurt-upstream/
+- https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497
+- https://bbhtt.in/posts/flathub-leave/
+- https://bbhtt.in/posts/taking-a-pause/
+- https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data
+- https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html
+- https://blogs.gnome.org/mcatanzaro/2026/07/20/some-changes-to-gnome-security-tracking/
+- https://www.omgubuntu.co.uk/2026/07/firefox-153-new-containers-feature
+- https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/
+- https://forum.jellyfin.org/t-project-leadership-changes
+- https://linuxiac.com/jellyfin-loses-project-leader-and-core-team-member-in-major-shake-up/
+- https://www.phoronix.com/news/libx11-compat
+- https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/
 
 ## Linux Mint vs Apps: why the fixed distro model doesn't work
 
