@@ -3,7 +3,7 @@
 Top Sources:
 
 - github.com = 44
-- lists.archlinux.org = 22
+- lists.archlinux.org = 27
 - x.com = 17
 - blogs.gnome.org = 9
 - kde.org = 9
@@ -115,6 +115,7 @@ Top Sources:
 - lwn.net = 1
 - mailarchive.ietf.org = 1
 - man7.org = 1
+- marco-nett.de = 1
 - mastodon.gamedev.place = 1
 - meta.wikimedia.org = 1
 - mitchellh.com = 1
@@ -167,6 +168,28 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Arch Linux's AUR Is Going To Change
+
+- ID: 2J0lM9FiBLE
+- Published: 2026-07-25T17:30:14+00:00
+
+### References
+
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/P2PG2N73L6G66F46ZZDZO25IER2KSLLC/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/4JRS73YVTE7JUYHHE3ZDUIHXYHXZ3YQQ/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/3XAEPJG2GC5RZCN57GM7U6MOJYIEL2WT/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/BY7ML4ENZMKG7USE4JPGVPVM2Z5L26N4/
+- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/TT3OCFFNM6SBMUBKIVTHTKA6UZJNMXIJ/
+
+## Linux Gaming On XWayland Was A Mistake
+
+- ID: AYWg-1zkbMI
+- Published: 2026-07-23T17:30:16+00:00
+
+### References
+
+- https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/
 
 ## You're A Criminal If You Watch Video On Linux
 

@@ -71,7 +71,7 @@
     "linux.kde.org": 1,
     "linuxiac.com": 1,
     "linuxmint.com": 1,
-    "lists.archlinux.org": 22,
+    "lists.archlinux.org": 27,
     "lists.debian.org": 3,
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
@@ -80,6 +80,7 @@
     "lwn.net": 1,
     "mailarchive.ietf.org": 1,
     "man7.org": 1,
+    "marco-nett.de": 1,
     "mastodon.gamedev.place": 1,
     "mastodon.social": 2,
     "md.archlinux.org": 2,
@@ -174,8 +175,28 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "hX4Oaz7FHfg",
+  "lastVideoID": "2J0lM9FiBLE",
   "videos": [
+    {
+      "id": "2J0lM9FiBLE",
+      "published": "2026-07-25T17:30:14+00:00",
+      "title": "Arch Linux's AUR Is Going To Change",
+      "urls": [
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/P2PG2N73L6G66F46ZZDZO25IER2KSLLC/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/4JRS73YVTE7JUYHHE3ZDUIHXYHXZ3YQQ/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/3XAEPJG2GC5RZCN57GM7U6MOJYIEL2WT/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/BY7ML4ENZMKG7USE4JPGVPVM2Z5L26N4/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/TT3OCFFNM6SBMUBKIVTHTKA6UZJNMXIJ/"
+      ]
+    },
+    {
+      "id": "AYWg-1zkbMI",
+      "published": "2026-07-23T17:30:16+00:00",
+      "title": "Linux Gaming On XWayland Was A Mistake",
+      "urls": [
+        "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/"
+      ]
+    },
     {
       "id": "hX4Oaz7FHfg",
       "published": "2026-07-22T17:30:27+00:00",
