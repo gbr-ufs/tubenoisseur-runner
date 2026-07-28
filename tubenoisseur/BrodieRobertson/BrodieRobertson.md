@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- github.com = 44
+- github.com = 45
 - lists.archlinux.org = 27
 - x.com = 17
 - blogs.gnome.org = 9
@@ -26,6 +26,7 @@ Top Sources:
 - www.ietf.org = 4
 - www.reddit.com = 4
 - archlinux.org = 3
+- en.wikipedia.org = 3
 - filipfila.wordpress.com = 3
 - invent.kde.org = 3
 - lists.debian.org = 3
@@ -44,7 +45,6 @@ Top Sources:
 - data.stackexchange.com = 2
 - desktopsummit.org = 2
 - discuss.cachyos.org = 2
-- en.wikipedia.org = 2
 - forums.linuxmint.com = 2
 - git.devuan.org = 2
 - git.kernel.org = 2
@@ -88,6 +88,7 @@ Top Sources:
 - bugs.kde.org = 1
 - bugzilla.gnome.org = 1
 - canonical.com = 1
+- cdn.kernel.org = 1
 - conf.kde.org = 1
 - copy.fail = 1
 - cybernews.com = 1
@@ -97,11 +98,13 @@ Top Sources:
 - discuss.kde.org = 1
 - discussion.fedoraproject.org = 1
 - distrofighter.com = 1
+- docs.freebsd.org = 1
 - docs.kernel.org = 1
 - excalidraw.com = 1
 - fedoraproject.org = 1
 - flutter.dev = 1
 - forge.fedoraproject.org = 1
+- freebsdfoundation.org = 1
 - gitlab.com = 1
 - gjs.guide = 1
 - gregroelofs.com = 1
@@ -130,9 +133,11 @@ Top Sources:
 - plasma-bigscreen.org = 1
 - prayag2.github.io = 1
 - ratty-term.org = 1
+- reviews.freebsd.org = 1
 - security-tracker.debian.org = 1
 - security.opensuse.org = 1
 - snapcraft.io = 1
+- stallman-copypasta.github.io = 1
 - usbguard.github.io = 1
 - voidlinux.org = 1
 - wiki.xfce.org = 1
@@ -150,6 +155,7 @@ Top Sources:
 - www.islinuxaboutchoice.com = 1
 - www.linuxjournal.com = 1
 - www.notebookcheck.net = 1
+- www.openbsd.org = 1
 - www.pcworld.com = 1
 - www.raylib.com = 1
 - www.redhat.com = 1
@@ -168,6 +174,30 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## Linux Gaming Distros Aren't About FPS
+
+- ID: jkGCVUFMK-I
+- Published: 2026-07-27T17:30:12+00:00
+
+### References
+
+- https://stallman-copypasta.github.io/
+- https://en.wikipedia.org/wiki/List_of_Linux_distributions
+
+## FreeBSD Eliminated All Its GPL Code
+
+- ID: jmWq0gMx20o
+- Published: 2026-07-26T17:30:26+00:00
+
+### References
+
+- https://cdn.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.01
+- https://reviews.freebsd.org/D55424
+- https://github.com/freebsd/freebsd-src/commit/134a4c78d070f8c4ea43a060a7ae28d22ac39558
+- https://docs.freebsd.org/en/books/handbook/introduction
+- https://freebsdfoundation.org/blog/why-you-should-use-freebsd/
+- https://www.openbsd.org/policy.html
 
 ## Arch Linux's AUR Is Going To Change
 
