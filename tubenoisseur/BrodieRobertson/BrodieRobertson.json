@@ -58,15 +58,16 @@
     "freebsdfoundation.org": 1,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 45,
+    "github.com": 50,
     "gitlab.com": 1,
-    "gitlab.freedesktop.org": 6,
+    "gitlab.freedesktop.org": 7,
     "gitlab.gnome.org": 6,
     "gjs.guide": 1,
     "gregroelofs.com": 1,
     "groups.google.com": 1,
     "gs.statcounter.com": 1,
     "hachyderm.io": 1,
+    "ideas.obsproject.com": 1,
     "invent.kde.org": 3,
     "ioctl.fail": 4,
     "kde.org": 9,
@@ -181,8 +182,22 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "jkGCVUFMK-I",
+  "lastVideoID": "VEXugiJsNbM",
   "videos": [
+    {
+      "id": "VEXugiJsNbM",
+      "published": "2026-07-28T17:30:25+00:00",
+      "title": "The New Wayland Global Shortcuts Protocol",
+      "urls": [
+        "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525",
+        "https://ideas.obsproject.com/posts/2066/implement-globalshortcuts-portal",
+        "https://github.com/flatpak/xdg-desktop-portal/issues/624",
+        "https://github.com/hyprwm/Hyprland/pull/15010",
+        "https://github.com/niri-wm/niri/pull/4145",
+        "https://github.com/ghostty-org/ghostty/pull/13464",
+        "https://github.com/obsproject/obs-studio/pull/13661"
+      ]
+    },
     {
       "id": "jkGCVUFMK-I",
       "published": "2026-07-27T17:30:12+00:00",

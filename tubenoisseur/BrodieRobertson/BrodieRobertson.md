@@ -2,16 +2,16 @@
 
 Top Sources:
 
-- github.com = 45
+- github.com = 50
 - lists.archlinux.org = 27
 - x.com = 17
 - blogs.gnome.org = 9
 - kde.org = 9
 - www.sovereign.tech = 9
 - aur.archlinux.org = 7
+- gitlab.freedesktop.org = 7
 - news.ycombinator.com = 7
 - wiki.archlinux.org = 7
-- gitlab.freedesktop.org = 6
 - gitlab.gnome.org = 6
 - ladybird.org = 6
 - lore.kernel.org = 6
@@ -111,6 +111,7 @@ Top Sources:
 - groups.google.com = 1
 - gs.statcounter.com = 1
 - hachyderm.io = 1
+- ideas.obsproject.com = 1
 - linux.kde.org = 1
 - linuxiac.com = 1
 - linuxmint.com = 1
@@ -174,6 +175,21 @@ Top Sources:
 - xkcd.com = 1
 - youtu.be = 1
 
+
+## The New Wayland Global Shortcuts Protocol
+
+- ID: VEXugiJsNbM
+- Published: 2026-07-28T17:30:25+00:00
+
+### References
+
+- https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525
+- https://ideas.obsproject.com/posts/2066/implement-globalshortcuts-portal
+- https://github.com/flatpak/xdg-desktop-portal/issues/624
+- https://github.com/hyprwm/Hyprland/pull/15010
+- https://github.com/niri-wm/niri/pull/4145
+- https://github.com/ghostty-org/ghostty/pull/13464
+- https://github.com/obsproject/obs-studio/pull/13661
 
 ## Linux Gaming Distros Aren't About FPS
 
