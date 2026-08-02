@@ -2,179 +2,210 @@
 
 Top Sources:
 
-- github.com = 50
-- lists.archlinux.org = 27
-- x.com = 17
-- blogs.gnome.org = 9
-- kde.org = 9
-- www.sovereign.tech = 9
-- aur.archlinux.org = 7
-- gitlab.freedesktop.org = 7
-- news.ycombinator.com = 7
-- wiki.archlinux.org = 7
-- gitlab.gnome.org = 6
-- ladybird.org = 6
-- lore.kernel.org = 6
-- web.archive.org = 6
-- blog.davidedmundson.co.uk = 5
-- blogs.kde.org = 5
-- discourse.gnome.org = 5
-- store.steampowered.com = 5
-- bugs.launchpad.net = 4
-- daniel.haxx.se = 4
-- ioctl.fail = 4
-- www.ietf.org = 4
-- www.reddit.com = 4
-- archlinux.org = 3
-- en.wikipedia.org = 3
-- filipfila.wordpress.com = 3
-- invent.kde.org = 3
-- lists.debian.org = 3
-- steambrew.app = 3
-- www.osnews.com = 3
-- www.phoronix.com = 3
-- www.rfc-editor.org = 3
-- agents.meta.stackoverflow.com = 2
-- agents.stackoverflow.com = 2
-- archive.md = 2
-- blog.sonny.re = 2
-- blog.vladzahorodnii.com = 2
-- brave.com = 2
-- brodierobertson.dev = 2
-- chromium-review.googlesource.com = 2
-- data.stackexchange.com = 2
-- desktopsummit.org = 2
-- discuss.cachyos.org = 2
-- forums.linuxmint.com = 2
-- git.devuan.org = 2
-- git.kernel.org = 2
-- lkml.iu.edu = 2
-- lkml.org = 2
-- mastodon.social = 2
-- md.archlinux.org = 2
-- medium.com = 2
-- newgtldprogram.icann.org = 2
-- pointieststick.com = 2
-- quantumproductions.info = 2
-- servo.org = 2
-- social.treehouse.systems = 2
-- stackoverflow.blog = 2
-- status.denic.de = 2
-- ubuntu.com = 2
-- upload.wikimedia.org = 2
-- wiki.gnome.org = 2
-- wiki.opennic.org = 2
-- www.anthropic.com = 2
-- www.cloudflare.com = 2
-- www.dotfurry.org = 2
-- www.ioccc.org = 2
-- www.omgubuntu.co.uk = 2
-- www.pcgamer.com = 2
-- www.theregister.com = 2
-- www.windowslatest.com = 2
-- access.redhat.com = 1
-- alexxcons.github.io = 1
-- alpinelinux.org = 1
-- apps.kde.org = 1
-- arstechnica.com = 1
-- balooii.pages.gitlab.gnome.org = 1
-- bazzite.gg = 1
-- bbs.deepin.org = 1
-- blog.linuxmint.com = 1
-- blog.myli.page = 1
-- blog.orhun.dev = 1
-- blogs.microsoft.com = 1
-- blogs.windows.com = 1
-- bugs.kde.org = 1
-- bugzilla.gnome.org = 1
-- canonical.com = 1
-- cdn.kernel.org = 1
-- conf.kde.org = 1
-- copy.fail = 1
-- cybernews.com = 1
-- develop.kde.org = 1
-- devuanusers.com = 1
-- discord.com = 1
-- discuss.kde.org = 1
-- discussion.fedoraproject.org = 1
-- distrofighter.com = 1
-- docs.freebsd.org = 1
-- docs.kernel.org = 1
-- excalidraw.com = 1
-- fedoraproject.org = 1
-- flutter.dev = 1
-- forge.fedoraproject.org = 1
-- freebsdfoundation.org = 1
-- gitlab.com = 1
-- gjs.guide = 1
-- gregroelofs.com = 1
-- groups.google.com = 1
-- gs.statcounter.com = 1
-- hachyderm.io = 1
-- ideas.obsproject.com = 1
-- linux.kde.org = 1
-- linuxiac.com = 1
-- linuxmint.com = 1
-- lists.fedoraproject.org = 1
-- lwn.net = 1
-- mailarchive.ietf.org = 1
-- man7.org = 1
-- marco-nett.de = 1
-- mastodon.gamedev.place = 1
-- meta.wikimedia.org = 1
-- mitchellh.com = 1
-- mrshu.github.io = 1
-- mstdn.social = 1
-- my.devsuite.app = 1
-- nobaraproject.org = 1
-- odin-lang.org = 1
-- openai.com = 1
-- pagure.io = 1
-- pinheiro-kde.blogspot.com = 1
-- plasma-bigscreen.org = 1
-- prayag2.github.io = 1
-- ratty-term.org = 1
-- reviews.freebsd.org = 1
-- security-tracker.debian.org = 1
-- security.opensuse.org = 1
-- snapcraft.io = 1
-- stallman-copypasta.github.io = 1
-- usbguard.github.io = 1
-- voidlinux.org = 1
-- wiki.xfce.org = 1
-- www.8bitdo.com = 1
-- www.cloudflarestatus.com = 1
-- www.collabora.com = 1
-- www.damnsmalllinux.org = 1
-- www.davidrevoy.com = 1
-- www.gamingonlinux.com = 1
-- www.gentoo.org = 1
-- www.githubstatus.com = 1
-- www.guru3d.com = 1
-- www.ibiblio.org = 1
-- www.ign.com = 1
-- www.islinuxaboutchoice.com = 1
-- www.linuxjournal.com = 1
-- www.notebookcheck.net = 1
-- www.openbsd.org = 1
-- www.pcworld.com = 1
-- www.raylib.com = 1
-- www.redhat.com = 1
-- www.slitaz.org = 1
-- www.spurint.org = 1
-- www.suse.com = 1
-- www.techpowerup.com = 1
-- www.techtimes.com = 1
-- www.thebroadcastbridge.com = 1
-- www.theverge.com = 1
-- www.tinycorelinux.net = 1
-- www.windowscentral.com = 1
-- www.wiz.io = 1
-- www.zdnet.com = 1
-- xint.io = 1
-- xkcd.com = 1
-- youtu.be = 1
+- <github.com> = 51
+- <lists.archlinux.org> = 27
+- <x.com> = 17
+- <blogs.gnome.org> = 9
+- <kde.org> = 9
+- <www.sovereign.tech> = 9
+- <aur.archlinux.org> = 7
+- <gitlab.freedesktop.org> = 7
+- <news.ycombinator.com> = 7
+- <wiki.archlinux.org> = 7
+- <gitlab.gnome.org> = 6
+- <ladybird.org> = 6
+- <lore.kernel.org> = 6
+- <web.archive.org> = 6
+- <blog.davidedmundson.co.uk> = 5
+- <blogs.kde.org> = 5
+- <discourse.gnome.org> = 5
+- <store.steampowered.com> = 5
+- <bugs.launchpad.net> = 4
+- <daniel.haxx.se> = 4
+- <ioctl.fail> = 4
+- <www.ietf.org> = 4
+- <www.reddit.com> = 4
+- <archlinux.org> = 3
+- <en.wikipedia.org> = 3
+- <filipfila.wordpress.com> = 3
+- <invent.kde.org> = 3
+- <lists.debian.org> = 3
+- <steambrew.app> = 3
+- <www.osnews.com> = 3
+- <www.phoronix.com> = 3
+- <www.rfc-editor.org> = 3
+- <agents.meta.stackoverflow.com> = 2
+- <agents.stackoverflow.com> = 2
+- <archive.md> = 2
+- <blog.sonny.re> = 2
+- <blog.vladzahorodnii.com> = 2
+- <brave.com> = 2
+- <brodierobertson.dev> = 2
+- <chromium-review.googlesource.com> = 2
+- <data.stackexchange.com> = 2
+- <desktopsummit.org> = 2
+- <discuss.cachyos.org> = 2
+- <forums.linuxmint.com> = 2
+- <git.devuan.org> = 2
+- <git.kernel.org> = 2
+- <lkml.iu.edu> = 2
+- <lkml.org> = 2
+- <mastodon.social> = 2
+- <md.archlinux.org> = 2
+- <medium.com> = 2
+- <newgtldprogram.icann.org> = 2
+- <pointieststick.com> = 2
+- <quantumproductions.info> = 2
+- <servo.org> = 2
+- <social.treehouse.systems> = 2
+- <stackoverflow.blog> = 2
+- <status.denic.de> = 2
+- <ubuntu.com> = 2
+- <upload.wikimedia.org> = 2
+- <wiki.gnome.org> = 2
+- <wiki.opennic.org> = 2
+- <www.anthropic.com> = 2
+- <www.cloudflare.com> = 2
+- <www.dotfurry.org> = 2
+- <www.ioccc.org> = 2
+- <www.omgubuntu.co.uk> = 2
+- <www.pcgamer.com> = 2
+- <www.theregister.com> = 2
+- <www.windowslatest.com> = 2
+- <access.redhat.com> = 1
+- <alexxcons.github.io> = 1
+- <alpinelinux.org> = 1
+- <apps.kde.org> = 1
+- <arstechnica.com> = 1
+- <balooii.pages.gitlab.gnome.org> = 1
+- <bazzite.gg> = 1
+- <bbs.deepin.org> = 1
+- <blog.linuxmint.com> = 1
+- <blog.myli.page> = 1
+- <blog.orhun.dev> = 1
+- <blogs.microsoft.com> = 1
+- <blogs.windows.com> = 1
+- <bugs.kde.org> = 1
+- <bugzilla.gnome.org> = 1
+- <canonical.com> = 1
+- <cdn.kernel.org> = 1
+- <conf.kde.org> = 1
+- <copy.fail> = 1
+- <cybernews.com> = 1
+- <develop.kde.org> = 1
+- <devuanusers.com> = 1
+- <discord.com> = 1
+- <discuss.kde.org> = 1
+- <discussion.fedoraproject.org> = 1
+- <distrofighter.com> = 1
+- <docs.freebsd.org> = 1
+- <docs.kernel.org> = 1
+- <excalidraw.com> = 1
+- <fedoraproject.org> = 1
+- <flutter.dev> = 1
+- <forge.fedoraproject.org> = 1
+- <forum.endeavouros.com> = 1
+- <freebsdfoundation.org> = 1
+- <gitlab.com> = 1
+- <gjs.guide> = 1
+- <gregroelofs.com> = 1
+- <groups.google.com> = 1
+- <gs.statcounter.com> = 1
+- <hachyderm.io> = 1
+- <ideas.obsproject.com> = 1
+- <linux.kde.org> = 1
+- <linuxiac.com> = 1
+- <linuxmint.com> = 1
+- <lists.fedoraproject.org> = 1
+- <lwn.net> = 1
+- <mailarchive.ietf.org> = 1
+- <man7.org> = 1
+- <marco-nett.de> = 1
+- <mastodon.gamedev.place> = 1
+- <meta.wikimedia.org> = 1
+- <mitchellh.com> = 1
+- <mrshu.github.io> = 1
+- <mstdn.social> = 1
+- <my.devsuite.app> = 1
+- <nobaraproject.org> = 1
+- <odin-lang.org> = 1
+- <openai.com> = 1
+- <pagure.io> = 1
+- <pinheiro-kde.blogspot.com> = 1
+- <plasma-bigscreen.org> = 1
+- <prayag2.github.io> = 1
+- <ratty-term.org> = 1
+- <reviews.freebsd.org> = 1
+- <security-tracker.debian.org> = 1
+- <security.opensuse.org> = 1
+- <snapcraft.io> = 1
+- <stallman-copypasta.github.io> = 1
+- <usbguard.github.io> = 1
+- <voidlinux.org> = 1
+- <wiki.xfce.org> = 1
+- <www.8bitdo.com> = 1
+- <www.cloudflarestatus.com> = 1
+- <www.collabora.com> = 1
+- <www.compart.com> = 1
+- <www.damnsmalllinux.org> = 1
+- <www.davidrevoy.com> = 1
+- <www.debian.org> = 1
+- <www.gamingonlinux.com> = 1
+- <www.gentoo.org> = 1
+- <www.githubstatus.com> = 1
+- <www.guru3d.com> = 1
+- <www.ibiblio.org> = 1
+- <www.ign.com> = 1
+- <www.islinuxaboutchoice.com> = 1
+- <www.linuxjournal.com> = 1
+- <www.notebookcheck.net> = 1
+- <www.openbsd.org> = 1
+- <www.pcworld.com> = 1
+- <www.raylib.com> = 1
+- <www.redhat.com> = 1
+- <www.slitaz.org> = 1
+- <www.spurint.org> = 1
+- <www.suse.com> = 1
+- <www.techpowerup.com> = 1
+- <www.techtimes.com> = 1
+- <www.thebroadcastbridge.com> = 1
+- <www.theverge.com> = 1
+- <www.tinycorelinux.net> = 1
+- <www.windowscentral.com> = 1
+- <www.wiz.io> = 1
+- <www.zdnet.com> = 1
+- <xint.io> = 1
+- <xkcd.com> = 1
+- <youtu.be> = 1
 
+
+## A Cool Feature Every Linux System Has
+
+- ID: KW5tu-aBHh0
+- Published: 2026-08-01T17:30:33+00:00
+
+### References
+
+- <https://forum.endeavouros.com/t/disable-ctrl-shift-u/71977>
+- <https://www.compart.com/en/unicode/>
+
+## Debian Is Making A Huge Call On AI
+
+- ID: 76xq0_oJxq0
+- Published: 2026-07-30T17:30:20+00:00
+
+### References
+
+- <https://www.debian.org/vote/2026/vote_002>
+
+## This Wayland Desktop Has Window Physics
+
+- ID: 29Gy7IMsDEo
+- Published: 2026-07-29T17:30:10+00:00
+
+### References
+
+- <https://github.com/iluaii/fwm>
 
 ## The New Wayland Global Shortcuts Protocol
 
@@ -183,13 +214,13 @@ Top Sources:
 
 ### References
 
-- https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525
-- https://ideas.obsproject.com/posts/2066/implement-globalshortcuts-portal
-- https://github.com/flatpak/xdg-desktop-portal/issues/624
-- https://github.com/hyprwm/Hyprland/pull/15010
-- https://github.com/niri-wm/niri/pull/4145
-- https://github.com/ghostty-org/ghostty/pull/13464
-- https://github.com/obsproject/obs-studio/pull/13661
+- <https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525>
+- <https://ideas.obsproject.com/posts/2066/implement-globalshortcuts-portal>
+- <https://github.com/flatpak/xdg-desktop-portal/issues/624>
+- <https://github.com/hyprwm/Hyprland/pull/15010>
+- <https://github.com/niri-wm/niri/pull/4145>
+- <https://github.com/ghostty-org/ghostty/pull/13464>
+- <https://github.com/obsproject/obs-studio/pull/13661>
 
 ## Linux Gaming Distros Aren't About FPS
 
@@ -198,8 +229,8 @@ Top Sources:
 
 ### References
 
-- https://stallman-copypasta.github.io/
-- https://en.wikipedia.org/wiki/List_of_Linux_distributions
+- <https://stallman-copypasta.github.io/>
+- <https://en.wikipedia.org/wiki/List_of_Linux_distributions>
 
 ## FreeBSD Eliminated All Its GPL Code
 
@@ -208,12 +239,12 @@ Top Sources:
 
 ### References
 
-- https://cdn.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.01
-- https://reviews.freebsd.org/D55424
-- https://github.com/freebsd/freebsd-src/commit/134a4c78d070f8c4ea43a060a7ae28d22ac39558
-- https://docs.freebsd.org/en/books/handbook/introduction
-- https://freebsdfoundation.org/blog/why-you-should-use-freebsd/
-- https://www.openbsd.org/policy.html
+- <https://cdn.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.01>
+- <https://reviews.freebsd.org/D55424>
+- <https://github.com/freebsd/freebsd-src/commit/134a4c78d070f8c4ea43a060a7ae28d22ac39558>
+- <https://docs.freebsd.org/en/books/handbook/introduction>
+- <https://freebsdfoundation.org/blog/why-you-should-use-freebsd/>
+- <https://www.openbsd.org/policy.html>
 
 ## Arch Linux's AUR Is Going To Change
 
@@ -222,11 +253,11 @@ Top Sources:
 
 ### References
 
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/P2PG2N73L6G66F46ZZDZO25IER2KSLLC/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/4JRS73YVTE7JUYHHE3ZDUIHXYHXZ3YQQ/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/3XAEPJG2GC5RZCN57GM7U6MOJYIEL2WT/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/BY7ML4ENZMKG7USE4JPGVPVM2Z5L26N4/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/TT3OCFFNM6SBMUBKIVTHTKA6UZJNMXIJ/
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/P2PG2N73L6G66F46ZZDZO25IER2KSLLC/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/4JRS73YVTE7JUYHHE3ZDUIHXYHXZ3YQQ/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/3XAEPJG2GC5RZCN57GM7U6MOJYIEL2WT/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/BY7ML4ENZMKG7USE4JPGVPVM2Z5L26N4/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/TT3OCFFNM6SBMUBKIVTHTKA6UZJNMXIJ/>
 
 ## Linux Gaming On XWayland Was A Mistake
 
@@ -235,7 +266,7 @@ Top Sources:
 
 ### References
 
-- https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/
+- <https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/>
 
 ## You're A Criminal If You Watch Video On Linux
 
@@ -244,11 +275,11 @@ Top Sources:
 
 ### References
 
-- https://www.thebroadcastbridge.com/content/entry/21840/standards-about-the-mpeg-4-standard
-- https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired
-- https://meta.wikimedia.org/wiki/Have_the_patents_for_H.264_MPEG-4_AVC_expired_yet%3F
-- https://www.techtimes.com/articles/320983/20260719/last-mpeg-4-visual-patent-expires-today-freeing-divx-xvid-globally.htm
-- https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/
+- <https://www.thebroadcastbridge.com/content/entry/21840/standards-about-the-mpeg-4-standard>
+- <https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired>
+- <https://meta.wikimedia.org/wiki/Have_the_patents_for_H.264_MPEG-4_AVC_expired_yet%3F>
+- <https://www.techtimes.com/articles/320983/20260719/last-mpeg-4-visual-patent-expires-today-freeing-divx-xvid-globally.htm>
+- <https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/>
 
 ## Valve's Steam Frame Is Reinventing Arch Linux On ARM
 
@@ -257,7 +288,7 @@ Top Sources:
 
 ### References
 
-- https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html
+- <https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html>
 
 ## Linux Is About A Certain Kind Of Choice
 
@@ -266,9 +297,9 @@ Top Sources:
 
 ### References
 
-- https://www.osnews.com/story/7251/opinion-linux-in-2004-usability-needs-a-facelift/
-- https://web.archive.org/web/20210228005331/https://listman.redhat.com/archives/fedora-devel-list/2008-January/msg00861.html
-- http://www.islinuxaboutchoice.com/
+- <https://www.osnews.com/story/7251/opinion-linux-in-2004-usability-needs-a-facelift/>
+- <https://web.archive.org/web/20210228005331/https://listman.redhat.com/archives/fedora-devel-list/2008-January/msg00861.html>
+- <http://www.islinuxaboutchoice.com/>
 
 ## How Terrible Is Modern Linux On An Old PC?
 
@@ -293,10 +324,10 @@ Top Sources:
 
 ### References
 
-- https://docs.kernel.org/process/coding-assistants.html
-- https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256
-- https://lore.kernel.org/linux-media/20260530103004.6fe2ffa7@foz.lan/
-- https://github.com/sashiko-dev/sashiko
+- <https://docs.kernel.org/process/coding-assistants.html>
+- <https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256>
+- <https://lore.kernel.org/linux-media/20260530103004.6fe2ffa7@foz.lan/>
+- <https://github.com/sashiko-dev/sashiko>
 
 ## Windows Marketshare Is Trending Down
 
@@ -305,10 +336,10 @@ Top Sources:
 
 ### References
 
-- https://linuxiac.com/windows-drops-under-60-in-global-desktop-os-share-for-the-first-time-in-years/
-- https://gs.statcounter.com/os-market-share/desktop/worldwide
-- https://www.windowslatest.com/2026/07/12/no-windows-did-not-fall-below-60-market-share-or-lose-15-points-to-linux/
-- https://www.windowslatest.com/2025/10/02/no-windows-7-isnt-gaining-market-share-in-2025/
+- <https://linuxiac.com/windows-drops-under-60-in-global-desktop-os-share-for-the-first-time-in-years/>
+- <https://gs.statcounter.com/os-market-share/desktop/worldwide>
+- <https://www.windowslatest.com/2026/07/12/no-windows-did-not-fall-below-60-market-share-or-lose-15-points-to-linux/>
+- <https://www.windowslatest.com/2025/10/02/no-windows-7-isnt-gaining-market-share-in-2025/>
 
 ## Linux Mint's Wayland Session Is Ready After 3 Years
 
@@ -317,8 +348,8 @@ Top Sources:
 
 ### References
 
-- https://linuxmint.com/
-- https://blog.linuxmint.com/?p=5046
+- <https://linuxmint.com/>
+- <https://blog.linuxmint.com/?p=5046>
 
 ## The Linux Distro Much Cooler Than Arch Linux
 
@@ -327,7 +358,7 @@ Top Sources:
 
 ### References
 
-- https://github.com/dzumq/Linux-Larp
+- <https://github.com/dzumq/Linux-Larp>
 
 ## A Linux Distro In Under 20 Megabytes
 
@@ -336,16 +367,16 @@ Top Sources:
 
 ### References
 
-- https://archlinux.org/download/
-- https://www.gentoo.org/downloads/amd64/#media
-- https://voidlinux.org/download/
-- https://alpinelinux.org/downloads/
-- https://www.slitaz.org/en/
-- https://www.damnsmalllinux.org/
-- http://www.tinycorelinux.net/downloads.html
-- https://github.com/ivandavidov/minimal
-- https://github.com/EN10/TinyBoxLinux
-- https://github.com/w84death/floppinux
+- <https://archlinux.org/download/>
+- <https://www.gentoo.org/downloads/amd64/#media>
+- <https://voidlinux.org/download/>
+- <https://alpinelinux.org/downloads/>
+- <https://www.slitaz.org/en/>
+- <https://www.damnsmalllinux.org/>
+- <http://www.tinycorelinux.net/downloads.html>
+- <https://github.com/ivandavidov/minimal>
+- <https://github.com/EN10/TinyBoxLinux>
+- <https://github.com/w84death/floppinux>
 
 ## Let's Try KDE Plasma's New TV Interface
 
@@ -354,7 +385,7 @@ Top Sources:
 
 ### References
 
-- https://plasma-bigscreen.org/
+- <https://plasma-bigscreen.org/>
 
 ## You Can't Make Code This Insane In Rust
 
@@ -363,8 +394,8 @@ Top Sources:
 
 ### References
 
-- https://www.ioccc.org/
-- https://www.ioccc.org/years.html
+- <https://www.ioccc.org/>
+- <https://www.ioccc.org/years.html>
 
 ## Debian Linux GNU Coreutils Situation Is Crazy
 
@@ -373,9 +404,9 @@ Top Sources:
 
 ### References
 
-- https://lists.debian.org/debian-devel/2026/06/msg00315.html
-- https://lists.debian.org/debian-devel/2026/07/msg00011.html
-- https://lists.debian.org/debian-devel/2026/07/msg00059.html
+- <https://lists.debian.org/debian-devel/2026/06/msg00315.html>
+- <https://lists.debian.org/debian-devel/2026/07/msg00011.html>
+- <https://lists.debian.org/debian-devel/2026/07/msg00059.html>
 
 ## ArchInstall Changed Everything About Installing Arch Linux
 
@@ -384,8 +415,8 @@ Top Sources:
 
 ### References
 
-- https://wiki.archlinux.org/title/Archinstall
-- https://github.com/archlinux/archinstall
+- <https://wiki.archlinux.org/title/Archinstall>
+- <https://github.com/archlinux/archinstall>
 
 ## Linux Drawing Tablet Support Is Weird
 
@@ -394,7 +425,7 @@ Top Sources:
 
 ### References
 
-- https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers
+- <https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers>
 
 ## KDE's Plasma Wants To Become The Linux Standard
 
@@ -403,9 +434,9 @@ Top Sources:
 
 ### References
 
-- https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items
-- https://invent.kde.org/kde-linux/kde-linux/-/work_items/661
-- https://pointieststick.com/2026/06/26/submit-a-kde-goal/
+- <https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items>
+- <https://invent.kde.org/kde-linux/kde-linux/-/work_items/661>
+- <https://pointieststick.com/2026/06/26/submit-a-kde-goal/>
 
 ## Microsoft Threatens To Make Windows Even Worse
 
@@ -414,11 +445,11 @@ Top Sources:
 
 ### References
 
-- https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai
-- https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/
-- https://blogs.windows.com/windowsexperience/2024/01/04/introducing-a-new-copilot-key-to-kick-off-the-year-of-ai-powered-windows-pcs/
-- https://openai.com/index/microsoft-invests-in-and-partners-with-openai/
-- https://www.zdnet.com/article/what-is-microsofts-metaos/
+- <https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai>
+- <https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/>
+- <https://blogs.windows.com/windowsexperience/2024/01/04/introducing-a-new-copilot-key-to-kick-off-the-year-of-ai-powered-windows-pcs/>
+- <https://openai.com/index/microsoft-invests-in-and-partners-with-openai/>
+- <https://www.zdnet.com/article/what-is-microsofts-metaos/>
 
 ## DistroFighter: Fight For Your Linux Distro Recommendation
 
@@ -427,7 +458,7 @@ Top Sources:
 
 ### References
 
-- https://distrofighter.com/
+- <https://distrofighter.com/>
 
 ## Let's Try XFCE's Upcoming Wayland Mode
 
@@ -436,10 +467,10 @@ Top Sources:
 
 ### References
 
-- https://alexxcons.github.io/blogpost_15.html
-- https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release
-- https://aur.archlinux.org/packages/xfwl4-devel
-- https://wiki.xfce.org/xfwl4_faq
+- <https://alexxcons.github.io/blogpost_15.html>
+- <https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release>
+- <https://aur.archlinux.org/packages/xfwl4-devel>
+- <https://wiki.xfce.org/xfwl4_faq>
 
 ## Hilarious Origin Of Linux's Penguin Mascot
 
@@ -448,18 +479,18 @@ Top Sources:
 
 ### References
 
-- https://www.linuxjournal.com/article/36
-- https://archive.md/Xja4Q
-- https://upload.wikimedia.org/wikipedia/commons/1/17/TheStoryBehindTux.jpg
-- https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/logos/INDEX.short.html
-- https://lkml.org/lkml/1996/5/4/3
-- https://lkml.org/lkml/1996/5/6/44
-- https://upload.wikimedia.org/wikipedia/en/d/de/Ccpenguin%2C_the_ancestor_of_Tux.jpg
-- https://lkml.iu.edu/hypermail/linux/kernel/9605/0855.html
-- https://archive.md/ZoZUO
-- http://gregroelofs.com/greg_lnxpeng.html
-- https://groups.google.com/g/comp.os.linux.announce/c/yLMIRkrdJSI/m/kGSlHl6pov4J?pli=1
-- https://lkml.iu.edu/hypermail/linux/kernel/9606.1/0175.html
+- <https://www.linuxjournal.com/article/36>
+- <https://archive.md/Xja4Q>
+- <https://upload.wikimedia.org/wikipedia/commons/1/17/TheStoryBehindTux.jpg>
+- <https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/logos/INDEX.short.html>
+- <https://lkml.org/lkml/1996/5/4/3>
+- <https://lkml.org/lkml/1996/5/6/44>
+- <https://upload.wikimedia.org/wikipedia/en/d/de/Ccpenguin%2C_the_ancestor_of_Tux.jpg>
+- <https://lkml.iu.edu/hypermail/linux/kernel/9605/0855.html>
+- <https://archive.md/ZoZUO>
+- <http://gregroelofs.com/greg_lnxpeng.html>
+- <https://groups.google.com/g/comp.os.linux.announce/c/yLMIRkrdJSI/m/kGSlHl6pov4J?pli=1>
+- <https://lkml.iu.edu/hypermail/linux/kernel/9606.1/0175.html>
 
 ## The Most Important Version Of GIMP Ever Released
 
@@ -468,9 +499,9 @@ Top Sources:
 
 ### References
 
-- https://gitlab.gnome.org/balooii/gimp-0.54
-- https://balooii.pages.gitlab.gnome.org/gimp-0.54/
-- https://web.archive.org/web/19980216074452/http://gimp.foebud.org/registry/view.phtml?version=0
+- <https://gitlab.gnome.org/balooii/gimp-0.54>
+- <https://balooii.pages.gitlab.gnome.org/gimp-0.54/>
+- <https://web.archive.org/web/19980216074452/http://gimp.foebud.org/registry/view.phtml?version=0>
 
 ## I tried installing Steam OS
 
@@ -479,9 +510,9 @@ Top Sources:
 
 ### References
 
-- https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
-- https://www.pcworld.com/article/3173750/valves-steam-machine-is-pricey-i-built-a-diy-rival-for-150-less.html
-- https://store.steampowered.com/steamos/download/?ver=steamdeck&snr=100601___
+- <https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia>
+- <https://www.pcworld.com/article/3173750/valves-steam-machine-is-pricey-i-built-a-diy-rival-for-150-less.html>
+- <https://store.steampowered.com/steamos/download/?ver=steamdeck&snr=100601___>
 
 ## I'm In Love With KDE Plasma's New Theme
 
@@ -490,7 +521,7 @@ Top Sources:
 
 ### References
 
-- https://kde.org/donate/
+- <https://kde.org/donate/>
 
 ## I was wrong about SteamOS
 
@@ -499,8 +530,8 @@ Top Sources:
 
 ### References
 
-- https://web.archive.org/web/20260623000206/https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
-- https://store.steampowered.com/news/app/1675200/view/697641379212298072
+- <https://web.archive.org/web/20260623000206/https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia>
+- <https://store.steampowered.com/news/app/1675200/view/697641379212298072>
 
 ## Stack Overflow Is Having An Existential Crisis
 
@@ -509,10 +540,10 @@ Top Sources:
 
 ### References
 
-- https://data.stackexchange.com/stackoverflow/query/1926661#graph
-- https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/
-- https://agents.stackoverflow.com/recent
-- https://agents.meta.stackoverflow.com/
+- <https://data.stackexchange.com/stackoverflow/query/1926661#graph>
+- <https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/>
+- <https://agents.stackoverflow.com/recent>
+- <https://agents.meta.stackoverflow.com/>
 
 ## X11 Will Completely End Without Your Help
 
@@ -529,9 +560,9 @@ Top Sources:
 
 ### References
 
-- https://www.dotfurry.org/
-- https://newgtldprogram.icann.org/en/application-rounds/round2/asp
-- https://wiki.opennic.org/opennic/dot
+- <https://www.dotfurry.org/>
+- <https://newgtldprogram.icann.org/en/application-rounds/round2/asp>
+- <https://wiki.opennic.org/opennic/dot>
 
 ## Stay Safe On The AUR In The Face Of Arch Linux Malware
 
@@ -540,8 +571,8 @@ Top Sources:
 
 ### References
 
-- https://wiki.archlinux.org/title/Arch_User_Repository
-- https://wiki.archlinux.org/title/Creating_package
+- <https://wiki.archlinux.org/title/Arch_User_Repository>
+- <https://wiki.archlinux.org/title/Creating_package>
 
 ## Tridge Responds To The Claimed Rsync AI Caused Regressions
 
@@ -550,8 +581,8 @@ Top Sources:
 
 ### References
 
-- https://blog.davidedmundson.co.uk/blog/596/
-- https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0
+- <https://blog.davidedmundson.co.uk/blog/596/>
+- <https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0>
 
 ## KDE Plasma 6.7 Has Finally Come
 
@@ -560,10 +591,10 @@ Top Sources:
 
 ### References
 
-- https://kde.org/donate/
-- https://blogs.kde.org/categories/this-week-in-plasma/
-- https://kde.org/announcements/changelogs/plasma/6/6.6.5-6.7.0/
-- https://kde.org/announcements/plasma/6/6.7.0/
+- <https://kde.org/donate/>
+- <https://blogs.kde.org/categories/this-week-in-plasma/>
+- <https://kde.org/announcements/changelogs/plasma/6/6.6.5-6.7.0/>
+- <https://kde.org/announcements/plasma/6/6.7.0/>
 
 ## The AUR Malware Attack Never Stopped
 
@@ -572,16 +603,16 @@ Top Sources:
 
 ### References
 
-- https://md.archlinux.org/s/SxbqukK6IA#
-- https://ioctl.fail/preliminary-analysis-of-aur-malware/
-- https://archlinux.org/news/active-aur-malicious-packages-incident/
-- https://aur.archlinux.org/cgit/aur.git/commit/?h=hack-browser-data-git&id=191ddf65e0337ee9df30d7e643fc13f6cea3f30d
-- https://aur.archlinux.org/cgit/aur.git/commit/PKGBUILD?h=gtk2%2bextra&id=424199b8cc09ff19fc8043bf0e017d1219c66654
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FEQAUX55CKTWAGSYQKQY5ZMPWNUW7UXM/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/ASQP7CC4EOMEG7GASDHJBZEINBEQKD65/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/E26JEFVSR6YG4GBQUZYDMWYCXD7S7N5V/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DWY3WBOI3QM3MVUTPOTSQAW7D47ATG2T/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/NCLGU23LSLOFXMBGG7HH67EWDZC2TJB3/
+- <https://md.archlinux.org/s/SxbqukK6IA#>
+- <https://ioctl.fail/preliminary-analysis-of-aur-malware/>
+- <https://archlinux.org/news/active-aur-malicious-packages-incident/>
+- <https://aur.archlinux.org/cgit/aur.git/commit/?h=hack-browser-data-git&id=191ddf65e0337ee9df30d7e643fc13f6cea3f30d>
+- <https://aur.archlinux.org/cgit/aur.git/commit/PKGBUILD?h=gtk2%2bextra&id=424199b8cc09ff19fc8043bf0e017d1219c66654>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FEQAUX55CKTWAGSYQKQY5ZMPWNUW7UXM/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/ASQP7CC4EOMEG7GASDHJBZEINBEQKD65/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/E26JEFVSR6YG4GBQUZYDMWYCXD7S7N5V/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DWY3WBOI3QM3MVUTPOTSQAW7D47ATG2T/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/NCLGU23LSLOFXMBGG7HH67EWDZC2TJB3/>
 
 ## Ladybird Browser Stops Accepting Public Pull Requests
 
@@ -590,12 +621,12 @@ Top Sources:
 
 ### References
 
-- https://ladybird.org/
-- https://servo.org/
-- https://ladybird.org/posts/adopting-rust/
-- https://x.com/awesomekling/status/2063559555515117691
-- https://x.com/ladybirdbrowser/status/2062794886626078923
-- https://ladybird.org/posts/changing-how-we-develop-ladybird/
+- <https://ladybird.org/>
+- <https://servo.org/>
+- <https://ladybird.org/posts/adopting-rust/>
+- <https://x.com/awesomekling/status/2063559555515117691>
+- <https://x.com/ladybirdbrowser/status/2062794886626078923>
+- <https://ladybird.org/posts/changing-how-we-develop-ladybird/>
 
 ## It's Finally The Year Of The Linux Desktop | LTT Linux Challenge React
 
@@ -612,11 +643,11 @@ Top Sources:
 
 ### References
 
-- https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a
-- https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf
-- https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/
-- https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/
-- https://blog.davidedmundson.co.uk/blog/596/
+- <https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a>
+- <https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf>
+- <https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/>
+- <https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/>
+- <https://blog.davidedmundson.co.uk/blog/596/>
 
 ## Massive AUR Malware Attack: DO NOT UPDATE
 
@@ -625,15 +656,15 @@ Top Sources:
 
 ### References
 
-- https://x.com/vxunderground/status/2065123579541238223
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/2LGBF2AZBPVCCY4VTN6DOVUNNBURFJ2J/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/CIKQJQI3AREXIR6IQVWPBYFJPYLM45EF/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L2JXQNYBGWOQQQXDEPEAICBHKFEFANUC/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/
-- https://discuss.cachyos.org/t/aur-compromised-400-packages-affected-20260611/31040
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WS2K2XGMLPBFZ3WGOPLF2UP32HZJ6ZSP/
-- https://ioctl.fail/preliminary-analysis-of-aur-malware/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/LB6TBHDXLQRPR4UVIQULCI6MZ77XYLL2/
+- <https://x.com/vxunderground/status/2065123579541238223>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/2LGBF2AZBPVCCY4VTN6DOVUNNBURFJ2J/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/CIKQJQI3AREXIR6IQVWPBYFJPYLM45EF/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L2JXQNYBGWOQQQXDEPEAICBHKFEFANUC/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/>
+- <https://discuss.cachyos.org/t/aur-compromised-400-packages-affected-20260611/31040>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WS2K2XGMLPBFZ3WGOPLF2UP32HZJ6ZSP/>
+- <https://ioctl.fail/preliminary-analysis-of-aur-malware/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/LB6TBHDXLQRPR4UVIQULCI6MZ77XYLL2/>
 
 ## Brave Origin Charges You For A Problem Brave Created
 
@@ -642,7 +673,7 @@ Top Sources:
 
 ### References
 
-- https://brave.com/origin/
+- <https://brave.com/origin/>
 
 ## Ubuntu LTS Randomly Dropped Support For Nvidia Kepler GPUs
 
@@ -651,10 +682,10 @@ Top Sources:
 
 ### References
 
-- https://aur.archlinux.org/packages/nvidia-470xx-dkms
-- https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338
-- https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202
-- https://forums.linuxmint.com/viewtopic.php?t=469946
+- <https://aur.archlinux.org/packages/nvidia-470xx-dkms>
+- <https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338>
+- <https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202>
+- <https://forums.linuxmint.com/viewtopic.php?t=469946>
 
 ## GNOME Board Bans Sonny Piers, He Reveals Everything
 
@@ -663,15 +694,15 @@ Top Sources:
 
 ### References
 
-- https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201
-- https://blog.sonny.re/retrospective-as-gnome-director
-- https://blogs.gnome.org/steven/2026/05/31/stay-and-fight/
-- https://discourse.gnome.org/t/2026-board-candidate-robert-mcqueen/35308
-- https://www.sovereign.tech/tech/gnome
-- https://www.sovereign.tech/tech/kde
-- https://mastodon.social/@tbernard/113792715412102767
-- https://blogs.gnome.org/foundation/2024/07/12/gnome-foundation-announces-transition-of-executive-director/
-- https://blogs.gnome.org/aday/2025/08/29/thanks-and-farewell-to-steven-deobald/
+- <https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201>
+- <https://blog.sonny.re/retrospective-as-gnome-director>
+- <https://blogs.gnome.org/steven/2026/05/31/stay-and-fight/>
+- <https://discourse.gnome.org/t/2026-board-candidate-robert-mcqueen/35308>
+- <https://www.sovereign.tech/tech/gnome>
+- <https://www.sovereign.tech/tech/kde>
+- <https://mastodon.social/@tbernard/113792715412102767>
+- <https://blogs.gnome.org/foundation/2024/07/12/gnome-foundation-announces-transition-of-executive-director/>
+- <https://blogs.gnome.org/aday/2025/08/29/thanks-and-farewell-to-steven-deobald/>
 
 ## CURL Just Did Something We All Wish We Could
 
@@ -680,10 +711,10 @@ Top Sources:
 
 ### References
 
-- https://brodierobertson.dev/blacksmith
-- https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/
-- https://daniel.haxx.se/blog/2026/05/26/the-pressure/
-- https://news.ycombinator.com/item?id=48537165
+- <https://brodierobertson.dev/blacksmith>
+- <https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/>
+- <https://daniel.haxx.se/blog/2026/05/26/the-pressure/>
+- <https://news.ycombinator.com/item?id=48537165>
 
 ## I was wrong about SteamOS
 
@@ -692,8 +723,8 @@ Top Sources:
 
 ### References
 
-- https://web.archive.org/web/20260623000206/https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
-- https://store.steampowered.com/news/app/1675200/view/697641379212298072
+- <https://web.archive.org/web/20260623000206/https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia>
+- <https://store.steampowered.com/news/app/1675200/view/697641379212298072>
 
 ## Stack Overflow Is Having An Existential Crisis
 
@@ -702,10 +733,10 @@ Top Sources:
 
 ### References
 
-- https://data.stackexchange.com/stackoverflow/query/1926661#graph
-- https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/
-- https://agents.stackoverflow.com/recent
-- https://agents.meta.stackoverflow.com/
+- <https://data.stackexchange.com/stackoverflow/query/1926661#graph>
+- <https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/>
+- <https://agents.stackoverflow.com/recent>
+- <https://agents.meta.stackoverflow.com/>
 
 ## X11 Will Completely End Without Your Help
 
@@ -722,9 +753,9 @@ Top Sources:
 
 ### References
 
-- https://www.dotfurry.org/
-- https://newgtldprogram.icann.org/en/application-rounds/round2/asp
-- https://wiki.opennic.org/opennic/dot
+- <https://www.dotfurry.org/>
+- <https://newgtldprogram.icann.org/en/application-rounds/round2/asp>
+- <https://wiki.opennic.org/opennic/dot>
 
 ## Stay Safe On The AUR In The Face Of Arch Linux Malware
 
@@ -733,8 +764,8 @@ Top Sources:
 
 ### References
 
-- https://wiki.archlinux.org/title/Arch_User_Repository
-- https://wiki.archlinux.org/title/Creating_package
+- <https://wiki.archlinux.org/title/Arch_User_Repository>
+- <https://wiki.archlinux.org/title/Creating_package>
 
 ## Tridge Responds To The Claimed Rsync AI Caused Regressions
 
@@ -743,8 +774,8 @@ Top Sources:
 
 ### References
 
-- https://blog.davidedmundson.co.uk/blog/596/
-- https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0
+- <https://blog.davidedmundson.co.uk/blog/596/>
+- <https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0>
 
 ## KDE Plasma 6.7 Has Finally Come
 
@@ -753,10 +784,10 @@ Top Sources:
 
 ### References
 
-- https://kde.org/donate/
-- https://blogs.kde.org/categories/this-week-in-plasma/
-- https://kde.org/announcements/changelogs/plasma/6/6.6.5-6.7.0/
-- https://kde.org/announcements/plasma/6/6.7.0/
+- <https://kde.org/donate/>
+- <https://blogs.kde.org/categories/this-week-in-plasma/>
+- <https://kde.org/announcements/changelogs/plasma/6/6.6.5-6.7.0/>
+- <https://kde.org/announcements/plasma/6/6.7.0/>
 
 ## The AUR Malware Attack Never Stopped
 
@@ -765,16 +796,16 @@ Top Sources:
 
 ### References
 
-- https://md.archlinux.org/s/SxbqukK6IA#
-- https://ioctl.fail/preliminary-analysis-of-aur-malware/
-- https://archlinux.org/news/active-aur-malicious-packages-incident/
-- https://aur.archlinux.org/cgit/aur.git/commit/?h=hack-browser-data-git&id=191ddf65e0337ee9df30d7e643fc13f6cea3f30d
-- https://aur.archlinux.org/cgit/aur.git/commit/PKGBUILD?h=gtk2%2bextra&id=424199b8cc09ff19fc8043bf0e017d1219c66654
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FEQAUX55CKTWAGSYQKQY5ZMPWNUW7UXM/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/ASQP7CC4EOMEG7GASDHJBZEINBEQKD65/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/E26JEFVSR6YG4GBQUZYDMWYCXD7S7N5V/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DWY3WBOI3QM3MVUTPOTSQAW7D47ATG2T/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/NCLGU23LSLOFXMBGG7HH67EWDZC2TJB3/
+- <https://md.archlinux.org/s/SxbqukK6IA#>
+- <https://ioctl.fail/preliminary-analysis-of-aur-malware/>
+- <https://archlinux.org/news/active-aur-malicious-packages-incident/>
+- <https://aur.archlinux.org/cgit/aur.git/commit/?h=hack-browser-data-git&id=191ddf65e0337ee9df30d7e643fc13f6cea3f30d>
+- <https://aur.archlinux.org/cgit/aur.git/commit/PKGBUILD?h=gtk2%2bextra&id=424199b8cc09ff19fc8043bf0e017d1219c66654>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/FEQAUX55CKTWAGSYQKQY5ZMPWNUW7UXM/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/ASQP7CC4EOMEG7GASDHJBZEINBEQKD65/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/E26JEFVSR6YG4GBQUZYDMWYCXD7S7N5V/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DWY3WBOI3QM3MVUTPOTSQAW7D47ATG2T/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/NCLGU23LSLOFXMBGG7HH67EWDZC2TJB3/>
 
 ## Ladybird Browser Stops Accepting Public Pull Requests
 
@@ -783,12 +814,12 @@ Top Sources:
 
 ### References
 
-- https://ladybird.org/
-- https://servo.org/
-- https://ladybird.org/posts/adopting-rust/
-- https://x.com/awesomekling/status/2063559555515117691
-- https://x.com/ladybirdbrowser/status/2062794886626078923
-- https://ladybird.org/posts/changing-how-we-develop-ladybird/
+- <https://ladybird.org/>
+- <https://servo.org/>
+- <https://ladybird.org/posts/adopting-rust/>
+- <https://x.com/awesomekling/status/2063559555515117691>
+- <https://x.com/ladybirdbrowser/status/2062794886626078923>
+- <https://ladybird.org/posts/changing-how-we-develop-ladybird/>
 
 ## It's Finally The Year Of The Linux Desktop | LTT Linux Challenge React
 
@@ -805,11 +836,11 @@ Top Sources:
 
 ### References
 
-- https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a
-- https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf
-- https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/
-- https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/
-- https://blog.davidedmundson.co.uk/blog/596/
+- <https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a>
+- <https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf>
+- <https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/>
+- <https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/>
+- <https://blog.davidedmundson.co.uk/blog/596/>
 
 ## Massive AUR Malware Attack: DO NOT UPDATE
 
@@ -818,15 +849,15 @@ Top Sources:
 
 ### References
 
-- https://x.com/vxunderground/status/2065123579541238223
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/2LGBF2AZBPVCCY4VTN6DOVUNNBURFJ2J/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/CIKQJQI3AREXIR6IQVWPBYFJPYLM45EF/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L2JXQNYBGWOQQQXDEPEAICBHKFEFANUC/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/
-- https://discuss.cachyos.org/t/aur-compromised-400-packages-affected-20260611/31040
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WS2K2XGMLPBFZ3WGOPLF2UP32HZJ6ZSP/
-- https://ioctl.fail/preliminary-analysis-of-aur-malware/
-- https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/LB6TBHDXLQRPR4UVIQULCI6MZ77XYLL2/
+- <https://x.com/vxunderground/status/2065123579541238223>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/2LGBF2AZBPVCCY4VTN6DOVUNNBURFJ2J/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/CIKQJQI3AREXIR6IQVWPBYFJPYLM45EF/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L2JXQNYBGWOQQQXDEPEAICBHKFEFANUC/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/>
+- <https://discuss.cachyos.org/t/aur-compromised-400-packages-affected-20260611/31040>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WS2K2XGMLPBFZ3WGOPLF2UP32HZJ6ZSP/>
+- <https://ioctl.fail/preliminary-analysis-of-aur-malware/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/LB6TBHDXLQRPR4UVIQULCI6MZ77XYLL2/>
 
 ## Brave Origin Charges You For A Problem Brave Created
 
@@ -835,7 +866,7 @@ Top Sources:
 
 ### References
 
-- https://brave.com/origin/
+- <https://brave.com/origin/>
 
 ## Ubuntu LTS Randomly Dropped Support For Nvidia Kepler GPUs
 
@@ -844,10 +875,10 @@ Top Sources:
 
 ### References
 
-- https://aur.archlinux.org/packages/nvidia-470xx-dkms
-- https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338
-- https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202
-- https://forums.linuxmint.com/viewtopic.php?t=469946
+- <https://aur.archlinux.org/packages/nvidia-470xx-dkms>
+- <https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338>
+- <https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202>
+- <https://forums.linuxmint.com/viewtopic.php?t=469946>
 
 ## GNOME Board Bans Sonny Piers, He Reveals Everything
 
@@ -856,15 +887,15 @@ Top Sources:
 
 ### References
 
-- https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201
-- https://blog.sonny.re/retrospective-as-gnome-director
-- https://blogs.gnome.org/steven/2026/05/31/stay-and-fight/
-- https://discourse.gnome.org/t/2026-board-candidate-robert-mcqueen/35308
-- https://www.sovereign.tech/tech/gnome
-- https://www.sovereign.tech/tech/kde
-- https://mastodon.social/@tbernard/113792715412102767
-- https://blogs.gnome.org/foundation/2024/07/12/gnome-foundation-announces-transition-of-executive-director/
-- https://blogs.gnome.org/aday/2025/08/29/thanks-and-farewell-to-steven-deobald/
+- <https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201>
+- <https://blog.sonny.re/retrospective-as-gnome-director>
+- <https://blogs.gnome.org/steven/2026/05/31/stay-and-fight/>
+- <https://discourse.gnome.org/t/2026-board-candidate-robert-mcqueen/35308>
+- <https://www.sovereign.tech/tech/gnome>
+- <https://www.sovereign.tech/tech/kde>
+- <https://mastodon.social/@tbernard/113792715412102767>
+- <https://blogs.gnome.org/foundation/2024/07/12/gnome-foundation-announces-transition-of-executive-director/>
+- <https://blogs.gnome.org/aday/2025/08/29/thanks-and-farewell-to-steven-deobald/>
 
 ## Nobody Understands LTS Linux Distros
 
@@ -873,7 +904,7 @@ Top Sources:
 
 ### References
 
-- https://pointieststick.com/2026/05/23/long-term-support-doesnt-mean-what-you-think/
+- <https://pointieststick.com/2026/05/23/long-term-support-doesnt-mean-what-you-think/>
 
 ## Even More Dumb Software Licenses
 
@@ -882,10 +913,10 @@ Top Sources:
 
 ### References
 
-- https://github.com/Zuhaitz-dev/URPL
-- https://blog.myli.page/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891
-- https://github.com/ErikMcClure/bad-licenses
-- https://web.archive.org/web/20240324055031/https://cohost.org/lifning/post/1023282-bbhl-license-v1
+- <https://github.com/Zuhaitz-dev/URPL>
+- <https://blog.myli.page/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891>
+- <https://github.com/ErikMcClure/bad-licenses>
+- <https://web.archive.org/web/20240324055031/https://cohost.org/lifning/post/1023282-bbhl-license-v1>
 
 ## My Biggest Wayland Problem is Almost Fixed
 
@@ -894,13 +925,13 @@ Top Sources:
 
 ### References
 
-- https://github.com/obsproject/obs-browser/issues/279
-- https://github.com/obsproject/obs-studio/pull/4436
-- https://github.com/chromiumembedded/cef
-- https://github.com/chromiumembedded/cef/issues/2804
-- https://github.com/obsproject/obs-studio/issues/9369
-- https://chromium-review.googlesource.com/c/angle/angle/+/6164683
-- https://chromium-review.googlesource.com/c/angle/angle/+/7844989
+- <https://github.com/obsproject/obs-browser/issues/279>
+- <https://github.com/obsproject/obs-studio/pull/4436>
+- <https://github.com/chromiumembedded/cef>
+- <https://github.com/chromiumembedded/cef/issues/2804>
+- <https://github.com/obsproject/obs-studio/issues/9369>
+- <https://chromium-review.googlesource.com/c/angle/angle/+/6164683>
+- <https://chromium-review.googlesource.com/c/angle/angle/+/7844989>
 
 ## Flathub's New AI Policy Has Some Problems
 
@@ -909,12 +940,12 @@ Top Sources:
 
 ### References
 
-- https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated
-- https://gitlab.gnome.org/Teams/Releng/AppOrganization/-/blob/main/AppCriteria.md#circle-app-criteria
-- https://social.treehouse.systems/@barthalion/116657011366876079
-- https://github.com/flathub/flathub/pulls?q=is%3Apr+is%3Aclosed+label%3A%22AI+Slop%22
-- https://github.com/flathub-infra/documentation/commit/992f57b30de98ddbd5e80959e9672998c83c8c97
-- https://www.osnews.com/story/145144/flathub-bans-slopcoded-applications-but-not-if-theyre-from-a-mature-well-maintained-project/
+- <https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated>
+- <https://gitlab.gnome.org/Teams/Releng/AppOrganization/-/blob/main/AppCriteria.md#circle-app-criteria>
+- <https://social.treehouse.systems/@barthalion/116657011366876079>
+- <https://github.com/flathub/flathub/pulls?q=is%3Apr+is%3Aclosed+label%3A%22AI+Slop%22>
+- <https://github.com/flathub-infra/documentation/commit/992f57b30de98ddbd5e80959e9672998c83c8c97>
+- <https://www.osnews.com/story/145144/flathub-bans-slopcoded-applications-but-not-if-theyre-from-a-mature-well-maintained-project/>
 
 ## Canonical Just Took On Another Crazy Project
 
@@ -923,13 +954,13 @@ Top Sources:
 
 ### References
 
-- https://brodierobertson.dev/convex
-- https://flutter.dev/
-- https://github.com/localsend/localsend
-- https://youtu.be/I1uIbGh1dGE?t=2352
-- https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter
-- https://www.omgubuntu.co.uk/2021/03/ubuntu-building-apps-with-flutter-in-future
-- https://www.omgubuntu.co.uk/2021/02/ubuntu-is-working-on-a-brand-new-installer
+- <https://brodierobertson.dev/convex>
+- <https://flutter.dev/>
+- <https://github.com/localsend/localsend>
+- <https://youtu.be/I1uIbGh1dGE?t=2352>
+- <https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter>
+- <https://www.omgubuntu.co.uk/2021/03/ubuntu-building-apps-with-flutter-in-future>
+- <https://www.omgubuntu.co.uk/2021/02/ubuntu-is-working-on-a-brand-new-installer>
 
 ## The Rsync Situation Has Gone Too Far
 
@@ -938,23 +969,23 @@ Top Sources:
 
 ### References
 
-- https://github.com/RsyncProject/rsync/commit/aa142f08ef31d3ffa8d6b3b8af16d00324a98c1b
-- https://github.com/RsyncProject/rsync/pull/903/
-- https://github.com/RsyncProject/rsync/issues/896
-- https://github.com/RsyncProject/rsync/issues/897
-- https://github.com/RsyncProject/rsync/issues/905
-- https://github.com/RsyncProject/rsync/issues/910
-- https://github.com/RsyncProject/rsync/issues/915
-- https://github.com/RsyncProject/rsync/issues/900
-- https://github.com/RsyncProject/rsync/issues/922
-- https://github.com/RsyncProject/rsync/issues/927
-- https://github.com/RsyncProject/rsync/issues/899
-- https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390
-- https://github.com/RsyncProject/rsync/issues/929
-- https://news.ycombinator.com/item?id=48342705
-- https://github.com/RsyncProject/rsync/issues/934
-- https://social.treehouse.systems/@thesamesam/116662824873341085
-- https://lwn.net/Articles/968732/
+- <https://github.com/RsyncProject/rsync/commit/aa142f08ef31d3ffa8d6b3b8af16d00324a98c1b>
+- <https://github.com/RsyncProject/rsync/pull/903/>
+- <https://github.com/RsyncProject/rsync/issues/896>
+- <https://github.com/RsyncProject/rsync/issues/897>
+- <https://github.com/RsyncProject/rsync/issues/905>
+- <https://github.com/RsyncProject/rsync/issues/910>
+- <https://github.com/RsyncProject/rsync/issues/915>
+- <https://github.com/RsyncProject/rsync/issues/900>
+- <https://github.com/RsyncProject/rsync/issues/922>
+- <https://github.com/RsyncProject/rsync/issues/927>
+- <https://github.com/RsyncProject/rsync/issues/899>
+- <https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390>
+- <https://github.com/RsyncProject/rsync/issues/929>
+- <https://news.ycombinator.com/item?id=48342705>
+- <https://github.com/RsyncProject/rsync/issues/934>
+- <https://social.treehouse.systems/@thesamesam/116662824873341085>
+- <https://lwn.net/Articles/968732/>
 
 ## Friendship Ended With Excalidraw, Drawy Is My New Best Friend
 
@@ -963,9 +994,9 @@ Top Sources:
 
 ### References
 
-- https://excalidraw.com/
-- https://prayag2.github.io/posts/meet-drawy/
-- https://apps.kde.org/drawy/
+- <https://excalidraw.com/>
+- <https://prayag2.github.io/posts/meet-drawy/>
+- <https://apps.kde.org/drawy/>
 
 ## The GNOME Desktop Shell Everyone Forgot About
 
@@ -974,11 +1005,11 @@ Top Sources:
 
 ### References
 
-- https://gitlab.gnome.org/GNOME/gnome-flashback
-- https://gitlab.gnome.org/GNOME/metacity
-- https://gitlab.gnome.org/GNOME/gnome-applets
-- https://wiki.gnome.org/Projects/GnomeFlashback
-- https://blogs.gnome.org/mclasen/2012/12/05/gnome-3-7-what-is-happening-now/
+- <https://gitlab.gnome.org/GNOME/gnome-flashback>
+- <https://gitlab.gnome.org/GNOME/metacity>
+- <https://gitlab.gnome.org/GNOME/gnome-applets>
+- <https://wiki.gnome.org/Projects/GnomeFlashback>
+- <https://blogs.gnome.org/mclasen/2012/12/05/gnome-3-7-what-is-happening-now/>
 
 ## Linus Tech Tips Did Nothing Wrong | LTT Linux Challenge React
 
@@ -995,10 +1026,10 @@ Top Sources:
 
 ### References
 
-- https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/YFZBLHOTVMINNY5I7JSO4JOXHFH3SARN/
-- https://pagure.io/fesco/issue/3409
-- https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html
-- https://bbs.deepin.org/en/post/287017
+- <https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/YFZBLHOTVMINNY5I7JSO4JOXHFH3SARN/>
+- <https://pagure.io/fesco/issue/3409>
+- <https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html>
+- <https://bbs.deepin.org/en/post/287017>
 
 ## Flatpak Next: Dropping Systemd and X11?
 
@@ -1007,7 +1038,7 @@ Top Sources:
 
 ### References
 
-- https://hachyderm.io/@jorge/116607961190448307
+- <https://hachyderm.io/@jorge/116607961190448307>
 
 ## Curl Is Not Convinced By Anthropic's Mythos
 
@@ -1016,9 +1047,9 @@ Top Sources:
 
 ### References
 
-- https://daniel.haxx.se/blog/
-- https://www.anthropic.com/glasswing
-- https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
+- <https://daniel.haxx.se/blog/>
+- <https://www.anthropic.com/glasswing>
+- <https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/>
 
 ## No One Can Agree Who Is Responsible For Linux
 
@@ -1027,10 +1058,10 @@ Top Sources:
 
 ### References
 
-- https://gitlab.com/linuxmint/pins/mint/gnome-calendar/-/work_items/1
-- https://bugs.kde.org/show_bug.cgi?id=519870
-- https://github.com/bottlesdevs/Bottles/issues/2345
-- https://forge.fedoraproject.org/flatpak/tickets/issues/39
+- <https://gitlab.com/linuxmint/pins/mint/gnome-calendar/-/work_items/1>
+- <https://bugs.kde.org/show_bug.cgi?id=519870>
+- <https://github.com/bottlesdevs/Bottles/issues/2345>
+- <https://forge.fedoraproject.org/flatpak/tickets/issues/39>
 
 ## The Birth Of The Linux Ricer
 
@@ -1039,8 +1070,8 @@ Top Sources:
 
 ### References
 
-- https://www.osnews.com/story/12129/a-slacker-tries-his-hand-at-gentoo/
-- https://web.archive.org/web/20050217094757/http://funroll-loops.org/
+- <https://www.osnews.com/story/12129/a-slacker-tries-his-hand-at-gentoo/>
+- <https://web.archive.org/web/20050217094757/http://funroll-loops.org/>
 
 ## He's Actually Trying To Make IPv8 A Thing
 
@@ -1049,11 +1080,11 @@ Top Sources:
 
 ### References
 
-- https://www.ietf.org/archive/id/draft-thain-ipv8-00.html
-- https://news.ycombinator.com/item?id=47788857
-- https://www.ietf.org/archive/id/draft-meow-mrrp-00.html
-- https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474
-- https://github.com/jamieopenipv8/openipv8
+- <https://www.ietf.org/archive/id/draft-thain-ipv8-00.html>
+- <https://news.ycombinator.com/item?id=47788857>
+- <https://www.ietf.org/archive/id/draft-meow-mrrp-00.html>
+- <https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474>
+- <https://github.com/jamieopenipv8/openipv8>
 
 ## KDE Was Just Given A Massive Public Investment
 
@@ -1062,16 +1093,16 @@ Top Sources:
 
 ### References
 
-- https://kde.org/community/donations/previousdonations/
-- https://www.pcgamer.com/software/linux/germany-cuts-steam-deck-desktop-devs-a-usd1-5-million-cheque-they-declare-an-end-to-insecure-spyware-riddled-software-imposed-by-the-likes-of-microsoft/
-- https://www.sovereign.tech/tech/kde
-- https://www.sovereign.tech/tech/gnome
-- https://www.sovereign.tech/tech/python-package-index
-- https://www.sovereign.tech/tech/prossimo
-- https://linux.kde.org/
-- https://www.sovereign.tech/programs/fund#module-what-happens-after-i-submit-an-application
-- https://blogs.gnome.org/foundation/2023/11/09/gnome-recognized-as-public-interest-infrastructure/
-- https://kde.org/announcements/sovereign-tech-fund-invests-kde/
+- <https://kde.org/community/donations/previousdonations/>
+- <https://www.pcgamer.com/software/linux/germany-cuts-steam-deck-desktop-devs-a-usd1-5-million-cheque-they-declare-an-end-to-insecure-spyware-riddled-software-imposed-by-the-likes-of-microsoft/>
+- <https://www.sovereign.tech/tech/kde>
+- <https://www.sovereign.tech/tech/gnome>
+- <https://www.sovereign.tech/tech/python-package-index>
+- <https://www.sovereign.tech/tech/prossimo>
+- <https://linux.kde.org/>
+- <https://www.sovereign.tech/programs/fund#module-what-happens-after-i-submit-an-application>
+- <https://blogs.gnome.org/foundation/2023/11/09/gnome-recognized-as-public-interest-infrastructure/>
+- <https://kde.org/announcements/sovereign-tech-fund-invests-kde/>
 
 ## Minecraft Is A Linux Wayland Compositor??
 
@@ -1080,7 +1111,7 @@ Top Sources:
 
 ### References
 
-- https://github.com/EVV1E/waylandcraft
+- <https://github.com/EVV1E/waylandcraft>
 
 ## KDE Plasma Is About To Fix Desktop Theming
 
@@ -1089,13 +1120,13 @@ Top Sources:
 
 ### References
 
-- https://conf.kde.org/event/6/contributions/206/attachments/115/145/arjen-hiemstra-akademy2024.pdf
-- https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future
-- https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/
-- https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/
-- https://quantumproductions.info/articles/2026-05/union-spring-2026-update
-- https://develop.kde.org/docs/plasma/theme/theme-svg/
-- https://xkcd.com/927/
+- <https://conf.kde.org/event/6/contributions/206/attachments/115/145/arjen-hiemstra-akademy2024.pdf>
+- <https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future>
+- <https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/>
+- <https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/>
+- <https://quantumproductions.info/articles/2026-05/union-spring-2026-update>
+- <https://develop.kde.org/docs/plasma/theme/theme-svg/>
+- <https://xkcd.com/927/>
 
 ## Discord Suddenly Cares About Linux!?!?
 
@@ -1104,10 +1135,10 @@ Top Sources:
 
 ### References
 
-- https://discord.com/blog/discord-patch-notes-may-4-2026
-- https://blog.davidedmundson.co.uk/blog/xwaylandvideobridge/
-- https://www.gamingonlinux.com/2024/12/looks-like-discord-finally-fixed-linux-screen-and-audio-sharing-with-wayland/
-- https://www.reddit.com/r/linux_gaming/comments/1iclq1q/i_heard_discord_fixed_screen_sharing_on_wayland/
+- <https://discord.com/blog/discord-patch-notes-may-4-2026>
+- <https://blog.davidedmundson.co.uk/blog/xwaylandvideobridge/>
+- <https://www.gamingonlinux.com/2024/12/looks-like-discord-finally-fixed-linux-screen-and-audio-sharing-with-wayland/>
+- <https://www.reddit.com/r/linux_gaming/comments/1iclq1q/i_heard_discord_fixed_screen_sharing_on_wayland/>
 
 ## The Linux Kernel Killswitch Changes Things Forever
 
@@ -1116,8 +1147,8 @@ Top Sources:
 
 ### References
 
-- https://lore.kernel.org/all/20260507070547.2268452-1-sashal@kernel.org/
-- https://man7.org/linux/man-pages/man7/kernel_lockdown.7.html
+- <https://lore.kernel.org/all/20260507070547.2268452-1-sashal@kernel.org/>
+- <https://man7.org/linux/man-pages/man7/kernel_lockdown.7.html>
 
 ## AI Is Tearing Fedora Linux Community Apart
 
@@ -1126,8 +1157,8 @@ Top Sources:
 
 ### References
 
-- https://www.redhat.com/en/about/press-releases/fedora-hummingbird-linux-brings-agentic-linux-builders
-- https://discussion.fedoraproject.org/t/fedora-ai-developer-desktop-objective/184941
+- <https://www.redhat.com/en/about/press-releases/fedora-hummingbird-linux-brings-agentic-linux-builders>
+- <https://discussion.fedoraproject.org/t/fedora-ai-developer-desktop-objective/184941>
 
 ## Linux Pro Reacts To LTT Linux Challenge 2026 Pt 2
 
@@ -1144,9 +1175,9 @@ Top Sources:
 
 ### References
 
-- https://github.com/orhun/ratty
-- https://ratty-term.org/
-- https://blog.orhun.dev/introducing-ratty/
+- <https://github.com/orhun/ratty>
+- <https://ratty-term.org/>
+- <https://blog.orhun.dev/introducing-ratty/>
 
 ## AMD Is Finally Allowed To Fix HDMI 2.1 On Linux
 
@@ -1155,12 +1186,12 @@ Top Sources:
 
 ### References
 
-- https://gitlab.freedesktop.org/drm/amd/-/work_items/1417
-- https://www.phoronix.com/news/HDMI-Closed-Spec-Hurts-Open
-- https://www.reddit.com/r/linux_gaming/comments/1r793et/hdmi_21_frl_looking_for_testers/
-- https://lore.kernel.org/amd-gfx/20260501140441.41068-1-harry.wentland@amd.com/
-- https://www.phoronix.com/forums/forum/linux-graphics-x-org-drivers/open-source-amd-linux/1631149-amd-posts-hdmi-2-1-frl-patches-for-their-amdgpu-linux-driver#post1631154
-- https://lore.kernel.org/amd-gfx/20260511155212.73586-1-harry.wentland@amd.com/
+- <https://gitlab.freedesktop.org/drm/amd/-/work_items/1417>
+- <https://www.phoronix.com/news/HDMI-Closed-Spec-Hurts-Open>
+- <https://www.reddit.com/r/linux_gaming/comments/1r793et/hdmi_21_frl_looking_for_testers/>
+- <https://lore.kernel.org/amd-gfx/20260501140441.41068-1-harry.wentland@amd.com/>
+- <https://www.phoronix.com/forums/forum/linux-graphics-x-org-drivers/open-source-amd-linux/1631149-amd-posts-hdmi-2-1-frl-patches-for-their-amdgpu-linux-driver#post1631154>
+- <https://lore.kernel.org/amd-gfx/20260511155212.73586-1-harry.wentland@amd.com/>
 
 ## eDex-UI Is The Movie Hacking Terminal Of Your Dreams
 
@@ -1177,9 +1208,9 @@ Top Sources:
 
 ### References
 
-- https://git.devuan.org/Daemonratte/gtk2-ng
-- https://git.devuan.org/Daemonratte
-- https://devuanusers.com/thread-gtk2-revival-thread--80
+- <https://git.devuan.org/Daemonratte/gtk2-ng>
+- <https://git.devuan.org/Daemonratte>
+- <https://devuanusers.com/thread-gtk2-revival-thread--80>
 
 ## Github Has Become Too Big To Function
 
@@ -1188,16 +1219,16 @@ Top Sources:
 
 ### References
 
-- https://mitchellh.com/writing/ghostty-leaving-github
-- https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854
-- https://x.com/mitchellh/status/2043788123008868600
-- https://x.com/mitchellh/status/2036866220449030168
-- https://x.com/mitchellh/status/2036925909572469023
-- https://x.com/mitchellh/status/2036855931569651884
-- https://x.com/mitchellh/status/2036546464802124182
-- https://www.githubstatus.com/
-- https://mrshu.github.io/github-statuses
-- https://news.ycombinator.com/item?id=47939579
+- <https://mitchellh.com/writing/ghostty-leaving-github>
+- <https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854>
+- <https://x.com/mitchellh/status/2043788123008868600>
+- <https://x.com/mitchellh/status/2036866220449030168>
+- <https://x.com/mitchellh/status/2036925909572469023>
+- <https://x.com/mitchellh/status/2036855931569651884>
+- <https://x.com/mitchellh/status/2036546464802124182>
+- <https://www.githubstatus.com/>
+- <https://mrshu.github.io/github-statuses>
+- <https://news.ycombinator.com/item?id=47939579>
 
 ## Linux Just Standardized Something We All Use
 
@@ -1206,10 +1237,10 @@ Top Sources:
 
 ### References
 
-- https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/work_items/3
-- https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/blob/85558b8afbaf404b7d14a5a9d45a94cfdfc863f8/translate.c
-- https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/merge_requests/24/diffs?commit_id=217cae71c620ed2b3ed2936256ece68defccc6ab
-- https://wiki.archlinux.org/title/XDG_user_directories
+- <https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/work_items/3>
+- <https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/blob/85558b8afbaf404b7d14a5a9d45a94cfdfc863f8/translate.c>
+- <https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/merge_requests/24/diffs?commit_id=217cae71c620ed2b3ed2936256ece68defccc6ab>
+- <https://wiki.archlinux.org/title/XDG_user_directories>
 
 ## Germany Was Just Deleted From The Internet
 
@@ -1218,15 +1249,15 @@ Top Sources:
 
 ### References
 
-- https://www.reddit.com/r/LinusTechTips/comments/1t4ttuw/no_its_not_you_all_german_de_domains_are/
-- https://x.com/geerlingguy/status/2051803148281434490
-- https://www.cloudflare.com/learning/dns/dns-records/dns-ns-record/
-- https://en.wikipedia.org/wiki/DENIC
-- https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
-- https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38
-- https://mstdn.social/@rysiek/116523894072281086
-- https://www.cloudflarestatus.com/
-- https://status.denic.de/pages/maintenance/592577eab611ce1e0d00046f/69fa0dee54fd6005141db1e2
+- <https://www.reddit.com/r/LinusTechTips/comments/1t4ttuw/no_its_not_you_all_german_de_domains_are/>
+- <https://x.com/geerlingguy/status/2051803148281434490>
+- <https://www.cloudflare.com/learning/dns/dns-records/dns-ns-record/>
+- <https://en.wikipedia.org/wiki/DENIC>
+- <https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/>
+- <https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38>
+- <https://mstdn.social/@rysiek/116523894072281086>
+- <https://www.cloudflarestatus.com/>
+- <https://status.denic.de/pages/maintenance/592577eab611ce1e0d00046f/69fa0dee54fd6005141db1e2>
 
 ## Microsoft Pulled A Funny With VSCode
 
@@ -1235,10 +1266,10 @@ Top Sources:
 
 ### References
 
-- https://github.com/microsoft/vscode/pull/310226
-- https://github.com/microsoft/vscode/pull/313931
-- https://news.ycombinator.com/item?id=47989883
-- https://github.com/microsoft/vscode/issues/314311
+- <https://github.com/microsoft/vscode/pull/310226>
+- <https://github.com/microsoft/vscode/pull/313931>
+- <https://news.ycombinator.com/item?id=47989883>
+- <https://github.com/microsoft/vscode/issues/314311>
 
 ## Fedora Is Replacing Ubuntu Linux As The Default
 
@@ -1247,11 +1278,11 @@ Top Sources:
 
 ### References
 
-- https://ubuntu.com/
-- https://fedoraproject.org/
-- https://canonical.com/blog/shipit-comes-to-an-end
-- https://bazzite.gg/
-- https://nobaraproject.org/
+- <https://ubuntu.com/>
+- <https://fedoraproject.org/>
+- <https://canonical.com/blog/shipit-comes-to-an-end>
+- <https://bazzite.gg/>
+- <https://nobaraproject.org/>
 
 ## Linux Ricing Brings Back Steam Skins With Millennium
 
@@ -1260,9 +1291,9 @@ Top Sources:
 
 ### References
 
-- https://steambrew.app/
-- https://steambrew.app/themes
-- https://steambrew.app/plugins
+- <https://steambrew.app/>
+- <https://steambrew.app/themes>
+- <https://steambrew.app/plugins>
 
 ## GNOME Logout Button Situation Is Crazy
 
@@ -1271,10 +1302,10 @@ Top Sources:
 
 ### References
 
-- https://discourse.gnome.org/t/please-add-log-out-even-when-there-is-only-one-user-account/34780
-- https://wiki.gnome.org/Design(2f)OS(2f)SystemStopRestart(2f)History.html
-- http://bugzilla.gnome.org/show_bug.cgi?id=657011
-- https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/9100
+- <https://discourse.gnome.org/t/please-add-log-out-even-when-there-is-only-one-user-account/34780>
+- <https://wiki.gnome.org/Design(2f)OS(2f)SystemStopRestart(2f)History.html>
+- <http://bugzilla.gnome.org/show_bug.cgi?id=657011>
+- <https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/9100>
 
 ## CopyFail Compromises The Last 9 Years Of Linux Distros
 
@@ -1283,17 +1314,17 @@ Top Sources:
 
 ### References
 
-- https://copy.fail/
-- https://xint.io/blog/copy-fail-linux-distributions
-- https://github.com/theori-io/copy-fail-CVE-2026-31431/blob/main/copy_fail_exp.py
-- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a664bf3d603d
-- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=72548b093ee3
-- https://security-tracker.debian.org/tracker/CVE-2026-31431
-- https://ubuntu.com/security/CVE-2026-31431
-- https://www.suse.com/security/cve/CVE-2026-31431.html
-- https://access.redhat.com/security/cve/cve-2026-31431
-- https://discuss.kde.org/t/kde-linux-images-202604210254-are-vulnerable-to-cve-2026-31431/46632
-- https://github.com/advisories/GHSA-2274-3hgr-wxv6
+- <https://copy.fail/>
+- <https://xint.io/blog/copy-fail-linux-distributions>
+- <https://github.com/theori-io/copy-fail-CVE-2026-31431/blob/main/copy_fail_exp.py>
+- <https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a664bf3d603d>
+- <https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=72548b093ee3>
+- <https://security-tracker.debian.org/tracker/CVE-2026-31431>
+- <https://ubuntu.com/security/CVE-2026-31431>
+- <https://www.suse.com/security/cve/CVE-2026-31431.html>
+- <https://access.redhat.com/security/cve/cve-2026-31431>
+- <https://discuss.kde.org/t/kde-linux-images-202604210254-are-vulnerable-to-cve-2026-31431/46632>
+- <https://github.com/advisories/GHSA-2274-3hgr-wxv6>
 
 ## The Future Of KDE Plasma Looks Incredible
 
@@ -1302,7 +1333,7 @@ Top Sources:
 
 ### References
 
-- https://blogs.kde.org/categories/this-week-in-plasma/
+- <https://blogs.kde.org/categories/this-week-in-plasma/>
 
 ## Valve has Cooked Up Something Amazing
 
@@ -1311,18 +1342,18 @@ Top Sources:
 
 ### References
 
-- https://www.notebookcheck.net/Valve-adds-new-tools-for-developers-to-track-Steam-Deck-framerate-and-player-feedback-data-to-help-improve-performance.1281922.0.html
-- https://www.techpowerup.com/348023/steam-will-estimate-game-fps-before-purchase-to-show-expected-pc-performance
-- https://x.com/SadlyItsBradley/status/2044888780440551671
-- https://x.com/SadlyItsBradley/status/2044892275201790251
-- https://github.com/chaitan3/steam_installer_linuxarm64
-- https://store.steampowered.com/news/group/45479024/view/508485755865137686
-- https://store.steampowered.com/sale/steamcontroller
-- https://github.com/C0rn3j/sc-controller
-- https://www.8bitdo.com/ultimate-2-wireless-controller/
-- https://www.pcgamer.com/hardware/game-pads/valve-will-be-providing-steam-controller-replacement-parts-via-ifixit-after-launch/
-- https://x.com/SadlyItsBradley/status/2048818605991604356
-- https://www.ign.com/articles/valve-says-its-hard-at-work-on-steam-deck-2-but-theres-still-no-release-window
+- <https://www.notebookcheck.net/Valve-adds-new-tools-for-developers-to-track-Steam-Deck-framerate-and-player-feedback-data-to-help-improve-performance.1281922.0.html>
+- <https://www.techpowerup.com/348023/steam-will-estimate-game-fps-before-purchase-to-show-expected-pc-performance>
+- <https://x.com/SadlyItsBradley/status/2044888780440551671>
+- <https://x.com/SadlyItsBradley/status/2044892275201790251>
+- <https://github.com/chaitan3/steam_installer_linuxarm64>
+- <https://store.steampowered.com/news/group/45479024/view/508485755865137686>
+- <https://store.steampowered.com/sale/steamcontroller>
+- <https://github.com/C0rn3j/sc-controller>
+- <https://www.8bitdo.com/ultimate-2-wireless-controller/>
+- <https://www.pcgamer.com/hardware/game-pads/valve-will-be-providing-steam-controller-replacement-parts-via-ifixit-after-launch/>
+- <https://x.com/SadlyItsBradley/status/2048818605991604356>
+- <https://www.ign.com/articles/valve-says-its-hard-at-work-on-steam-deck-2-but-theres-still-no-release-window>
 
 ## Protect Your Linux Desktop From Malicious USB Devices
 
@@ -1331,11 +1362,11 @@ Top Sources:
 
 ### References
 
-- https://lore.kernel.org/lkml/20260404133746.80914-1-zybo1000@gmail.com
-- https://usbguard.github.io/
-- https://wiki.archlinux.org/title/USBGuard
-- https://github.com/fabiogermann/usbkill
-- https://github.com/kmille/silk-guardian
+- <https://lore.kernel.org/lkml/20260404133746.80914-1-zybo1000@gmail.com>
+- <https://usbguard.github.io/>
+- <https://wiki.archlinux.org/title/USBGuard>
+- <https://github.com/fabiogermann/usbkill>
+- <https://github.com/kmille/silk-guardian>
 
 ## One Maintainer Is All It Takes To Break A Project
 
@@ -1344,8 +1375,8 @@ Top Sources:
 
 ### References
 
-- https://my.devsuite.app/@chergert/116408667154713506
-- https://blogs.gnome.org/chergert/2026/02/06/mid-life-transitions/
+- <https://my.devsuite.app/@chergert/116408667154713506>
+- <https://blogs.gnome.org/chergert/2026/02/06/mid-life-transitions/>
 
 ## There's No Way This Web Extension Is Real
 
@@ -1354,7 +1385,7 @@ Top Sources:
 
 ### References
 
-- https://www.reddit.com/r/browsers/comments/1slgyt9/finally_built_a_solution_preventing_yahoo_taking
+- <https://www.reddit.com/r/browsers/comments/1slgyt9/finally_built_a_solution_preventing_yahoo_taking>
 
 ## Oxygen Squared The KDE Design We Never Had
 
@@ -1363,9 +1394,9 @@ Top Sources:
 
 ### References
 
-- https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/
-- https://pinheiro-kde.blogspot.com/2020/09/week-report-0.html
-- https://invent.kde.org/pinheiro/oxygen2
+- <https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/>
+- <https://pinheiro-kde.blogspot.com/2020/09/week-report-0.html>
+- <https://invent.kde.org/pinheiro/oxygen2>
 
 ## IPv8 Changes Everything We Know About IP
 
@@ -1374,15 +1405,15 @@ Top Sources:
 
 ### References
 
-- https://www.ietf.org/archive/id/draft-meow-mrrp-00.html
-- https://www.guru3d.com/story/ipv8-draft-proposes-backwardcompatible-ipv4-evolution-with-integrated-routing-and-security/
-- https://www.ietf.org/archive/id/draft-thain-ipv8-00.html
-- https://mailarchive.ietf.org/arch/msg/ietf/tpJOKSWGRMGOANSCrDFQTud80T0/
-- https://www.rfc-editor.org/rfc/rfc1883
-- https://news.ycombinator.com/item?id=47788857
-- https://cybernews.com/tech/ipv8-proposal-slammed-by-tech-professionals/
-- https://www.rfc-editor.org/rfc/rfc1606
-- https://www.rfc-editor.org/rfc/rfc2549.htmlR
+- <https://www.ietf.org/archive/id/draft-meow-mrrp-00.html>
+- <https://www.guru3d.com/story/ipv8-draft-proposes-backwardcompatible-ipv4-evolution-with-integrated-routing-and-security/>
+- <https://www.ietf.org/archive/id/draft-thain-ipv8-00.html>
+- <https://mailarchive.ietf.org/arch/msg/ietf/tpJOKSWGRMGOANSCrDFQTud80T0/>
+- <https://www.rfc-editor.org/rfc/rfc1883>
+- <https://news.ycombinator.com/item?id=47788857>
+- <https://cybernews.com/tech/ipv8-proposal-slammed-by-tech-professionals/>
+- <https://www.rfc-editor.org/rfc/rfc1606>
+- <https://www.rfc-editor.org/rfc/rfc2549.htmlR>
 
 ## Github Hates That This Repo Still Exists
 
@@ -1391,11 +1422,11 @@ Top Sources:
 
 ### References
 
-- https://github.com/jshchnz/codemaxxed
-- https://github.com/jshchnz/codemaxxing
-- https://x.com/jshchnz/status/2038760791688790282
-- https://x.com/jshchnz/status/2045183451691905237
-- https://news.ycombinator.com/item?id=47808458
+- <https://github.com/jshchnz/codemaxxed>
+- <https://github.com/jshchnz/codemaxxing>
+- <https://x.com/jshchnz/status/2038760791688790282>
+- <https://x.com/jshchnz/status/2045183451691905237>
+- <https://news.ycombinator.com/item?id=47808458>
 
 ## Bizarre World Of Wikipedia Deleting Programming Pages
 
@@ -1404,9 +1435,9 @@ Top Sources:
 
 ### References
 
-- https://en.wikipedia.org/wiki/Wikipedia%3AArticles_for_deletion%2FOdin_(programming_language)
-- https://odin-lang.org/
-- https://www.raylib.com/
+- <https://en.wikipedia.org/wiki/Wikipedia%3AArticles_for_deletion%2FOdin_(programming_language)>
+- <https://odin-lang.org/>
+- <https://www.raylib.com/>
 
 ## The Linux Kernel Has Ancient Weird Problems
 
@@ -1415,8 +1446,8 @@ Top Sources:
 
 ### References
 
-- https://lore.kernel.org/lkml/20260410120044.031381086@kernel.org/
-- https://www.anthropic.com/glasswing
+- <https://lore.kernel.org/lkml/20260410120044.031381086@kernel.org/>
+- <https://www.anthropic.com/glasswing>
 
 ## I'm Conflicted About Future Of Open Source
 

@@ -54,11 +54,12 @@
     "filipfila.wordpress.com": 3,
     "flutter.dev": 1,
     "forge.fedoraproject.org": 1,
+    "forum.endeavouros.com": 1,
     "forums.linuxmint.com": 2,
     "freebsdfoundation.org": 1,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
-    "github.com": 50,
+    "github.com": 51,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 7,
     "gitlab.gnome.org": 6,
@@ -131,8 +132,10 @@
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
     "www.collabora.com": 1,
+    "www.compart.com": 1,
     "www.damnsmalllinux.org": 1,
     "www.davidrevoy.com": 1,
+    "www.debian.org": 1,
     "www.dotfurry.org": 2,
     "www.gamingonlinux.com": 1,
     "www.gentoo.org": 1,
@@ -182,8 +185,33 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "VEXugiJsNbM",
+  "lastVideoID": "KW5tu-aBHh0",
   "videos": [
+    {
+      "id": "KW5tu-aBHh0",
+      "published": "2026-08-01T17:30:33+00:00",
+      "title": "A Cool Feature Every Linux System Has",
+      "urls": [
+        "https://forum.endeavouros.com/t/disable-ctrl-shift-u/71977",
+        "https://www.compart.com/en/unicode/"
+      ]
+    },
+    {
+      "id": "76xq0_oJxq0",
+      "published": "2026-07-30T17:30:20+00:00",
+      "title": "Debian Is Making A Huge Call On AI",
+      "urls": [
+        "https://www.debian.org/vote/2026/vote_002"
+      ]
+    },
+    {
+      "id": "29Gy7IMsDEo",
+      "published": "2026-07-29T17:30:10+00:00",
+      "title": "This Wayland Desktop Has Window Physics",
+      "urls": [
+        "https://github.com/iluaii/fwm"
+      ]
+    },
     {
       "id": "VEXugiJsNbM",
       "published": "2026-07-28T17:30:25+00:00",
