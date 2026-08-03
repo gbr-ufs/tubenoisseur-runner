@@ -55,8 +55,10 @@
     "flutter.dev": 1,
     "forge.fedoraproject.org": 1,
     "forum.endeavouros.com": 1,
+    "forum.garudalinux.org": 1,
     "forums.linuxmint.com": 2,
     "freebsdfoundation.org": 1,
+    "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 2,
     "github.com": 51,
@@ -76,7 +78,7 @@
     "linux.kde.org": 1,
     "linuxiac.com": 1,
     "linuxmint.com": 1,
-    "lists.archlinux.org": 27,
+    "lists.archlinux.org": 29,
     "lists.debian.org": 3,
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
@@ -155,7 +157,7 @@
     "www.pcworld.com": 1,
     "www.phoronix.com": 3,
     "www.raylib.com": 1,
-    "www.reddit.com": 4,
+    "www.reddit.com": 6,
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.slitaz.org": 1,
@@ -185,8 +187,22 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "KW5tu-aBHh0",
+  "lastVideoID": "McK6MY_1wbI",
   "videos": [
+    {
+      "id": "McK6MY_1wbI",
+      "published": "2026-08-02T17:30:26+00:00",
+      "title": "Another Malware Wave Hit Arch Linux's AUR",
+      "urls": [
+        "https://www.reddit.com/r/archlinux/comments/1v9scc5/seemingly_malicious_aur_package_found_where_to/",
+        "https://gist.github.com/ysf/502a324ff301d0c738e8ae011272fd59",
+        "https://gist.github.com/ysf/57850cdee152da066ac51c07a452e883",
+        "https://www.reddit.com/r/archlinux/comments/1vaxtcs/another_wave_200_malicous_aur_packages_adoptions/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WQPQFSOP5WHKFZRZYHI75RKT23N6DBLE/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DRDEU3JUSC72CB265XHXPFA3DFSLXPBP/",
+        "https://forum.garudalinux.org/t/chaotic-aur-now-has-a-trusted-maintainers-system/46436/"
+      ]
+    },
     {
       "id": "KW5tu-aBHh0",
       "published": "2026-08-01T17:30:33+00:00",

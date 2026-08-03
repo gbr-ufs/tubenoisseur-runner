@@ -3,7 +3,7 @@
 Top Sources:
 
 - <github.com> = 51
-- <lists.archlinux.org> = 27
+- <lists.archlinux.org> = 29
 - <x.com> = 17
 - <blogs.gnome.org> = 9
 - <kde.org> = 9
@@ -16,6 +16,7 @@ Top Sources:
 - <ladybird.org> = 6
 - <lore.kernel.org> = 6
 - <web.archive.org> = 6
+- <www.reddit.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
 - <discourse.gnome.org> = 5
@@ -24,7 +25,6 @@ Top Sources:
 - <daniel.haxx.se> = 4
 - <ioctl.fail> = 4
 - <www.ietf.org> = 4
-- <www.reddit.com> = 4
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
 - <filipfila.wordpress.com> = 3
@@ -46,6 +46,7 @@ Top Sources:
 - <desktopsummit.org> = 2
 - <discuss.cachyos.org> = 2
 - <forums.linuxmint.com> = 2
+- <gist.github.com> = 2
 - <git.devuan.org> = 2
 - <git.kernel.org> = 2
 - <lkml.iu.edu> = 2
@@ -105,6 +106,7 @@ Top Sources:
 - <flutter.dev> = 1
 - <forge.fedoraproject.org> = 1
 - <forum.endeavouros.com> = 1
+- <forum.garudalinux.org> = 1
 - <freebsdfoundation.org> = 1
 - <gitlab.com> = 1
 - <gjs.guide> = 1
@@ -178,6 +180,21 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Another Malware Wave Hit Arch Linux's AUR
+
+- ID: McK6MY_1wbI
+- Published: 2026-08-02T17:30:26+00:00
+
+### References
+
+- <https://www.reddit.com/r/archlinux/comments/1v9scc5/seemingly_malicious_aur_package_found_where_to/>
+- <https://gist.github.com/ysf/502a324ff301d0c738e8ae011272fd59>
+- <https://gist.github.com/ysf/57850cdee152da066ac51c07a452e883>
+- <https://www.reddit.com/r/archlinux/comments/1vaxtcs/another_wave_200_malicous_aur_packages_adoptions/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WQPQFSOP5WHKFZRZYHI75RKT23N6DBLE/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/DRDEU3JUSC72CB265XHXPFA3DFSLXPBP/>
+- <https://forum.garudalinux.org/t/chaotic-aur-now-has-a-trusted-maintainers-system/46436/>
 
 ## A Cool Feature Every Linux System Has
 
