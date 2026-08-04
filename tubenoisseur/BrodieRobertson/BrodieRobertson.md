@@ -2,14 +2,14 @@
 
 Top Sources:
 
-- <github.com> = 51
+- <github.com> = 56
 - <lists.archlinux.org> = 29
 - <x.com> = 17
 - <blogs.gnome.org> = 9
 - <kde.org> = 9
 - <www.sovereign.tech> = 9
+- <gitlab.freedesktop.org> = 8
 - <aur.archlinux.org> = 7
-- <gitlab.freedesktop.org> = 7
 - <news.ycombinator.com> = 7
 - <wiki.archlinux.org> = 7
 - <gitlab.gnome.org> = 6
@@ -25,6 +25,7 @@ Top Sources:
 - <daniel.haxx.se> = 4
 - <ioctl.fail> = 4
 - <www.ietf.org> = 4
+- <www.phoronix.com> = 4
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
 - <filipfila.wordpress.com> = 3
@@ -32,7 +33,6 @@ Top Sources:
 - <lists.debian.org> = 3
 - <steambrew.app> = 3
 - <www.osnews.com> = 3
-- <www.phoronix.com> = 3
 - <www.rfc-editor.org> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
@@ -180,6 +180,21 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## LibX11 Compat Takes A Completely Different Approach To Xwayland
+
+- ID: 4Xxe-GWFq1Q
+- Published: 2026-08-03T17:30:23+00:00
+
+### References
+
+- <https://github.com/X11Libre/xserver>
+- <https://github.com/external-mirrors/phoenix>
+- <https://github.com/joske/yserver>
+- <https://github.com/isene/frame>
+- <https://github.com/Supreeeme/xwayland-satellite>
+- <https://gitlab.freedesktop.org/wayback/wayback>
+- <https://www.phoronix.com/news/libx11-compat>
 
 ## Another Malware Wave Hit Arch Linux's AUR
 
