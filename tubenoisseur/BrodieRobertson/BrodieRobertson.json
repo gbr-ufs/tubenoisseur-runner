@@ -119,6 +119,7 @@
     "stallman-copypasta.github.io": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
+    "steamdb.info": 1,
     "store.steampowered.com": 5,
     "ubuntu.com": 2,
     "upload.wikimedia.org": 2,
@@ -174,7 +175,7 @@
     "www.windowslatest.com": 2,
     "www.wiz.io": 1,
     "www.zdnet.com": 1,
-    "x.com": 17,
+    "x.com": 22,
     "xint.io": 1,
     "xkcd.com": 1,
     "youtu.be": 1
@@ -187,8 +188,21 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "4Xxe-GWFq1Q",
+  "lastVideoID": "bHG4Ut_OELI",
   "videos": [
+    {
+      "id": "bHG4Ut_OELI",
+      "published": "2026-08-04T17:30:20+00:00",
+      "title": "Valve Won't Stop Cooking On Linux",
+      "urls": [
+        "https://x.com/SadlyItsBradley/status/2079711986451902646",
+        "https://x.com/SadlyItsBradley/status/2080456237313872006",
+        "https://x.com/SadlyItsBradley/status/2080773010592559381",
+        "https://x.com/SadlyItsBradley/status/2080804132940607856",
+        "https://steamdb.info/app/3043620/",
+        "https://x.com/SadlyItsBradley/status/2083345673219355008"
+      ]
+    },
     {
       "id": "4Xxe-GWFq1Q",
       "published": "2026-08-03T17:30:23+00:00",

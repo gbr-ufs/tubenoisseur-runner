@@ -4,7 +4,7 @@ Top Sources:
 
 - <github.com> = 56
 - <lists.archlinux.org> = 29
-- <x.com> = 17
+- <x.com> = 22
 - <blogs.gnome.org> = 9
 - <kde.org> = 9
 - <www.sovereign.tech> = 9
@@ -142,6 +142,7 @@ Top Sources:
 - <security.opensuse.org> = 1
 - <snapcraft.io> = 1
 - <stallman-copypasta.github.io> = 1
+- <steamdb.info> = 1
 - <usbguard.github.io> = 1
 - <voidlinux.org> = 1
 - <wiki.xfce.org> = 1
@@ -180,6 +181,20 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Valve Won't Stop Cooking On Linux
+
+- ID: bHG4Ut_OELI
+- Published: 2026-08-04T17:30:20+00:00
+
+### References
+
+- <https://x.com/SadlyItsBradley/status/2079711986451902646>
+- <https://x.com/SadlyItsBradley/status/2080456237313872006>
+- <https://x.com/SadlyItsBradley/status/2080773010592559381>
+- <https://x.com/SadlyItsBradley/status/2080804132940607856>
+- <https://steamdb.info/app/3043620/>
+- <https://x.com/SadlyItsBradley/status/2083345673219355008>
 
 ## LibX11 Compat Takes A Completely Different Approach To Xwayland
 
