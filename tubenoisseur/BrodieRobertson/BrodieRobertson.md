@@ -25,6 +25,7 @@ Top Sources:
 - <daniel.haxx.se> = 4
 - <ioctl.fail> = 4
 - <www.ietf.org> = 4
+- <www.osnews.com> = 4
 - <www.phoronix.com> = 4
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
@@ -32,7 +33,7 @@ Top Sources:
 - <invent.kde.org> = 3
 - <lists.debian.org> = 3
 - <steambrew.app> = 3
-- <www.osnews.com> = 3
+- <upload.wikimedia.org> = 3
 - <www.rfc-editor.org> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
@@ -62,7 +63,6 @@ Top Sources:
 - <stackoverflow.blog> = 2
 - <status.denic.de> = 2
 - <ubuntu.com> = 2
-- <upload.wikimedia.org> = 2
 - <wiki.gnome.org> = 2
 - <wiki.opennic.org> = 2
 - <www.anthropic.com> = 2
@@ -70,6 +70,7 @@ Top Sources:
 - <www.dotfurry.org> = 2
 - <www.ioccc.org> = 2
 - <www.omgubuntu.co.uk> = 2
+- <www.opengroup.org> = 2
 - <www.pcgamer.com> = 2
 - <www.theregister.com> = 2
 - <www.windowslatest.com> = 2
@@ -181,6 +182,18 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Why Linux Is Unix-Like But Not Unix
+
+- ID: X2U6zDRr3CM
+- Published: 2026-08-05T17:30:15+00:00
+
+### References
+
+- <https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg>
+- <https://www.opengroup.org/certifications/unix>
+- <https://www.opengroup.org/openbrand/register/index.html>
+- <https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/>
 
 ## Valve Won't Stop Cooking On Linux
 

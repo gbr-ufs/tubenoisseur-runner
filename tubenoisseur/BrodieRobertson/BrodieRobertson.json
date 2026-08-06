@@ -122,7 +122,7 @@
     "steamdb.info": 1,
     "store.steampowered.com": 5,
     "ubuntu.com": 2,
-    "upload.wikimedia.org": 2,
+    "upload.wikimedia.org": 3,
     "usbguard.github.io": 1,
     "voidlinux.org": 1,
     "web.archive.org": 6,
@@ -153,7 +153,8 @@
     "www.notebookcheck.net": 1,
     "www.omgubuntu.co.uk": 2,
     "www.openbsd.org": 1,
-    "www.osnews.com": 3,
+    "www.opengroup.org": 2,
+    "www.osnews.com": 4,
     "www.pcgamer.com": 2,
     "www.pcworld.com": 1,
     "www.phoronix.com": 4,
@@ -188,8 +189,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "bHG4Ut_OELI",
+  "lastVideoID": "X2U6zDRr3CM",
   "videos": [
+    {
+      "id": "X2U6zDRr3CM",
+      "published": "2026-08-05T17:30:15+00:00",
+      "title": "Why Linux Is Unix-Like But Not Unix",
+      "urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg",
+        "https://www.opengroup.org/certifications/unix",
+        "https://www.opengroup.org/openbrand/register/index.html",
+        "https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/"
+      ]
+    },
     {
       "id": "bHG4Ut_OELI",
       "published": "2026-08-04T17:30:20+00:00",
