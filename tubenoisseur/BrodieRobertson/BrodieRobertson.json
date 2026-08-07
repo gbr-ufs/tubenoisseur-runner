@@ -134,7 +134,7 @@
     "www.anthropic.com": 2,
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
-    "www.collabora.com": 1,
+    "www.collabora.com": 2,
     "www.compart.com": 1,
     "www.damnsmalllinux.org": 1,
     "www.davidrevoy.com": 1,
@@ -189,8 +189,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "X2U6zDRr3CM",
+  "lastVideoID": "bh8uippvOYA",
   "videos": [
+    {
+      "id": "bh8uippvOYA",
+      "published": "2026-08-06T17:30:14+00:00",
+      "title": "Linux's AMD Vulkan Driver Is Being Ported To Windows",
+      "urls": [
+        "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html"
+      ]
+    },
     {
       "id": "X2U6zDRr3CM",
       "published": "2026-08-05T17:30:15+00:00",

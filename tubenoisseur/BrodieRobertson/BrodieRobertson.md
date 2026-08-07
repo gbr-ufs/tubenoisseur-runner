@@ -67,6 +67,7 @@ Top Sources:
 - <wiki.opennic.org> = 2
 - <www.anthropic.com> = 2
 - <www.cloudflare.com> = 2
+- <www.collabora.com> = 2
 - <www.dotfurry.org> = 2
 - <www.ioccc.org> = 2
 - <www.omgubuntu.co.uk> = 2
@@ -149,7 +150,6 @@ Top Sources:
 - <wiki.xfce.org> = 1
 - <www.8bitdo.com> = 1
 - <www.cloudflarestatus.com> = 1
-- <www.collabora.com> = 1
 - <www.compart.com> = 1
 - <www.damnsmalllinux.org> = 1
 - <www.davidrevoy.com> = 1
@@ -182,6 +182,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Linux's AMD Vulkan Driver Is Being Ported To Windows
+
+- ID: bh8uippvOYA
+- Published: 2026-08-06T17:30:14+00:00
+
+### References
+
+- <https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html>
 
 ## Why Linux Is Unix-Like But Not Unix
 
