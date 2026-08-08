@@ -2,27 +2,30 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 32
-- <linuxiac.com> = 23
+- <www.phoronix.com> = 33
+- <linuxiac.com> = 24
 - <itsfoss.com> = 21
-- <www.gamingonlinux.com> = 17
+- <www.gamingonlinux.com> = 18
 - <www.omgubuntu.co.uk> = 17
-- <github.com> = 15
-- <www.techradar.com> = 14
+- <github.com> = 16
+- <www.techradar.com> = 15
 - <discourse.ubuntu.com> = 8
 - <blog.mozilla.org> = 6
 - <arstechnica.com> = 5
 - <9to5linux.com> = 4
 - <blog.documentfoundation.org> = 4
+- <blogs.gnome.org> = 4
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
 - <proton.me> = 4
 - <blog.linuxmint.com> = 3
-- <blogs.gnome.org> = 3
 - <www.bleepingcomputer.com> = 3
+- <www.theregister.com> = 3
 - <youtu.be> = 3
 - <bbhtt.in> = 2
+- <blog.davidedmundson.co.uk> = 2
 - <community.kde.org> = 2
+- <gs.statcounter.com> = 2
 - <lists.fedoraproject.org> = 2
 - <store.steampowered.com> = 2
 - <www.404media.co> = 2
@@ -31,14 +34,13 @@ Top Sources:
 - <www.fsf.org> = 2
 - <www.neowin.net> = 2
 - <www.politico.eu> = 2
-- <www.theregister.com> = 2
 - <www.theverge.com> = 2
+- <zamundaaa.github.io> = 2
 - <abstract3d.com> = 1
 - <aftermath.site> = 1
 - <almalinux.org> = 1
 - <anditosan.wordpress.com> = 1
 - <android-developers.googleblog.com> = 1
-- <blog.davidedmundson.co.uk> = 1
 - <blog.kimiblock.top> = 1
 - <blog.playstation.com> = 1
 - <blog.system76.com> = 1
@@ -70,7 +72,6 @@ Top Sources:
 - <gitlab.freedesktop.org> = 1
 - <goodtech.info> = 1
 - <groups.google.com> = 1
-- <gs.statcounter.com> = 1
 - <help.steampowered.com> = 1
 - <isene.org> = 1
 - <junocomputers.com> = 1
@@ -88,6 +89,7 @@ Top Sources:
 - <open-buro.eu> = 1
 - <pagure.io> = 1
 - <playnix.io> = 1
+- <quantumproductions.info> = 1
 - <redmine.documentfoundation.org> = 1
 - <rentry.org> = 1
 - <security.opensuse.org> = 1
@@ -132,12 +134,34 @@ Top Sources:
 - <www.thatprivacyguy.com> = 1
 - <www.thunderbolt.io> = 1
 - <www.tomshardware.com> = 1
+- <www.usa.gov> = 1
+- <www.windowslatest.com> = 1
 - <www.xda-developers.com> = 1
 - <www.zdnet.com> = 1
 - <x.com> = 1
 - <xint.io> = 1
-- <zamundaaa.github.io> = 1
 
+
+## Linux passes 10% market share? AI hijacking is the new SEO - Linux Weekly News
+
+- ID: MCJ9U_jTprM
+- Published: 2026-08-08T09:17:25+00:00
+
+### References
+
+- <https://gs.statcounter.com/os-market-share/desktop/north-america#monthly-202506-202607>
+- <https://www.windowslatest.com/2026/08/03/linux-didnt-just-eat-10-of-windows-market-share-ai-bots-are-inflating-the-numbers/>
+- <https://www.usa.gov/website-analytics/>
+- <https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/5283640>
+- <https://www.techradar.com/ai-platforms-assistants/the-poison-ai-movement-wants-to-corrupt-chatgpt-and-gemini-to-make-them-useless-but-it-comes-with-a-huge-risk-of-collateral-damage>
+- <https://zamundaaa.github.io/wayland/2026/07/31/fixing-multi-gpu.html>
+- <https://blog.davidedmundson.co.uk/blog/wayland-and-kgamma/>
+- <https://www.gamingonlinux.com/2026/08/lepton-and-fex-get-prepared-for-the-steam-frame-release/>
+- <https://www.phoronix.com/news/Linux-Staging-Reject-LLMs>
+- <https://blogs.gnome.org/hughsie/2026/08/04/nvidia-is-now-supporting-the-lvfs/>
+- <https://linuxiac.com/bottles-65-released-with-over-100-changes-for-windows-apps-on-linux/>
+- <https://quantumproductions.info/articles/2026-08/union-summer-2026-update>
+- <https://github.com/V4bel/Zapscape>
 
 ## Arch under attack, Framework laptop 13 Pro looks good for Linux, GoG on Linux - Linux Weekly News
 
