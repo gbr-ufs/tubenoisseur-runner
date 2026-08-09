@@ -145,6 +145,7 @@ Top Sources:
 - <snapcraft.io> = 1
 - <stallman-copypasta.github.io> = 1
 - <steamdb.info> = 1
+- <supakeen.com> = 1
 - <usbguard.github.io> = 1
 - <voidlinux.org> = 1
 - <wiki.xfce.org> = 1
@@ -182,6 +183,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## The Mystery Behind How Fedora Linux Works
+
+- ID: B-mooy15JzQ
+- Published: 2026-08-08T17:30:24+00:00
+
+### References
+
+- <https://supakeen.com/weblog/the-fedora-45-sausage-factory/>
 
 ## Linux's AMD Vulkan Driver Is Being Ported To Windows
 

@@ -121,6 +121,7 @@
     "steambrew.app": 3,
     "steamdb.info": 1,
     "store.steampowered.com": 5,
+    "supakeen.com": 1,
     "ubuntu.com": 2,
     "upload.wikimedia.org": 3,
     "usbguard.github.io": 1,
@@ -189,8 +190,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "bh8uippvOYA",
+  "lastVideoID": "B-mooy15JzQ",
   "videos": [
+    {
+      "id": "B-mooy15JzQ",
+      "published": "2026-08-08T17:30:24+00:00",
+      "title": "The Mystery Behind How Fedora Linux Works",
+      "urls": [
+        "https://supakeen.com/weblog/the-fedora-45-sausage-factory/"
+      ]
+    },
     {
       "id": "bh8uippvOYA",
       "published": "2026-08-06T17:30:14+00:00",
