@@ -5,8 +5,8 @@ Top Sources:
 - <github.com> = 56
 - <lists.archlinux.org> = 29
 - <x.com> = 22
+- <kde.org> = 10
 - <blogs.gnome.org> = 9
-- <kde.org> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
 - <aur.archlinux.org> = 7
@@ -183,6 +183,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## I Love KDE Plasma Once Again
+
+- ID: kI_r3k200Y0
+- Published: 2026-08-09T17:30:28+00:00
+
+### References
+
+- <https://kde.org/plasma-desktop/>
 
 ## The Mystery Behind How Fedora Linux Works
 

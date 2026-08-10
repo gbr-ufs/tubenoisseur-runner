@@ -73,7 +73,7 @@
     "ideas.obsproject.com": 1,
     "invent.kde.org": 3,
     "ioctl.fail": 4,
-    "kde.org": 9,
+    "kde.org": 10,
     "ladybird.org": 6,
     "linux.kde.org": 1,
     "linuxiac.com": 1,
@@ -190,8 +190,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "B-mooy15JzQ",
+  "lastVideoID": "kI_r3k200Y0",
   "videos": [
+    {
+      "id": "kI_r3k200Y0",
+      "published": "2026-08-09T17:30:28+00:00",
+      "title": "I Love KDE Plasma Once Again",
+      "urls": [
+        "https://kde.org/plasma-desktop/"
+      ]
+    },
     {
       "id": "B-mooy15JzQ",
       "published": "2026-08-08T17:30:24+00:00",
