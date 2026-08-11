@@ -127,7 +127,7 @@
     "usbguard.github.io": 1,
     "voidlinux.org": 1,
     "web.archive.org": 6,
-    "wiki.archlinux.org": 7,
+    "wiki.archlinux.org": 8,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
     "wiki.xfce.org": 1,
@@ -190,8 +190,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "kI_r3k200Y0",
+  "lastVideoID": "uosCSt82mHM",
   "videos": [
+    {
+      "id": "uosCSt82mHM",
+      "published": "2026-08-10T17:30:23+00:00",
+      "title": "Arch Linux Isn't For Everyone",
+      "urls": [
+        "https://wiki.archlinux.org/title/Frequently_asked_questions"
+      ]
+    },
     {
       "id": "kI_r3k200Y0",
       "published": "2026-08-09T17:30:28+00:00",

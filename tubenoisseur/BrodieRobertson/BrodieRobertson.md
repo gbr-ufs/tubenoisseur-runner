@@ -9,9 +9,9 @@ Top Sources:
 - <blogs.gnome.org> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
+- <wiki.archlinux.org> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
-- <wiki.archlinux.org> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lore.kernel.org> = 6
@@ -183,6 +183,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Arch Linux Isn't For Everyone
+
+- ID: uosCSt82mHM
+- Published: 2026-08-10T17:30:23+00:00
+
+### References
+
+- <https://wiki.archlinux.org/title/Frequently_asked_questions>
 
 ## I Love KDE Plasma Once Again
 
