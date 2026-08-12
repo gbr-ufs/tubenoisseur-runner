@@ -5,6 +5,7 @@ Top Sources:
 - <github.com> = 56
 - <lists.archlinux.org> = 29
 - <x.com> = 22
+- <lore.kernel.org> = 13
 - <kde.org> = 10
 - <blogs.gnome.org> = 9
 - <www.sovereign.tech> = 9
@@ -14,19 +15,18 @@ Top Sources:
 - <news.ycombinator.com> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
-- <lore.kernel.org> = 6
 - <web.archive.org> = 6
 - <www.reddit.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
 - <discourse.gnome.org> = 5
 - <store.steampowered.com> = 5
+- <www.phoronix.com> = 5
 - <bugs.launchpad.net> = 4
 - <daniel.haxx.se> = 4
 - <ioctl.fail> = 4
 - <www.ietf.org> = 4
 - <www.osnews.com> = 4
-- <www.phoronix.com> = 4
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
 - <filipfila.wordpress.com> = 3
@@ -183,6 +183,22 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Linux Kernel Devs Keep Removing Ancient Drivers
+
+- ID: n15KszMNtXE
+- Published: 2026-08-11T17:30:22+00:00
+
+### References
+
+- <https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/>
+- <https://lore.kernel.org/all/2026080354-skater-urgent-31b2@gregkh/T/#u>
+- <https://lore.kernel.org/lkml/20260806182959.2963546-1-kuba@kernel.org/>
+- <https://lore.kernel.org/lkml/20260723185040.3891350-1-kuba@kernel.org/>
+- <https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch>
+- <https://lore.kernel.org/lkml/2026080345-unmapped-sliced-49f2@gregkh/>
+- <https://lore.kernel.org/lkml/20260421-v7-0-0-net-next-driver-removal-v1-v1-0-69517c689d1f@lunn.ch/>
+- <https://lore.kernel.org/lkml/20260423235422.1541768-1-kuba@kernel.org/>
 
 ## Arch Linux Isn't For Everyone
 
