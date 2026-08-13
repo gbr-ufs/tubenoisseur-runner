@@ -147,6 +147,7 @@ Top Sources:
 - <steamdb.info> = 1
 - <supakeen.com> = 1
 - <usbguard.github.io> = 1
+- <uutils.org> = 1
 - <voidlinux.org> = 1
 - <wiki.xfce.org> = 1
 - <www.8bitdo.com> = 1
@@ -183,6 +184,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Ubuntu's Rust Core Utils Are Much Bigger Than You Think
+
+- ID: 8HE_Q3IysoA
+- Published: 2026-08-12T17:30:23+00:00
+
+### References
+
+- <https://uutils.org/>
 
 ## Linux Kernel Devs Keep Removing Ancient Drivers
 

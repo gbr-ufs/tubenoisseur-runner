@@ -125,6 +125,7 @@
     "ubuntu.com": 2,
     "upload.wikimedia.org": 3,
     "usbguard.github.io": 1,
+    "uutils.org": 1,
     "voidlinux.org": 1,
     "web.archive.org": 6,
     "wiki.archlinux.org": 8,
@@ -190,8 +191,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "n15KszMNtXE",
+  "lastVideoID": "8HE_Q3IysoA",
   "videos": [
+    {
+      "id": "8HE_Q3IysoA",
+      "published": "2026-08-12T17:30:23+00:00",
+      "title": "Ubuntu's Rust Core Utils Are Much Bigger Than You Think",
+      "urls": [
+        "https://uutils.org/"
+      ]
+    },
     {
       "id": "n15KszMNtXE",
       "published": "2026-08-11T17:30:22+00:00",
