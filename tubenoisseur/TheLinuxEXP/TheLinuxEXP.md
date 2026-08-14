@@ -4,10 +4,10 @@ Top Sources:
 
 - <www.phoronix.com> = 33
 - <linuxiac.com> = 24
+- <github.com> = 21
 - <itsfoss.com> = 21
 - <www.gamingonlinux.com> = 18
 - <www.omgubuntu.co.uk> = 17
-- <github.com> = 16
 - <www.techradar.com> = 15
 - <discourse.ubuntu.com> = 8
 - <blog.mozilla.org> = 6
@@ -41,6 +41,7 @@ Top Sources:
 - <almalinux.org> = 1
 - <anditosan.wordpress.com> = 1
 - <android-developers.googleblog.com> = 1
+- <apps.kde.org> = 1
 - <blog.kimiblock.top> = 1
 - <blog.playstation.com> = 1
 - <blog.system76.com> = 1
@@ -58,6 +59,8 @@ Top Sources:
 - <documentation.ubuntu.com> = 1
 - <en.ubunlog.com> = 1
 - <enblog.eischmann.cz> = 1
+- <espanso.org> = 1
+- <ferdium.org> = 1
 - <filipfila.wordpress.com> = 1
 - <forum.jellyfin.org> = 1
 - <forum.manjaro.org> = 1
@@ -66,6 +69,7 @@ Top Sources:
 - <fosstodon.org> = 1
 - <frame.work> = 1
 - <getsol.us> = 1
+- <git.dec05eba.com> = 1
 - <git.kernel.org> = 1
 - <github.blog> = 1
 - <gitlab.com> = 1
@@ -80,6 +84,8 @@ Top Sources:
 - <lists.archlinux.org> = 1
 - <lists.debian.org> = 1
 - <lists.linuxfromscratch.org> = 1
+- <localsend.org> = 1
+- <melia.buxjr.com> = 1
 - <merritt.codes> = 1
 - <modal.cx> = 1
 - <motorolanews.com> = 1
@@ -96,6 +102,7 @@ Top Sources:
 - <sfconservancy.org> = 1
 - <starling.build> = 1
 - <steamcommunity.com> = 1
+- <superfile.dev> = 1
 - <support.mozilla.org> = 1
 - <tesk.page> = 1
 - <thecybersecguru.com> = 1
@@ -109,6 +116,7 @@ Top Sources:
 - <www.anthropic.com> = 1
 - <www.aswf.io> = 1
 - <www.bbc.com> = 1
+- <www.betterbird.eu> = 1
 - <www.blender.org> = 1
 - <www.cloudflare.com> = 1
 - <www.cnet.com> = 1
@@ -141,6 +149,27 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## 12 Awesome  Linux apps you're likely never tried!
+
+- ID: qH7ElDRn09w
+- Published: 2026-08-13T11:10:04+00:00
+
+### References
+
+- <https://espanso.org/>
+- <https://localsend.org/>
+- <https://superfile.dev/>
+- <https://github.com/ilya-zlobintsev/LACT>
+- <https://git.dec05eba.com/gpu-screen-recorder/about/>
+- <https://apps.kde.org/drawy/>
+- <https://github.com/wwmm/easyeffects>
+- <https://www.betterbird.eu/>
+- <https://melia.buxjr.com/>
+- <https://ferdium.org/>
+- <https://github.com/mkiol/dsnote>
+- <https://github.com/erikwb/blueferry>
+- <https://github.com/nvbn/thefuck>
 
 ## Linux passes 10% market share? AI hijacking is the new SEO - Linux Weekly News
 
