@@ -116,6 +116,7 @@ Top Sources:
 - <groups.google.com> = 1
 - <gs.statcounter.com> = 1
 - <hachyderm.io> = 1
+- <hendassa100k.github.io> = 1
 - <ideas.obsproject.com> = 1
 - <linux.kde.org> = 1
 - <linuxiac.com> = 1
@@ -184,6 +185,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Arch Linux's AUR Is Changing
+
+- ID: 87T5cgm2bbg
+- Published: 2026-08-13T17:30:05+00:00
+
+### References
+
+- <https://hendassa100k.github.io/posts/2026-08-03-arch-linux-aur/>
 
 ## Ubuntu's Rust Core Utils Are Much Bigger Than You Think
 
