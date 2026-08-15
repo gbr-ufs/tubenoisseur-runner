@@ -3,22 +3,22 @@
 Top Sources:
 
 - <www.phoronix.com> = 33
-- <linuxiac.com> = 24
-- <github.com> = 21
-- <itsfoss.com> = 21
-- <www.gamingonlinux.com> = 18
-- <www.omgubuntu.co.uk> = 17
-- <www.techradar.com> = 15
+- <linuxiac.com> = 25
+- <github.com> = 22
+- <itsfoss.com> = 22
+- <www.gamingonlinux.com> = 20
+- <www.omgubuntu.co.uk> = 18
+- <www.techradar.com> = 16
 - <discourse.ubuntu.com> = 8
 - <blog.mozilla.org> = 6
 - <arstechnica.com> = 5
+- <blogs.gnome.org> = 5
 - <9to5linux.com> = 4
 - <blog.documentfoundation.org> = 4
-- <blogs.gnome.org> = 4
+- <blog.linuxmint.com> = 4
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
 - <proton.me> = 4
-- <blog.linuxmint.com> = 3
 - <www.bleepingcomputer.com> = 3
 - <www.theregister.com> = 3
 - <youtu.be> = 3
@@ -42,10 +42,12 @@ Top Sources:
 - <anditosan.wordpress.com> = 1
 - <android-developers.googleblog.com> = 1
 - <apps.kde.org> = 1
+- <blog.getutm.app> = 1
 - <blog.kimiblock.top> = 1
 - <blog.playstation.com> = 1
 - <blog.system76.com> = 1
 - <blog.thunderbird.net> = 1
+- <blogs.kde.org> = 1
 - <brave.com> = 1
 - <cachyos.org> = 1
 - <cakehonolulu.github.io> = 1
@@ -95,6 +97,7 @@ Top Sources:
 - <open-buro.eu> = 1
 - <pagure.io> = 1
 - <playnix.io> = 1
+- <pointieststick.com> = 1
 - <quantumproductions.info> = 1
 - <redmine.documentfoundation.org> = 1
 - <rentry.org> = 1
@@ -149,6 +152,26 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Big changes coming to KDE & GNOME, tons of apps & services getting Linux clients - Linux Weekly News
+
+- ID: BJM_2amAj6w
+- Published: 2026-08-15T10:14:26+00:00
+
+### References
+
+- <https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/>
+- <https://blogs.kde.org/2026/08/07/kde-goals-last-call-for-submissions/>
+- <https://www.gamingonlinux.com/2026/08/epic-games-store-will-get-a-linux-version-sometime-soon/>
+- <https://linuxiac.com/openai-launches-official-chatgpt-desktop-app-for-linux-in-preview/>
+- <https://www.omgubuntu.co.uk/2026/08/nvidia-geforce-now-linux-stable>
+- <https://www.gamingonlinux.com/2026/08/asobi-remote-play-is-a-new-way-to-play-playstation-games-on-steamos-linux/>
+- <https://itsfoss.com/news/xodus-xbox-gamepass-linux/>
+- <https://pointieststick.com/2026/08/13/what-a-real-lts-looks-like-kubuntu-26-04/>
+- <https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/>
+- <https://github.com/winboat-org/winboat/tree/gpu-accel>
+- <https://blog.linuxmint.com/?p=5050>
+- <https://www.techradar.com/vpn/vpn-privacy-security/privacy-giant-proton-may-be-building-a-web-browser-but-its-community-turns-cold>
 
 ## 12 Awesome  Linux apps you're likely never tried!
 
