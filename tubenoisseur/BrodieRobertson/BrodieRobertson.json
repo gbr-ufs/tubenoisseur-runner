@@ -46,6 +46,7 @@
     "discuss.kde.org": 1,
     "discussion.fedoraproject.org": 1,
     "distrofighter.com": 1,
+    "distrosea.com": 1,
     "docs.freebsd.org": 1,
     "docs.kernel.org": 1,
     "en.wikipedia.org": 3,
@@ -192,8 +193,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "87T5cgm2bbg",
+  "lastVideoID": "nALWyyg8F0I",
   "videos": [
+    {
+      "id": "nALWyyg8F0I",
+      "published": "2026-08-15T17:30:25+00:00",
+      "title": "Distrosea Makes Linux Distro Hopping A Breeze",
+      "urls": [
+        "https://distrosea.com/"
+      ]
+    },
     {
       "id": "87T5cgm2bbg",
       "published": "2026-08-13T17:30:05+00:00",

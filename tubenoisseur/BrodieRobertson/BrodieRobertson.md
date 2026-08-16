@@ -101,6 +101,7 @@ Top Sources:
 - <discuss.kde.org> = 1
 - <discussion.fedoraproject.org> = 1
 - <distrofighter.com> = 1
+- <distrosea.com> = 1
 - <docs.freebsd.org> = 1
 - <docs.kernel.org> = 1
 - <excalidraw.com> = 1
@@ -185,6 +186,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Distrosea Makes Linux Distro Hopping A Breeze
+
+- ID: nALWyyg8F0I
+- Published: 2026-08-15T17:30:25+00:00
+
+### References
+
+- <https://distrosea.com/>
 
 ## Arch Linux's AUR Is Changing
 
