@@ -144,9 +144,10 @@
     "www.davidrevoy.com": 1,
     "www.debian.org": 1,
     "www.dotfurry.org": 2,
-    "www.gamingonlinux.com": 1,
+    "www.gamingonlinux.com": 4,
     "www.gentoo.org": 1,
     "www.githubstatus.com": 1,
+    "www.gog.com": 2,
     "www.guru3d.com": 1,
     "www.ibiblio.org": 1,
     "www.ietf.org": 4,
@@ -159,7 +160,7 @@
     "www.openbsd.org": 1,
     "www.opengroup.org": 2,
     "www.osnews.com": 4,
-    "www.pcgamer.com": 2,
+    "www.pcgamer.com": 3,
     "www.pcworld.com": 1,
     "www.phoronix.com": 5,
     "www.raylib.com": 1,
@@ -193,8 +194,21 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "nALWyyg8F0I",
+  "lastVideoID": "MOvlF0nHcVU",
   "videos": [
+    {
+      "id": "MOvlF0nHcVU",
+      "published": "2026-08-16T17:30:36+00:00",
+      "title": "The Never Releasing Linux Client",
+      "urls": [
+        "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+        "https://www.pcgamer.com/software/windows/gogs-new-owner-cant-stand-windows-either-its-such-poor-quality-software-i-cant-believe-it/",
+        "https://www.gamingonlinux.com/2026/01/gog-job-listing-for-a-senior-software-engineer-notes-linux-is-the-next-major-frontier/",
+        "https://www.gamingonlinux.com/2026/07/gog-confirm-they-are-working-towards-gog-galaxy-on-linux/",
+        "https://www.gamingonlinux.com/2017/04/gog-staff-state-that-galaxy-for-linux-is-being-worked-on-but-still-no-eta/",
+        "https://www.gog.com/wishlist/galaxy"
+      ]
+    },
     {
       "id": "nALWyyg8F0I",
       "published": "2026-08-15T17:30:25+00:00",

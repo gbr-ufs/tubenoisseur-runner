@@ -25,6 +25,7 @@ Top Sources:
 - <bugs.launchpad.net> = 4
 - <daniel.haxx.se> = 4
 - <ioctl.fail> = 4
+- <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
 - <www.osnews.com> = 4
 - <archlinux.org> = 3
@@ -34,6 +35,7 @@ Top Sources:
 - <lists.debian.org> = 3
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
+- <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
@@ -69,10 +71,10 @@ Top Sources:
 - <www.cloudflare.com> = 2
 - <www.collabora.com> = 2
 - <www.dotfurry.org> = 2
+- <www.gog.com> = 2
 - <www.ioccc.org> = 2
 - <www.omgubuntu.co.uk> = 2
 - <www.opengroup.org> = 2
-- <www.pcgamer.com> = 2
 - <www.theregister.com> = 2
 - <www.windowslatest.com> = 2
 - <access.redhat.com> = 1
@@ -158,7 +160,6 @@ Top Sources:
 - <www.damnsmalllinux.org> = 1
 - <www.davidrevoy.com> = 1
 - <www.debian.org> = 1
-- <www.gamingonlinux.com> = 1
 - <www.gentoo.org> = 1
 - <www.githubstatus.com> = 1
 - <www.guru3d.com> = 1
@@ -186,6 +187,20 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## The Never Releasing Linux Client
+
+- ID: MOvlF0nHcVU
+- Published: 2026-08-16T17:30:36+00:00
+
+### References
+
+- <https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/>
+- <https://www.pcgamer.com/software/windows/gogs-new-owner-cant-stand-windows-either-its-such-poor-quality-software-i-cant-believe-it/>
+- <https://www.gamingonlinux.com/2026/01/gog-job-listing-for-a-senior-software-engineer-notes-linux-is-the-next-major-frontier/>
+- <https://www.gamingonlinux.com/2026/07/gog-confirm-they-are-working-towards-gog-galaxy-on-linux/>
+- <https://www.gamingonlinux.com/2017/04/gog-staff-state-that-galaxy-for-linux-is-being-worked-on-but-still-no-eta/>
+- <https://www.gog.com/wishlist/galaxy>
 
 ## Distrosea Makes Linux Distro Hopping A Breeze
 
