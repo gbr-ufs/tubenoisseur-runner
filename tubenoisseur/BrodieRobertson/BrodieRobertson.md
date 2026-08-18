@@ -13,9 +13,9 @@ Top Sources:
 - <wiki.archlinux.org> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
+- <web.archive.org> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
-- <web.archive.org> = 6
 - <www.reddit.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
@@ -187,6 +187,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## A Very Incomplete History Of GNOME Desktop
+
+- ID: He7fEXWmET4
+- Published: 2026-08-17T17:30:27+00:00
+
+### References
+
+- <https://web.archive.org/web/20131106035732/http://primates.ximian.com/~miguel/gnome-history.html>
 
 ## The Never Releasing Linux Client
 

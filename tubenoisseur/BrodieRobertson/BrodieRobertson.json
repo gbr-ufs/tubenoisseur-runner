@@ -129,7 +129,7 @@
     "usbguard.github.io": 1,
     "uutils.org": 1,
     "voidlinux.org": 1,
-    "web.archive.org": 6,
+    "web.archive.org": 7,
     "wiki.archlinux.org": 8,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
@@ -194,8 +194,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "MOvlF0nHcVU",
+  "lastVideoID": "He7fEXWmET4",
   "videos": [
+    {
+      "id": "He7fEXWmET4",
+      "published": "2026-08-17T17:30:27+00:00",
+      "title": "A Very Incomplete History Of GNOME Desktop",
+      "urls": [
+        "https://web.archive.org/web/20131106035732/http://primates.ximian.com/~miguel/gnome-history.html"
+      ]
+    },
     {
       "id": "MOvlF0nHcVU",
       "published": "2026-08-16T17:30:36+00:00",
