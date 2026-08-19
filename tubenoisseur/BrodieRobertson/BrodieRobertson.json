@@ -194,8 +194,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "He7fEXWmET4",
+  "lastVideoID": "MHA1tVGie4Q",
   "videos": [
+    {
+      "id": "MHA1tVGie4Q",
+      "published": "2026-08-18T17:30:16+00:00",
+      "title": "Windows Is Your Future Linux Distro",
+      "urls": []
+    },
     {
       "id": "He7fEXWmET4",
       "published": "2026-08-17T17:30:27+00:00",
