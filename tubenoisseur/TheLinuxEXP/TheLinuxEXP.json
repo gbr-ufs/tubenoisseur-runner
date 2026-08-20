@@ -77,6 +77,7 @@
     "nerds.xyz": 1,
     "news.apache.org": 1,
     "open-buro.eu": 1,
+    "os.tuxedocomputers.com": 1,
     "pagure.io": 1,
     "playnix.io": 1,
     "pointieststick.com": 1,
@@ -165,8 +166,16 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "BJM_2amAj6w",
+  "lastVideoID": "FKpZO1bZtYI",
   "videos": [
+    {
+      "id": "FKpZO1bZtYI",
+      "published": "2026-08-19T12:15:59+00:00",
+      "title": "Debian Testing, but better in every way?",
+      "urls": [
+        "https://os.tuxedocomputers.com/preview/"
+      ]
+    },
     {
       "id": "BJM_2amAj6w",
       "published": "2026-08-15T10:14:26+00:00",

@@ -95,6 +95,7 @@ Top Sources:
 - <nerds.xyz> = 1
 - <news.apache.org> = 1
 - <open-buro.eu> = 1
+- <os.tuxedocomputers.com> = 1
 - <pagure.io> = 1
 - <playnix.io> = 1
 - <pointieststick.com> = 1
@@ -152,6 +153,15 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Debian Testing, but better in every way?
+
+- ID: FKpZO1bZtYI
+- Published: 2026-08-19T12:15:59+00:00
+
+### References
+
+- <https://os.tuxedocomputers.com/preview/>
 
 ## Big changes coming to KDE & GNOME, tons of apps & services getting Linux clients - Linux Weekly News
 
