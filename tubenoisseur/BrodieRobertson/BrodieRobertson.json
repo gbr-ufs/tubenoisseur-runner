@@ -61,7 +61,7 @@
     "freebsdfoundation.org": 1,
     "gist.github.com": 2,
     "git.devuan.org": 2,
-    "git.kernel.org": 2,
+    "git.kernel.org": 3,
     "github.com": 56,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 8,
@@ -162,7 +162,7 @@
     "www.osnews.com": 4,
     "www.pcgamer.com": 3,
     "www.pcworld.com": 1,
-    "www.phoronix.com": 5,
+    "www.phoronix.com": 8,
     "www.raylib.com": 1,
     "www.reddit.com": 6,
     "www.redhat.com": 1,
@@ -194,8 +194,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "MHA1tVGie4Q",
+  "lastVideoID": "_spBu9pKcNo",
   "videos": [
+    {
+      "id": "_spBu9pKcNo",
+      "published": "2026-08-19T17:30:04+00:00",
+      "title": "Linux Kills Even More Old Hardware",
+      "urls": [
+        "https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip.git/commit/?h=x86/cpu\u0026id=111cbb4596e336373ab93e202918f4cdbf78a4c3",
+        "https://www.phoronix.com/news/Linux-7.1-Begins-Removing-i486",
+        "https://www.phoronix.com/news/AMD-K5-CPUs",
+        "https://www.phoronix.com/news/MTI0OTg"
+      ]
+    },
     {
       "id": "MHA1tVGie4Q",
       "published": "2026-08-18T17:30:16+00:00",

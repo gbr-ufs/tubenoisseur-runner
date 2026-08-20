@@ -11,6 +11,7 @@ Top Sources:
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
 - <wiki.archlinux.org> = 8
+- <www.phoronix.com> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <web.archive.org> = 7
@@ -21,7 +22,6 @@ Top Sources:
 - <blogs.kde.org> = 5
 - <discourse.gnome.org> = 5
 - <store.steampowered.com> = 5
-- <www.phoronix.com> = 5
 - <bugs.launchpad.net> = 4
 - <daniel.haxx.se> = 4
 - <ioctl.fail> = 4
@@ -31,6 +31,7 @@ Top Sources:
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
 - <filipfila.wordpress.com> = 3
+- <git.kernel.org> = 3
 - <invent.kde.org> = 3
 - <lists.debian.org> = 3
 - <steambrew.app> = 3
@@ -51,7 +52,6 @@ Top Sources:
 - <forums.linuxmint.com> = 2
 - <gist.github.com> = 2
 - <git.devuan.org> = 2
-- <git.kernel.org> = 2
 - <lkml.iu.edu> = 2
 - <lkml.org> = 2
 - <mastodon.social> = 2
@@ -187,6 +187,18 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Linux Kills Even More Old Hardware
+
+- ID: _spBu9pKcNo
+- Published: 2026-08-19T17:30:04+00:00
+
+### References
+
+- <https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip.git/commit/?h=x86/cpu&id=111cbb4596e336373ab93e202918f4cdbf78a4c3>
+- <https://www.phoronix.com/news/Linux-7.1-Begins-Removing-i486>
+- <https://www.phoronix.com/news/AMD-K5-CPUs>
+- <https://www.phoronix.com/news/MTI0OTg>
 
 ## Windows Is Your Future Linux Distro
 
