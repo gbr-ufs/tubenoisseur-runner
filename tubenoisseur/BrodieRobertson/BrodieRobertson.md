@@ -75,6 +75,7 @@ Top Sources:
 - <www.ioccc.org> = 2
 - <www.omgubuntu.co.uk> = 2
 - <www.opengroup.org> = 2
+- <www.spurint.org> = 2
 - <www.theregister.com> = 2
 - <www.windowslatest.com> = 2
 - <access.redhat.com> = 1
@@ -173,7 +174,6 @@ Top Sources:
 - <www.raylib.com> = 1
 - <www.redhat.com> = 1
 - <www.slitaz.org> = 1
-- <www.spurint.org> = 1
 - <www.suse.com> = 1
 - <www.techpowerup.com> = 1
 - <www.techtimes.com> = 1
@@ -187,6 +187,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## XFCE Is Vibecoded Now?
+
+- ID: qRRfOm9Ww78
+- Published: 2026-08-20T17:30:40+00:00
+
+### References
+
+- <https://www.spurint.org/journal/2026/07/llms-and-xfwl4>
 
 ## Linux Kills Even More Old Hardware
 
