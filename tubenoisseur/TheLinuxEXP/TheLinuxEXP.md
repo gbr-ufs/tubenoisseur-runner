@@ -2,16 +2,16 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 33
-- <linuxiac.com> = 25
+- <www.phoronix.com> = 36
+- <linuxiac.com> = 26
 - <github.com> = 22
 - <itsfoss.com> = 22
 - <www.gamingonlinux.com> = 20
 - <www.omgubuntu.co.uk> = 18
 - <www.techradar.com> = 16
-- <discourse.ubuntu.com> = 8
+- <discourse.ubuntu.com> = 9
+- <arstechnica.com> = 6
 - <blog.mozilla.org> = 6
-- <arstechnica.com> = 5
 - <blogs.gnome.org> = 5
 - <9to5linux.com> = 4
 - <blog.documentfoundation.org> = 4
@@ -35,6 +35,8 @@ Top Sources:
 - <www.neowin.net> = 2
 - <www.politico.eu> = 2
 - <www.theverge.com> = 2
+- <www.windowslatest.com> = 2
+- <www.zdnet.com> = 2
 - <zamundaaa.github.io> = 2
 - <abstract3d.com> = 1
 - <aftermath.site> = 1
@@ -79,6 +81,7 @@ Top Sources:
 - <goodtech.info> = 1
 - <groups.google.com> = 1
 - <help.steampowered.com> = 1
+- <hwbusters.com> = 1
 - <isene.org> = 1
 - <junocomputers.com> = 1
 - <kde.org> = 1
@@ -97,6 +100,7 @@ Top Sources:
 - <open-buro.eu> = 1
 - <os.tuxedocomputers.com> = 1
 - <pagure.io> = 1
+- <pixelcluster.dev> = 1
 - <playnix.io> = 1
 - <pointieststick.com> = 1
 - <quantumproductions.info> = 1
@@ -108,6 +112,7 @@ Top Sources:
 - <steamcommunity.com> = 1
 - <superfile.dev> = 1
 - <support.mozilla.org> = 1
+- <t.me> = 1
 - <tesk.page> = 1
 - <thecybersecguru.com> = 1
 - <thisweek.gnome.org> = 1
@@ -129,9 +134,11 @@ Top Sources:
 - <www.digitalfoundry.net> = 1
 - <www.dw.com> = 1
 - <www.france24.com> = 1
+- <www.gimp.org> = 1
 - <www.heise.de> = 1
 - <www.ign.com> = 1
 - <www.linuxfoundation.org> = 1
+- <www.macrumors.com> = 1
 - <www.microsoft.com> = 1
 - <www.numerique.gouv.fr> = 1
 - <www.pcgamer.com> = 1
@@ -147,12 +154,31 @@ Top Sources:
 - <www.thunderbolt.io> = 1
 - <www.tomshardware.com> = 1
 - <www.usa.gov> = 1
-- <www.windowslatest.com> = 1
 - <www.xda-developers.com> = 1
-- <www.zdnet.com> = 1
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## China moves to Linux, WSL beats native installs, Potato gaming PCs are fixed - Linux Weekly News
+
+- ID: 1EOjwwmKm-4
+- Published: 2026-08-22T09:29:11+00:00
+
+### References
+
+- <https://www.zdnet.com/article/china-drops-windows-for-linux/>
+- <https://pixelcluster.dev/VRAM-Overcommit/>
+- <https://www.windowslatest.com/2026/08/16/ubuntu-is-growing-faster-on-windows-11-than-on-native-linux-pcs-says-canonical/>
+- <https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/>
+- <https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/>
+- <https://www.phoronix.com/news/GNOME-51-Beta>
+- <https://www.phoronix.com/news/Linux-7.3-Networking>
+- <https://t.me/s/PINE64_News>
+- <https://www.gimp.org/news/2026/08/16/dev-update-august-2026/>
+- <https://discourse.ubuntu.com/t/investing-in-automated-c-to-rust-translation/86369>
+- <https://linuxiac.com/orion-browser-for-linux-officially-enters-beta/>
+- <https://www.phoronix.com/news/XWayland-26.1-RC1>
+- <https://hwbusters.com/news/x-org-server-26-1-rc1-lands-the-first-x-feature-release-since-2021-with-byte-swapped-clients-now-off/>
 
 ## Debian Testing, but better in every way?
 
