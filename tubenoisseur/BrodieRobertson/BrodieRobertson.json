@@ -103,6 +103,7 @@
     "news.ycombinator.com": 7,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
+    "omarchy.org": 2,
     "openai.com": 1,
     "pagure.io": 1,
     "pinheiro-kde.blogspot.com": 1,
@@ -194,8 +195,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "qRRfOm9Ww78",
+  "lastVideoID": "93XfM5pWFo4",
   "videos": [
+    {
+      "id": "93XfM5pWFo4",
+      "published": "2026-08-22T17:30:00+00:00",
+      "title": "Omarchy's $8,000,000 Take Over Of The Linux Desktop",
+      "urls": [
+        "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+        "https://omarchy.org/news/2026/08/omacom-foundation-to-be-exclusive-hyprland-sponsor/"
+      ]
+    },
     {
       "id": "qRRfOm9Ww78",
       "published": "2026-08-20T17:30:40+00:00",

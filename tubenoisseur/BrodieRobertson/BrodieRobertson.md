@@ -58,6 +58,7 @@ Top Sources:
 - <md.archlinux.org> = 2
 - <medium.com> = 2
 - <newgtldprogram.icann.org> = 2
+- <omarchy.org> = 2
 - <pointieststick.com> = 2
 - <quantumproductions.info> = 2
 - <servo.org> = 2
@@ -187,6 +188,16 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Omarchy's $8,000,000 Take Over Of The Linux Desktop
+
+- ID: 93XfM5pWFo4
+- Published: 2026-08-22T17:30:00+00:00
+
+### References
+
+- <https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/>
+- <https://omarchy.org/news/2026/08/omacom-foundation-to-be-exclusive-hyprland-sponsor/>
 
 ## XFCE Is Vibecoded Now?
 
