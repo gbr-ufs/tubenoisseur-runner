@@ -2,15 +2,15 @@
 
 Top Sources:
 
-- <github.com> = 56
+- <github.com> = 59
 - <lists.archlinux.org> = 29
 - <x.com> = 22
 - <lore.kernel.org> = 13
 - <kde.org> = 10
 - <blogs.gnome.org> = 9
+- <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
-- <wiki.archlinux.org> = 8
 - <www.phoronix.com> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
@@ -102,6 +102,7 @@ Top Sources:
 - <develop.kde.org> = 1
 - <devuanusers.com> = 1
 - <discord.com> = 1
+- <discourse.ubuntu.com> = 1
 - <discuss.kde.org> = 1
 - <discussion.fedoraproject.org> = 1
 - <distrofighter.com> = 1
@@ -188,6 +189,19 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## This Beloved Linux Login Screen Is Back
+
+- ID: JeSG0q4Erfw
+- Published: 2026-08-23T17:30:27+00:00
+
+### References
+
+- <https://wiki.archlinux.org/title/LightDM>
+- <https://github.com/ubuntu/lightdm/releases/tag/1.32.0>
+- <https://github.com/ubuntu/lightdm/issues/427>
+- <https://discourse.ubuntu.com/t/current-status-of-lightdm/29048?u=d0od>
+- <https://github.com/ubuntu/lightdm>
 
 ## Omarchy's $8,000,000 Take Over Of The Linux Desktop
 

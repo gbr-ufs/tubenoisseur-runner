@@ -42,6 +42,7 @@
     "devuanusers.com": 1,
     "discord.com": 1,
     "discourse.gnome.org": 5,
+    "discourse.ubuntu.com": 1,
     "discuss.cachyos.org": 2,
     "discuss.kde.org": 1,
     "discussion.fedoraproject.org": 1,
@@ -62,7 +63,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 3,
-    "github.com": 56,
+    "github.com": 59,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 8,
     "gitlab.gnome.org": 6,
@@ -131,7 +132,7 @@
     "uutils.org": 1,
     "voidlinux.org": 1,
     "web.archive.org": 7,
-    "wiki.archlinux.org": 8,
+    "wiki.archlinux.org": 9,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
     "wiki.xfce.org": 1,
@@ -195,8 +196,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "93XfM5pWFo4",
+  "lastVideoID": "JeSG0q4Erfw",
   "videos": [
+    {
+      "id": "JeSG0q4Erfw",
+      "published": "2026-08-23T17:30:27+00:00",
+      "title": "This Beloved Linux Login Screen Is Back",
+      "urls": [
+        "https://wiki.archlinux.org/title/LightDM",
+        "https://github.com/ubuntu/lightdm/releases/tag/1.32.0",
+        "https://github.com/ubuntu/lightdm/issues/427",
+        "https://discourse.ubuntu.com/t/current-status-of-lightdm/29048?u=d0od",
+        "https://github.com/ubuntu/lightdm"
+      ]
+    },
     {
       "id": "93XfM5pWFo4",
       "published": "2026-08-22T17:30:00+00:00",
