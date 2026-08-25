@@ -48,6 +48,7 @@
     "discussion.fedoraproject.org": 1,
     "distrofighter.com": 1,
     "distrosea.com": 1,
+    "distrowatch.com": 1,
     "docs.freebsd.org": 1,
     "docs.kernel.org": 1,
     "en.wikipedia.org": 3,
@@ -196,8 +197,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "JeSG0q4Erfw",
+  "lastVideoID": "4ju8ZFwzdOA",
   "videos": [
+    {
+      "id": "4ju8ZFwzdOA",
+      "published": "2026-08-24T17:30:02+00:00",
+      "title": "We Have Too Many Linux Distros",
+      "urls": [
+        "https://distrowatch.com/"
+      ]
+    },
     {
       "id": "JeSG0q4Erfw",
       "published": "2026-08-23T17:30:27+00:00",

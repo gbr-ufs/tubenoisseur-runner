@@ -107,6 +107,7 @@ Top Sources:
 - <discussion.fedoraproject.org> = 1
 - <distrofighter.com> = 1
 - <distrosea.com> = 1
+- <distrowatch.com> = 1
 - <docs.freebsd.org> = 1
 - <docs.kernel.org> = 1
 - <excalidraw.com> = 1
@@ -189,6 +190,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## We Have Too Many Linux Distros
+
+- ID: 4ju8ZFwzdOA
+- Published: 2026-08-24T17:30:02+00:00
+
+### References
+
+- <https://distrowatch.com/>
 
 ## This Beloved Linux Login Screen Is Back
 
