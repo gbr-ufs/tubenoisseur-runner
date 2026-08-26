@@ -105,7 +105,7 @@
     "news.ycombinator.com": 7,
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
-    "omarchy.org": 2,
+    "omarchy.org": 3,
     "openai.com": 1,
     "pagure.io": 1,
     "pinheiro-kde.blogspot.com": 1,
@@ -113,6 +113,7 @@
     "pointieststick.com": 2,
     "prayag2.github.io": 1,
     "quantumproductions.info": 2,
+    "quickshell.org": 1,
     "ratty-term.org": 1,
     "reviews.freebsd.org": 1,
     "security-tracker.debian.org": 1,
@@ -184,7 +185,7 @@
     "www.windowslatest.com": 2,
     "www.wiz.io": 1,
     "www.zdnet.com": 1,
-    "x.com": 22,
+    "x.com": 23,
     "xint.io": 1,
     "xkcd.com": 1,
     "youtu.be": 1
@@ -197,8 +198,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "4ju8ZFwzdOA",
+  "lastVideoID": "yIA4idIdY_k",
   "videos": [
+    {
+      "id": "yIA4idIdY_k",
+      "published": "2026-08-25T17:30:34+00:00",
+      "title": "Omarchy Is Not A Real \"Distro\"",
+      "urls": [
+        "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+        "https://x.com/mdisec/status/2091293921468932420",
+        "https://quickshell.org/"
+      ]
+    },
     {
       "id": "4ju8ZFwzdOA",
       "published": "2026-08-24T17:30:02+00:00",

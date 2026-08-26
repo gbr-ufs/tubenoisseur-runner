@@ -4,7 +4,7 @@ Top Sources:
 
 - <github.com> = 59
 - <lists.archlinux.org> = 29
-- <x.com> = 22
+- <x.com> = 23
 - <lore.kernel.org> = 13
 - <kde.org> = 10
 - <blogs.gnome.org> = 9
@@ -34,6 +34,7 @@ Top Sources:
 - <git.kernel.org> = 3
 - <invent.kde.org> = 3
 - <lists.debian.org> = 3
+- <omarchy.org> = 3
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
 - <www.pcgamer.com> = 3
@@ -58,7 +59,6 @@ Top Sources:
 - <md.archlinux.org> = 2
 - <medium.com> = 2
 - <newgtldprogram.icann.org> = 2
-- <omarchy.org> = 2
 - <pointieststick.com> = 2
 - <quantumproductions.info> = 2
 - <servo.org> = 2
@@ -146,6 +146,7 @@ Top Sources:
 - <pinheiro-kde.blogspot.com> = 1
 - <plasma-bigscreen.org> = 1
 - <prayag2.github.io> = 1
+- <quickshell.org> = 1
 - <ratty-term.org> = 1
 - <reviews.freebsd.org> = 1
 - <security-tracker.debian.org> = 1
@@ -190,6 +191,17 @@ Top Sources:
 - <xkcd.com> = 1
 - <youtu.be> = 1
 
+
+## Omarchy Is Not A Real "Distro"
+
+- ID: yIA4idIdY_k
+- Published: 2026-08-25T17:30:34+00:00
+
+### References
+
+- <https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/>
+- <https://x.com/mdisec/status/2091293921468932420>
+- <https://quickshell.org/>
 
 ## We Have Too Many Linux Distros
 
