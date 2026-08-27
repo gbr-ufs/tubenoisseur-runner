@@ -5,8 +5,9 @@ Top Sources:
 - <github.com> = 59
 - <lists.archlinux.org> = 29
 - <x.com> = 23
-- <lore.kernel.org> = 13
-- <kde.org> = 10
+- <lore.kernel.org> = 16
+- <kde.org> = 11
+- <lkml.org> = 10
 - <blogs.gnome.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
@@ -28,6 +29,7 @@ Top Sources:
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
 - <www.osnews.com> = 4
+- <archive.md> = 3
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
 - <filipfila.wordpress.com> = 3
@@ -35,13 +37,13 @@ Top Sources:
 - <invent.kde.org> = 3
 - <lists.debian.org> = 3
 - <omarchy.org> = 3
+- <pointieststick.com> = 3
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
 - <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
-- <archive.md> = 2
 - <blog.sonny.re> = 2
 - <blog.vladzahorodnii.com> = 2
 - <brave.com> = 2
@@ -54,12 +56,10 @@ Top Sources:
 - <gist.github.com> = 2
 - <git.devuan.org> = 2
 - <lkml.iu.edu> = 2
-- <lkml.org> = 2
 - <mastodon.social> = 2
 - <md.archlinux.org> = 2
 - <medium.com> = 2
 - <newgtldprogram.icann.org> = 2
-- <pointieststick.com> = 2
 - <quantumproductions.info> = 2
 - <servo.org> = 2
 - <social.treehouse.systems> = 2
@@ -79,6 +79,7 @@ Top Sources:
 - <www.spurint.org> = 2
 - <www.theregister.com> = 2
 - <www.windowslatest.com> = 2
+- <youtu.be> = 2
 - <access.redhat.com> = 1
 - <alexxcons.github.io> = 1
 - <alpinelinux.org> = 1
@@ -129,6 +130,7 @@ Top Sources:
 - <linuxiac.com> = 1
 - <linuxmint.com> = 1
 - <lists.fedoraproject.org> = 1
+- <lkml.rescloud.iu.edu> = 1
 - <lwn.net> = 1
 - <mailarchive.ietf.org> = 1
 - <man7.org> = 1
@@ -189,7 +191,54 @@ Top Sources:
 - <www.zdnet.com> = 1
 - <xint.io> = 1
 - <xkcd.com> = 1
-- <youtu.be> = 1
+
+
+## KDE LTS Has Returned From The Ashes
+
+- ID: srSoY3g5558
+- Published: 2026-08-27T17:30:14+00:00
+
+### References
+
+- <https://pointieststick.com/2026/08/13/what-a-real-lts-looks-like-kubuntu-26-04/>
+- <https://kde.org/>
+
+## The Ticking Timebomb Of Open Source
+
+- ID: B6YkrxqvK4M
+- Published: 2026-08-27T14:30:19+00:00
+
+### References
+
+- <https://youtu.be/qRRfOm9Ww78>
+
+## Linus Torvalds Won't Stop Fighting People In Linux
+
+- ID: 7Ovt55dTtRg
+- Published: 2026-08-26T17:30:34+00:00
+
+### References
+
+- <https://lkml.org/lkml/1996/7/25/38>
+- <https://lkml.org/lkml/2017/7/25/1353>
+- <https://lkml.org/lkml/2007/1/11/129>
+- <https://lkml.org/lkml/2002/11/4/123>
+- <https://lkml.org/lkml/2008/7/15/296>
+- <https://lore.kernel.org/lkml/CAHk-=wjLCqUUWd8DzG+xsOn-yVL0Q=O35U9D6j6=2DUWX52ghQ@mail.gmail.com/>
+- <https://lore.kernel.org/all/CAHk-=wjamixjqNwrr4+UEAwitMOd6Y8-_9p4oUZdcjrv7fsayQ@mail.gmail.com/>
+- <https://lkml.org/lkml/2015/6/23/657>
+- <https://lkml.org/lkml/2013/2/21/228>
+- <https://lore.kernel.org/lkml/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/>
+- <https://archive.md/fUG87>
+- <https://lkml.rescloud.iu.edu/hypermail/linux/kernel/1307.1/02653.html>
+- <https://lkml.org/lkml/2006/9/27/414?utm_source=chatgpt.com>
+
+## Is Omarchy A Real Linux Distro?
+
+- ID: fhl83Uu5eZU
+- Published: 2026-08-26T14:30:24+00:00
+
+### References
 
 
 ## Omarchy Is Not A Real "Distro"
