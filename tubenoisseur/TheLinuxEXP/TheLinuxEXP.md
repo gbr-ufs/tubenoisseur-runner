@@ -159,6 +159,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## 35 Years of Linux: the progress, what works, and what doesn't
+
+- ID: dGiiDyrGl7Q
+- Published: 2026-08-27T08:20:10+00:00
+
+### References
+
+
 ## China moves to Linux, WSL beats native installs, Potato gaming PCs are fixed - Linux Weekly News
 
 - ID: 1EOjwwmKm-4
