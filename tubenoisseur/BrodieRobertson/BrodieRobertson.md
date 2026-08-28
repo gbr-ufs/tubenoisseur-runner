@@ -42,6 +42,7 @@ Top Sources:
 - <upload.wikimedia.org> = 3
 - <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
+- <youtu.be> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
 - <blog.sonny.re> = 2
@@ -79,7 +80,6 @@ Top Sources:
 - <www.spurint.org> = 2
 - <www.theregister.com> = 2
 - <www.windowslatest.com> = 2
-- <youtu.be> = 2
 - <access.redhat.com> = 1
 - <alexxcons.github.io> = 1
 - <alpinelinux.org> = 1
@@ -192,6 +192,15 @@ Top Sources:
 - <xint.io> = 1
 - <xkcd.com> = 1
 
+
+## The Little Clock On Every CPU
+
+- ID: 2FuhK087pHw
+- Published: 2026-08-28T14:30:22+00:00
+
+### References
+
+- <https://youtu.be/_spBu9pKcNo>
 
 ## KDE LTS Has Returned From The Ashes
 

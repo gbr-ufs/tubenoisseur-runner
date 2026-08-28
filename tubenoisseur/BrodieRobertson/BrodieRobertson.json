@@ -189,7 +189,7 @@
     "x.com": 23,
     "xint.io": 1,
     "xkcd.com": 1,
-    "youtu.be": 2
+    "youtu.be": 3
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -199,8 +199,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "srSoY3g5558",
+  "lastVideoID": "2FuhK087pHw",
   "videos": [
+    {
+      "id": "2FuhK087pHw",
+      "published": "2026-08-28T14:30:22+00:00",
+      "title": "The Little Clock On Every CPU",
+      "urls": [
+        "https://youtu.be/_spBu9pKcNo"
+      ]
+    },
     {
       "id": "srSoY3g5558",
       "published": "2026-08-27T17:30:14+00:00",
