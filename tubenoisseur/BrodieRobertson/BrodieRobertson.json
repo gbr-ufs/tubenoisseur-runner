@@ -189,7 +189,7 @@
     "x.com": 23,
     "xint.io": 1,
     "xkcd.com": 1,
-    "youtu.be": 3
+    "youtu.be": 4
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -199,8 +199,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "2FuhK087pHw",
+  "lastVideoID": "Nd_d6LwKOPc",
   "videos": [
+    {
+      "id": "Nd_d6LwKOPc",
+      "published": "2026-08-29T14:30:36+00:00",
+      "title": "Linus Torvalds Is Crazy For This",
+      "urls": [
+        "https://youtu.be/7Ovt55dTtRg"
+      ]
+    },
     {
       "id": "2FuhK087pHw",
       "published": "2026-08-28T14:30:22+00:00",

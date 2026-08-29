@@ -29,6 +29,7 @@ Top Sources:
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
 - <www.osnews.com> = 4
+- <youtu.be> = 4
 - <archive.md> = 3
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
@@ -42,7 +43,6 @@ Top Sources:
 - <upload.wikimedia.org> = 3
 - <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
-- <youtu.be> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
 - <blog.sonny.re> = 2
@@ -192,6 +192,15 @@ Top Sources:
 - <xint.io> = 1
 - <xkcd.com> = 1
 
+
+## Linus Torvalds Is Crazy For This
+
+- ID: Nd_d6LwKOPc
+- Published: 2026-08-29T14:30:36+00:00
+
+### References
+
+- <https://youtu.be/7Ovt55dTtRg>
 
 ## The Little Clock On Every CPU
 
