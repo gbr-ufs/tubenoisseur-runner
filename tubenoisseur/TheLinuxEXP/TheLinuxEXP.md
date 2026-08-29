@@ -2,19 +2,19 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 36
-- <linuxiac.com> = 26
+- <www.phoronix.com> = 38
+- <linuxiac.com> = 29
+- <itsfoss.com> = 23
 - <github.com> = 22
-- <itsfoss.com> = 22
-- <www.gamingonlinux.com> = 20
+- <www.gamingonlinux.com> = 21
 - <www.omgubuntu.co.uk> = 18
-- <www.techradar.com> = 16
+- <www.techradar.com> = 17
 - <discourse.ubuntu.com> = 9
 - <arstechnica.com> = 6
 - <blog.mozilla.org> = 6
+- <blog.documentfoundation.org> = 5
 - <blogs.gnome.org> = 5
 - <9to5linux.com> = 4
-- <blog.documentfoundation.org> = 4
 - <blog.linuxmint.com> = 4
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
@@ -27,6 +27,7 @@ Top Sources:
 - <community.kde.org> = 2
 - <gs.statcounter.com> = 2
 - <lists.fedoraproject.org> = 2
+- <modal.cx> = 2
 - <store.steampowered.com> = 2
 - <www.404media.co> = 2
 - <www.collabora.com> = 2
@@ -35,6 +36,7 @@ Top Sources:
 - <www.neowin.net> = 2
 - <www.politico.eu> = 2
 - <www.theverge.com> = 2
+- <www.tomshardware.com> = 2
 - <www.windowslatest.com> = 2
 - <www.zdnet.com> = 2
 - <zamundaaa.github.io> = 2
@@ -44,6 +46,7 @@ Top Sources:
 - <anditosan.wordpress.com> = 1
 - <android-developers.googleblog.com> = 1
 - <apps.kde.org> = 1
+- <asahilinux.org> = 1
 - <blog.getutm.app> = 1
 - <blog.kimiblock.top> = 1
 - <blog.playstation.com> = 1
@@ -78,7 +81,9 @@ Top Sources:
 - <github.blog> = 1
 - <gitlab.com> = 1
 - <gitlab.freedesktop.org> = 1
+- <gitlab.winehq.org> = 1
 - <goodtech.info> = 1
+- <grapheneos.social> = 1
 - <groups.google.com> = 1
 - <help.steampowered.com> = 1
 - <hwbusters.com> = 1
@@ -90,13 +95,14 @@ Top Sources:
 - <lists.debian.org> = 1
 - <lists.linuxfromscratch.org> = 1
 - <localsend.org> = 1
+- <lore.kernel.org> = 1
 - <melia.buxjr.com> = 1
 - <merritt.codes> = 1
-- <modal.cx> = 1
 - <motorolanews.com> = 1
 - <natlawreview.com> = 1
 - <nerds.xyz> = 1
 - <news.apache.org> = 1
+- <omarchy.org> = 1
 - <open-buro.eu> = 1
 - <os.tuxedocomputers.com> = 1
 - <pagure.io> = 1
@@ -152,12 +158,35 @@ Top Sources:
 - <www.spurint.org> = 1
 - <www.thatprivacyguy.com> = 1
 - <www.thunderbolt.io> = 1
-- <www.tomshardware.com> = 1
 - <www.usa.gov> = 1
 - <www.xda-developers.com> = 1
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Massive funding for Linux projects, Nintendo nukes emulation, Graphene Comes to more phones
+
+- ID: uPwQzJ33Uhk
+- Published: 2026-08-29T09:47:47+00:00
+
+### References
+
+- <https://modal.cx/blog/announcing-flatpak-sta/>
+- <https://linuxiac.com/arch-based-omarchy-linux-distro-lands-a-massive-8m-boost/>
+- <https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/>
+- <https://www.tomshardware.com/video-games/nintendo/nintendo-takes-down-over-400-github-repositories-for-switch-emulators-in-one-go-relentless-dmca-strikes-tied-to-piracy-concerns-over-illegal-cryptographic-keys>
+- <https://linuxiac.com/grapheneos-support-is-coming-to-motorola-flagships-in-2027/>
+- <https://grapheneos.social/@GrapheneOS/117078064184215730>
+- <https://itsfoss.com/news/linux-7-3-preview/>
+- <https://www.phoronix.com/review/linux-73-filesystems/4>
+- <https://www.phoronix.com/news/Chrome-Chromium-Flatpak>
+- <https://linuxiac.com/multikernel-linux-releases-first-public-kernel-tree-based-on-linux-7-0/>
+- <https://lore.kernel.org/lkml/ao34RJ7aZ2BLd67S@pop-os.localdomain/>
+- <https://asahilinux.org/2026/08/progress-report-7-2/>
+- <https://blog.documentfoundation.org/blog/2026/08/26/libreoffice-26-8/>
+- <https://www.techradar.com/phones/iphone/ill-just-use-google-maps-apple-maps-users-rebel-against-new-ads-that-you-cant-turn-off-even-with-an-icloud-subscription>
+- <https://gitlab.winehq.org/wine/wine/-/releases/wine-11.16>
+- <https://www.gamingonlinux.com/2026/08/proton-11-0-2-is-out-with-lots-of-gaming-fixes-for-linux-steamos-steam-deck-steam-machine/>
 
 ## 35 Years of Linux: the progress, what works, and what doesn't
 
