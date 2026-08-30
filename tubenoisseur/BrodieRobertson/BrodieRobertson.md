@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 59
+- <github.com> = 61
 - <lists.archlinux.org> = 29
 - <x.com> = 23
 - <lore.kernel.org> = 16
@@ -53,6 +53,7 @@ Top Sources:
 - <data.stackexchange.com> = 2
 - <desktopsummit.org> = 2
 - <discuss.cachyos.org> = 2
+- <forum.artixlinux.org> = 2
 - <forums.linuxmint.com> = 2
 - <gist.github.com> = 2
 - <git.devuan.org> = 2
@@ -85,6 +86,7 @@ Top Sources:
 - <alpinelinux.org> = 1
 - <apps.kde.org> = 1
 - <arstechnica.com> = 1
+- <artixlinux.org> = 1
 - <balooii.pages.gitlab.gnome.org> = 1
 - <bazzite.gg> = 1
 - <bbs.deepin.org> = 1
@@ -191,7 +193,22 @@ Top Sources:
 - <www.zdnet.com> = 1
 - <xint.io> = 1
 - <xkcd.com> = 1
+- <xlibre.net> = 1
 
+
+## XLibre Just Got Pulled From Its Biggest Distro
+
+- ID: 4Ma2E_Dbt1w
+- Published: 2026-08-29T17:30:00+00:00
+
+### References
+
+- <https://artixlinux.org/news.php#XLibre_support_discontinued>
+- <https://xlibre.net/>
+- <https://github.com/joske/yserver>
+- <https://github.com/external-mirrors/phoenix>
+- <https://forum.artixlinux.org/index.php/topic,10142.0.html>
+- <https://forum.artixlinux.org/index.php/topic,10283.0.html>
 
 ## Linus Torvalds Is Crazy For This
 

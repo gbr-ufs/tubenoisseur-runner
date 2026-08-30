@@ -10,6 +10,7 @@
     "archive.md": 3,
     "archlinux.org": 3,
     "arstechnica.com": 1,
+    "artixlinux.org": 1,
     "aur.archlinux.org": 7,
     "balooii.pages.gitlab.gnome.org": 1,
     "bazzite.gg": 1,
@@ -57,6 +58,7 @@
     "filipfila.wordpress.com": 3,
     "flutter.dev": 1,
     "forge.fedoraproject.org": 1,
+    "forum.artixlinux.org": 2,
     "forum.endeavouros.com": 1,
     "forum.garudalinux.org": 1,
     "forums.linuxmint.com": 2,
@@ -64,7 +66,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 3,
-    "github.com": 59,
+    "github.com": 61,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 8,
     "gitlab.gnome.org": 6,
@@ -189,6 +191,7 @@
     "x.com": 23,
     "xint.io": 1,
     "xkcd.com": 1,
+    "xlibre.net": 1,
     "youtu.be": 4
   },
   "excludedDomains": [
@@ -199,8 +202,21 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "Nd_d6LwKOPc",
+  "lastVideoID": "4Ma2E_Dbt1w",
   "videos": [
+    {
+      "id": "4Ma2E_Dbt1w",
+      "published": "2026-08-29T17:30:00+00:00",
+      "title": "XLibre Just Got Pulled From Its Biggest Distro",
+      "urls": [
+        "https://artixlinux.org/news.php#XLibre_support_discontinued",
+        "https://xlibre.net/",
+        "https://github.com/joske/yserver",
+        "https://github.com/external-mirrors/phoenix",
+        "https://forum.artixlinux.org/index.php/topic,10142.0.html",
+        "https://forum.artixlinux.org/index.php/topic,10283.0.html"
+      ]
+    },
     {
       "id": "Nd_d6LwKOPc",
       "published": "2026-08-29T14:30:36+00:00",
