@@ -40,6 +40,7 @@
     "data.stackexchange.com": 2,
     "desktopsummit.org": 2,
     "develop.kde.org": 1,
+    "developer.gimp.org": 1,
     "devuanusers.com": 1,
     "discord.com": 1,
     "discourse.gnome.org": 5,
@@ -94,6 +95,7 @@
     "lwn.net": 1,
     "mailarchive.ietf.org": 1,
     "man7.org": 1,
+    "marc.info": 1,
     "marco-nett.de": 1,
     "mastodon.gamedev.place": 1,
     "mastodon.social": 2,
@@ -153,6 +155,7 @@
     "www.dotfurry.org": 2,
     "www.gamingonlinux.com": 4,
     "www.gentoo.org": 1,
+    "www.gimp.org": 1,
     "www.githubstatus.com": 1,
     "www.gog.com": 2,
     "www.guru3d.com": 1,
@@ -192,7 +195,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 4
+    "youtu.be": 5
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -202,8 +205,26 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "4Ma2E_Dbt1w",
+  "lastVideoID": "LyYilCTKOUg",
   "videos": [
+    {
+      "id": "LyYilCTKOUg",
+      "published": "2026-08-31T14:30:11+00:00",
+      "title": "OpenBSD Devs Are What??",
+      "urls": [
+        "https://youtu.be/7Ovt55dTtRg"
+      ]
+    },
+    {
+      "id": "kPdHbfr0PpA",
+      "published": "2026-08-30T17:30:11+00:00",
+      "title": "GIMP Is Ditching Its Ancient File Format",
+      "urls": [
+        "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+        "https://developer.gimp.org/core/standards/xcf/",
+        "https://marc.info/?l=gimp-developer\u0026m=100852164010776\u0026w=2"
+      ]
+    },
     {
       "id": "4Ma2E_Dbt1w",
       "published": "2026-08-29T17:30:00+00:00",

@@ -23,13 +23,13 @@ Top Sources:
 - <blogs.kde.org> = 5
 - <discourse.gnome.org> = 5
 - <store.steampowered.com> = 5
+- <youtu.be> = 5
 - <bugs.launchpad.net> = 4
 - <daniel.haxx.se> = 4
 - <ioctl.fail> = 4
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
 - <www.osnews.com> = 4
-- <youtu.be> = 4
 - <archive.md> = 3
 - <archlinux.org> = 3
 - <en.wikipedia.org> = 3
@@ -103,6 +103,7 @@ Top Sources:
 - <copy.fail> = 1
 - <cybernews.com> = 1
 - <develop.kde.org> = 1
+- <developer.gimp.org> = 1
 - <devuanusers.com> = 1
 - <discord.com> = 1
 - <discourse.ubuntu.com> = 1
@@ -136,6 +137,7 @@ Top Sources:
 - <lwn.net> = 1
 - <mailarchive.ietf.org> = 1
 - <man7.org> = 1
+- <marc.info> = 1
 - <marco-nett.de> = 1
 - <mastodon.gamedev.place> = 1
 - <meta.wikimedia.org> = 1
@@ -170,6 +172,7 @@ Top Sources:
 - <www.davidrevoy.com> = 1
 - <www.debian.org> = 1
 - <www.gentoo.org> = 1
+- <www.gimp.org> = 1
 - <www.githubstatus.com> = 1
 - <www.guru3d.com> = 1
 - <www.ibiblio.org> = 1
@@ -195,6 +198,26 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## OpenBSD Devs Are What??
+
+- ID: LyYilCTKOUg
+- Published: 2026-08-31T14:30:11+00:00
+
+### References
+
+- <https://youtu.be/7Ovt55dTtRg>
+
+## GIMP Is Ditching Its Ancient File Format
+
+- ID: kPdHbfr0PpA
+- Published: 2026-08-30T17:30:11+00:00
+
+### References
+
+- <https://www.gimp.org/news/2026/08/16/dev-update-august-2026/>
+- <https://developer.gimp.org/core/standards/xcf/>
+- <https://marc.info/?l=gimp-developer&m=100852164010776&w=2>
 
 ## XLibre Just Got Pulled From Its Biggest Distro
 
