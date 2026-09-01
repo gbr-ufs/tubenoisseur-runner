@@ -205,8 +205,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "LyYilCTKOUg",
+  "lastVideoID": "I84UNNZ4JA4",
   "videos": [
+    {
+      "id": "I84UNNZ4JA4",
+      "published": "2026-08-31T17:30:17+00:00",
+      "title": "Linux Tips \u0026 Tricks I Wish I Knew When I Started",
+      "urls": []
+    },
     {
       "id": "LyYilCTKOUg",
       "published": "2026-08-31T14:30:11+00:00",
