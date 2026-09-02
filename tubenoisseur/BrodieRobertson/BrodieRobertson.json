@@ -44,7 +44,7 @@
     "devuanusers.com": 1,
     "discord.com": 1,
     "discourse.gnome.org": 5,
-    "discourse.ubuntu.com": 1,
+    "discourse.ubuntu.com": 2,
     "discuss.cachyos.org": 2,
     "discuss.kde.org": 1,
     "discussion.fedoraproject.org": 1,
@@ -53,7 +53,7 @@
     "distrowatch.com": 1,
     "docs.freebsd.org": 1,
     "docs.kernel.org": 1,
-    "en.wikipedia.org": 3,
+    "en.wikipedia.org": 4,
     "excalidraw.com": 1,
     "fedoraproject.org": 1,
     "filipfila.wordpress.com": 3,
@@ -86,7 +86,7 @@
     "linuxiac.com": 1,
     "linuxmint.com": 1,
     "lists.archlinux.org": 29,
-    "lists.debian.org": 3,
+    "lists.debian.org": 6,
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
     "lkml.org": 10,
@@ -151,7 +151,7 @@
     "www.compart.com": 1,
     "www.damnsmalllinux.org": 1,
     "www.davidrevoy.com": 1,
-    "www.debian.org": 1,
+    "www.debian.org": 4,
     "www.dotfurry.org": 2,
     "www.gamingonlinux.com": 4,
     "www.gentoo.org": 1,
@@ -172,7 +172,7 @@
     "www.osnews.com": 4,
     "www.pcgamer.com": 3,
     "www.pcworld.com": 1,
-    "www.phoronix.com": 8,
+    "www.phoronix.com": 9,
     "www.raylib.com": 1,
     "www.reddit.com": 6,
     "www.redhat.com": 1,
@@ -195,7 +195,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 5
+    "youtu.be": 6
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -205,8 +205,32 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "I84UNNZ4JA4",
+  "lastVideoID": "PV0PugvuV8o",
   "videos": [
+    {
+      "id": "PV0PugvuV8o",
+      "published": "2026-09-01T17:30:32+00:00",
+      "title": "Debian Linux Is About To Split In Half Because Of AI",
+      "urls": [
+        "https://www.debian.org/vote/2026/vote_002",
+        "https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage",
+        "https://lists.debian.org/debian-vote/2026/08/msg00360.html",
+        "https://en.wikipedia.org/wiki/Schulze_method",
+        "https://lists.debian.org/debian-vote/2026/08/msg00362.html",
+        "https://lists.debian.org/debian-devel/2026/08/msg00318.html",
+        "https://discourse.ubuntu.com/t/investing-in-automated-c-to-rust-translation/86369",
+        "https://www.debian.org/vote/2014/vote_003",
+        "https://www.debian.org/vote/2019/vote_002"
+      ]
+    },
+    {
+      "id": "ovIT48nKaAA",
+      "published": "2026-09-01T14:30:01+00:00",
+      "title": "The Best Advice A New Linux User Can Ever Recieve",
+      "urls": [
+        "https://youtu.be/I84UNNZ4JA4"
+      ]
+    },
     {
       "id": "I84UNNZ4JA4",
       "published": "2026-08-31T17:30:17+00:00",

@@ -10,33 +10,34 @@ Top Sources:
 - <lkml.org> = 10
 - <blogs.gnome.org> = 9
 - <wiki.archlinux.org> = 9
+- <www.phoronix.com> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
-- <www.phoronix.com> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <web.archive.org> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
+- <lists.debian.org> = 6
 - <www.reddit.com> = 6
+- <youtu.be> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
 - <discourse.gnome.org> = 5
 - <store.steampowered.com> = 5
-- <youtu.be> = 5
 - <bugs.launchpad.net> = 4
 - <daniel.haxx.se> = 4
+- <en.wikipedia.org> = 4
 - <ioctl.fail> = 4
+- <www.debian.org> = 4
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
 - <www.osnews.com> = 4
 - <archive.md> = 3
 - <archlinux.org> = 3
-- <en.wikipedia.org> = 3
 - <filipfila.wordpress.com> = 3
 - <git.kernel.org> = 3
 - <invent.kde.org> = 3
-- <lists.debian.org> = 3
 - <omarchy.org> = 3
 - <pointieststick.com> = 3
 - <steambrew.app> = 3
@@ -52,6 +53,7 @@ Top Sources:
 - <chromium-review.googlesource.com> = 2
 - <data.stackexchange.com> = 2
 - <desktopsummit.org> = 2
+- <discourse.ubuntu.com> = 2
 - <discuss.cachyos.org> = 2
 - <forum.artixlinux.org> = 2
 - <forums.linuxmint.com> = 2
@@ -106,7 +108,6 @@ Top Sources:
 - <developer.gimp.org> = 1
 - <devuanusers.com> = 1
 - <discord.com> = 1
-- <discourse.ubuntu.com> = 1
 - <discuss.kde.org> = 1
 - <discussion.fedoraproject.org> = 1
 - <distrofighter.com> = 1
@@ -170,7 +171,6 @@ Top Sources:
 - <www.compart.com> = 1
 - <www.damnsmalllinux.org> = 1
 - <www.davidrevoy.com> = 1
-- <www.debian.org> = 1
 - <www.gentoo.org> = 1
 - <www.gimp.org> = 1
 - <www.githubstatus.com> = 1
@@ -198,6 +198,32 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Debian Linux Is About To Split In Half Because Of AI
+
+- ID: PV0PugvuV8o
+- Published: 2026-09-01T17:30:32+00:00
+
+### References
+
+- <https://www.debian.org/vote/2026/vote_002>
+- <https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage>
+- <https://lists.debian.org/debian-vote/2026/08/msg00360.html>
+- <https://en.wikipedia.org/wiki/Schulze_method>
+- <https://lists.debian.org/debian-vote/2026/08/msg00362.html>
+- <https://lists.debian.org/debian-devel/2026/08/msg00318.html>
+- <https://discourse.ubuntu.com/t/investing-in-automated-c-to-rust-translation/86369>
+- <https://www.debian.org/vote/2014/vote_003>
+- <https://www.debian.org/vote/2019/vote_002>
+
+## The Best Advice A New Linux User Can Ever Recieve
+
+- ID: ovIT48nKaAA
+- Published: 2026-09-01T14:30:01+00:00
+
+### References
+
+- <https://youtu.be/I84UNNZ4JA4>
 
 ## Linux Tips & Tricks I Wish I Knew When I Started
 
