@@ -67,7 +67,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 3,
-    "github.com": 61,
+    "github.com": 62,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 8,
     "gitlab.gnome.org": 6,
@@ -82,6 +82,7 @@
     "ioctl.fail": 4,
     "kde.org": 11,
     "ladybird.org": 6,
+    "leginfo.legislature.ca.gov": 2,
     "linux.kde.org": 1,
     "linuxiac.com": 1,
     "linuxmint.com": 1,
@@ -153,6 +154,7 @@
     "www.davidrevoy.com": 1,
     "www.debian.org": 4,
     "www.dotfurry.org": 2,
+    "www.eff.org": 1,
     "www.gamingonlinux.com": 4,
     "www.gentoo.org": 1,
     "www.gimp.org": 1,
@@ -195,7 +197,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 6
+    "youtu.be": 7
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -205,8 +207,27 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "PV0PugvuV8o",
+  "lastVideoID": "1T3EGzs1yxA",
   "videos": [
+    {
+      "id": "1T3EGzs1yxA",
+      "published": "2026-09-02T17:30:22+00:00",
+      "title": "Fight Against OS Age Verification Had A Minor Win",
+      "urls": [
+        "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043",
+        "https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone",
+        "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1856#99INT",
+        "https://github.com/apple-oss-distributions/xnu"
+      ]
+    },
+    {
+      "id": "sjE07z8fL5A",
+      "published": "2026-09-02T15:15:12+00:00",
+      "title": "Is Debian About To Have Another Systemd Moment?",
+      "urls": [
+        "https://youtu.be/PV0PugvuV8o"
+      ]
+    },
     {
       "id": "PV0PugvuV8o",
       "published": "2026-09-01T17:30:32+00:00",

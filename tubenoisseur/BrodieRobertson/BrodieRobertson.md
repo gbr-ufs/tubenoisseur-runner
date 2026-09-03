@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 61
+- <github.com> = 62
 - <lists.archlinux.org> = 29
 - <x.com> = 23
 - <lore.kernel.org> = 16
@@ -16,11 +16,11 @@ Top Sources:
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <web.archive.org> = 7
+- <youtu.be> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
 - <www.reddit.com> = 6
-- <youtu.be> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
 - <discourse.gnome.org> = 5
@@ -59,6 +59,7 @@ Top Sources:
 - <forums.linuxmint.com> = 2
 - <gist.github.com> = 2
 - <git.devuan.org> = 2
+- <leginfo.legislature.ca.gov> = 2
 - <lkml.iu.edu> = 2
 - <mastodon.social> = 2
 - <md.archlinux.org> = 2
@@ -171,6 +172,7 @@ Top Sources:
 - <www.compart.com> = 1
 - <www.damnsmalllinux.org> = 1
 - <www.davidrevoy.com> = 1
+- <www.eff.org> = 1
 - <www.gentoo.org> = 1
 - <www.gimp.org> = 1
 - <www.githubstatus.com> = 1
@@ -198,6 +200,27 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Fight Against OS Age Verification Had A Minor Win
+
+- ID: 1T3EGzs1yxA
+- Published: 2026-09-02T17:30:22+00:00
+
+### References
+
+- <https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043>
+- <https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone>
+- <https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1856#99INT>
+- <https://github.com/apple-oss-distributions/xnu>
+
+## Is Debian About To Have Another Systemd Moment?
+
+- ID: sjE07z8fL5A
+- Published: 2026-09-02T15:15:12+00:00
+
+### References
+
+- <https://youtu.be/PV0PugvuV8o>
 
 ## Debian Linux Is About To Split In Half Because Of AI
 
