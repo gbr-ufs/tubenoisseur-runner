@@ -101,6 +101,7 @@
     "mastodon.gamedev.place": 1,
     "mastodon.social": 2,
     "md.archlinux.org": 2,
+    "media.social.kernel.org": 2,
     "medium.com": 2,
     "meta.wikimedia.org": 1,
     "mitchellh.com": 1,
@@ -114,6 +115,7 @@
     "omarchy.org": 3,
     "openai.com": 1,
     "pagure.io": 1,
+    "people.kernel.org": 1,
     "pinheiro-kde.blogspot.com": 1,
     "plasma-bigscreen.org": 1,
     "pointieststick.com": 3,
@@ -166,6 +168,7 @@
     "www.ign.com": 1,
     "www.ioccc.org": 2,
     "www.islinuxaboutchoice.com": 1,
+    "www.kroah.com": 1,
     "www.linuxjournal.com": 1,
     "www.notebookcheck.net": 1,
     "www.omgubuntu.co.uk": 2,
@@ -197,7 +200,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 7
+    "youtu.be": 8
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -207,8 +210,27 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "1T3EGzs1yxA",
+  "lastVideoID": "i_4re683Nj4",
   "videos": [
+    {
+      "id": "i_4re683Nj4",
+      "published": "2026-09-03T17:30:17+00:00",
+      "title": "The Linux Kernel Will Never Be The Same",
+      "urls": [
+        "https://media.social.kernel.org/media/9a40c5ef56ac8f8507b16c2316b2afeab0cea3fbb5bc1564e7d18",
+        "http://www.kroah.com/log/blog/2024/02/13/linux-is-a-cna/",
+        "https://media.social.kernel.org/media/8a6bb81b69a1662660136bd9f3623b16e7979b35ff02719634ee22279b7dae29.svg",
+        "https://people.kernel.org/monsieuricon/creepy-crawlies"
+      ]
+    },
+    {
+      "id": "pfjC1LknLRo",
+      "published": "2026-09-03T14:45:18+00:00",
+      "title": "Linux Defaults Are Usually Fine",
+      "urls": [
+        "https://youtu.be/I84UNNZ4JA4"
+      ]
+    },
     {
       "id": "1T3EGzs1yxA",
       "published": "2026-09-02T17:30:22+00:00",

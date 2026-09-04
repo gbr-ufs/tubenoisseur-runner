@@ -13,10 +13,10 @@ Top Sources:
 - <www.phoronix.com> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
+- <youtu.be> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <web.archive.org> = 7
-- <youtu.be> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
@@ -63,6 +63,7 @@ Top Sources:
 - <lkml.iu.edu> = 2
 - <mastodon.social> = 2
 - <md.archlinux.org> = 2
+- <media.social.kernel.org> = 2
 - <medium.com> = 2
 - <newgtldprogram.icann.org> = 2
 - <quantumproductions.info> = 2
@@ -151,6 +152,7 @@ Top Sources:
 - <odin-lang.org> = 1
 - <openai.com> = 1
 - <pagure.io> = 1
+- <people.kernel.org> = 1
 - <pinheiro-kde.blogspot.com> = 1
 - <plasma-bigscreen.org> = 1
 - <prayag2.github.io> = 1
@@ -180,6 +182,7 @@ Top Sources:
 - <www.ibiblio.org> = 1
 - <www.ign.com> = 1
 - <www.islinuxaboutchoice.com> = 1
+- <www.kroah.com> = 1
 - <www.linuxjournal.com> = 1
 - <www.notebookcheck.net> = 1
 - <www.openbsd.org> = 1
@@ -200,6 +203,27 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## The Linux Kernel Will Never Be The Same
+
+- ID: i_4re683Nj4
+- Published: 2026-09-03T17:30:17+00:00
+
+### References
+
+- <https://media.social.kernel.org/media/9a40c5ef56ac8f8507b16c2316b2afeab0cea3fbb5bc1564e7d18>
+- <http://www.kroah.com/log/blog/2024/02/13/linux-is-a-cna/>
+- <https://media.social.kernel.org/media/8a6bb81b69a1662660136bd9f3623b16e7979b35ff02719634ee22279b7dae29.svg>
+- <https://people.kernel.org/monsieuricon/creepy-crawlies>
+
+## Linux Defaults Are Usually Fine
+
+- ID: pfjC1LknLRo
+- Published: 2026-09-03T14:45:18+00:00
+
+### References
+
+- <https://youtu.be/I84UNNZ4JA4>
 
 ## Fight Against OS Age Verification Had A Minor Win
 
