@@ -2,15 +2,15 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 38
+- <www.phoronix.com> = 40
 - <linuxiac.com> = 29
-- <itsfoss.com> = 23
+- <itsfoss.com> = 24
+- <www.gamingonlinux.com> = 23
 - <github.com> = 22
-- <www.gamingonlinux.com> = 21
 - <www.omgubuntu.co.uk> = 18
 - <www.techradar.com> = 17
 - <discourse.ubuntu.com> = 9
-- <arstechnica.com> = 6
+- <arstechnica.com> = 7
 - <blog.mozilla.org> = 6
 - <blog.documentfoundation.org> = 5
 - <blogs.gnome.org> = 5
@@ -19,20 +19,25 @@ Top Sources:
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
 - <proton.me> = 4
+- <blogs.kde.org> = 3
 - <www.bleepingcomputer.com> = 3
 - <www.theregister.com> = 3
 - <youtu.be> = 3
 - <bbhtt.in> = 2
 - <blog.davidedmundson.co.uk> = 2
+- <brave.com> = 2
 - <community.kde.org> = 2
 - <gs.statcounter.com> = 2
+- <lists.debian.org> = 2
 - <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
 - <store.steampowered.com> = 2
+- <tintotint.eu> = 2
 - <www.404media.co> = 2
 - <www.collabora.com> = 2
 - <www.firefox.com> = 2
 - <www.fsf.org> = 2
+- <www.microsoft.com> = 2
 - <www.neowin.net> = 2
 - <www.politico.eu> = 2
 - <www.theverge.com> = 2
@@ -46,14 +51,14 @@ Top Sources:
 - <anditosan.wordpress.com> = 1
 - <android-developers.googleblog.com> = 1
 - <apps.kde.org> = 1
+- <artixlinux.org> = 1
 - <asahilinux.org> = 1
 - <blog.getutm.app> = 1
 - <blog.kimiblock.top> = 1
+- <blog.luanti.org> = 1
 - <blog.playstation.com> = 1
 - <blog.system76.com> = 1
 - <blog.thunderbird.net> = 1
-- <blogs.kde.org> = 1
-- <brave.com> = 1
 - <cachyos.org> = 1
 - <cakehonolulu.github.io> = 1
 - <canonical.com> = 1
@@ -69,6 +74,7 @@ Top Sources:
 - <espanso.org> = 1
 - <ferdium.org> = 1
 - <filipfila.wordpress.com> = 1
+- <forum.artixlinux.org> = 1
 - <forum.jellyfin.org> = 1
 - <forum.manjaro.org> = 1
 - <forum.openmandriva.org> = 1
@@ -81,6 +87,7 @@ Top Sources:
 - <github.blog> = 1
 - <gitlab.com> = 1
 - <gitlab.freedesktop.org> = 1
+- <gitlab.gnome.org> = 1
 - <gitlab.winehq.org> = 1
 - <goodtech.info> = 1
 - <grapheneos.social> = 1
@@ -92,7 +99,6 @@ Top Sources:
 - <kde.org> = 1
 - <keepandroidopen.org> = 1
 - <lists.archlinux.org> = 1
-- <lists.debian.org> = 1
 - <lists.linuxfromscratch.org> = 1
 - <localsend.org> = 1
 - <lore.kernel.org> = 1
@@ -112,6 +118,7 @@ Top Sources:
 - <quantumproductions.info> = 1
 - <redmine.documentfoundation.org> = 1
 - <rentry.org> = 1
+- <saueseb.wordpress.com> = 1
 - <security.opensuse.org> = 1
 - <sfconservancy.org> = 1
 - <starling.build> = 1
@@ -122,7 +129,6 @@ Top Sources:
 - <tesk.page> = 1
 - <thecybersecguru.com> = 1
 - <thisweek.gnome.org> = 1
-- <tintotint.eu> = 1
 - <ubuntu.com> = 1
 - <usebottles.com> = 1
 - <vivaldi.com> = 1
@@ -145,7 +151,6 @@ Top Sources:
 - <www.ign.com> = 1
 - <www.linuxfoundation.org> = 1
 - <www.macrumors.com> = 1
-- <www.microsoft.com> = 1
 - <www.numerique.gouv.fr> = 1
 - <www.pcgamer.com> = 1
 - <www.pcmag.com> = 1
@@ -163,6 +168,31 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## KDE is firing on all cylinders, Brave says they're the best browser, CERN moves to Debian
+
+- ID: fmDvykGJqhs
+- Published: 2026-09-05T11:43:52+00:00
+
+### References
+
+- <https://brave.com/blog/brave-outperforms-other-browsers/>
+- <https://itsfoss.com/news/firefox-155-faster-page-loads/>
+- <https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL>
+- <https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html>
+- <https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/5219>
+- <https://www.phoronix.com/news/GNOME-Shell-Mutter-51-RC>
+- <https://saueseb.wordpress.com/2026/09/02/wayland-pain-points-dwell-clicker/>
+- <https://blogs.kde.org/2026/08/28/this-week-in-plasma-qtwidgets-apps-join-the-union/>
+- <https://artixlinux.org/news.php#XLibre_support_discontinued>
+- <https://forum.artixlinux.org/index.php/topic,10283.msg61637.html>
+- <https://tintotint.eu/programming/kde-connect2/>
+- <https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/>
+- <https://www.microsoft.com/en-us/research/project/project-vega/>
+- <https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/>
+- <https://www.gamingonlinux.com/2026/08/steam-deck-steamos-hit-over-30-000-verified-playable-games/>
+- <https://www.gamingonlinux.com/2026/08/game-launcher-launchbox-should-get-a-linux-version-in-2027/>
+- <https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/>
 
 ## Massive funding for Linux projects, Nintendo nukes emulation, Graphene Comes to more phones
 
