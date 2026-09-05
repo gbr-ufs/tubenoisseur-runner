@@ -12,8 +12,8 @@ Top Sources:
 - <wiki.archlinux.org> = 9
 - <www.phoronix.com> = 9
 - <www.sovereign.tech> = 9
+- <youtu.be> = 9
 - <gitlab.freedesktop.org> = 8
-- <youtu.be> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <web.archive.org> = 7
@@ -203,6 +203,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Read the damn docs
+
+- ID: jiBb3JbQoVU
+- Published: 2026-09-05T02:30:07+00:00
+
+### References
+
+- <https://youtu.be/I84UNNZ4JA4>
 
 ## The Linux Kernel Will Never Be The Same
 

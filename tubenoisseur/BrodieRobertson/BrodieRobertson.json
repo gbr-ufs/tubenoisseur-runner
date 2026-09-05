@@ -200,7 +200,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 8
+    "youtu.be": 9
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -210,8 +210,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "i_4re683Nj4",
+  "lastVideoID": "jiBb3JbQoVU",
   "videos": [
+    {
+      "id": "jiBb3JbQoVU",
+      "published": "2026-09-05T02:30:07+00:00",
+      "title": "Read the damn docs",
+      "urls": [
+        "https://youtu.be/I84UNNZ4JA4"
+      ]
+    },
     {
       "id": "i_4re683Nj4",
       "published": "2026-09-03T17:30:17+00:00",
