@@ -25,6 +25,7 @@
     "blogs.kde.org": 5,
     "blogs.microsoft.com": 1,
     "blogs.windows.com": 1,
+    "boilingsteam.com": 1,
     "brave.com": 2,
     "brodierobertson.dev": 2,
     "bugs.kde.org": 1,
@@ -134,7 +135,7 @@
     "status.denic.de": 2,
     "steambrew.app": 3,
     "steamdb.info": 1,
-    "store.steampowered.com": 5,
+    "store.steampowered.com": 6,
     "supakeen.com": 1,
     "ubuntu.com": 2,
     "upload.wikimedia.org": 3,
@@ -210,8 +211,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "jiBb3JbQoVU",
+  "lastVideoID": "y0R5V4hDHwg",
   "videos": [
+    {
+      "id": "y0R5V4hDHwg",
+      "published": "2026-09-05T17:30:12+00:00",
+      "title": "What Makes CachyOS So Popular",
+      "urls": [
+        "https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam?platform=linux",
+        "https://boilingsteam.com/cachy-os-is-now-the-most-popular-distro-on-proton-db/"
+      ]
+    },
     {
       "id": "jiBb3JbQoVU",
       "published": "2026-09-05T02:30:07+00:00",

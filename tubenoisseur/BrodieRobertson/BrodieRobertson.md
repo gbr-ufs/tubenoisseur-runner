@@ -20,11 +20,11 @@ Top Sources:
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
+- <store.steampowered.com> = 6
 - <www.reddit.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
 - <discourse.gnome.org> = 5
-- <store.steampowered.com> = 5
 - <bugs.launchpad.net> = 4
 - <daniel.haxx.se> = 4
 - <en.wikipedia.org> = 4
@@ -99,6 +99,7 @@ Top Sources:
 - <blog.orhun.dev> = 1
 - <blogs.microsoft.com> = 1
 - <blogs.windows.com> = 1
+- <boilingsteam.com> = 1
 - <bugs.kde.org> = 1
 - <bugzilla.gnome.org> = 1
 - <canonical.com> = 1
@@ -203,6 +204,16 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## What Makes CachyOS So Popular
+
+- ID: y0R5V4hDHwg
+- Published: 2026-09-05T17:30:12+00:00
+
+### References
+
+- <https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam?platform=linux>
+- <https://boilingsteam.com/cachy-os-is-now-the-most-popular-distro-on-proton-db/>
 
 ## Read the damn docs
 
