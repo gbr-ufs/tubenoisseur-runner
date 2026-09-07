@@ -3,16 +3,16 @@
 Top Sources:
 
 - <github.com> = 62
-- <lists.archlinux.org> = 29
+- <lists.archlinux.org> = 33
 - <x.com> = 23
 - <lore.kernel.org> = 16
 - <kde.org> = 11
 - <lkml.org> = 10
+- <youtu.be> = 10
 - <blogs.gnome.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.phoronix.com> = 9
 - <www.sovereign.tech> = 9
-- <youtu.be> = 9
 - <gitlab.freedesktop.org> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
@@ -204,6 +204,27 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## The dumbest Linux malware
+
+- ID: xF9E2-0W6pg
+- Published: 2026-09-07T14:30:12+00:00
+
+### References
+
+- <https://youtu.be/fLJTemwd_bc>
+
+## The Arch Linux Malware Is Getting Creative
+
+- ID: fLJTemwd_bc
+- Published: 2026-09-06T17:30:33+00:00
+
+### References
+
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/P5C7GZ4C3OJIH4EXJ62JAF6X6PY2BCQ4/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FPT525XVV2DL2P437KPHTADV3KJINORN/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/UJNSAWMI67INTLOD42UQYBOPYV4BOAUT/>
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/TAASU6LTO76UCKYLMG25OJPUY7ZONASN/>
 
 ## What Makes CachyOS So Popular
 

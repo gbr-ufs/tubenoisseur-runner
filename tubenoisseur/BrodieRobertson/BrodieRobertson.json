@@ -87,7 +87,7 @@
     "linux.kde.org": 1,
     "linuxiac.com": 1,
     "linuxmint.com": 1,
-    "lists.archlinux.org": 29,
+    "lists.archlinux.org": 33,
     "lists.debian.org": 6,
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
@@ -201,7 +201,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 9
+    "youtu.be": 10
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -211,8 +211,27 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "y0R5V4hDHwg",
+  "lastVideoID": "xF9E2-0W6pg",
   "videos": [
+    {
+      "id": "xF9E2-0W6pg",
+      "published": "2026-09-07T14:30:12+00:00",
+      "title": "The dumbest Linux malware",
+      "urls": [
+        "https://youtu.be/fLJTemwd_bc"
+      ]
+    },
+    {
+      "id": "fLJTemwd_bc",
+      "published": "2026-09-06T17:30:33+00:00",
+      "title": "The Arch Linux Malware Is Getting Creative",
+      "urls": [
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/P5C7GZ4C3OJIH4EXJ62JAF6X6PY2BCQ4/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FPT525XVV2DL2P437KPHTADV3KJINORN/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/UJNSAWMI67INTLOD42UQYBOPYV4BOAUT/",
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/TAASU6LTO76UCKYLMG25OJPUY7ZONASN/"
+      ]
+    },
     {
       "id": "y0R5V4hDHwg",
       "published": "2026-09-05T17:30:12+00:00",
