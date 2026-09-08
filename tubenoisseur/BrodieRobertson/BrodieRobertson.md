@@ -42,6 +42,7 @@ Top Sources:
 - <pointieststick.com> = 3
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
+- <www.cl.cam.ac.uk> = 3
 - <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
 - <agents.meta.stackoverflow.com> = 2
@@ -67,6 +68,7 @@ Top Sources:
 - <medium.com> = 2
 - <newgtldprogram.icann.org> = 2
 - <quantumproductions.info> = 2
+- <quentinsf.com> = 2
 - <servo.org> = 2
 - <social.treehouse.systems> = 2
 - <stackoverflow.blog> = 2
@@ -133,6 +135,7 @@ Top Sources:
 - <hachyderm.io> = 1
 - <hendassa100k.github.io> = 1
 - <ideas.obsproject.com> = 1
+- <kaffee.hnf.de> = 1
 - <linux.kde.org> = 1
 - <linuxiac.com> = 1
 - <linuxmint.com> = 1
@@ -195,8 +198,10 @@ Top Sources:
 - <www.techpowerup.com> = 1
 - <www.techtimes.com> = 1
 - <www.thebroadcastbridge.com> = 1
+- <www.theguardian.com> = 1
 - <www.theverge.com> = 1
 - <www.tinycorelinux.net> = 1
+- <www.webhistory.org> = 1
 - <www.windowscentral.com> = 1
 - <www.wiz.io> = 1
 - <www.zdnet.com> = 1
@@ -204,6 +209,22 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## X11 Powered The Very First "Webcam"
+
+- ID: pbamnHBsCH0
+- Published: 2026-09-07T17:30:39+00:00
+
+### References
+
+- <https://www.cl.cam.ac.uk/coffee/qsf/coffee.html>
+- <http://www.webhistory.org/www.lists/www-talk.1993q1/0182.html>
+- <https://www.cl.cam.ac.uk/coffee/coffee.html>
+- <https://quentinsf.com/coffeepot/Washington%20Post%2020010401.pdf>
+- <https://quentinsf.com/coffeepot/Times%20Coffee%20Pot%2020010307.pdf>
+- <https://www.theguardian.com/technology/2001/mar/07/education.highereducation>
+- <https://www.cl.cam.ac.uk/coffee/qsf/cacm200107.html>
+- <https://kaffee.hnf.de/>
 
 ## The dumbest Linux malware
 

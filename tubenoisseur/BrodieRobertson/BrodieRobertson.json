@@ -81,6 +81,7 @@
     "ideas.obsproject.com": 1,
     "invent.kde.org": 3,
     "ioctl.fail": 4,
+    "kaffee.hnf.de": 1,
     "kde.org": 11,
     "ladybird.org": 6,
     "leginfo.legislature.ca.gov": 2,
@@ -122,6 +123,7 @@
     "pointieststick.com": 3,
     "prayag2.github.io": 1,
     "quantumproductions.info": 2,
+    "quentinsf.com": 2,
     "quickshell.org": 1,
     "ratty-term.org": 1,
     "reviews.freebsd.org": 1,
@@ -149,6 +151,7 @@
     "wiki.xfce.org": 1,
     "www.8bitdo.com": 1,
     "www.anthropic.com": 2,
+    "www.cl.cam.ac.uk": 3,
     "www.cloudflare.com": 2,
     "www.cloudflarestatus.com": 1,
     "www.collabora.com": 2,
@@ -190,9 +193,11 @@
     "www.techpowerup.com": 1,
     "www.techtimes.com": 1,
     "www.thebroadcastbridge.com": 1,
+    "www.theguardian.com": 1,
     "www.theregister.com": 2,
     "www.theverge.com": 1,
     "www.tinycorelinux.net": 1,
+    "www.webhistory.org": 1,
     "www.windowscentral.com": 1,
     "www.windowslatest.com": 2,
     "www.wiz.io": 1,
@@ -211,8 +216,23 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "xF9E2-0W6pg",
+  "lastVideoID": "pbamnHBsCH0",
   "videos": [
+    {
+      "id": "pbamnHBsCH0",
+      "published": "2026-09-07T17:30:39+00:00",
+      "title": "X11 Powered The Very First \"Webcam\"",
+      "urls": [
+        "https://www.cl.cam.ac.uk/coffee/qsf/coffee.html",
+        "http://www.webhistory.org/www.lists/www-talk.1993q1/0182.html",
+        "https://www.cl.cam.ac.uk/coffee/coffee.html",
+        "https://quentinsf.com/coffeepot/Washington%20Post%2020010401.pdf",
+        "https://quentinsf.com/coffeepot/Times%20Coffee%20Pot%2020010307.pdf",
+        "https://www.theguardian.com/technology/2001/mar/07/education.highereducation",
+        "https://www.cl.cam.ac.uk/coffee/qsf/cacm200107.html",
+        "https://kaffee.hnf.de/"
+      ]
+    },
     {
       "id": "xF9E2-0W6pg",
       "published": "2026-09-07T14:30:12+00:00",
