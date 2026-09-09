@@ -2,9 +2,9 @@
 
 Top Sources:
 
-- <github.com> = 62
+- <github.com> = 65
 - <lists.archlinux.org> = 33
-- <x.com> = 23
+- <x.com> = 24
 - <lore.kernel.org> = 16
 - <kde.org> = 11
 - <lkml.org> = 10
@@ -169,6 +169,7 @@ Top Sources:
 - <stallman-copypasta.github.io> = 1
 - <steamdb.info> = 1
 - <supakeen.com> = 1
+- <sw.kovidgoyal.net> = 1
 - <usbguard.github.io> = 1
 - <uutils.org> = 1
 - <voidlinux.org> = 1
@@ -209,6 +210,19 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## This Security Issue Is Too Funny To Ignore
+
+- ID: DYu9391lVP0
+- Published: 2026-09-08T17:30:29+00:00
+
+### References
+
+- <https://x.com/bl4sty/status/2096647017992982592>
+- <https://github.com/omacom/omarchy/pull/10527>
+- <https://github.com/omacom/omarchy/blob/master/config/kitty/kitty.conf>
+- <https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.allow_remote_control>
+- <https://github.com/kovidgoyal/kitty/issues/2084>
 
 ## X11 Powered The Very First "Webcam"
 

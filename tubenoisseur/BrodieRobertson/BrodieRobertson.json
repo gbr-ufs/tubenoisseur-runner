@@ -68,7 +68,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 3,
-    "github.com": 62,
+    "github.com": 65,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 8,
     "gitlab.gnome.org": 6,
@@ -139,6 +139,7 @@
     "steamdb.info": 1,
     "store.steampowered.com": 6,
     "supakeen.com": 1,
+    "sw.kovidgoyal.net": 1,
     "ubuntu.com": 2,
     "upload.wikimedia.org": 3,
     "usbguard.github.io": 1,
@@ -202,7 +203,7 @@
     "www.windowslatest.com": 2,
     "www.wiz.io": 1,
     "www.zdnet.com": 1,
-    "x.com": 23,
+    "x.com": 24,
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
@@ -216,8 +217,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "pbamnHBsCH0",
+  "lastVideoID": "DYu9391lVP0",
   "videos": [
+    {
+      "id": "DYu9391lVP0",
+      "published": "2026-09-08T17:30:29+00:00",
+      "title": "This Security Issue Is Too Funny To Ignore",
+      "urls": [
+        "https://x.com/bl4sty/status/2096647017992982592",
+        "https://github.com/omacom/omarchy/pull/10527",
+        "https://github.com/omacom/omarchy/blob/master/config/kitty/kitty.conf",
+        "https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.allow_remote_control",
+        "https://github.com/kovidgoyal/kitty/issues/2084"
+      ]
+    },
     {
       "id": "pbamnHBsCH0",
       "published": "2026-09-07T17:30:39+00:00",
