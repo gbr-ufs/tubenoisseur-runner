@@ -8,10 +8,10 @@ Top Sources:
 - <lore.kernel.org> = 16
 - <kde.org> = 11
 - <lkml.org> = 10
+- <www.phoronix.com> = 10
 - <youtu.be> = 10
 - <blogs.gnome.org> = 9
 - <wiki.archlinux.org> = 9
-- <www.phoronix.com> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
 - <aur.archlinux.org> = 7
@@ -62,6 +62,7 @@ Top Sources:
 - <git.devuan.org> = 2
 - <leginfo.legislature.ca.gov> = 2
 - <lkml.iu.edu> = 2
+- <lwn.net> = 2
 - <mastodon.social> = 2
 - <md.archlinux.org> = 2
 - <media.social.kernel.org> = 2
@@ -113,6 +114,7 @@ Top Sources:
 - <developer.gimp.org> = 1
 - <devuanusers.com> = 1
 - <discord.com> = 1
+- <discourse.nixos.org> = 1
 - <discuss.kde.org> = 1
 - <discussion.fedoraproject.org> = 1
 - <distrofighter.com> = 1
@@ -120,6 +122,7 @@ Top Sources:
 - <distrowatch.com> = 1
 - <docs.freebsd.org> = 1
 - <docs.kernel.org> = 1
+- <en.opensuse.org> = 1
 - <excalidraw.com> = 1
 - <fedoraproject.org> = 1
 - <flutter.dev> = 1
@@ -127,6 +130,7 @@ Top Sources:
 - <forum.endeavouros.com> = 1
 - <forum.garudalinux.org> = 1
 - <freebsdfoundation.org> = 1
+- <gemmei.ftp.acc.umu.se> = 1
 - <gitlab.com> = 1
 - <gjs.guide> = 1
 - <gregroelofs.com> = 1
@@ -141,7 +145,6 @@ Top Sources:
 - <linuxmint.com> = 1
 - <lists.fedoraproject.org> = 1
 - <lkml.rescloud.iu.edu> = 1
-- <lwn.net> = 1
 - <mailarchive.ietf.org> = 1
 - <man7.org> = 1
 - <marc.info> = 1
@@ -180,6 +183,7 @@ Top Sources:
 - <www.damnsmalllinux.org> = 1
 - <www.davidrevoy.com> = 1
 - <www.eff.org> = 1
+- <www.freexian.com> = 1
 - <www.gentoo.org> = 1
 - <www.gimp.org> = 1
 - <www.githubstatus.com> = 1
@@ -210,6 +214,20 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Red Hat Enterprise Linux Is Out Debian Is In
+
+- ID: LfZnfadTkFs
+- Published: 2026-09-09T17:30:36+00:00
+
+### References
+
+- <https://gemmei.ftp.acc.umu.se/pub/debian-meetings/2026/MiniDebConf-Winterthur/ch2026-53-controlling-cerns-accelerators-with-debian.av1.webm>
+- <https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46>
+- <https://lwn.net/Articles/1046949/>
+- <https://discourse.nixos.org/t/pre-rfc-gradual-transition-of-nixos-x86-64-baseline-to-x86-64-v3-with-an-intermediate-step-to-x86-64-v2/>
+- <https://en.opensuse.org/openSUSE:X86-64-Architecture-Levels>
+- <https://www.freexian.com/>
 
 ## This Security Issue Is Too Funny To Ignore
 
