@@ -181,8 +181,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "fmDvykGJqhs",
+  "lastVideoID": "k6dLIKBeuNo",
   "videos": [
+    {
+      "id": "k6dLIKBeuNo",
+      "published": "2026-09-10T12:18:42+00:00",
+      "title": "These projects get a lot of criticism.. Why, and is it deserved ?",
+      "urls": []
+    },
     {
       "id": "fmDvykGJqhs",
       "published": "2026-09-05T11:43:52+00:00",

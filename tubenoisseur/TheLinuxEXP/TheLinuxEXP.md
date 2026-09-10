@@ -169,6 +169,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## These projects get a lot of criticism.. Why, and is it deserved ?
+
+- ID: k6dLIKBeuNo
+- Published: 2026-09-10T12:18:42+00:00
+
+### References
+
+
 ## KDE is firing on all cylinders, Brave says they're the best browser, CERN moves to Debian
 
 - ID: fmDvykGJqhs
