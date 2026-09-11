@@ -2,14 +2,14 @@
 
 Top Sources:
 
-- <github.com> = 65
+- <github.com> = 67
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 16
 - <kde.org> = 11
+- <www.phoronix.com> = 11
+- <youtu.be> = 11
 - <lkml.org> = 10
-- <www.phoronix.com> = 10
-- <youtu.be> = 10
 - <blogs.gnome.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
@@ -17,6 +17,7 @@ Top Sources:
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <web.archive.org> = 7
+- <discourse.gnome.org> = 6
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
@@ -24,9 +25,8 @@ Top Sources:
 - <www.reddit.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
-- <discourse.gnome.org> = 5
+- <daniel.haxx.se> = 5
 - <bugs.launchpad.net> = 4
-- <daniel.haxx.se> = 4
 - <en.wikipedia.org> = 4
 - <ioctl.fail> = 4
 - <www.debian.org> = 4
@@ -56,10 +56,12 @@ Top Sources:
 - <desktopsummit.org> = 2
 - <discourse.ubuntu.com> = 2
 - <discuss.cachyos.org> = 2
+- <docs.kernel.org> = 2
 - <forum.artixlinux.org> = 2
 - <forums.linuxmint.com> = 2
 - <gist.github.com> = 2
 - <git.devuan.org> = 2
+- <gjs.guide> = 2
 - <leginfo.legislature.ca.gov> = 2
 - <lkml.iu.edu> = 2
 - <lwn.net> = 2
@@ -94,9 +96,11 @@ Top Sources:
 - <apps.kde.org> = 1
 - <arstechnica.com> = 1
 - <artixlinux.org> = 1
+- <asahilinux.org> = 1
 - <balooii.pages.gitlab.gnome.org> = 1
 - <bazzite.gg> = 1
 - <bbs.deepin.org> = 1
+- <blog.codeberg.org> = 1
 - <blog.linuxmint.com> = 1
 - <blog.myli.page> = 1
 - <blog.orhun.dev> = 1
@@ -121,7 +125,6 @@ Top Sources:
 - <distrosea.com> = 1
 - <distrowatch.com> = 1
 - <docs.freebsd.org> = 1
-- <docs.kernel.org> = 1
 - <en.opensuse.org> = 1
 - <excalidraw.com> = 1
 - <fedoraproject.org> = 1
@@ -132,7 +135,6 @@ Top Sources:
 - <freebsdfoundation.org> = 1
 - <gemmei.ftp.acc.umu.se> = 1
 - <gitlab.com> = 1
-- <gjs.guide> = 1
 - <gregroelofs.com> = 1
 - <groups.google.com> = 1
 - <gs.statcounter.com> = 1
@@ -169,6 +171,7 @@ Top Sources:
 - <security-tracker.debian.org> = 1
 - <security.opensuse.org> = 1
 - <snapcraft.io> = 1
+- <sourcehut.org> = 1
 - <stallman-copypasta.github.io> = 1
 - <steamdb.info> = 1
 - <supakeen.com> = 1
@@ -214,6 +217,33 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Open Source Fight Between Anti-AI & Vibe Coders Never Ends
+
+- ID: UudhdvY946c
+- Published: 2026-09-10T17:30:39+00:00
+
+### References
+
+- <https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html>
+- <https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/#changes22>
+- <https://github.com/llvm/llvm-project/pull/220659>
+- <https://github.com/sashiko-dev/sashiko>
+- <https://docs.kernel.org/process/coding-assistants.html>
+- <https://asahilinux.org/slop/>
+- <https://discourse.gnome.org/t/loupe-no-longer-allows-generative-ai-contributions/27327>
+- <https://gjs.guide/extensions/review-guidelines/review-guidelines.html>
+- <https://www.phoronix.com/news/GNOME-Circle-No-AI-Slop>
+- <https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/>
+
+## The legendary coffee pot
+
+- ID: do57XPNYtv8
+- Published: 2026-09-10T14:30:21+00:00
+
+### References
+
+- <https://youtu.be/pbamnHBsCH0>
 
 ## Red Hat Enterprise Linux Is Out Debian Is In
 
