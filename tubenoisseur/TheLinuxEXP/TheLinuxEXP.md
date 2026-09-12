@@ -2,22 +2,23 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 40
-- <linuxiac.com> = 29
-- <itsfoss.com> = 24
+- <www.phoronix.com> = 43
+- <linuxiac.com> = 32
+- <itsfoss.com> = 25
+- <github.com> = 23
 - <www.gamingonlinux.com> = 23
-- <github.com> = 22
 - <www.omgubuntu.co.uk> = 18
-- <www.techradar.com> = 17
+- <www.techradar.com> = 18
 - <discourse.ubuntu.com> = 9
 - <arstechnica.com> = 7
 - <blog.mozilla.org> = 6
+- <9to5linux.com> = 5
 - <blog.documentfoundation.org> = 5
 - <blogs.gnome.org> = 5
-- <9to5linux.com> = 4
 - <blog.linuxmint.com> = 4
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
+- <gitlab.gnome.org> = 4
 - <proton.me> = 4
 - <blogs.kde.org> = 3
 - <www.bleepingcomputer.com> = 3
@@ -31,6 +32,7 @@ Top Sources:
 - <lists.debian.org> = 2
 - <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
+- <pointieststick.com> = 2
 - <store.steampowered.com> = 2
 - <tintotint.eu> = 2
 - <www.404media.co> = 2
@@ -87,13 +89,13 @@ Top Sources:
 - <github.blog> = 1
 - <gitlab.com> = 1
 - <gitlab.freedesktop.org> = 1
-- <gitlab.gnome.org> = 1
 - <gitlab.winehq.org> = 1
 - <goodtech.info> = 1
 - <grapheneos.social> = 1
 - <groups.google.com> = 1
 - <help.steampowered.com> = 1
 - <hwbusters.com> = 1
+- <internxt.com> = 1
 - <isene.org> = 1
 - <junocomputers.com> = 1
 - <kde.org> = 1
@@ -114,7 +116,6 @@ Top Sources:
 - <pagure.io> = 1
 - <pixelcluster.dev> = 1
 - <playnix.io> = 1
-- <pointieststick.com> = 1
 - <quantumproductions.info> = 1
 - <redmine.documentfoundation.org> = 1
 - <rentry.org> = 1
@@ -168,6 +169,29 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Switzerland ditches Windows, Omarchy now raised $18.5M - Linux & Open Source News Weekly
+
+- ID: sNRaukxVI2Y
+- Published: 2026-09-12T09:02:21+00:00
+
+### References
+
+- <https://internxt.com/thelinuxexp>
+- <https://itsfoss.com/news/switzerland-replace-microssoft-pilot/>
+- <https://linuxiac.com/omarchy-funding-surges-to-18-5m-with-digitaloceans-3m-pledge/>
+- <https://gitlab.gnome.org/sophie-h/rfcs/-/merge_requests/1>
+- <https://gitlab.gnome.org/Teams/Board/-/work_items/1148>
+- <https://gitlab.gnome.org/Teams/Websites/release.gnome.org/-/work_items/69>
+- <https://pointieststick.com/2026/09/06/photos-a-proposed-replacement-for-gwenview/>
+- <https://9to5linux.com/kde-frameworks-6-30-improves-baloo-file-indexer-kwallet-and-system-monitor>
+- <https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing>
+- <https://linuxiac.com/midesktop-1-2-beta-brings-kde-1-revival-closer-to-daily-use/>
+- <https://www.phoronix.com/news/Apple-A18-Pro-MacBook-Neo-Patch>
+- <https://linuxiac.com/open-cad-studio-is-a-new-rust-based-open-source-cad-app-for-linux/>
+- <https://www.techradar.com/computing/windows/windows-11s-september-update-has-arrived-here-are-the-3-key-features-that-make-this-a-must-install-upgrade>
+- <https://github.com/ps5-linux/ps5-linux-loader>
+- <https://www.phoronix.com/news/DLSS5VKLayer>
 
 ## These projects get a lot of criticism.. Why, and is it deserved ?
 
