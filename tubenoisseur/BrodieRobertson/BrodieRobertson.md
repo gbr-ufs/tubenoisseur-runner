@@ -2,12 +2,12 @@
 
 Top Sources:
 
-- <github.com> = 67
+- <github.com> = 69
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 16
+- <www.phoronix.com> = 12
 - <kde.org> = 11
-- <www.phoronix.com> = 11
 - <youtu.be> = 11
 - <lkml.org> = 10
 - <blogs.gnome.org> = 9
@@ -91,6 +91,8 @@ Top Sources:
 - <www.theregister.com> = 2
 - <www.windowslatest.com> = 2
 - <access.redhat.com> = 1
+- <aerynos.com> = 1
+- <aerynos.discourse.group> = 1
 - <alexxcons.github.io> = 1
 - <alpinelinux.org> = 1
 - <apps.kde.org> = 1
@@ -217,6 +219,19 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Another Linux Distro Project From Ikey Doherty
+
+- ID: ieE-CJmACZo
+- Published: 2026-09-12T17:30:18+00:00
+
+### References
+
+- <https://github.com/TravellingEngineer/barney>
+- <https://github.com/TravellingEngineer/barney/blob/main/DESIGN.md>
+- <https://www.phoronix.com/news/Solus-Open-Letter>
+- <https://aerynos.com/blog/2026/01/02/2025-in-retrospect/#the-project-founder-steps-away>
+- <https://aerynos.discourse.group/t/in-response-to-allegations-against-the-aerynos-team/96>
 
 ## Open Source Fight Between Anti-AI & Vibe Coders Never Ends
 

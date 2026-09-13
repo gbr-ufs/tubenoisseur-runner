@@ -2,6 +2,8 @@
   "channelHandle": "BrodieRobertson",
   "domainCounts": {
     "access.redhat.com": 1,
+    "aerynos.com": 1,
+    "aerynos.discourse.group": 1,
     "agents.meta.stackoverflow.com": 2,
     "agents.stackoverflow.com": 2,
     "alexxcons.github.io": 1,
@@ -73,7 +75,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 3,
-    "github.com": 67,
+    "github.com": 69,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 8,
     "gitlab.gnome.org": 6,
@@ -189,7 +191,7 @@
     "www.osnews.com": 4,
     "www.pcgamer.com": 3,
     "www.pcworld.com": 1,
-    "www.phoronix.com": 11,
+    "www.phoronix.com": 12,
     "www.raylib.com": 1,
     "www.reddit.com": 6,
     "www.redhat.com": 1,
@@ -224,8 +226,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "UudhdvY946c",
+  "lastVideoID": "ieE-CJmACZo",
   "videos": [
+    {
+      "id": "ieE-CJmACZo",
+      "published": "2026-09-12T17:30:18+00:00",
+      "title": "Another Linux Distro Project From Ikey Doherty",
+      "urls": [
+        "https://github.com/TravellingEngineer/barney",
+        "https://github.com/TravellingEngineer/barney/blob/main/DESIGN.md",
+        "https://www.phoronix.com/news/Solus-Open-Letter",
+        "https://aerynos.com/blog/2026/01/02/2025-in-retrospect/#the-project-founder-steps-away",
+        "https://aerynos.discourse.group/t/in-response-to-allegations-against-the-aerynos-team/96"
+      ]
+    },
     {
       "id": "UudhdvY946c",
       "published": "2026-09-10T17:30:39+00:00",
