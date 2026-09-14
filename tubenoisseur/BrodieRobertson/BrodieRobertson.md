@@ -7,8 +7,8 @@ Top Sources:
 - <x.com> = 24
 - <lore.kernel.org> = 16
 - <www.phoronix.com> = 12
+- <youtu.be> = 12
 - <kde.org> = 11
-- <youtu.be> = 11
 - <lkml.org> = 10
 - <blogs.gnome.org> = 9
 - <wiki.archlinux.org> = 9
@@ -63,6 +63,7 @@ Top Sources:
 - <git.devuan.org> = 2
 - <gjs.guide> = 2
 - <leginfo.legislature.ca.gov> = 2
+- <linuxiac.com> = 2
 - <lkml.iu.edu> = 2
 - <lwn.net> = 2
 - <mastodon.social> = 2
@@ -145,7 +146,6 @@ Top Sources:
 - <ideas.obsproject.com> = 1
 - <kaffee.hnf.de> = 1
 - <linux.kde.org> = 1
-- <linuxiac.com> = 1
 - <linuxmint.com> = 1
 - <lists.fedoraproject.org> = 1
 - <lkml.rescloud.iu.edu> = 1
@@ -219,6 +219,24 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Slackware vs Debian
+
+- ID: _tNWPqT4qxI
+- Published: 2026-09-14T14:30:20+00:00
+
+### References
+
+- <https://youtu.be/RGsFVWkvUVY>
+
+## Two Oldest Running Linux Distros Entirely Different Paths
+
+- ID: RGsFVWkvUVY
+- Published: 2026-09-13T17:30:23+00:00
+
+### References
+
+- <https://linuxiac.com/unraid-8-nas-to-drop-slackware-for-fedora-based-ucore/>
 
 ## Another Linux Distro Project From Ikey Doherty
 

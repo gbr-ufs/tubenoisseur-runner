@@ -93,7 +93,7 @@
     "ladybird.org": 6,
     "leginfo.legislature.ca.gov": 2,
     "linux.kde.org": 1,
-    "linuxiac.com": 1,
+    "linuxiac.com": 2,
     "linuxmint.com": 1,
     "lists.archlinux.org": 33,
     "lists.debian.org": 6,
@@ -216,7 +216,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 11
+    "youtu.be": 12
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -226,8 +226,24 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "ieE-CJmACZo",
+  "lastVideoID": "_tNWPqT4qxI",
   "videos": [
+    {
+      "id": "_tNWPqT4qxI",
+      "published": "2026-09-14T14:30:20+00:00",
+      "title": "Slackware vs Debian",
+      "urls": [
+        "https://youtu.be/RGsFVWkvUVY"
+      ]
+    },
+    {
+      "id": "RGsFVWkvUVY",
+      "published": "2026-09-13T17:30:23+00:00",
+      "title": "Two Oldest Running Linux Distros Entirely Different Paths",
+      "urls": [
+        "https://linuxiac.com/unraid-8-nas-to-drop-slackware-for-fedora-based-ucore/"
+      ]
+    },
     {
       "id": "ieE-CJmACZo",
       "published": "2026-09-12T17:30:18+00:00",
