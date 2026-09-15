@@ -226,8 +226,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "_tNWPqT4qxI",
+  "lastVideoID": "k5L47tFUgtQ",
   "videos": [
+    {
+      "id": "k5L47tFUgtQ",
+      "published": "2026-09-14T17:30:09+00:00",
+      "title": "Linux Kernel And Planned Obsolescence",
+      "urls": []
+    },
     {
       "id": "_tNWPqT4qxI",
       "published": "2026-09-14T14:30:20+00:00",

@@ -220,6 +220,14 @@ Top Sources:
 - <xlibre.net> = 1
 
 
+## Linux Kernel And Planned Obsolescence
+
+- ID: k5L47tFUgtQ
+- Published: 2026-09-14T17:30:09+00:00
+
+### References
+
+
 ## Slackware vs Debian
 
 - ID: _tNWPqT4qxI
