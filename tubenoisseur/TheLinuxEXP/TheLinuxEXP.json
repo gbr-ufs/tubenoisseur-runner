@@ -182,8 +182,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "sNRaukxVI2Y",
+  "lastVideoID": "3Ws9dahsFqQ",
   "videos": [
+    {
+      "id": "3Ws9dahsFqQ",
+      "published": "2026-09-16T09:39:44+00:00",
+      "title": "GNOME 51: a look at everything that changed",
+      "urls": []
+    },
     {
       "id": "sNRaukxVI2Y",
       "published": "2026-09-12T09:02:21+00:00",

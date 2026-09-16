@@ -170,6 +170,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## GNOME 51: a look at everything that changed
+
+- ID: 3Ws9dahsFqQ
+- Published: 2026-09-16T09:39:44+00:00
+
+### References
+
+
 ## Switzerland ditches Windows, Omarchy now raised $18.5M - Linux & Open Source News Weekly
 
 - ID: sNRaukxVI2Y
