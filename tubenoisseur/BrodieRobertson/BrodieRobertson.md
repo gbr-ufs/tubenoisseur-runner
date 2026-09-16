@@ -205,6 +205,7 @@ Top Sources:
 - <www.redhat.com> = 1
 - <www.slitaz.org> = 1
 - <www.suse.com> = 1
+- <www.techemails.com> = 1
 - <www.techpowerup.com> = 1
 - <www.techtimes.com> = 1
 - <www.thebroadcastbridge.com> = 1
@@ -219,6 +220,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Bill Gates Realized The Insanity Of Windows
+
+- ID: mvzRB9j0q9U
+- Published: 2026-09-15T17:30:01+00:00
+
+### References
+
+- <https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker>
 
 ## Linux Kernel And Planned Obsolescence
 

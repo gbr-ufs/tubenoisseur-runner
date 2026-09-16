@@ -200,6 +200,7 @@
     "www.sovereign.tech": 9,
     "www.spurint.org": 2,
     "www.suse.com": 1,
+    "www.techemails.com": 1,
     "www.techpowerup.com": 1,
     "www.techtimes.com": 1,
     "www.thebroadcastbridge.com": 1,
@@ -226,8 +227,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "k5L47tFUgtQ",
+  "lastVideoID": "mvzRB9j0q9U",
   "videos": [
+    {
+      "id": "mvzRB9j0q9U",
+      "published": "2026-09-15T17:30:01+00:00",
+      "title": "Bill Gates Realized The Insanity Of Windows",
+      "urls": [
+        "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"
+      ]
+    },
     {
       "id": "k5L47tFUgtQ",
       "published": "2026-09-14T17:30:09+00:00",
