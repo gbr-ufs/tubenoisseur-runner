@@ -14,9 +14,9 @@ Top Sources:
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
+- <web.archive.org> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
-- <web.archive.org> = 7
 - <discourse.gnome.org> = 6
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
@@ -144,6 +144,7 @@ Top Sources:
 - <hachyderm.io> = 1
 - <hendassa100k.github.io> = 1
 - <ideas.obsproject.com> = 1
+- <itp.cdn.icann.org> = 1
 - <kaffee.hnf.de> = 1
 - <linux.kde.org> = 1
 - <linuxmint.com> = 1
@@ -159,6 +160,7 @@ Top Sources:
 - <mrshu.github.io> = 1
 - <mstdn.social> = 1
 - <my.devsuite.app> = 1
+- <neil.fraser.name> = 1
 - <nobaraproject.org> = 1
 - <odin-lang.org> = 1
 - <openai.com> = 1
@@ -194,6 +196,7 @@ Top Sources:
 - <www.githubstatus.com> = 1
 - <www.guru3d.com> = 1
 - <www.ibiblio.org> = 1
+- <www.icann.org> = 1
 - <www.ign.com> = 1
 - <www.islinuxaboutchoice.com> = 1
 - <www.kroah.com> = 1
@@ -220,6 +223,18 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Death Of The Weirdest Top Level Domain
+
+- ID: 0sa6EXQk1eY
+- Published: 2026-09-16T17:30:34+00:00
+
+### References
+
+- <https://neil.fraser.name/news/2026/09/03/>
+- <https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf>
+- <https://www.icann.org/en/system/files/files/reconsideration-26-2-spiridonov-bamc-recommendation-24aug26-en.pdf>
+- <https://web.archive.org/web/20020609132126/http://nic.name/consumer/index.html>
 
 ## Bill Gates Realized The Insanity Of Windows
 

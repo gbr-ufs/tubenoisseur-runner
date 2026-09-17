@@ -88,6 +88,7 @@
     "ideas.obsproject.com": 1,
     "invent.kde.org": 3,
     "ioctl.fail": 4,
+    "itp.cdn.icann.org": 1,
     "kaffee.hnf.de": 1,
     "kde.org": 11,
     "ladybird.org": 6,
@@ -117,6 +118,7 @@
     "mrshu.github.io": 1,
     "mstdn.social": 1,
     "my.devsuite.app": 1,
+    "neil.fraser.name": 1,
     "newgtldprogram.icann.org": 2,
     "news.ycombinator.com": 7,
     "nobaraproject.org": 1,
@@ -153,7 +155,7 @@
     "usbguard.github.io": 1,
     "uutils.org": 1,
     "voidlinux.org": 1,
-    "web.archive.org": 7,
+    "web.archive.org": 8,
     "wiki.archlinux.org": 9,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
@@ -178,6 +180,7 @@
     "www.gog.com": 2,
     "www.guru3d.com": 1,
     "www.ibiblio.org": 1,
+    "www.icann.org": 1,
     "www.ietf.org": 4,
     "www.ign.com": 1,
     "www.ioccc.org": 2,
@@ -227,8 +230,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "mvzRB9j0q9U",
+  "lastVideoID": "0sa6EXQk1eY",
   "videos": [
+    {
+      "id": "0sa6EXQk1eY",
+      "published": "2026-09-16T17:30:34+00:00",
+      "title": "Death Of The Weirdest Top Level Domain",
+      "urls": [
+        "https://neil.fraser.name/news/2026/09/03/",
+        "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf",
+        "https://www.icann.org/en/system/files/files/reconsideration-26-2-spiridonov-bamc-recommendation-24aug26-en.pdf",
+        "https://web.archive.org/web/20020609132126/http://nic.name/consumer/index.html"
+      ]
+    },
     {
       "id": "mvzRB9j0q9U",
       "published": "2026-09-15T17:30:01+00:00",
