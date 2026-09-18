@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 69
+- <github.com> = 70
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 16
@@ -15,6 +15,7 @@ Top Sources:
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
 - <web.archive.org> = 8
+- <www.reddit.com> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <discourse.gnome.org> = 6
@@ -22,7 +23,6 @@ Top Sources:
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
 - <store.steampowered.com> = 6
-- <www.reddit.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
 - <daniel.haxx.se> = 5
@@ -223,6 +223,17 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## The Biggest Lie We Tell Linux Users
+
+- ID: 9NTNW0egSsA
+- Published: 2026-09-17T17:30:04+00:00
+
+### References
+
+- <https://www.reddit.com/r/linux4noobs/comments/1wd8bet/linux_doesnt_need_reboots_but_every_pacman_update/>
+- <https://www.reddit.com/r/linux/comments/4cotoa/eli5_if_linux_systems_are_so_famous_for_not/>
+- <https://github.com/liske/needrestart>
 
 ## Death Of The Weirdest Top Level Domain
 

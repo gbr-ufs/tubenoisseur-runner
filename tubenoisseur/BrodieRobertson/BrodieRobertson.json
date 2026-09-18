@@ -75,7 +75,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 3,
-    "github.com": 69,
+    "github.com": 70,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 8,
     "gitlab.gnome.org": 6,
@@ -196,7 +196,7 @@
     "www.pcworld.com": 1,
     "www.phoronix.com": 12,
     "www.raylib.com": 1,
-    "www.reddit.com": 6,
+    "www.reddit.com": 8,
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.slitaz.org": 1,
@@ -230,8 +230,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "0sa6EXQk1eY",
+  "lastVideoID": "9NTNW0egSsA",
   "videos": [
+    {
+      "id": "9NTNW0egSsA",
+      "published": "2026-09-17T17:30:04+00:00",
+      "title": "The Biggest Lie We Tell Linux Users",
+      "urls": [
+        "https://www.reddit.com/r/linux4noobs/comments/1wd8bet/linux_doesnt_need_reboots_but_every_pacman_update/",
+        "https://www.reddit.com/r/linux/comments/4cotoa/eli5_if_linux_systems_are_so_famous_for_not/",
+        "https://github.com/liske/needrestart"
+      ]
+    },
     {
       "id": "0sa6EXQk1eY",
       "published": "2026-09-16T17:30:34+00:00",
