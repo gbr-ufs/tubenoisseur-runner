@@ -2,26 +2,27 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 43
+- <www.phoronix.com> = 46
 - <linuxiac.com> = 32
-- <itsfoss.com> = 25
+- <itsfoss.com> = 27
+- <www.gamingonlinux.com> = 25
 - <github.com> = 23
-- <www.gamingonlinux.com> = 23
 - <www.omgubuntu.co.uk> = 18
 - <www.techradar.com> = 18
 - <discourse.ubuntu.com> = 9
 - <arstechnica.com> = 7
+- <blogs.gnome.org> = 7
 - <blog.mozilla.org> = 6
 - <9to5linux.com> = 5
 - <blog.documentfoundation.org> = 5
-- <blogs.gnome.org> = 5
-- <blog.linuxmint.com> = 4
+- <blog.linuxmint.com> = 5
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
 - <gitlab.gnome.org> = 4
 - <proton.me> = 4
+- <www.bleepingcomputer.com> = 4
 - <blogs.kde.org> = 3
-- <www.bleepingcomputer.com> = 3
+- <store.steampowered.com> = 3
 - <www.theregister.com> = 3
 - <youtu.be> = 3
 - <bbhtt.in> = 2
@@ -29,11 +30,11 @@ Top Sources:
 - <brave.com> = 2
 - <community.kde.org> = 2
 - <gs.statcounter.com> = 2
+- <internxt.com> = 2
 - <lists.debian.org> = 2
 - <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
 - <pointieststick.com> = 2
-- <store.steampowered.com> = 2
 - <tintotint.eu> = 2
 - <www.404media.co> = 2
 - <www.collabora.com> = 2
@@ -61,6 +62,7 @@ Top Sources:
 - <blog.playstation.com> = 1
 - <blog.system76.com> = 1
 - <blog.thunderbird.net> = 1
+- <boilingsteam.com> = 1
 - <cachyos.org> = 1
 - <cakehonolulu.github.io> = 1
 - <canonical.com> = 1
@@ -95,7 +97,6 @@ Top Sources:
 - <groups.google.com> = 1
 - <help.steampowered.com> = 1
 - <hwbusters.com> = 1
-- <internxt.com> = 1
 - <isene.org> = 1
 - <junocomputers.com> = 1
 - <kde.org> = 1
@@ -118,6 +119,7 @@ Top Sources:
 - <playnix.io> = 1
 - <quantumproductions.info> = 1
 - <redmine.documentfoundation.org> = 1
+- <release.gnome.org> = 1
 - <rentry.org> = 1
 - <saueseb.wordpress.com> = 1
 - <security.opensuse.org> = 1
@@ -169,6 +171,29 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Microsoft Office 365 installs, runs, and works on Linux now! - Linux & Open Source Weekly News
+
+- ID: NIov2k6Ddlc
+- Published: 2026-09-19T11:26:36+00:00
+
+### References
+
+- <https://internxt.com/thelinuxexp>
+- <https://itsfoss.com/news/bottles-microsoft-365-early-look/>
+- <https://blog.linuxmint.com/?p=5067>
+- <https://itsfoss.com/news/ubuntu-rustification-coreutils-migration/>
+- <https://boilingsteam.com/ltt-leaks-steam-frames-first-look-ahead-of-schedule/index.html>
+- <https://store.steampowered.com/hardware/steamframe>
+- <https://release.gnome.org/51/>
+- <https://blogs.gnome.org/carlosg/2026/09/15/on-mobile-and-peer-pressure/>
+- <https://blogs.gnome.org/ignapk/2026/09/16/flatpak-stf-terminal-intent/>
+- <https://www.phoronix.com/news/Branch-Remove-Old-ARM-Drivers>
+- <https://www.phoronix.com/news/Faster-Kernel-Builds-AI-v2>
+- <https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend/8>
+- <https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/>
+- <https://www.gamingonlinux.com/2026/09/lepton-from-valve-to-run-android-games-on-linux-is-now-open-source/>
+- <https://www.gamingonlinux.com/2026/09/ps5-linux-dev-quits-after-the-only-hypervisor-bug-left-was-reported-to-sony/>
 
 ## GNOME 51: a look at everything that changed
 
