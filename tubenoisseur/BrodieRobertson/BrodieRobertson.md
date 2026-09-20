@@ -2,20 +2,20 @@
 
 Top Sources:
 
-- <github.com> = 70
+- <github.com> = 71
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 16
-- <www.phoronix.com> = 12
+- <www.phoronix.com> = 13
 - <youtu.be> = 12
 - <kde.org> = 11
+- <www.reddit.com> = 11
 - <lkml.org> = 10
 - <blogs.gnome.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
 - <gitlab.freedesktop.org> = 8
 - <web.archive.org> = 8
-- <www.reddit.com> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
 - <discourse.gnome.org> = 6
@@ -223,6 +223,19 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Copying Windows Isn't Always Bad
+
+- ID: 7ElAg_8mlN4
+- Published: 2026-09-19T17:30:14+00:00
+
+### References
+
+- <https://www.reddit.com/r/Ubuntu/comments/1vzneq8/when_did_ubuntu_start_this_kind_update_like/>
+- <https://www.reddit.com/r/Fedora/comments/t4067l/how_do_i_turn_off_the_updating_at_the_start_up/>
+- <https://www.phoronix.com/news/systemd-255>
+- <https://www.reddit.com/r/linux/comments/1mwl9d4/til_linux_also_has_a_bsod/>
+- <https://github.com/systemd/systemd/issues/33442>
 
 ## The Biggest Lie We Tell Linux Users
 
