@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 71
+- <github.com> = 74
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 16
@@ -12,9 +12,9 @@ Top Sources:
 - <www.reddit.com> = 11
 - <lkml.org> = 10
 - <blogs.gnome.org> = 9
+- <gitlab.freedesktop.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
-- <gitlab.freedesktop.org> = 8
 - <web.archive.org> = 8
 - <aur.archlinux.org> = 7
 - <news.ycombinator.com> = 7
@@ -223,6 +223,18 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Wayland Global Shortcuts Takes Another Big Step
+
+- ID: t1LaLW7wabk
+- Published: 2026-09-20T17:30:00+00:00
+
+### References
+
+- <https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525>
+- <https://github.com/obsproject/obs-studio/pull/13661>
+- <https://github.com/flatpak/xdg-desktop-portal/issues/2142>
+- <https://github.com/LiveSplit/livesplit-core/pull/957>
 
 ## Copying Windows Isn't Always Bad
 

@@ -75,9 +75,9 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 3,
-    "github.com": 71,
+    "github.com": 74,
     "gitlab.com": 1,
-    "gitlab.freedesktop.org": 8,
+    "gitlab.freedesktop.org": 9,
     "gitlab.gnome.org": 6,
     "gjs.guide": 2,
     "gregroelofs.com": 1,
@@ -230,8 +230,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "7ElAg_8mlN4",
+  "lastVideoID": "t1LaLW7wabk",
   "videos": [
+    {
+      "id": "t1LaLW7wabk",
+      "published": "2026-09-20T17:30:00+00:00",
+      "title": "Wayland Global Shortcuts Takes Another Big Step",
+      "urls": [
+        "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525",
+        "https://github.com/obsproject/obs-studio/pull/13661",
+        "https://github.com/flatpak/xdg-desktop-portal/issues/2142",
+        "https://github.com/LiveSplit/livesplit-core/pull/957"
+      ]
+    },
     {
       "id": "7ElAg_8mlN4",
       "published": "2026-09-19T17:30:14+00:00",
