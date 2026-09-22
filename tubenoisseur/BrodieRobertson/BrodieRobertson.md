@@ -5,7 +5,7 @@ Top Sources:
 - <github.com> = 74
 - <lists.archlinux.org> = 33
 - <x.com> = 24
-- <lore.kernel.org> = 16
+- <lore.kernel.org> = 17
 - <www.phoronix.com> = 13
 - <youtu.be> = 12
 - <kde.org> = 11
@@ -28,15 +28,17 @@ Top Sources:
 - <daniel.haxx.se> = 5
 - <bugs.launchpad.net> = 4
 - <en.wikipedia.org> = 4
+- <git.kernel.org> = 4
 - <ioctl.fail> = 4
+- <lwn.net> = 4
 - <www.debian.org> = 4
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
 - <www.osnews.com> = 4
 - <archive.md> = 3
 - <archlinux.org> = 3
+- <docs.kernel.org> = 3
 - <filipfila.wordpress.com> = 3
-- <git.kernel.org> = 3
 - <invent.kde.org> = 3
 - <omarchy.org> = 3
 - <pointieststick.com> = 3
@@ -45,6 +47,7 @@ Top Sources:
 - <www.cl.cam.ac.uk> = 3
 - <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
+- <www.theregister.com> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
 - <blog.sonny.re> = 2
@@ -56,7 +59,6 @@ Top Sources:
 - <desktopsummit.org> = 2
 - <discourse.ubuntu.com> = 2
 - <discuss.cachyos.org> = 2
-- <docs.kernel.org> = 2
 - <forum.artixlinux.org> = 2
 - <forums.linuxmint.com> = 2
 - <gist.github.com> = 2
@@ -65,7 +67,6 @@ Top Sources:
 - <leginfo.legislature.ca.gov> = 2
 - <linuxiac.com> = 2
 - <lkml.iu.edu> = 2
-- <lwn.net> = 2
 - <mastodon.social> = 2
 - <md.archlinux.org> = 2
 - <media.social.kernel.org> = 2
@@ -89,8 +90,8 @@ Top Sources:
 - <www.omgubuntu.co.uk> = 2
 - <www.opengroup.org> = 2
 - <www.spurint.org> = 2
-- <www.theregister.com> = 2
 - <www.windowslatest.com> = 2
+- <www.zdnet.com> = 2
 - <access.redhat.com> = 1
 - <aerynos.com> = 1
 - <aerynos.discourse.group> = 1
@@ -172,6 +173,7 @@ Top Sources:
 - <quickshell.org> = 1
 - <ratty-term.org> = 1
 - <reviews.freebsd.org> = 1
+- <rusted-kernel.com> = 1
 - <security-tracker.debian.org> = 1
 - <security.opensuse.org> = 1
 - <snapcraft.io> = 1
@@ -218,11 +220,26 @@ Top Sources:
 - <www.webhistory.org> = 1
 - <www.windowscentral.com> = 1
 - <www.wiz.io> = 1
-- <www.zdnet.com> = 1
 - <xint.io> = 1
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## How Much Of The Linux Kernel Is Rust & AI
+
+- ID: EoqCAv9PVMA
+- Published: 2026-09-21T17:30:13+00:00
+
+### References
+
+- <https://lwn.net/ml/linux-kernel/20210414184604.23473-1-ojeda@kernel.org/>
+- <https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b>
+- <https://lwn.net/ml/linux-kernel/CAHk-=wiVY56LzwV_G075NEFwsdf-p7GOTy_cB7-UU9b=49rB1g@mail.gmail.com/>
+- <https://www.zdnet.com/article/greg-kroah-hartman-linux-kernel-rust/>
+- <https://rusted-kernel.com/>
+- <https://lore.kernel.org/all/20250323132800.3010783-1-sashal@kernel.org/>
+- <https://docs.kernel.org/process/coding-assistants.html>
+- <https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268>
 
 ## Wayland Global Shortcuts Takes Another Big Step
 
