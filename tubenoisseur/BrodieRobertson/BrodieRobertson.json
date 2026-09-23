@@ -38,6 +38,7 @@
     "canonical.com": 1,
     "cdn.kernel.org": 1,
     "chromium-review.googlesource.com": 2,
+    "community.kde.org": 1,
     "conf.kde.org": 1,
     "copy.fail": 1,
     "cybernews.com": 1,
@@ -86,9 +87,10 @@
     "hachyderm.io": 1,
     "hendassa100k.github.io": 1,
     "ideas.obsproject.com": 1,
-    "invent.kde.org": 3,
+    "invent.kde.org": 4,
     "ioctl.fail": 4,
     "itp.cdn.icann.org": 1,
+    "jellyfin.org": 1,
     "kaffee.hnf.de": 1,
     "kde.org": 11,
     "ladybird.org": 6,
@@ -104,6 +106,7 @@
     "lkml.rescloud.iu.edu": 1,
     "lore.kernel.org": 17,
     "lwn.net": 4,
+    "mail.kde.org": 1,
     "mailarchive.ietf.org": 1,
     "man7.org": 1,
     "marc.info": 1,
@@ -231,8 +234,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "EoqCAv9PVMA",
+  "lastVideoID": "j2wJLuDAYzE",
   "videos": [
+    {
+      "id": "j2wJLuDAYzE",
+      "published": "2026-09-22T17:30:33+00:00",
+      "title": "KDE's AI Policy Is Taking An Interesting Turn",
+      "urls": [
+        "https://invent.kde.org/plasma/plasma-workspace/-/work_items/187",
+        "https://mail.kde.org/pipermail/kde-devel/2026-September/004496.html",
+        "https://community.kde.org/Policies/Commit_Policy",
+        "https://jellyfin.org/docs/general/contributing/llm-policies/"
+      ]
+    },
     {
       "id": "EoqCAv9PVMA",
       "published": "2026-09-21T17:30:13+00:00",

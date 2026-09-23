@@ -29,6 +29,7 @@ Top Sources:
 - <bugs.launchpad.net> = 4
 - <en.wikipedia.org> = 4
 - <git.kernel.org> = 4
+- <invent.kde.org> = 4
 - <ioctl.fail> = 4
 - <lwn.net> = 4
 - <www.debian.org> = 4
@@ -39,7 +40,6 @@ Top Sources:
 - <archlinux.org> = 3
 - <docs.kernel.org> = 3
 - <filipfila.wordpress.com> = 3
-- <invent.kde.org> = 3
 - <omarchy.org> = 3
 - <pointieststick.com> = 3
 - <steambrew.app> = 3
@@ -115,6 +115,7 @@ Top Sources:
 - <bugzilla.gnome.org> = 1
 - <canonical.com> = 1
 - <cdn.kernel.org> = 1
+- <community.kde.org> = 1
 - <conf.kde.org> = 1
 - <copy.fail> = 1
 - <cybernews.com> = 1
@@ -146,11 +147,13 @@ Top Sources:
 - <hendassa100k.github.io> = 1
 - <ideas.obsproject.com> = 1
 - <itp.cdn.icann.org> = 1
+- <jellyfin.org> = 1
 - <kaffee.hnf.de> = 1
 - <linux.kde.org> = 1
 - <linuxmint.com> = 1
 - <lists.fedoraproject.org> = 1
 - <lkml.rescloud.iu.edu> = 1
+- <mail.kde.org> = 1
 - <mailarchive.ietf.org> = 1
 - <man7.org> = 1
 - <marc.info> = 1
@@ -224,6 +227,18 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## KDE's AI Policy Is Taking An Interesting Turn
+
+- ID: j2wJLuDAYzE
+- Published: 2026-09-22T17:30:33+00:00
+
+### References
+
+- <https://invent.kde.org/plasma/plasma-workspace/-/work_items/187>
+- <https://mail.kde.org/pipermail/kde-devel/2026-September/004496.html>
+- <https://community.kde.org/Policies/Commit_Policy>
+- <https://jellyfin.org/docs/general/contributing/llm-policies/>
 
 ## How Much Of The Linux Kernel Is Rust & AI
 
