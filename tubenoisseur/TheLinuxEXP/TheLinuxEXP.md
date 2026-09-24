@@ -172,6 +172,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## No, KDE isn't turning into an AI desktop
+
+- ID: Pkgvc7jwxwU
+- Published: 2026-09-24T12:28:28+00:00
+
+### References
+
+
 ## Microsoft Office 365 installs, runs, and works on Linux now! - Linux & Open Source Weekly News
 
 - ID: NIov2k6Ddlc

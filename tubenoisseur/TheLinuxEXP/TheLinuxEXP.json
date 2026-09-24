@@ -184,8 +184,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "NIov2k6Ddlc",
+  "lastVideoID": "Pkgvc7jwxwU",
   "videos": [
+    {
+      "id": "Pkgvc7jwxwU",
+      "published": "2026-09-24T12:28:28+00:00",
+      "title": "No, KDE isn't turning into an AI desktop",
+      "urls": []
+    },
     {
       "id": "NIov2k6Ddlc",
       "published": "2026-09-19T11:26:36+00:00",
