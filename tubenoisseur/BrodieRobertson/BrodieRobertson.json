@@ -76,10 +76,11 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 4,
-    "github.com": 74,
+    "github.com": 75,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 9,
     "gitlab.gnome.org": 6,
+    "gitlab.steamos.cloud": 1,
     "gjs.guide": 2,
     "gregroelofs.com": 1,
     "groups.google.com": 1,
@@ -159,6 +160,7 @@
     "usbguard.github.io": 1,
     "uutils.org": 1,
     "voidlinux.org": 1,
+    "waydro.id": 1,
     "web.archive.org": 8,
     "wiki.archlinux.org": 9,
     "wiki.gnome.org": 2,
@@ -234,8 +236,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "j2wJLuDAYzE",
+  "lastVideoID": "2G44ZTTamuA",
   "videos": [
+    {
+      "id": "2G44ZTTamuA",
+      "published": "2026-09-23T17:30:10+00:00",
+      "title": "Valve's Waydroid Fork Is Finally Open Source",
+      "urls": [
+        "https://github.com/FEX-Emu/FEX",
+        "https://waydro.id/",
+        "https://gitlab.steamos.cloud/frame-public/lepton"
+      ]
+    },
     {
       "id": "j2wJLuDAYzE",
       "published": "2026-09-22T17:30:33+00:00",

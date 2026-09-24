@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 74
+- <github.com> = 75
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 17
@@ -140,6 +140,7 @@ Top Sources:
 - <freebsdfoundation.org> = 1
 - <gemmei.ftp.acc.umu.se> = 1
 - <gitlab.com> = 1
+- <gitlab.steamos.cloud> = 1
 - <gregroelofs.com> = 1
 - <groups.google.com> = 1
 - <gs.statcounter.com> = 1
@@ -188,6 +189,7 @@ Top Sources:
 - <usbguard.github.io> = 1
 - <uutils.org> = 1
 - <voidlinux.org> = 1
+- <waydro.id> = 1
 - <wiki.xfce.org> = 1
 - <www.8bitdo.com> = 1
 - <www.cloudflarestatus.com> = 1
@@ -227,6 +229,17 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Valve's Waydroid Fork Is Finally Open Source
+
+- ID: 2G44ZTTamuA
+- Published: 2026-09-23T17:30:10+00:00
+
+### References
+
+- <https://github.com/FEX-Emu/FEX>
+- <https://waydro.id/>
+- <https://gitlab.steamos.cloud/frame-public/lepton>
 
 ## KDE's AI Policy Is Taking An Interesting Turn
 
