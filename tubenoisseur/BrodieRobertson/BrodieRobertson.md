@@ -13,10 +13,11 @@ Top Sources:
 - <lkml.org> = 10
 - <blogs.gnome.org> = 9
 - <gitlab.freedesktop.org> = 9
+- <web.archive.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
-- <web.archive.org> = 8
 - <aur.archlinux.org> = 7
+- <daniel.haxx.se> = 7
 - <news.ycombinator.com> = 7
 - <discourse.gnome.org> = 6
 - <gitlab.gnome.org> = 6
@@ -25,7 +26,6 @@ Top Sources:
 - <store.steampowered.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
-- <daniel.haxx.se> = 5
 - <bugs.launchpad.net> = 4
 - <en.wikipedia.org> = 4
 - <git.kernel.org> = 4
@@ -97,6 +97,7 @@ Top Sources:
 - <aerynos.discourse.group> = 1
 - <alexxcons.github.io> = 1
 - <alpinelinux.org> = 1
+- <app.intigriti.com> = 1
 - <apps.kde.org> = 1
 - <arstechnica.com> = 1
 - <artixlinux.org> = 1
@@ -205,6 +206,7 @@ Top Sources:
 - <www.ibiblio.org> = 1
 - <www.icann.org> = 1
 - <www.ign.com> = 1
+- <www.intel.com> = 1
 - <www.islinuxaboutchoice.com> = 1
 - <www.kroah.com> = 1
 - <www.linuxjournal.com> = 1
@@ -229,6 +231,19 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Intel Just Deleted There Bug Bounty Program
+
+- ID: EjUCeGmEFHU
+- Published: 2026-09-24T17:30:20+00:00
+
+### References
+
+- <https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/>
+- <https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/>
+- <https://web.archive.org/web/20241217221132/https://app.intigriti.com/programs/intel/intel/detail>
+- <https://app.intigriti.com/programs/intel/intelvulnerabilitydisclosureprogram/detail>
+- <https://www.intel.com/content/www/us/en/security/security-practices/vulnerability-management/bug-bounty-program.html>
 
 ## Valve's Waydroid Fork Is Finally Open Source
 

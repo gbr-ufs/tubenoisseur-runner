@@ -8,6 +8,7 @@
     "agents.stackoverflow.com": 2,
     "alexxcons.github.io": 1,
     "alpinelinux.org": 1,
+    "app.intigriti.com": 1,
     "apps.kde.org": 1,
     "archive.md": 3,
     "archlinux.org": 3,
@@ -42,7 +43,7 @@
     "conf.kde.org": 1,
     "copy.fail": 1,
     "cybernews.com": 1,
-    "daniel.haxx.se": 5,
+    "daniel.haxx.se": 7,
     "data.stackexchange.com": 2,
     "desktopsummit.org": 2,
     "develop.kde.org": 1,
@@ -161,7 +162,7 @@
     "uutils.org": 1,
     "voidlinux.org": 1,
     "waydro.id": 1,
-    "web.archive.org": 8,
+    "web.archive.org": 9,
     "wiki.archlinux.org": 9,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
@@ -189,6 +190,7 @@
     "www.icann.org": 1,
     "www.ietf.org": 4,
     "www.ign.com": 1,
+    "www.intel.com": 1,
     "www.ioccc.org": 2,
     "www.islinuxaboutchoice.com": 1,
     "www.kroah.com": 1,
@@ -236,8 +238,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "2G44ZTTamuA",
+  "lastVideoID": "EjUCeGmEFHU",
   "videos": [
+    {
+      "id": "EjUCeGmEFHU",
+      "published": "2026-09-24T17:30:20+00:00",
+      "title": "Intel Just Deleted There Bug Bounty Program",
+      "urls": [
+        "https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/",
+        "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
+        "https://web.archive.org/web/20241217221132/https://app.intigriti.com/programs/intel/intel/detail",
+        "https://app.intigriti.com/programs/intel/intelvulnerabilitydisclosureprogram/detail",
+        "https://www.intel.com/content/www/us/en/security/security-practices/vulnerability-management/bug-bounty-program.html"
+      ]
+    },
     {
       "id": "2G44ZTTamuA",
       "published": "2026-09-23T17:30:10+00:00",
