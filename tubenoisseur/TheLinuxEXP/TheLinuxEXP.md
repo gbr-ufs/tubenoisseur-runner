@@ -2,16 +2,16 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 46
-- <linuxiac.com> = 32
-- <itsfoss.com> = 27
-- <www.gamingonlinux.com> = 25
-- <github.com> = 23
+- <www.phoronix.com> = 48
+- <linuxiac.com> = 33
+- <itsfoss.com> = 29
+- <www.gamingonlinux.com> = 27
+- <github.com> = 24
+- <www.techradar.com> = 19
 - <www.omgubuntu.co.uk> = 18
-- <www.techradar.com> = 18
-- <discourse.ubuntu.com> = 9
+- <discourse.ubuntu.com> = 10
+- <blogs.gnome.org> = 8
 - <arstechnica.com> = 7
-- <blogs.gnome.org> = 7
 - <blog.mozilla.org> = 6
 - <9to5linux.com> = 5
 - <blog.documentfoundation.org> = 5
@@ -22,19 +22,21 @@ Top Sources:
 - <proton.me> = 4
 - <www.bleepingcomputer.com> = 4
 - <blogs.kde.org> = 3
+- <pointieststick.com> = 3
 - <store.steampowered.com> = 3
 - <www.theregister.com> = 3
 - <youtu.be> = 3
 - <bbhtt.in> = 2
 - <blog.davidedmundson.co.uk> = 2
 - <brave.com> = 2
+- <canonical.com> = 2
 - <community.kde.org> = 2
 - <gs.statcounter.com> = 2
 - <internxt.com> = 2
 - <lists.debian.org> = 2
 - <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
-- <pointieststick.com> = 2
+- <steamcommunity.com> = 2
 - <tintotint.eu> = 2
 - <www.404media.co> = 2
 - <www.collabora.com> = 2
@@ -65,7 +67,6 @@ Top Sources:
 - <boilingsteam.com> = 1
 - <cachyos.org> = 1
 - <cakehonolulu.github.io> = 1
-- <canonical.com> = 1
 - <consumerrights.wiki> = 1
 - <cybernews.com> = 1
 - <deutschland-stack.gov.de> = 1
@@ -125,7 +126,6 @@ Top Sources:
 - <security.opensuse.org> = 1
 - <sfconservancy.org> = 1
 - <starling.build> = 1
-- <steamcommunity.com> = 1
 - <superfile.dev> = 1
 - <support.mozilla.org> = 1
 - <t.me> = 1
@@ -171,6 +171,28 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Google is closing down Android more and more, Netherlands move to Linux - Linux Weekly News
+
+- ID: 5z2wPPjHD4U
+- Published: 2026-09-26T09:35:53+00:00
+
+### References
+
+- <https://itsfoss.com/news/netherlands-dawo-initiative/>
+- <https://itsfoss.com/news/grapheneos-android-17-qpr1-fiasco/>
+- <https://www.techradar.com/computing/laptops/rethinking-the-laptop-is-a-big-undertaking-why-googlebooks-are-so-much-more-than-overpriced-chromebooks-and-apple-should-be-worried>
+- <https://www.gamingonlinux.com/2026/09/kde-developers-attempts-at-creating-llm-guidelines-are-not-going-well/>
+- <https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/>
+- <https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/>
+- <https://www.phoronix.com/news/KDE-Goals-To-2028>
+- <https://www.gamingonlinux.com/2026/09/steamos-3-8-28-stable-released-with-big-improvements-for-steam-deck-steam-machine-and-more-hardware-support/>
+- <https://www.phoronix.com/news/Linux-7.4-Faster-Do-Open>
+- <https://discourse.ubuntu.com/t/improving-ubuntu-desktop-stability-under-memory-pressure/87945>
+- <https://steamcommunity.com/groups/homestream/discussions/0/564794422009744473?snr=2>
+- <https://canonical.com/blog/accelerating-delivery-of-cve-fixes-with-a-new-kernel-release-strategy>
+- <https://linuxiac.com/cosmic-desktop-1-9-adds-cosmic-viewer-on-screen-keyboard/>
+- <https://github.com/reactos/reactos/pull/9352>
 
 ## No, KDE isn't turning into an AI desktop
 
