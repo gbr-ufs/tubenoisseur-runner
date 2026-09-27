@@ -7,9 +7,10 @@ Top Sources:
 - <x.com> = 24
 - <lore.kernel.org> = 17
 - <www.phoronix.com> = 13
-- <youtu.be> = 12
+- <youtu.be> = 13
 - <kde.org> = 11
 - <www.reddit.com> = 11
+- <invent.kde.org> = 10
 - <lkml.org> = 10
 - <blogs.gnome.org> = 9
 - <gitlab.freedesktop.org> = 9
@@ -29,7 +30,6 @@ Top Sources:
 - <bugs.launchpad.net> = 4
 - <en.wikipedia.org> = 4
 - <git.kernel.org> = 4
-- <invent.kde.org> = 4
 - <ioctl.fail> = 4
 - <lwn.net> = 4
 - <www.debian.org> = 4
@@ -41,6 +41,7 @@ Top Sources:
 - <docs.kernel.org> = 3
 - <filipfila.wordpress.com> = 3
 - <omarchy.org> = 3
+- <phabricator.kde.org> = 3
 - <pointieststick.com> = 3
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
@@ -59,6 +60,7 @@ Top Sources:
 - <desktopsummit.org> = 2
 - <discourse.ubuntu.com> = 2
 - <discuss.cachyos.org> = 2
+- <discuss.kde.org> = 2
 - <forum.artixlinux.org> = 2
 - <forums.linuxmint.com> = 2
 - <gist.github.com> = 2
@@ -125,7 +127,6 @@ Top Sources:
 - <devuanusers.com> = 1
 - <discord.com> = 1
 - <discourse.nixos.org> = 1
-- <discuss.kde.org> = 1
 - <discussion.fedoraproject.org> = 1
 - <distrofighter.com> = 1
 - <distrosea.com> = 1
@@ -231,6 +232,25 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## KDE Just Set A New Direction Of The Project
+
+- ID: 8Z5Fx8Amis4
+- Published: 2026-09-26T17:30:14+00:00
+
+### References
+
+- <https://invent.kde.org/teams/goals/we-care-about-your-input>
+- <https://phabricator.kde.org/T17433>
+- <https://invent.kde.org/teams/goals/contributor-onboarding>
+- <https://phabricator.kde.org/T17439>
+- <https://invent.kde.org/teams/goals/contributor-onboarding>
+- <https://phabricator.kde.org/T17439>
+- <https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items/5>
+- <https://discuss.kde.org/t/sovereign-tech-fund-invests-over-1-million-in-kde-software-development/46970>
+- <https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items/2>
+- <https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items/3>
+- <https://youtu.be/fLmEs4gHVPs?si=6icaOemh3fMHyXQW>
 
 ## Intel Just Deleted There Bug Bounty Program
 

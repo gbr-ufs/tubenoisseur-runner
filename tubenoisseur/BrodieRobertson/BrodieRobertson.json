@@ -54,7 +54,7 @@
     "discourse.nixos.org": 1,
     "discourse.ubuntu.com": 2,
     "discuss.cachyos.org": 2,
-    "discuss.kde.org": 1,
+    "discuss.kde.org": 2,
     "discussion.fedoraproject.org": 1,
     "distrofighter.com": 1,
     "distrosea.com": 1,
@@ -89,7 +89,7 @@
     "hachyderm.io": 1,
     "hendassa100k.github.io": 1,
     "ideas.obsproject.com": 1,
-    "invent.kde.org": 4,
+    "invent.kde.org": 10,
     "ioctl.fail": 4,
     "itp.cdn.icann.org": 1,
     "jellyfin.org": 1,
@@ -132,6 +132,7 @@
     "openai.com": 1,
     "pagure.io": 1,
     "people.kernel.org": 1,
+    "phabricator.kde.org": 3,
     "pinheiro-kde.blogspot.com": 1,
     "plasma-bigscreen.org": 1,
     "pointieststick.com": 3,
@@ -228,7 +229,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 12
+    "youtu.be": 13
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -238,8 +239,26 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "EjUCeGmEFHU",
+  "lastVideoID": "8Z5Fx8Amis4",
   "videos": [
+    {
+      "id": "8Z5Fx8Amis4",
+      "published": "2026-09-26T17:30:14+00:00",
+      "title": "KDE Just Set A New Direction Of The Project",
+      "urls": [
+        "https://invent.kde.org/teams/goals/we-care-about-your-input",
+        "https://phabricator.kde.org/T17433",
+        "https://invent.kde.org/teams/goals/contributor-onboarding",
+        "https://phabricator.kde.org/T17439",
+        "https://invent.kde.org/teams/goals/contributor-onboarding",
+        "https://phabricator.kde.org/T17439",
+        "https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items/5",
+        "https://discuss.kde.org/t/sovereign-tech-fund-invests-over-1-million-in-kde-software-development/46970",
+        "https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items/2",
+        "https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items/3",
+        "https://youtu.be/fLmEs4gHVPs?si=6icaOemh3fMHyXQW"
+      ]
+    },
     {
       "id": "EjUCeGmEFHU",
       "published": "2026-09-24T17:30:20+00:00",
