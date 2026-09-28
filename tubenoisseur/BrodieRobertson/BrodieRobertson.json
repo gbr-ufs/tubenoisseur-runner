@@ -239,8 +239,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "8Z5Fx8Amis4",
+  "lastVideoID": "5aff9qOTVgc",
   "videos": [
+    {
+      "id": "5aff9qOTVgc",
+      "published": "2026-09-28T17:30:39+00:00",
+      "title": "How Do Normal Linux Users Use AI?",
+      "urls": []
+    },
+    {
+      "id": "8GBTZRTUPWw",
+      "published": "2026-09-27T17:30:13+00:00",
+      "title": "The Git Repo Isn't The Place For Trolling",
+      "urls": []
+    },
     {
       "id": "8Z5Fx8Amis4",
       "published": "2026-09-26T17:30:14+00:00",

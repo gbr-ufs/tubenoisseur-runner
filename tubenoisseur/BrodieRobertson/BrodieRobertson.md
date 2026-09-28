@@ -233,6 +233,22 @@ Top Sources:
 - <xlibre.net> = 1
 
 
+## How Do Normal Linux Users Use AI?
+
+- ID: 5aff9qOTVgc
+- Published: 2026-09-28T17:30:39+00:00
+
+### References
+
+
+## The Git Repo Isn't The Place For Trolling
+
+- ID: 8GBTZRTUPWw
+- Published: 2026-09-27T17:30:13+00:00
+
+### References
+
+
 ## KDE Just Set A New Direction Of The Project
 
 - ID: 8Z5Fx8Amis4
