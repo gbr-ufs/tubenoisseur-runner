@@ -40,6 +40,7 @@ Top Sources:
 - <archlinux.org> = 3
 - <docs.kernel.org> = 3
 - <filipfila.wordpress.com> = 3
+- <itsfoss.com> = 3
 - <omarchy.org> = 3
 - <phabricator.kde.org> = 3
 - <pointieststick.com> = 3
@@ -108,6 +109,7 @@ Top Sources:
 - <bazzite.gg> = 1
 - <bbs.deepin.org> = 1
 - <blog.codeberg.org> = 1
+- <blog.documentfoundation.org> = 1
 - <blog.linuxmint.com> = 1
 - <blog.myli.page> = 1
 - <blog.orhun.dev> = 1
@@ -118,12 +120,15 @@ Top Sources:
 - <bugzilla.gnome.org> = 1
 - <canonical.com> = 1
 - <cdn.kernel.org> = 1
+- <code.overheid.nl> = 1
+- <codeberg.org> = 1
 - <community.kde.org> = 1
 - <conf.kde.org> = 1
 - <copy.fail> = 1
 - <cybernews.com> = 1
 - <develop.kde.org> = 1
 - <developer.gimp.org> = 1
+- <developer.overheid.nl> = 1
 - <devuanusers.com> = 1
 - <discord.com> = 1
 - <discourse.nixos.org> = 1
@@ -188,6 +193,7 @@ Top Sources:
 - <steamdb.info> = 1
 - <supakeen.com> = 1
 - <sw.kovidgoyal.net> = 1
+- <tweakers.net> = 1
 - <usbguard.github.io> = 1
 - <uutils.org> = 1
 - <voidlinux.org> = 1
@@ -226,12 +232,30 @@ Top Sources:
 - <www.theverge.com> = 1
 - <www.tinycorelinux.net> = 1
 - <www.webhistory.org> = 1
+- <www.whitehouse.gov> = 1
 - <www.windowscentral.com> = 1
 - <www.wiz.io> = 1
 - <xint.io> = 1
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## The Netherlands Forked NixOS... BTW
+
+- ID: vXVreuC2hm8
+- Published: 2026-09-29T17:30:30+00:00
+
+### References
+
+- <https://code.overheid.nl/MinBZK>
+- <https://codeberg.org/DAWO>
+- <https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html>
+- <https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/>
+- <https://developer.overheid.nl/blog/2025/11/11/git-forge-overheid>
+- <https://itsfoss.com/news/denmark-set-to-replace-microsoft/>
+- <https://itsfoss.com/news/german-state-ditch-microsoft/>
+- <https://itsfoss.com/news/france-government-linux-switch/>
+- <https://blog.documentfoundation.org/blog/2026/03/20/big-news-germany-has-just-made-odf-mandatory/>
 
 ## How Do Normal Linux Users Use AI?
 
