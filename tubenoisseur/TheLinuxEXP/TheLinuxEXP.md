@@ -172,6 +172,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## Windows is losing users FAST: what is happening and what you can do
+
+- ID: KMt9y53yXqo
+- Published: 2026-10-01T10:39:17+00:00
+
+### References
+
+
 ## Google is closing down Android more and more, Netherlands move to Linux - Linux Weekly News
 
 - ID: 5z2wPPjHD4U
