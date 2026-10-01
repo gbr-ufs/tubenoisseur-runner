@@ -154,6 +154,7 @@ Top Sources:
 - <hachyderm.io> = 1
 - <hendassa100k.github.io> = 1
 - <ideas.obsproject.com> = 1
+- <inoti.fyi> = 1
 - <itp.cdn.icann.org> = 1
 - <jellyfin.org> = 1
 - <kaffee.hnf.de> = 1
@@ -239,6 +240,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Bizarre New Kind Of Linux Malware
+
+- ID: ySyC4zSeNDA
+- Published: 2026-09-30T17:30:09+00:00
+
+### References
+
+- <https://inoti.fyi/>
 
 ## The Netherlands Forked NixOS... BTW
 

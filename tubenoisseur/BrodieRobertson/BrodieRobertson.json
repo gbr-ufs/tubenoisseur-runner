@@ -93,6 +93,7 @@
     "hachyderm.io": 1,
     "hendassa100k.github.io": 1,
     "ideas.obsproject.com": 1,
+    "inoti.fyi": 1,
     "invent.kde.org": 10,
     "ioctl.fail": 4,
     "itp.cdn.icann.org": 1,
@@ -246,8 +247,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "vXVreuC2hm8",
+  "lastVideoID": "ySyC4zSeNDA",
   "videos": [
+    {
+      "id": "ySyC4zSeNDA",
+      "published": "2026-09-30T17:30:09+00:00",
+      "title": "Bizarre New Kind Of Linux Malware",
+      "urls": [
+        "https://inoti.fyi/"
+      ]
+    },
     {
       "id": "vXVreuC2hm8",
       "published": "2026-09-29T17:30:30+00:00",
