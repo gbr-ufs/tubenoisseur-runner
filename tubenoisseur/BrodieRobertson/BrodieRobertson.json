@@ -112,7 +112,7 @@
     "lkml.iu.edu": 2,
     "lkml.org": 10,
     "lkml.rescloud.iu.edu": 1,
-    "lore.kernel.org": 17,
+    "lore.kernel.org": 18,
     "lwn.net": 4,
     "mail.kde.org": 1,
     "mailarchive.ietf.org": 1,
@@ -247,8 +247,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "ySyC4zSeNDA",
+  "lastVideoID": "5q5E0s2cu_8",
   "videos": [
+    {
+      "id": "5q5E0s2cu_8",
+      "published": "2026-10-01T17:30:20+00:00",
+      "title": "Linux Kernel Debate The Need For An Agents File",
+      "urls": [
+        "https://lore.kernel.org/lkml/20260924134945.3095661-1-sashal@kernel.org/"
+      ]
+    },
     {
       "id": "ySyC4zSeNDA",
       "published": "2026-09-30T17:30:09+00:00",

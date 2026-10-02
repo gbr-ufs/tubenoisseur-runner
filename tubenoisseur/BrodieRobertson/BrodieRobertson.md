@@ -5,7 +5,7 @@ Top Sources:
 - <github.com> = 75
 - <lists.archlinux.org> = 33
 - <x.com> = 24
-- <lore.kernel.org> = 17
+- <lore.kernel.org> = 18
 - <www.phoronix.com> = 13
 - <youtu.be> = 13
 - <kde.org> = 11
@@ -240,6 +240,15 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Linux Kernel Debate The Need For An Agents File
+
+- ID: 5q5E0s2cu_8
+- Published: 2026-10-01T17:30:20+00:00
+
+### References
+
+- <https://lore.kernel.org/lkml/20260924134945.3095661-1-sashal@kernel.org/>
 
 ## Bizarre New Kind Of Linux Malware
 
