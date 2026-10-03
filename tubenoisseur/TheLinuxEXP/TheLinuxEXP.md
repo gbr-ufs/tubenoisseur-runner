@@ -2,16 +2,16 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 48
-- <linuxiac.com> = 33
+- <www.phoronix.com> = 49
+- <linuxiac.com> = 34
 - <itsfoss.com> = 29
 - <www.gamingonlinux.com> = 27
 - <github.com> = 24
+- <www.omgubuntu.co.uk> = 21
 - <www.techradar.com> = 19
-- <www.omgubuntu.co.uk> = 18
 - <discourse.ubuntu.com> = 10
-- <blogs.gnome.org> = 8
-- <arstechnica.com> = 7
+- <blogs.gnome.org> = 9
+- <arstechnica.com> = 8
 - <blog.mozilla.org> = 6
 - <9to5linux.com> = 5
 - <blog.documentfoundation.org> = 5
@@ -45,6 +45,7 @@ Top Sources:
 - <www.microsoft.com> = 2
 - <www.neowin.net> = 2
 - <www.politico.eu> = 2
+- <www.reuters.com> = 2
 - <www.theverge.com> = 2
 - <www.tomshardware.com> = 2
 - <www.windowslatest.com> = 2
@@ -57,7 +58,9 @@ Top Sources:
 - <android-developers.googleblog.com> = 1
 - <apps.kde.org> = 1
 - <artixlinux.org> = 1
+- <arunraghavan.net> = 1
 - <asahilinux.org> = 1
+- <blancbrowser.com> = 1
 - <blog.getutm.app> = 1
 - <blog.kimiblock.top> = 1
 - <blog.luanti.org> = 1
@@ -112,6 +115,7 @@ Top Sources:
 - <natlawreview.com> = 1
 - <nerds.xyz> = 1
 - <news.apache.org> = 1
+- <nura.eco> = 1
 - <omarchy.org> = 1
 - <open-buro.eu> = 1
 - <os.tuxedocomputers.com> = 1
@@ -159,8 +163,8 @@ Top Sources:
 - <www.pcmag.com> = 1
 - <www.pcworld.com> = 1
 - <www.regierung-mv.de> = 1
-- <www.reuters.com> = 1
 - <www.rockpapershotgun.com> = 1
+- <www.santafenewmexican.com> = 1
 - <www.soeren-hentzschel.at> = 1
 - <www.sonatype.com> = 1
 - <www.spurint.org> = 1
@@ -171,6 +175,26 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Firefox Gets (too) Rounded, Flatpak for CLI & Dev tools, Ubuntu does tiling now - Linux Weekly News
+
+- ID: QMviQdi5uiw
+- Published: 2026-10-03T09:20:23+00:00
+
+### References
+
+- <https://www.omgubuntu.co.uk/2026/10/ubuntu-2610-beta-released>
+- <https://www.omgubuntu.co.uk/2026/09/ubuntu-2604-upgrades-live-2404>
+- <https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/>
+- <https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/>
+- <https://linuxiac.com/firefox-157-nova-released-with-its-biggest-visual-refresh-in-years/>
+- <https://www.phoronix.com/news/Steam-Deck-Better-Firefox>
+- <https://nura.eco/blog/2026/09/27/nura-rename/>
+- <https://arunraghavan.net/2026/09/on-llms-and-free-software/>
+- <https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-snapdragon-x2>
+- <https://blancbrowser.com/>
+- <https://www.santafenewmexican.com/news/local_news/new-mexico-wins-second-suit-against-meta/article_e4a95a15-5303-473d-9005-fdedb1ebd619.html>
+- <https://www.reuters.com/world/us/new-mexico-wants-meta-pay-up-40-billion-penalties-after-data-privacy-trial-2026-10-01/>
 
 ## Windows is losing users FAST: what is happening and what you can do
 
