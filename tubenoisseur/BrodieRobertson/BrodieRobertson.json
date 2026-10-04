@@ -37,7 +37,7 @@
     "bugs.kde.org": 1,
     "bugs.launchpad.net": 4,
     "bugzilla.gnome.org": 1,
-    "canonical.com": 1,
+    "canonical.com": 2,
     "cdn.kernel.org": 1,
     "chromium-review.googlesource.com": 2,
     "code.overheid.nl": 1,
@@ -56,7 +56,7 @@
     "discord.com": 1,
     "discourse.gnome.org": 6,
     "discourse.nixos.org": 1,
-    "discourse.ubuntu.com": 2,
+    "discourse.ubuntu.com": 3,
     "discuss.cachyos.org": 2,
     "discuss.kde.org": 2,
     "discussion.fedoraproject.org": 1,
@@ -204,7 +204,7 @@
     "www.kroah.com": 1,
     "www.linuxjournal.com": 1,
     "www.notebookcheck.net": 1,
-    "www.omgubuntu.co.uk": 2,
+    "www.omgubuntu.co.uk": 3,
     "www.openbsd.org": 1,
     "www.opengroup.org": 2,
     "www.osnews.com": 4,
@@ -247,8 +247,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "5q5E0s2cu_8",
+  "lastVideoID": "cUbgvRQyGbU",
   "videos": [
+    {
+      "id": "cUbgvRQyGbU",
+      "published": "2026-10-03T16:30:34+00:00",
+      "title": "Ubuntu Is Speeding Up Kernel Releases",
+      "urls": [
+        "https://www.omgubuntu.co.uk/2026/09/ubuntu-kernel-security-updates-faster",
+        "https://canonical.com/blog/accelerating-delivery-of-cve-fixes-with-a-new-kernel-release-strategy",
+        "https://discourse.ubuntu.com/t/ubuntu-kernel-4-2-sru-cycle-announcement/37478"
+      ]
+    },
     {
       "id": "5q5E0s2cu_8",
       "published": "2026-10-01T17:30:20+00:00",

@@ -38,6 +38,7 @@ Top Sources:
 - <www.osnews.com> = 4
 - <archive.md> = 3
 - <archlinux.org> = 3
+- <discourse.ubuntu.com> = 3
 - <docs.kernel.org> = 3
 - <filipfila.wordpress.com> = 3
 - <itsfoss.com> = 3
@@ -47,6 +48,7 @@ Top Sources:
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
 - <www.cl.cam.ac.uk> = 3
+- <www.omgubuntu.co.uk> = 3
 - <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
 - <www.theregister.com> = 3
@@ -56,10 +58,10 @@ Top Sources:
 - <blog.vladzahorodnii.com> = 2
 - <brave.com> = 2
 - <brodierobertson.dev> = 2
+- <canonical.com> = 2
 - <chromium-review.googlesource.com> = 2
 - <data.stackexchange.com> = 2
 - <desktopsummit.org> = 2
-- <discourse.ubuntu.com> = 2
 - <discuss.cachyos.org> = 2
 - <discuss.kde.org> = 2
 - <forum.artixlinux.org> = 2
@@ -90,7 +92,6 @@ Top Sources:
 - <www.dotfurry.org> = 2
 - <www.gog.com> = 2
 - <www.ioccc.org> = 2
-- <www.omgubuntu.co.uk> = 2
 - <www.opengroup.org> = 2
 - <www.spurint.org> = 2
 - <www.windowslatest.com> = 2
@@ -118,7 +119,6 @@ Top Sources:
 - <boilingsteam.com> = 1
 - <bugs.kde.org> = 1
 - <bugzilla.gnome.org> = 1
-- <canonical.com> = 1
 - <cdn.kernel.org> = 1
 - <code.overheid.nl> = 1
 - <codeberg.org> = 1
@@ -240,6 +240,17 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Ubuntu Is Speeding Up Kernel Releases
+
+- ID: cUbgvRQyGbU
+- Published: 2026-10-03T16:30:34+00:00
+
+### References
+
+- <https://www.omgubuntu.co.uk/2026/09/ubuntu-kernel-security-updates-faster>
+- <https://canonical.com/blog/accelerating-delivery-of-cve-fixes-with-a-new-kernel-release-strategy>
+- <https://discourse.ubuntu.com/t/ubuntu-kernel-4-2-sru-cycle-announcement/37478>
 
 ## Linux Kernel Debate The Need For An Agents File
 
