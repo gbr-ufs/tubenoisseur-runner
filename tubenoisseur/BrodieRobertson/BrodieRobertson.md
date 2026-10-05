@@ -10,9 +10,9 @@ Top Sources:
 - <youtu.be> = 13
 - <kde.org> = 11
 - <www.reddit.com> = 11
+- <blogs.gnome.org> = 10
 - <invent.kde.org> = 10
 - <lkml.org> = 10
-- <blogs.gnome.org> = 9
 - <gitlab.freedesktop.org> = 9
 - <web.archive.org> = 9
 - <wiki.archlinux.org> = 9
@@ -64,6 +64,7 @@ Top Sources:
 - <desktopsummit.org> = 2
 - <discuss.cachyos.org> = 2
 - <discuss.kde.org> = 2
+- <discussion.fedoraproject.org> = 2
 - <forum.artixlinux.org> = 2
 - <forums.linuxmint.com> = 2
 - <gist.github.com> = 2
@@ -132,7 +133,6 @@ Top Sources:
 - <devuanusers.com> = 1
 - <discord.com> = 1
 - <discourse.nixos.org> = 1
-- <discussion.fedoraproject.org> = 1
 - <distrofighter.com> = 1
 - <distrosea.com> = 1
 - <distrowatch.com> = 1
@@ -240,6 +240,24 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Immutable Linux Distros Have A Big Problem With Apps
+
+- ID: wQJG8Gy2VeI
+- Published: 2026-10-05T16:30:24+00:00
+
+### References
+
+- <https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/>
+
+## Does Anyone On Linux Actually Care About Office Suites
+
+- ID: 4GlNQatbLss
+- Published: 2026-10-04T16:30:05+00:00
+
+### References
+
+- <https://discussion.fedoraproject.org/t/suggestion-retire-libreoffice-ship-collabora-as-the-default-office-suite-out-of-the-box/202428>
 
 ## Ubuntu Is Speeding Up Kernel Releases
 

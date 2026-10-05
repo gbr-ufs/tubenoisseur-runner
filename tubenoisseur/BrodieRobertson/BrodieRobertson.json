@@ -27,7 +27,7 @@
     "blog.orhun.dev": 1,
     "blog.sonny.re": 2,
     "blog.vladzahorodnii.com": 2,
-    "blogs.gnome.org": 9,
+    "blogs.gnome.org": 10,
     "blogs.kde.org": 5,
     "blogs.microsoft.com": 1,
     "blogs.windows.com": 1,
@@ -59,7 +59,7 @@
     "discourse.ubuntu.com": 3,
     "discuss.cachyos.org": 2,
     "discuss.kde.org": 2,
-    "discussion.fedoraproject.org": 1,
+    "discussion.fedoraproject.org": 2,
     "distrofighter.com": 1,
     "distrosea.com": 1,
     "distrowatch.com": 1,
@@ -247,8 +247,24 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "cUbgvRQyGbU",
+  "lastVideoID": "wQJG8Gy2VeI",
   "videos": [
+    {
+      "id": "wQJG8Gy2VeI",
+      "published": "2026-10-05T16:30:24+00:00",
+      "title": "Immutable Linux Distros Have A Big Problem With Apps",
+      "urls": [
+        "https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/"
+      ]
+    },
+    {
+      "id": "4GlNQatbLss",
+      "published": "2026-10-04T16:30:05+00:00",
+      "title": "Does Anyone On Linux Actually Care About Office Suites",
+      "urls": [
+        "https://discussion.fedoraproject.org/t/suggestion-retire-libreoffice-ship-collabora-as-the-default-office-suite-out-of-the-box/202428"
+      ]
+    },
     {
       "id": "cUbgvRQyGbU",
       "published": "2026-10-03T16:30:34+00:00",
