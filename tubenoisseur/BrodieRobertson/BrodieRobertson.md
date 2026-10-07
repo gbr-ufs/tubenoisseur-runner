@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 75
+- <github.com> = 78
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 18
@@ -45,6 +45,7 @@ Top Sources:
 - <omarchy.org> = 3
 - <phabricator.kde.org> = 3
 - <pointieststick.com> = 3
+- <social.treehouse.systems> = 3
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
 - <www.cl.cam.ac.uk> = 3
@@ -81,7 +82,6 @@ Top Sources:
 - <quantumproductions.info> = 2
 - <quentinsf.com> = 2
 - <servo.org> = 2
-- <social.treehouse.systems> = 2
 - <stackoverflow.blog> = 2
 - <status.denic.de> = 2
 - <ubuntu.com> = 2
@@ -177,11 +177,13 @@ Top Sources:
 - <nobaraproject.org> = 1
 - <odin-lang.org> = 1
 - <openai.com> = 1
+- <opencourant.org> = 1
 - <pagure.io> = 1
 - <people.kernel.org> = 1
 - <pinheiro-kde.blogspot.com> = 1
 - <plasma-bigscreen.org> = 1
 - <prayag2.github.io> = 1
+- <press.siemens.com> = 1
 - <quickshell.org> = 1
 - <ratty-term.org> = 1
 - <reviews.freebsd.org> = 1
@@ -223,6 +225,7 @@ Top Sources:
 - <www.pcworld.com> = 1
 - <www.raylib.com> = 1
 - <www.redhat.com> = 1
+- <www.siemens.com> = 1
 - <www.slitaz.org> = 1
 - <www.suse.com> = 1
 - <www.techemails.com> = 1
@@ -240,6 +243,29 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Flathub Unbanned AI And No One Noticed
+
+- ID: 47cECizg0mo
+- Published: 2026-10-07T16:30:15+00:00
+
+### References
+
+- <https://social.treehouse.systems/@barthalion/116657011366876079>
+- <https://github.com/flathub-infra/documentation/pull/641>
+- <https://github.com/flathub-infra/documentation/issues/620>
+
+## This Company Tried To Destroy An Open Source Project
+
+- ID: fz7m96PKVmY
+- Published: 2026-10-06T16:30:17+00:00
+
+### References
+
+- <https://press.siemens.com/global/en/pressrelease/siemens-acquires-altair-create-most-complete-ai-powered-portfolio-industrial-software>
+- <https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/>
+- <https://github.com/OpenCourant/OpenCourant>
+- <https://opencourant.org/>
 
 ## Immutable Linux Distros Have A Big Problem With Apps
 
