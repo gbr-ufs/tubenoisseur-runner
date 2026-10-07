@@ -100,6 +100,7 @@ Top Sources:
 - <grapheneos.social> = 1
 - <groups.google.com> = 1
 - <help.steampowered.com> = 1
+- <hindenburgresearch.com> = 1
 - <hwbusters.com> = 1
 - <isene.org> = 1
 - <junocomputers.com> = 1
@@ -149,9 +150,11 @@ Top Sources:
 - <www.cloudflare.com> = 1
 - <www.cnet.com> = 1
 - <www.collaboraonline.com> = 1
+- <www.computerworld.com> = 1
 - <www.debian.org> = 1
 - <www.digitalfoundry.net> = 1
 - <www.dw.com> = 1
+- <www.engadget.com> = 1
 - <www.france24.com> = 1
 - <www.gimp.org> = 1
 - <www.heise.de> = 1
@@ -167,6 +170,7 @@ Top Sources:
 - <www.santafenewmexican.com> = 1
 - <www.soeren-hentzschel.at> = 1
 - <www.sonatype.com> = 1
+- <www.sophos.com> = 1
 - <www.spurint.org> = 1
 - <www.thatprivacyguy.com> = 1
 - <www.thunderbolt.io> = 1
@@ -175,6 +179,18 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Ranking Web Browsers for 2026!
+
+- ID: _0LzRTAHPnI
+- Published: 2026-10-07T12:36:29+00:00
+
+### References
+
+- <https://hindenburgresearch.com/opera-phantom-of-the-turnaround/>
+- <https://www.engadget.com/2016-07-18-opera-browser-sold-to-a-chinese-consortium-for-600-million.html>
+- <https://www.computerworld.com/article/1694797/brave-browser-begins-controversial-ad-repeal-and-replace-tests.html>
+- <https://www.sophos.com/en-us/blog/brave-ceo-apologises-for-adding-affiliate-links-to-urls>
 
 ## Firefox Gets (too) Rounded, Flatpak for CLI & Dev tools, Ubuntu does tiling now - Linux Weekly News
 

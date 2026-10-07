@@ -68,6 +68,7 @@
     "groups.google.com": 1,
     "gs.statcounter.com": 2,
     "help.steampowered.com": 1,
+    "hindenburgresearch.com": 1,
     "hwbusters.com": 1,
     "internxt.com": 2,
     "isene.org": 1,
@@ -131,9 +132,11 @@
     "www.cnet.com": 1,
     "www.collabora.com": 2,
     "www.collaboraonline.com": 1,
+    "www.computerworld.com": 1,
     "www.debian.org": 1,
     "www.digitalfoundry.net": 1,
     "www.dw.com": 1,
+    "www.engadget.com": 1,
     "www.firefox.com": 2,
     "www.france24.com": 1,
     "www.fsf.org": 2,
@@ -158,6 +161,7 @@
     "www.santafenewmexican.com": 1,
     "www.soeren-hentzschel.at": 1,
     "www.sonatype.com": 1,
+    "www.sophos.com": 1,
     "www.spurint.org": 1,
     "www.techradar.com": 19,
     "www.thatprivacyguy.com": 1,
@@ -188,8 +192,19 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "QMviQdi5uiw",
+  "lastVideoID": "_0LzRTAHPnI",
   "videos": [
+    {
+      "id": "_0LzRTAHPnI",
+      "published": "2026-10-07T12:36:29+00:00",
+      "title": "Ranking Web Browsers for 2026!",
+      "urls": [
+        "https://hindenburgresearch.com/opera-phantom-of-the-turnaround/",
+        "https://www.engadget.com/2016-07-18-opera-browser-sold-to-a-chinese-consortium-for-600-million.html",
+        "https://www.computerworld.com/article/1694797/brave-browser-begins-controversial-ad-repeal-and-replace-tests.html",
+        "https://www.sophos.com/en-us/blog/brave-ceo-apologises-for-adding-affiliate-links-to-urls"
+      ]
+    },
     {
       "id": "QMviQdi5uiw",
       "published": "2026-10-03T09:20:23+00:00",
