@@ -27,7 +27,7 @@
     "blog.orhun.dev": 1,
     "blog.sonny.re": 2,
     "blog.vladzahorodnii.com": 2,
-    "blogs.gnome.org": 10,
+    "blogs.gnome.org": 11,
     "blogs.kde.org": 5,
     "blogs.microsoft.com": 1,
     "blogs.windows.com": 1,
@@ -54,7 +54,7 @@
     "developer.overheid.nl": 1,
     "devuanusers.com": 1,
     "discord.com": 1,
-    "discourse.gnome.org": 6,
+    "discourse.gnome.org": 7,
     "discourse.nixos.org": 1,
     "discourse.ubuntu.com": 3,
     "discuss.cachyos.org": 2,
@@ -63,6 +63,8 @@
     "distrofighter.com": 1,
     "distrosea.com": 1,
     "distrowatch.com": 1,
+    "docs.buddiesofbudgie.org": 1,
+    "docs.elementary.io": 1,
     "docs.freebsd.org": 1,
     "docs.kernel.org": 3,
     "en.opensuse.org": 1,
@@ -81,7 +83,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 4,
-    "github.com": 78,
+    "github.com": 80,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 9,
     "gitlab.gnome.org": 6,
@@ -214,7 +216,7 @@
     "www.pcworld.com": 1,
     "www.phoronix.com": 13,
     "www.raylib.com": 1,
-    "www.reddit.com": 11,
+    "www.reddit.com": 12,
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.siemens.com": 1,
@@ -250,8 +252,22 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "47cECizg0mo",
+  "lastVideoID": "qWyUF_vMUWM",
   "videos": [
+    {
+      "id": "qWyUF_vMUWM",
+      "published": "2026-10-08T16:30:08+00:00",
+      "title": "Where Do The Linux Desktops Stand On AI",
+      "urls": [
+        "https://www.reddit.com/r/pop_os/comments/1wuej40/cosmic_projects_will_no_longer_accept/",
+        "https://github.com/pop-os/cosmic-epoch/blob/master/.github/PULL_REQUEST_TEMPLATE.md",
+        "https://docs.buddiesofbudgie.org/organization/ai-policy/",
+        "https://github.com/hyprwm/.github/blob/main/policies/AI_USAGE.md",
+        "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+        "https://discourse.gnome.org/t/loupe-no-longer-allows-generative-ai-contributions/27327",
+        "https://docs.elementary.io/contributor-guide/development/generative-ai-policy"
+      ]
+    },
     {
       "id": "47cECizg0mo",
       "published": "2026-10-07T16:30:15+00:00",

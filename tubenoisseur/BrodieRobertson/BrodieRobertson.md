@@ -2,15 +2,15 @@
 
 Top Sources:
 
-- <github.com> = 78
+- <github.com> = 80
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 18
 - <www.phoronix.com> = 13
 - <youtu.be> = 13
+- <www.reddit.com> = 12
+- <blogs.gnome.org> = 11
 - <kde.org> = 11
-- <www.reddit.com> = 11
-- <blogs.gnome.org> = 10
 - <invent.kde.org> = 10
 - <lkml.org> = 10
 - <gitlab.freedesktop.org> = 9
@@ -19,8 +19,8 @@ Top Sources:
 - <www.sovereign.tech> = 9
 - <aur.archlinux.org> = 7
 - <daniel.haxx.se> = 7
+- <discourse.gnome.org> = 7
 - <news.ycombinator.com> = 7
-- <discourse.gnome.org> = 6
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
@@ -136,6 +136,8 @@ Top Sources:
 - <distrofighter.com> = 1
 - <distrosea.com> = 1
 - <distrowatch.com> = 1
+- <docs.buddiesofbudgie.org> = 1
+- <docs.elementary.io> = 1
 - <docs.freebsd.org> = 1
 - <en.opensuse.org> = 1
 - <excalidraw.com> = 1
@@ -243,6 +245,21 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Where Do The Linux Desktops Stand On AI
+
+- ID: qWyUF_vMUWM
+- Published: 2026-10-08T16:30:08+00:00
+
+### References
+
+- <https://www.reddit.com/r/pop_os/comments/1wuej40/cosmic_projects_will_no_longer_accept/>
+- <https://github.com/pop-os/cosmic-epoch/blob/master/.github/PULL_REQUEST_TEMPLATE.md>
+- <https://docs.buddiesofbudgie.org/organization/ai-policy/>
+- <https://github.com/hyprwm/.github/blob/main/policies/AI_USAGE.md>
+- <https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/>
+- <https://discourse.gnome.org/t/loupe-no-longer-allows-generative-ai-contributions/27327>
+- <https://docs.elementary.io/contributor-guide/development/generative-ai-policy>
 
 ## Flathub Unbanned AI And No One Noticed
 
