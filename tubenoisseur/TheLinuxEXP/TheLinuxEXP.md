@@ -2,11 +2,11 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 49
-- <linuxiac.com> = 34
-- <itsfoss.com> = 29
-- <www.gamingonlinux.com> = 27
-- <github.com> = 24
+- <www.phoronix.com> = 52
+- <linuxiac.com> = 36
+- <itsfoss.com> = 31
+- <www.gamingonlinux.com> = 28
+- <github.com> = 26
 - <www.omgubuntu.co.uk> = 21
 - <www.techradar.com> = 19
 - <discourse.ubuntu.com> = 10
@@ -20,10 +20,12 @@ Top Sources:
 - <fedoramagazine.org> = 4
 - <gitlab.gnome.org> = 4
 - <proton.me> = 4
+- <store.steampowered.com> = 4
 - <www.bleepingcomputer.com> = 4
 - <blogs.kde.org> = 3
+- <internxt.com> = 3
 - <pointieststick.com> = 3
-- <store.steampowered.com> = 3
+- <www.politico.eu> = 3
 - <www.theregister.com> = 3
 - <youtu.be> = 3
 - <bbhtt.in> = 2
@@ -32,7 +34,6 @@ Top Sources:
 - <canonical.com> = 2
 - <community.kde.org> = 2
 - <gs.statcounter.com> = 2
-- <internxt.com> = 2
 - <lists.debian.org> = 2
 - <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
@@ -44,7 +45,6 @@ Top Sources:
 - <www.fsf.org> = 2
 - <www.microsoft.com> = 2
 - <www.neowin.net> = 2
-- <www.politico.eu> = 2
 - <www.reuters.com> = 2
 - <www.theverge.com> = 2
 - <www.tomshardware.com> = 2
@@ -62,6 +62,7 @@ Top Sources:
 - <asahilinux.org> = 1
 - <blancbrowser.com> = 1
 - <blog.getutm.app> = 1
+- <blog.kagi.com> = 1
 - <blog.kimiblock.top> = 1
 - <blog.luanti.org> = 1
 - <blog.playstation.com> = 1
@@ -115,6 +116,7 @@ Top Sources:
 - <motorolanews.com> = 1
 - <natlawreview.com> = 1
 - <nerds.xyz> = 1
+- <neutronproject.org> = 1
 - <news.apache.org> = 1
 - <nura.eco> = 1
 - <omarchy.org> = 1
@@ -142,6 +144,7 @@ Top Sources:
 - <vivaldi.com> = 1
 - <vng.nl> = 1
 - <winboat.app> = 1
+- <www.androidauthority.com> = 1
 - <www.anthropic.com> = 1
 - <www.aswf.io> = 1
 - <www.bbc.com> = 1
@@ -179,6 +182,30 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Adobe suite on Linux (twice), Flathub says yes to AI - Linux Weekly News
+
+- ID: eAeT63x338Y
+- Published: 2026-10-10T07:28:15+00:00
+
+### References
+
+- <https://internxt.com/thelinuxexp>
+- <https://neutronproject.org/>
+- <https://github.com/storytold/photocraft>
+- <https://linuxiac.com/flathub-reverses-ai-generated-app-ban-now-requires-disclosure/>
+- <https://linuxiac.com/cosmic-stops-accepting-llm-generated-content-in-pull-requests/>
+- <https://github.com/pop-os/cosmic-epoch/blob/master/.github/PULL_REQUEST_TEMPLATE.md>
+- <https://store.steampowered.com/greatonframe?tab=1>
+- <https://www.gamingonlinux.com/2026/10/theres-now-over-200-steam-frame-verified-games/>
+- <https://www.phoronix.com/news/Linux-Better-Zswap-Performance>
+- <https://www.phoronix.com/news/Boost-Recently-Busy-CPUs>
+- <https://itsfoss.com/news/digitalocean-open-source-credits-end/>
+- <https://itsfoss.com/news/gentoo-infrastructure-sponsors-call/>
+- <https://blog.kagi.com/update-orion-linux-windows>
+- <https://www.politico.eu/article/eu-microsoft-teams-alternative-bad-reviews-element-pro/>
+- <https://www.androidauthority.com/linux-apps-on-googlebook-3719936/>
+- <https://www.phoronix.com/news/Mesa-Governance-Model>
 
 ## Ranking Web Browsers for 2026!
 
