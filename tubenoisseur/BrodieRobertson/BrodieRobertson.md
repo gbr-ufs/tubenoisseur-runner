@@ -2,12 +2,12 @@
 
 Top Sources:
 
-- <github.com> = 80
+- <github.com> = 81
 - <lists.archlinux.org> = 33
 - <x.com> = 24
 - <lore.kernel.org> = 18
-- <www.phoronix.com> = 13
-- <youtu.be> = 13
+- <www.phoronix.com> = 14
+- <youtu.be> = 14
 - <www.reddit.com> = 12
 - <blogs.gnome.org> = 11
 - <kde.org> = 11
@@ -245,6 +245,17 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Systemd Wants To Centralize Tracking Your Apps
+
+- ID: _3ir-4jfwVg
+- Published: 2026-10-10T16:30:06+00:00
+
+### References
+
+- <https://github.com/systemd/systemd/pull/43885>
+- <https://www.phoronix.com/news/systemd-appd>
+- <https://youtu.be/1AXBfsiaQNk?t=16218>
 
 ## Where Do The Linux Desktops Stand On AI
 

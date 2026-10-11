@@ -83,7 +83,7 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 4,
-    "github.com": 80,
+    "github.com": 81,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 9,
     "gitlab.gnome.org": 6,
@@ -214,7 +214,7 @@
     "www.osnews.com": 4,
     "www.pcgamer.com": 3,
     "www.pcworld.com": 1,
-    "www.phoronix.com": 13,
+    "www.phoronix.com": 14,
     "www.raylib.com": 1,
     "www.reddit.com": 12,
     "www.redhat.com": 1,
@@ -242,7 +242,7 @@
     "xint.io": 1,
     "xkcd.com": 1,
     "xlibre.net": 1,
-    "youtu.be": 13
+    "youtu.be": 14
   },
   "excludedDomains": [
     "brodierobertson.xyz",
@@ -252,8 +252,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "qWyUF_vMUWM",
+  "lastVideoID": "_3ir-4jfwVg",
   "videos": [
+    {
+      "id": "_3ir-4jfwVg",
+      "published": "2026-10-10T16:30:06+00:00",
+      "title": "Systemd Wants To Centralize Tracking Your Apps",
+      "urls": [
+        "https://github.com/systemd/systemd/pull/43885",
+        "https://www.phoronix.com/news/systemd-appd",
+        "https://youtu.be/1AXBfsiaQNk?t=16218"
+      ]
+    },
     {
       "id": "qWyUF_vMUWM",
       "published": "2026-10-08T16:30:08+00:00",
