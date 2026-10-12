@@ -74,6 +74,7 @@ Top Sources:
 - <leginfo.legislature.ca.gov> = 2
 - <linuxiac.com> = 2
 - <lkml.iu.edu> = 2
+- <marco-nett.de> = 2
 - <mastodon.social> = 2
 - <md.archlinux.org> = 2
 - <media.social.kernel.org> = 2
@@ -82,6 +83,7 @@ Top Sources:
 - <quantumproductions.info> = 2
 - <quentinsf.com> = 2
 - <servo.org> = 2
+- <specifications.freedesktop.org> = 2
 - <stackoverflow.blog> = 2
 - <status.denic.de> = 2
 - <ubuntu.com> = 2
@@ -136,6 +138,7 @@ Top Sources:
 - <distrofighter.com> = 1
 - <distrosea.com> = 1
 - <distrowatch.com> = 1
+- <dl.acm.org> = 1
 - <docs.buddiesofbudgie.org> = 1
 - <docs.elementary.io> = 1
 - <docs.freebsd.org> = 1
@@ -160,6 +163,7 @@ Top Sources:
 - <itp.cdn.icann.org> = 1
 - <jellyfin.org> = 1
 - <kaffee.hnf.de> = 1
+- <linux.die.net> = 1
 - <linux.kde.org> = 1
 - <linuxmint.com> = 1
 - <lists.fedoraproject.org> = 1
@@ -168,7 +172,6 @@ Top Sources:
 - <mailarchive.ietf.org> = 1
 - <man7.org> = 1
 - <marc.info> = 1
-- <marco-nett.de> = 1
 - <mastodon.gamedev.place> = 1
 - <meta.wikimedia.org> = 1
 - <mitchellh.com> = 1
@@ -245,6 +248,27 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## A New Approach To An Ancient Linux Terminal Problem
+
+- ID: kUxDwtlnO_Y
+- Published: 2026-10-12T16:30:40+00:00
+
+### References
+
+- <https://specifications.freedesktop.org/terminal-intent/latest/>
+- <https://specifications.freedesktop.org/intent-apps/latest/>
+- <https://linux.die.net/man/8/alternatives>
+
+## X11 Has Better Latency Than Wayland... Technically
+
+- ID: SNInG2vGTvE
+- Published: 2026-10-11T16:30:25+00:00
+
+### References
+
+- <https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/>
+- <https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445245>
 
 ## Systemd Wants To Centralize Tracking Your Apps
 

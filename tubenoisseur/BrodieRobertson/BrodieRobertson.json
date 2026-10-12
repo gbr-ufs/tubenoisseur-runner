@@ -63,6 +63,7 @@
     "distrofighter.com": 1,
     "distrosea.com": 1,
     "distrowatch.com": 1,
+    "dl.acm.org": 1,
     "docs.buddiesofbudgie.org": 1,
     "docs.elementary.io": 1,
     "docs.freebsd.org": 1,
@@ -105,6 +106,7 @@
     "kde.org": 11,
     "ladybird.org": 6,
     "leginfo.legislature.ca.gov": 2,
+    "linux.die.net": 1,
     "linux.kde.org": 1,
     "linuxiac.com": 2,
     "linuxmint.com": 1,
@@ -120,7 +122,7 @@
     "mailarchive.ietf.org": 1,
     "man7.org": 1,
     "marc.info": 1,
-    "marco-nett.de": 1,
+    "marco-nett.de": 2,
     "mastodon.gamedev.place": 1,
     "mastodon.social": 2,
     "md.archlinux.org": 2,
@@ -159,6 +161,7 @@
     "snapcraft.io": 1,
     "social.treehouse.systems": 3,
     "sourcehut.org": 1,
+    "specifications.freedesktop.org": 2,
     "stackoverflow.blog": 2,
     "stallman-copypasta.github.io": 1,
     "status.denic.de": 2,
@@ -252,8 +255,27 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "_3ir-4jfwVg",
+  "lastVideoID": "kUxDwtlnO_Y",
   "videos": [
+    {
+      "id": "kUxDwtlnO_Y",
+      "published": "2026-10-12T16:30:40+00:00",
+      "title": "A New Approach To An Ancient Linux Terminal Problem",
+      "urls": [
+        "https://specifications.freedesktop.org/terminal-intent/latest/",
+        "https://specifications.freedesktop.org/intent-apps/latest/",
+        "https://linux.die.net/man/8/alternatives"
+      ]
+    },
+    {
+      "id": "SNInG2vGTvE",
+      "published": "2026-10-11T16:30:25+00:00",
+      "title": "X11 Has Better Latency Than Wayland... Technically",
+      "urls": [
+        "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+        "https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445245"
+      ]
+    },
     {
       "id": "_3ir-4jfwVg",
       "published": "2026-10-10T16:30:06+00:00",
