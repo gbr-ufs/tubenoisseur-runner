@@ -23,6 +23,7 @@ Top Sources:
 - <store.steampowered.com> = 4
 - <www.bleepingcomputer.com> = 4
 - <blogs.kde.org> = 3
+- <frame.work> = 3
 - <internxt.com> = 3
 - <pointieststick.com> = 3
 - <www.politico.eu> = 3
@@ -34,6 +35,7 @@ Top Sources:
 - <canonical.com> = 2
 - <community.kde.org> = 2
 - <gs.statcounter.com> = 2
+- <guides.frame.work> = 2
 - <lists.debian.org> = 2
 - <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
@@ -89,7 +91,6 @@ Top Sources:
 - <forum.openmandriva.org> = 1
 - <forum.zorin.com> = 1
 - <fosstodon.org> = 1
-- <frame.work> = 1
 - <getsol.us> = 1
 - <git.dec05eba.com> = 1
 - <git.kernel.org> = 1
@@ -158,6 +159,7 @@ Top Sources:
 - <www.digitalfoundry.net> = 1
 - <www.dw.com> = 1
 - <www.engadget.com> = 1
+- <www.figma.com> = 1
 - <www.france24.com> = 1
 - <www.gimp.org> = 1
 - <www.heise.de> = 1
@@ -182,6 +184,19 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Framework Laptop 12 (2026) Review: the Linux MacBook Neo alternative?
+
+- ID: KEKiEabV7fk
+- Published: 2026-10-13T15:00:09+00:00
+
+### References
+
+- <https://guides.frame.work/Guide/Display+Replacement+on+Framework+Laptop+12/428?lang=en>
+- <https://www.figma.com/proto/BCDFqAEpP77tfkZyvHa9Mg/Review-guides?node-id=6191-2182&p=f&t=nLcQuvmdjojURlRP-0&scaling=contain&content-scaling=fixed&page-id=6191%3A1959>
+- <https://guides.frame.work/Guide/Fedora+KDE+Plasma+Desktop+Installation+on+the+Framework+Laptop+12+Intel®+Core™+Series+3/856#s4394>
+- <https://frame.work/fr/en/blog/framework-laptop-12-now-with-core-series-3>
+- <https://frame.work/fr/en/products/laptop12-diy-intel-series3/configuration/new>
 
 ## Adobe suite on Linux (twice), Flathub says yes to AI - Linux Weekly News
 
