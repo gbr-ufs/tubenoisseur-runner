@@ -2,9 +2,9 @@
 
 Top Sources:
 
-- <github.com> = 81
+- <github.com> = 82
 - <lists.archlinux.org> = 33
-- <x.com> = 24
+- <x.com> = 28
 - <lore.kernel.org> = 18
 - <www.phoronix.com> = 14
 - <youtu.be> = 14
@@ -151,6 +151,7 @@ Top Sources:
 - <forum.garudalinux.org> = 1
 - <freebsdfoundation.org> = 1
 - <gemmei.ftp.acc.umu.se> = 1
+- <getartcraft.com> = 1
 - <gitlab.com> = 1
 - <gitlab.steamos.cloud> = 1
 - <gregroelofs.com> = 1
@@ -248,6 +249,20 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Artcraft Keeps Slopping Clones Of Adobe And Microsoft Office
+
+- ID: _pojeQDbt5Q
+- Published: 2026-10-13T16:30:21+00:00
+
+### References
+
+- <https://github.com/vladtrc/iw4L>
+- <https://getartcraft.com/>
+- <https://x.com/esrtweet/status/2106983467141509385>
+- <https://x.com/davepl1968/status/2107875089446580273>
+- <https://x.com/TheGingerBill/status/2109679856405332307>
+- <https://x.com/thegingerbill/status/2109703767796875305>
 
 ## A New Approach To An Ancient Linux Terminal Problem
 
