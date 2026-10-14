@@ -185,6 +185,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## KDE Plasma 6.8: No More X11, Union theming, and a TON of changes!
+
+- ID: McUdRVblhvE
+- Published: 2026-10-14T09:22:33+00:00
+
+### References
+
+
 ## Framework Laptop 12 (2026) Review: the Linux MacBook Neo alternative?
 
 - ID: KEKiEabV7fk

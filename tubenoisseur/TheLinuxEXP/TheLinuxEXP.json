@@ -197,8 +197,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "KEKiEabV7fk",
+  "lastVideoID": "McUdRVblhvE",
   "videos": [
+    {
+      "id": "McUdRVblhvE",
+      "published": "2026-10-14T09:22:33+00:00",
+      "title": "KDE Plasma 6.8: No More X11, Union theming, and a TON of changes!",
+      "urls": []
+    },
     {
       "id": "KEKiEabV7fk",
       "published": "2026-10-13T15:00:09+00:00",
