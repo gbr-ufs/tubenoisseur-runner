@@ -130,6 +130,8 @@ Top Sources:
 - <copy.fail> = 1
 - <cybernews.com> = 1
 - <develop.kde.org> = 1
+- <developer.apple.com> = 1
+- <developer.chrome.com> = 1
 - <developer.gimp.org> = 1
 - <developer.overheid.nl> = 1
 - <devuanusers.com> = 1
@@ -161,6 +163,7 @@ Top Sources:
 - <hendassa100k.github.io> = 1
 - <ideas.obsproject.com> = 1
 - <inoti.fyi> = 1
+- <issues.chromium.org> = 1
 - <itp.cdn.icann.org> = 1
 - <jellyfin.org> = 1
 - <kaffee.hnf.de> = 1
@@ -249,6 +252,17 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## The JPEG XL Saga Is Finally Over
+
+- ID: QeXNWDv1JGE
+- Published: 2026-10-14T16:30:14+00:00
+
+### References
+
+- <https://developer.chrome.com/blog/jpeg-xl-in-chrome>
+- <https://issues.chromium.org/issues/40168998#comment85>
+- <https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes>
 
 ## Artcraft Keeps Slopping Clones Of Adobe And Microsoft Office
 
