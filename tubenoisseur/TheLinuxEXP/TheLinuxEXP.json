@@ -197,8 +197,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "McUdRVblhvE",
+  "lastVideoID": "4O_OU0OZn3Q",
   "videos": [
+    {
+      "id": "4O_OU0OZn3Q",
+      "published": "2026-10-15T11:38:43+00:00",
+      "title": "Ubuntu 26.10 copies Windows tiling and rustifies itself",
+      "urls": []
+    },
     {
       "id": "McUdRVblhvE",
       "published": "2026-10-14T09:22:33+00:00",

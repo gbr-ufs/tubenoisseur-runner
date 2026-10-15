@@ -185,6 +185,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## Ubuntu 26.10 copies Windows tiling and rustifies itself
+
+- ID: 4O_OU0OZn3Q
+- Published: 2026-10-15T11:38:43+00:00
+
+### References
+
+
 ## KDE Plasma 6.8: No More X11, Union theming, and a TON of changes!
 
 - ID: McUdRVblhvE
