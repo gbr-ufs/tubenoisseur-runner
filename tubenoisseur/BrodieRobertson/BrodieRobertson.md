@@ -27,6 +27,7 @@ Top Sources:
 - <store.steampowered.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
+- <www.osnews.com> = 5
 - <bugs.launchpad.net> = 4
 - <en.wikipedia.org> = 4
 - <git.kernel.org> = 4
@@ -35,7 +36,6 @@ Top Sources:
 - <www.debian.org> = 4
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
-- <www.osnews.com> = 4
 - <archive.md> = 3
 - <archlinux.org> = 3
 - <discourse.ubuntu.com> = 3
@@ -50,6 +50,7 @@ Top Sources:
 - <upload.wikimedia.org> = 3
 - <www.cl.cam.ac.uk> = 3
 - <www.omgubuntu.co.uk> = 3
+- <www.opengroup.org> = 3
 - <www.pcgamer.com> = 3
 - <www.rfc-editor.org> = 3
 - <www.theregister.com> = 3
@@ -95,7 +96,6 @@ Top Sources:
 - <www.dotfurry.org> = 2
 - <www.gog.com> = 2
 - <www.ioccc.org> = 2
-- <www.opengroup.org> = 2
 - <www.spurint.org> = 2
 - <www.windowslatest.com> = 2
 - <www.zdnet.com> = 2
@@ -252,6 +252,16 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## MacOS Vanished From The Unix Registry
+
+- ID: Gn1n4CuKccI
+- Published: 2026-10-15T16:30:27+00:00
+
+### References
+
+- <https://www.opengroup.org//openbrand/register/>
+- <https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/>
 
 ## The JPEG XL Saga Is Finally Over
 

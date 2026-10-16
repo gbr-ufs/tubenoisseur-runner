@@ -217,8 +217,8 @@
     "www.notebookcheck.net": 1,
     "www.omgubuntu.co.uk": 3,
     "www.openbsd.org": 1,
-    "www.opengroup.org": 2,
-    "www.osnews.com": 4,
+    "www.opengroup.org": 3,
+    "www.osnews.com": 5,
     "www.pcgamer.com": 3,
     "www.pcworld.com": 1,
     "www.phoronix.com": 14,
@@ -259,8 +259,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "QeXNWDv1JGE",
+  "lastVideoID": "Gn1n4CuKccI",
   "videos": [
+    {
+      "id": "Gn1n4CuKccI",
+      "published": "2026-10-15T16:30:27+00:00",
+      "title": "MacOS Vanished From The Unix Registry",
+      "urls": [
+        "https://www.opengroup.org//openbrand/register/",
+        "https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/"
+      ]
+    },
     {
       "id": "QeXNWDv1JGE",
       "published": "2026-10-14T16:30:14+00:00",
