@@ -2,20 +2,20 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 52
+- <www.phoronix.com> = 54
 - <linuxiac.com> = 36
-- <itsfoss.com> = 31
-- <www.gamingonlinux.com> = 28
-- <github.com> = 26
+- <itsfoss.com> = 32
+- <www.gamingonlinux.com> = 30
+- <github.com> = 27
 - <www.omgubuntu.co.uk> = 21
-- <www.techradar.com> = 19
+- <www.techradar.com> = 21
 - <discourse.ubuntu.com> = 10
 - <blogs.gnome.org> = 9
 - <arstechnica.com> = 8
-- <blog.mozilla.org> = 6
+- <blog.mozilla.org> = 7
+- <blog.linuxmint.com> = 6
 - <9to5linux.com> = 5
 - <blog.documentfoundation.org> = 5
-- <blog.linuxmint.com> = 5
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
 - <gitlab.gnome.org> = 4
@@ -26,8 +26,10 @@ Top Sources:
 - <frame.work> = 3
 - <internxt.com> = 3
 - <pointieststick.com> = 3
+- <steamcommunity.com> = 3
 - <www.politico.eu> = 3
 - <www.theregister.com> = 3
+- <www.zdnet.com> = 3
 - <youtu.be> = 3
 - <bbhtt.in> = 2
 - <blog.davidedmundson.co.uk> = 2
@@ -36,11 +38,12 @@ Top Sources:
 - <community.kde.org> = 2
 - <gs.statcounter.com> = 2
 - <guides.frame.work> = 2
+- <kde.org> = 2
 - <lists.debian.org> = 2
 - <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
-- <steamcommunity.com> = 2
 - <tintotint.eu> = 2
+- <ubuntu.com> = 2
 - <www.404media.co> = 2
 - <www.collabora.com> = 2
 - <www.firefox.com> = 2
@@ -51,7 +54,6 @@ Top Sources:
 - <www.theverge.com> = 2
 - <www.tomshardware.com> = 2
 - <www.windowslatest.com> = 2
-- <www.zdnet.com> = 2
 - <zamundaaa.github.io> = 2
 - <abstract3d.com> = 1
 - <aftermath.site> = 1
@@ -73,12 +75,14 @@ Top Sources:
 - <boilingsteam.com> = 1
 - <cachyos.org> = 1
 - <cakehonolulu.github.io> = 1
+- <codon.org.uk> = 1
 - <consumerrights.wiki> = 1
 - <cybernews.com> = 1
 - <deutschland-stack.gov.de> = 1
 - <devblogs.microsoft.com> = 1
 - <devices.ubuntu-touch.io> = 1
 - <discourse.gnome.org> = 1
+- <discuss.cachyos.org> = 1
 - <documentation.ubuntu.com> = 1
 - <en.ubunlog.com> = 1
 - <enblog.eischmann.cz> = 1
@@ -103,10 +107,10 @@ Top Sources:
 - <groups.google.com> = 1
 - <help.steampowered.com> = 1
 - <hindenburgresearch.com> = 1
+- <hostinger.com> = 1
 - <hwbusters.com> = 1
 - <isene.org> = 1
 - <junocomputers.com> = 1
-- <kde.org> = 1
 - <keepandroidopen.org> = 1
 - <lists.archlinux.org> = 1
 - <lists.linuxfromscratch.org> = 1
@@ -121,7 +125,9 @@ Top Sources:
 - <news.apache.org> = 1
 - <nura.eco> = 1
 - <omarchy.org> = 1
+- <onlineservices.epicgames.com> = 1
 - <open-buro.eu> = 1
+- <os.gnome.org> = 1
 - <os.tuxedocomputers.com> = 1
 - <pagure.io> = 1
 - <pixelcluster.dev> = 1
@@ -140,7 +146,6 @@ Top Sources:
 - <tesk.page> = 1
 - <thecybersecguru.com> = 1
 - <thisweek.gnome.org> = 1
-- <ubuntu.com> = 1
 - <usebottles.com> = 1
 - <vivaldi.com> = 1
 - <vng.nl> = 1
@@ -184,6 +189,33 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## GNOME OS Preview, Epic supports Linux, Linux kernel set to go all in on AI - Linux Weekly News
+
+- ID: jsfxngunmbs
+- Published: 2026-10-17T08:25:38+00:00
+
+### References
+
+- <https://hostinger.com/linuxexperiment>
+- <https://os.gnome.org/>
+- <https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2>
+- <https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-arrives-native-linux-support-fortnite-for-linux-is-coming-and-upgraded-easy-anti-cheat/>
+- <https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/>
+- <https://www.phoronix.com/news/Linus-Torvalds-Claude-Code>
+- <https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work>
+- <https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req>
+- <https://kde.org/announcements/plasma/6/6.8.0/>
+- <https://ubuntu.com//blog/canonical-releases-ubuntu-26-10-stonking-stingray>
+- <https://blog.linuxmint.com/?p=5086>
+- <https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/703282384630448403>
+- <https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/>
+- <https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software>
+- <https://discuss.cachyos.org/t/announcement-framework-is-tripling-its-support-for-cachyos/37042>
+- <https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/>
+- <https://itsfoss.com/news/elixiroffice-euro-office-fork/>
+- <https://github.com/leag1234/elixiroffice>
+- <https://www.gamingonlinux.com/2026/10/steam-frame-cad-files-released-plus-an-update-on-reservation-waiting-times/>
 
 ## Ubuntu 26.10 copies Windows tiling and rustifies itself
 
