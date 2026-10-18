@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 82
+- <github.com> = 83
 - <lists.archlinux.org> = 33
 - <x.com> = 28
 - <lore.kernel.org> = 18
@@ -56,6 +56,7 @@ Top Sources:
 - <www.theregister.com> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
+- <blog.gitea.com> = 2
 - <blog.sonny.re> = 2
 - <blog.vladzahorodnii.com> = 2
 - <brave.com> = 2
@@ -154,6 +155,8 @@ Top Sources:
 - <freebsdfoundation.org> = 1
 - <gemmei.ftp.acc.umu.se> = 1
 - <getartcraft.com> = 1
+- <gitea-open-letter.coding.social> = 1
+- <gitea.com> = 1
 - <gitlab.com> = 1
 - <gitlab.steamos.cloud> = 1
 - <gregroelofs.com> = 1
@@ -252,6 +255,19 @@ Top Sources:
 - <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Gitea Is Not Suitable For Gitea
+
+- ID: cxbtnPAL8Z8
+- Published: 2026-10-17T16:30:08+00:00
+
+### References
+
+- <https://blog.gitea.com/open-source-sustainment/>
+- <https://gitea-open-letter.coding.social/>
+- <https://blog.gitea.com/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/>
+- <https://gitea.com/gitea>
+- <https://github.com/go-gitea/gitea/issues/1029>
 
 ## MacOS Vanished From The Unix Registry
 

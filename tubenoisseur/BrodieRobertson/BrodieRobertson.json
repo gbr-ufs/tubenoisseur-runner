@@ -22,6 +22,7 @@
     "blog.codeberg.org": 1,
     "blog.davidedmundson.co.uk": 5,
     "blog.documentfoundation.org": 1,
+    "blog.gitea.com": 2,
     "blog.linuxmint.com": 1,
     "blog.myli.page": 1,
     "blog.orhun.dev": 1,
@@ -87,7 +88,9 @@
     "gist.github.com": 2,
     "git.devuan.org": 2,
     "git.kernel.org": 4,
-    "github.com": 82,
+    "gitea-open-letter.coding.social": 1,
+    "gitea.com": 1,
+    "github.com": 83,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 9,
     "gitlab.gnome.org": 6,
@@ -259,8 +262,20 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "Gn1n4CuKccI",
+  "lastVideoID": "cxbtnPAL8Z8",
   "videos": [
+    {
+      "id": "cxbtnPAL8Z8",
+      "published": "2026-10-17T16:30:08+00:00",
+      "title": "Gitea Is Not Suitable For Gitea",
+      "urls": [
+        "https://blog.gitea.com/open-source-sustainment/",
+        "https://gitea-open-letter.coding.social/",
+        "https://blog.gitea.com/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/",
+        "https://gitea.com/gitea",
+        "https://github.com/go-gitea/gitea/issues/1029"
+      ]
+    },
     {
       "id": "Gn1n4CuKccI",
       "published": "2026-10-15T16:30:27+00:00",
