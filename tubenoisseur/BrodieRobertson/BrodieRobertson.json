@@ -28,6 +28,7 @@
     "blog.orhun.dev": 1,
     "blog.sonny.re": 2,
     "blog.vladzahorodnii.com": 2,
+    "blogs.gentoo.org": 1,
     "blogs.gnome.org": 11,
     "blogs.kde.org": 5,
     "blogs.microsoft.com": 1,
@@ -165,6 +166,7 @@
     "security-tracker.debian.org": 1,
     "security.opensuse.org": 1,
     "servo.org": 2,
+    "sheets.works": 1,
     "snapcraft.io": 1,
     "social.treehouse.systems": 3,
     "sourcehut.org": 1,
@@ -186,6 +188,7 @@
     "waydro.id": 1,
     "web.archive.org": 9,
     "wiki.archlinux.org": 9,
+    "wiki.gentoo.org": 1,
     "wiki.gnome.org": 2,
     "wiki.opennic.org": 2,
     "wiki.xfce.org": 1,
@@ -203,7 +206,7 @@
     "www.eff.org": 1,
     "www.freexian.com": 1,
     "www.gamingonlinux.com": 4,
-    "www.gentoo.org": 1,
+    "www.gentoo.org": 3,
     "www.gimp.org": 1,
     "www.githubstatus.com": 1,
     "www.gog.com": 2,
@@ -250,7 +253,7 @@
     "www.zdnet.com": 2,
     "x.com": 28,
     "xint.io": 1,
-    "xkcd.com": 1,
+    "xkcd.com": 2,
     "xlibre.net": 1,
     "youtu.be": 14
   },
@@ -262,8 +265,28 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "cxbtnPAL8Z8",
+  "lastVideoID": "tnwm-zjkHcE",
   "videos": [
+    {
+      "id": "tnwm-zjkHcE",
+      "published": "2026-10-19T16:30:21+00:00",
+      "title": "Those Who Built Open Source",
+      "urls": [
+        "https://xkcd.com/2347/",
+        "https://sheets.works/data-viz/holding-up-the-internet"
+      ]
+    },
+    {
+      "id": "k7aFcpRduxU",
+      "published": "2026-10-18T16:30:36+00:00",
+      "title": "Gentoo Needs Your Help",
+      "urls": [
+        "https://www.gentoo.org/inside-gentoo/sponsors/",
+        "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
+        "https://wiki.gentoo.org/wiki/Project:Infrastructure/Sponsorship",
+        "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/"
+      ]
+    },
     {
       "id": "cxbtnPAL8Z8",
       "published": "2026-10-17T16:30:08+00:00",

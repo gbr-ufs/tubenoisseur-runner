@@ -49,6 +49,7 @@ Top Sources:
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
 - <www.cl.cam.ac.uk> = 3
+- <www.gentoo.org> = 3
 - <www.omgubuntu.co.uk> = 3
 - <www.opengroup.org> = 3
 - <www.pcgamer.com> = 3
@@ -100,6 +101,7 @@ Top Sources:
 - <www.spurint.org> = 2
 - <www.windowslatest.com> = 2
 - <www.zdnet.com> = 2
+- <xkcd.com> = 2
 - <access.redhat.com> = 1
 - <aerynos.com> = 1
 - <aerynos.discourse.group> = 1
@@ -118,6 +120,7 @@ Top Sources:
 - <blog.linuxmint.com> = 1
 - <blog.myli.page> = 1
 - <blog.orhun.dev> = 1
+- <blogs.gentoo.org> = 1
 - <blogs.microsoft.com> = 1
 - <blogs.windows.com> = 1
 - <boilingsteam.com> = 1
@@ -202,6 +205,7 @@ Top Sources:
 - <rusted-kernel.com> = 1
 - <security-tracker.debian.org> = 1
 - <security.opensuse.org> = 1
+- <sheets.works> = 1
 - <snapcraft.io> = 1
 - <sourcehut.org> = 1
 - <stallman-copypasta.github.io> = 1
@@ -213,6 +217,7 @@ Top Sources:
 - <uutils.org> = 1
 - <voidlinux.org> = 1
 - <waydro.id> = 1
+- <wiki.gentoo.org> = 1
 - <wiki.xfce.org> = 1
 - <www.8bitdo.com> = 1
 - <www.cloudflarestatus.com> = 1
@@ -221,7 +226,6 @@ Top Sources:
 - <www.davidrevoy.com> = 1
 - <www.eff.org> = 1
 - <www.freexian.com> = 1
-- <www.gentoo.org> = 1
 - <www.gimp.org> = 1
 - <www.githubstatus.com> = 1
 - <www.guru3d.com> = 1
@@ -252,9 +256,30 @@ Top Sources:
 - <www.windowscentral.com> = 1
 - <www.wiz.io> = 1
 - <xint.io> = 1
-- <xkcd.com> = 1
 - <xlibre.net> = 1
 
+
+## Those Who Built Open Source
+
+- ID: tnwm-zjkHcE
+- Published: 2026-10-19T16:30:21+00:00
+
+### References
+
+- <https://xkcd.com/2347/>
+- <https://sheets.works/data-viz/holding-up-the-internet>
+
+## Gentoo Needs Your Help
+
+- ID: k7aFcpRduxU
+- Published: 2026-10-18T16:30:36+00:00
+
+### References
+
+- <https://www.gentoo.org/inside-gentoo/sponsors/>
+- <https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html>
+- <https://wiki.gentoo.org/wiki/Project:Infrastructure/Sponsorship>
+- <https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/>
 
 ## Gitea Is Not Suitable For Gitea
 
