@@ -173,6 +173,7 @@ Top Sources:
 - <itp.cdn.icann.org> = 1
 - <jellyfin.org> = 1
 - <kaffee.hnf.de> = 1
+- <launcher.epicgames.com> = 1
 - <linux.die.net> = 1
 - <linux.kde.org> = 1
 - <linuxmint.com> = 1
@@ -191,6 +192,7 @@ Top Sources:
 - <neil.fraser.name> = 1
 - <nobaraproject.org> = 1
 - <odin-lang.org> = 1
+- <onlineservices.epicgames.com> = 1
 - <openai.com> = 1
 - <opencourant.org> = 1
 - <pagure.io> = 1
@@ -210,6 +212,7 @@ Top Sources:
 - <sourcehut.org> = 1
 - <stallman-copypasta.github.io> = 1
 - <steamdb.info> = 1
+- <store.epicgames.com> = 1
 - <supakeen.com> = 1
 - <sw.kovidgoyal.net> = 1
 - <tweakers.net> = 1
@@ -258,6 +261,17 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Fortnite On Linux Changes Everything For Linux Gaming
+
+- ID: 3Xi7m0CYk5s
+- Published: 2026-10-20T16:30:13+00:00
+
+### References
+
+- <https://launcher.epicgames.com/>
+- <https://store.epicgames.com/news/epic-games-launcher-preview>
+- <https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2>
 
 ## Those Who Built Open Source
 

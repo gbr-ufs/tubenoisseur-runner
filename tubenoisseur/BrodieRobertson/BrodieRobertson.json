@@ -113,6 +113,7 @@
     "kaffee.hnf.de": 1,
     "kde.org": 11,
     "ladybird.org": 6,
+    "launcher.epicgames.com": 1,
     "leginfo.legislature.ca.gov": 2,
     "linux.die.net": 1,
     "linux.kde.org": 1,
@@ -147,6 +148,7 @@
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
     "omarchy.org": 3,
+    "onlineservices.epicgames.com": 1,
     "openai.com": 1,
     "opencourant.org": 1,
     "pagure.io": 1,
@@ -176,6 +178,7 @@
     "status.denic.de": 2,
     "steambrew.app": 3,
     "steamdb.info": 1,
+    "store.epicgames.com": 1,
     "store.steampowered.com": 6,
     "supakeen.com": 1,
     "sw.kovidgoyal.net": 1,
@@ -265,8 +268,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "tnwm-zjkHcE",
+  "lastVideoID": "3Xi7m0CYk5s",
   "videos": [
+    {
+      "id": "3Xi7m0CYk5s",
+      "published": "2026-10-20T16:30:13+00:00",
+      "title": "Fortnite On Linux Changes Everything For Linux Gaming",
+      "urls": [
+        "https://launcher.epicgames.com/",
+        "https://store.epicgames.com/news/epic-games-launcher-preview",
+        "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2"
+      ]
+    },
     {
       "id": "tnwm-zjkHcE",
       "published": "2026-10-19T16:30:21+00:00",
