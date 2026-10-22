@@ -125,7 +125,7 @@
     "lkml.iu.edu": 2,
     "lkml.org": 10,
     "lkml.rescloud.iu.edu": 1,
-    "lore.kernel.org": 18,
+    "lore.kernel.org": 19,
     "lwn.net": 4,
     "mail.kde.org": 1,
     "mailarchive.ietf.org": 1,
@@ -268,8 +268,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "3Xi7m0CYk5s",
+  "lastVideoID": "lBCWjJslSc8",
   "videos": [
+    {
+      "id": "lBCWjJslSc8",
+      "published": "2026-10-21T16:30:28+00:00",
+      "title": "Linux Kernel Just Abandoned AI Disclosure",
+      "urls": [
+        "https://lore.kernel.org/lkml/20261009083137.3-1-sashal@kernel.org/"
+      ]
+    },
     {
       "id": "3Xi7m0CYk5s",
       "published": "2026-10-20T16:30:13+00:00",

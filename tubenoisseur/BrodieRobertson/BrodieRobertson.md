@@ -5,7 +5,7 @@ Top Sources:
 - <github.com> = 83
 - <lists.archlinux.org> = 33
 - <x.com> = 28
-- <lore.kernel.org> = 18
+- <lore.kernel.org> = 19
 - <www.phoronix.com> = 14
 - <youtu.be> = 14
 - <www.reddit.com> = 12
@@ -261,6 +261,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Linux Kernel Just Abandoned AI Disclosure
+
+- ID: lBCWjJslSc8
+- Published: 2026-10-21T16:30:28+00:00
+
+### References
+
+- <https://lore.kernel.org/lkml/20261009083137.3-1-sashal@kernel.org/>
 
 ## Fortnite On Linux Changes Everything For Linux Gaming
 
