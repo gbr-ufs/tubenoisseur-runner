@@ -91,7 +91,7 @@
     "git.kernel.org": 4,
     "gitea-open-letter.coding.social": 1,
     "gitea.com": 1,
-    "github.com": 83,
+    "github.com": 84,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 9,
     "gitlab.gnome.org": 6,
@@ -177,9 +177,10 @@
     "stallman-copypasta.github.io": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
+    "steamcommunity.com": 2,
     "steamdb.info": 1,
     "store.epicgames.com": 1,
-    "store.steampowered.com": 6,
+    "store.steampowered.com": 7,
     "supakeen.com": 1,
     "sw.kovidgoyal.net": 1,
     "tweakers.net": 1,
@@ -268,8 +269,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "lBCWjJslSc8",
+  "lastVideoID": "tOhtcCHEcks",
   "videos": [
+    {
+      "id": "tOhtcCHEcks",
+      "published": "2026-10-22T16:30:06+00:00",
+      "title": "Steam Finally Went 64 Bit On Linux",
+      "urls": [
+        "https://store.steampowered.com/news/group/4397053/view/599669707226744433",
+        "https://github.com/ValveSoftware/steam-for-linux/issues/3518",
+        "https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/532125848715658036",
+        "https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/703282384630448403"
+      ]
+    },
     {
       "id": "lBCWjJslSc8",
       "published": "2026-10-21T16:30:28+00:00",

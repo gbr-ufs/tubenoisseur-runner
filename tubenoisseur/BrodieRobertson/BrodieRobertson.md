@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 83
+- <github.com> = 84
 - <lists.archlinux.org> = 33
 - <x.com> = 28
 - <lore.kernel.org> = 19
@@ -21,10 +21,10 @@ Top Sources:
 - <daniel.haxx.se> = 7
 - <discourse.gnome.org> = 7
 - <news.ycombinator.com> = 7
+- <store.steampowered.com> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
-- <store.steampowered.com> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
 - <www.osnews.com> = 5
@@ -89,6 +89,7 @@ Top Sources:
 - <specifications.freedesktop.org> = 2
 - <stackoverflow.blog> = 2
 - <status.denic.de> = 2
+- <steamcommunity.com> = 2
 - <ubuntu.com> = 2
 - <wiki.gnome.org> = 2
 - <wiki.opennic.org> = 2
@@ -261,6 +262,18 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Steam Finally Went 64 Bit On Linux
+
+- ID: tOhtcCHEcks
+- Published: 2026-10-22T16:30:06+00:00
+
+### References
+
+- <https://store.steampowered.com/news/group/4397053/view/599669707226744433>
+- <https://github.com/ValveSoftware/steam-for-linux/issues/3518>
+- <https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/532125848715658036>
+- <https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/703282384630448403>
 
 ## Linux Kernel Just Abandoned AI Disclosure
 
