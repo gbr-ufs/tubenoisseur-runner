@@ -2,29 +2,29 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 54
-- <linuxiac.com> = 36
-- <itsfoss.com> = 32
-- <www.gamingonlinux.com> = 30
+- <www.phoronix.com> = 55
+- <linuxiac.com> = 38
+- <itsfoss.com> = 35
+- <www.gamingonlinux.com> = 31
 - <github.com> = 27
-- <www.omgubuntu.co.uk> = 21
+- <www.omgubuntu.co.uk> = 23
 - <www.techradar.com> = 21
 - <discourse.ubuntu.com> = 10
 - <blogs.gnome.org> = 9
 - <arstechnica.com> = 8
 - <blog.mozilla.org> = 7
+- <blog.documentfoundation.org> = 6
 - <blog.linuxmint.com> = 6
 - <9to5linux.com> = 5
-- <blog.documentfoundation.org> = 5
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
 - <gitlab.gnome.org> = 4
+- <internxt.com> = 4
 - <proton.me> = 4
 - <store.steampowered.com> = 4
 - <www.bleepingcomputer.com> = 4
 - <blogs.kde.org> = 3
 - <frame.work> = 3
-- <internxt.com> = 3
 - <pointieststick.com> = 3
 - <steamcommunity.com> = 3
 - <www.politico.eu> = 3
@@ -45,6 +45,7 @@ Top Sources:
 - <tintotint.eu> = 2
 - <ubuntu.com> = 2
 - <www.404media.co> = 2
+- <www.bbc.com> = 2
 - <www.collabora.com> = 2
 - <www.firefox.com> = 2
 - <www.fsf.org> = 2
@@ -54,6 +55,7 @@ Top Sources:
 - <www.theverge.com> = 2
 - <www.tomshardware.com> = 2
 - <www.windowslatest.com> = 2
+- <www.xda-developers.com> = 2
 - <zamundaaa.github.io> = 2
 - <abstract3d.com> = 1
 - <aftermath.site> = 1
@@ -76,6 +78,7 @@ Top Sources:
 - <cachyos.org> = 1
 - <cakehonolulu.github.io> = 1
 - <codon.org.uk> = 1
+- <community.bitwarden.com> = 1
 - <consumerrights.wiki> = 1
 - <cybernews.com> = 1
 - <deutschland-stack.gov.de> = 1
@@ -112,10 +115,12 @@ Top Sources:
 - <isene.org> = 1
 - <junocomputers.com> = 1
 - <keepandroidopen.org> = 1
+- <keepassxc.org> = 1
 - <lists.archlinux.org> = 1
 - <lists.linuxfromscratch.org> = 1
 - <localsend.org> = 1
 - <lore.kernel.org> = 1
+- <marc.info> = 1
 - <melia.buxjr.com> = 1
 - <merritt.codes> = 1
 - <motorolanews.com> = 1
@@ -153,7 +158,6 @@ Top Sources:
 - <www.androidauthority.com> = 1
 - <www.anthropic.com> = 1
 - <www.aswf.io> = 1
-- <www.bbc.com> = 1
 - <www.betterbird.eu> = 1
 - <www.blender.org> = 1
 - <www.cloudflare.com> = 1
@@ -182,13 +186,40 @@ Top Sources:
 - <www.sonatype.com> = 1
 - <www.sophos.com> = 1
 - <www.spurint.org> = 1
+- <www.techdirt.com> = 1
 - <www.thatprivacyguy.com> = 1
 - <www.thunderbolt.io> = 1
 - <www.usa.gov> = 1
-- <www.xda-developers.com> = 1
+- <www.wiz.io> = 1
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Bitwarden's license change, Ubuntu AI assistant, LibreOffice breaks records - Linux Weekly News
+
+- ID: rR5HmB53C7k
+- Published: 2026-10-24T08:21:12+00:00
+
+### References
+
+- <https://internxt.com/thelinuxexp>
+- <https://www.xda-developers.com/linus-calls-banning-ai-generated-code-utterly-stupid-as-linux-submissions-no-longer-need-llm-disclosure/>
+- <https://itsfoss.com/news/linux-kernel-7-3-release/>
+- <https://www.phoronix.com/news/Linux-7.4-Rust>
+- <https://community.bitwarden.com/t/published-version-update-in-app-stores/102750>
+- <https://keepassxc.org/blog/2026-10-21-2.8.0-released/>
+- <https://www.omgubuntu.co.uk/2026/10/linux-mint-new-system-monitor>
+- <https://blog.documentfoundation.org/blog/2026/10/21/8-weeks-9-4-million-downloads/>
+- <https://linuxiac.com/libreoffice-hits-9-4-million-downloads-in-just-eight-weeks/>
+- <https://www.omgubuntu.co.uk/2026/10/ubuntu-ai-launcher-prototype>
+- <https://marc.info/?l=openbsd-ports&m=179236125692175>
+- <https://linuxiac.com/wine-on-openbsd-yes-and-it-can-already-run-the-witcher-3/>
+- <https://itsfoss.com/news/cutefishos-vibe-coded-desktop/>
+- <https://www.techdirt.com/2026/10/21/epic-rolls-out-vibe-coded-launcher-update-its-absolute-trash/>
+- <https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-is-slowly-becoming-actually-usable-on-linux/>
+- <https://itsfoss.com/news/eu-cloud-sovereignty-cada-cost-study/>
+- <https://www.wiz.io/blog/php2shell-php-rce>
+- <https://www.bbc.com/news/articles/cw98z6qlyvg3o>
 
 ## GNOME OS Preview, Epic supports Linux, Linux kernel set to go all in on AI - Linux Weekly News
 
