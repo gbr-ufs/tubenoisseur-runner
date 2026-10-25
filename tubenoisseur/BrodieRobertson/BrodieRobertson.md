@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 84
+- <github.com> = 85
 - <lists.archlinux.org> = 33
 - <x.com> = 28
 - <lore.kernel.org> = 19
@@ -27,12 +27,12 @@ Top Sources:
 - <lists.debian.org> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <blogs.kde.org> = 5
+- <lwn.net> = 5
 - <www.osnews.com> = 5
 - <bugs.launchpad.net> = 4
 - <en.wikipedia.org> = 4
 - <git.kernel.org> = 4
 - <ioctl.fail> = 4
-- <lwn.net> = 4
 - <www.debian.org> = 4
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
@@ -262,6 +262,16 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## 2026 Linux Maintainers Summit Was All About AI
+
+- ID: ObKIuIzFzYs
+- Published: 2026-10-24T16:30:31+00:00
+
+### References
+
+- <https://github.com/sashiko-dev/sashiko>
+- <https://lwn.net/SubscriberLink/1099594/26d89d9386c9a5dc/>
 
 ## Steam Finally Went 64 Bit On Linux
 
