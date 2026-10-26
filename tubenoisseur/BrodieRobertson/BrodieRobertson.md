@@ -3,7 +3,7 @@
 Top Sources:
 
 - <github.com> = 85
-- <lists.archlinux.org> = 33
+- <lists.archlinux.org> = 34
 - <x.com> = 28
 - <lore.kernel.org> = 19
 - <www.phoronix.com> = 14
@@ -262,6 +262,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Arch Linux's AUR Keeps Getting Hit With Malware
+
+- ID: B28eZ7BHRYE
+- Published: 2026-10-25T16:30:23+00:00
+
+### References
+
+- <https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L3TGW6CC6WCX32VKEXLFAYDWCQXA2ICZ/>
 
 ## 2026 Linux Maintainers Summit Was All About AI
 

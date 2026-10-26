@@ -119,7 +119,7 @@
     "linux.kde.org": 1,
     "linuxiac.com": 2,
     "linuxmint.com": 1,
-    "lists.archlinux.org": 33,
+    "lists.archlinux.org": 34,
     "lists.debian.org": 6,
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
@@ -269,8 +269,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "ObKIuIzFzYs",
+  "lastVideoID": "B28eZ7BHRYE",
   "videos": [
+    {
+      "id": "B28eZ7BHRYE",
+      "published": "2026-10-25T16:30:23+00:00",
+      "title": "Arch Linux's AUR Keeps Getting Hit With Malware",
+      "urls": [
+        "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/L3TGW6CC6WCX32VKEXLFAYDWCQXA2ICZ/"
+      ]
+    },
     {
       "id": "ObKIuIzFzYs",
       "published": "2026-10-24T16:30:31+00:00",
