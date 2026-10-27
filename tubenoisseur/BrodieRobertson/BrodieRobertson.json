@@ -269,8 +269,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "B28eZ7BHRYE",
+  "lastVideoID": "g6PtJ0ZOCp8",
   "videos": [
+    {
+      "id": "g6PtJ0ZOCp8",
+      "published": "2026-10-26T16:30:25+00:00",
+      "title": "The Future Of Linux Gaming Is Bright",
+      "urls": []
+    },
     {
       "id": "B28eZ7BHRYE",
       "published": "2026-10-25T16:30:23+00:00",
