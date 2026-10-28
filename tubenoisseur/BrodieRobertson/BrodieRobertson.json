@@ -48,6 +48,7 @@
     "conf.kde.org": 1,
     "copy.fail": 1,
     "cybernews.com": 1,
+    "danb.me": 1,
     "daniel.haxx.se": 7,
     "data.stackexchange.com": 2,
     "desktopsummit.org": 2,
@@ -233,7 +234,7 @@
     "www.pcworld.com": 1,
     "www.phoronix.com": 14,
     "www.raylib.com": 1,
-    "www.reddit.com": 12,
+    "www.reddit.com": 15,
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.siemens.com": 1,
@@ -269,8 +270,19 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "g6PtJ0ZOCp8",
+  "lastVideoID": "7OsfposVoKQ",
   "videos": [
+    {
+      "id": "7OsfposVoKQ",
+      "published": "2026-10-27T16:30:11+00:00",
+      "title": "r/OpenSource Tried Banning AI And It Ends Badly",
+      "urls": [
+        "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/",
+        "https://www.reddit.com/r/opensource/comments/1xfursg/adjustments_will_be_made/",
+        "https://danb.me/blog/opensource-sub-rules/",
+        "https://www.reddit.com/r/opensource/comments/1xelcuf/comment/19rn3kqdojork/"
+      ]
+    },
     {
       "id": "g6PtJ0ZOCp8",
       "published": "2026-10-26T16:30:25+00:00",

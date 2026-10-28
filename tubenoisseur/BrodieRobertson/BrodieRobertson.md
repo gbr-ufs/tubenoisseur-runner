@@ -6,9 +6,9 @@ Top Sources:
 - <lists.archlinux.org> = 34
 - <x.com> = 28
 - <lore.kernel.org> = 19
+- <www.reddit.com> = 15
 - <www.phoronix.com> = 14
 - <youtu.be> = 14
-- <www.reddit.com> = 12
 - <blogs.gnome.org> = 11
 - <kde.org> = 11
 - <invent.kde.org> = 10
@@ -134,6 +134,7 @@ Top Sources:
 - <conf.kde.org> = 1
 - <copy.fail> = 1
 - <cybernews.com> = 1
+- <danb.me> = 1
 - <develop.kde.org> = 1
 - <developer.apple.com> = 1
 - <developer.chrome.com> = 1
@@ -262,6 +263,18 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## r/OpenSource Tried Banning AI And It Ends Badly
+
+- ID: 7OsfposVoKQ
+- Published: 2026-10-27T16:30:11+00:00
+
+### References
+
+- <https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/>
+- <https://www.reddit.com/r/opensource/comments/1xfursg/adjustments_will_be_made/>
+- <https://danb.me/blog/opensource-sub-rules/>
+- <https://www.reddit.com/r/opensource/comments/1xelcuf/comment/19rn3kqdojork/>
 
 ## The Future Of Linux Gaming Is Bright
 
