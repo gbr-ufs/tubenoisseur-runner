@@ -195,6 +195,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## The end of proprietary software & user lock-in, and the biggest opportunity for Linux
+
+- ID: g1htBFMQUL4
+- Published: 2026-10-28T13:53:45+00:00
+
+### References
+
+
 ## Bitwarden's license change, Ubuntu AI assistant, LibreOffice breaks records - Linux Weekly News
 
 - ID: rR5HmB53C7k

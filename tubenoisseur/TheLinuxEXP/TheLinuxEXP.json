@@ -207,8 +207,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "rR5HmB53C7k",
+  "lastVideoID": "g1htBFMQUL4",
   "videos": [
+    {
+      "id": "g1htBFMQUL4",
+      "published": "2026-10-28T13:53:45+00:00",
+      "title": "The end of proprietary software \u0026 user lock-in, and the biggest opportunity for Linux",
+      "urls": []
+    },
     {
       "id": "rR5HmB53C7k",
       "published": "2026-10-24T08:21:12+00:00",
