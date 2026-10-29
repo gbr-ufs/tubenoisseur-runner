@@ -39,6 +39,7 @@
     "bugs.kde.org": 1,
     "bugs.launchpad.net": 4,
     "bugzilla.gnome.org": 1,
+    "bugzilla.mozilla.org": 1,
     "canonical.com": 2,
     "cdn.kernel.org": 1,
     "chromium-review.googlesource.com": 2,
@@ -94,7 +95,7 @@
     "gitea.com": 1,
     "github.com": 85,
     "gitlab.com": 1,
-    "gitlab.freedesktop.org": 9,
+    "gitlab.freedesktop.org": 10,
     "gitlab.gnome.org": 6,
     "gitlab.steamos.cloud": 1,
     "gjs.guide": 2,
@@ -270,8 +271,24 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "7OsfposVoKQ",
+  "lastVideoID": "lDRyB1AXrak",
   "videos": [
+    {
+      "id": "lDRyB1AXrak",
+      "published": "2026-10-29T16:30:37+00:00",
+      "title": "Wayland Is Trying To Fix Remote Desktop Support",
+      "urls": [
+        "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/546"
+      ]
+    },
+    {
+      "id": "D9NmIJrxM_I",
+      "published": "2026-10-28T16:30:28+00:00",
+      "title": "The 4 That Broke The Internet",
+      "urls": [
+        "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449"
+      ]
+    },
     {
       "id": "7OsfposVoKQ",
       "published": "2026-10-27T16:30:11+00:00",

@@ -11,9 +11,9 @@ Top Sources:
 - <youtu.be> = 14
 - <blogs.gnome.org> = 11
 - <kde.org> = 11
+- <gitlab.freedesktop.org> = 10
 - <invent.kde.org> = 10
 - <lkml.org> = 10
-- <gitlab.freedesktop.org> = 9
 - <web.archive.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
@@ -127,6 +127,7 @@ Top Sources:
 - <boilingsteam.com> = 1
 - <bugs.kde.org> = 1
 - <bugzilla.gnome.org> = 1
+- <bugzilla.mozilla.org> = 1
 - <cdn.kernel.org> = 1
 - <code.overheid.nl> = 1
 - <codeberg.org> = 1
@@ -263,6 +264,24 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Wayland Is Trying To Fix Remote Desktop Support
+
+- ID: lDRyB1AXrak
+- Published: 2026-10-29T16:30:37+00:00
+
+### References
+
+- <https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/546>
+
+## The 4 That Broke The Internet
+
+- ID: D9NmIJrxM_I
+- Published: 2026-10-28T16:30:28+00:00
+
+### References
+
+- <https://bugzilla.mozilla.org/show_bug.cgi?id=2083449>
 
 ## r/OpenSource Tried Banning AI And It Ends Badly
 
