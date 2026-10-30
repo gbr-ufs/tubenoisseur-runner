@@ -2,20 +2,20 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 55
-- <linuxiac.com> = 38
-- <itsfoss.com> = 35
+- <www.phoronix.com> = 56
+- <linuxiac.com> = 41
+- <itsfoss.com> = 37
 - <www.gamingonlinux.com> = 31
-- <github.com> = 27
+- <github.com> = 28
 - <www.omgubuntu.co.uk> = 23
-- <www.techradar.com> = 21
-- <discourse.ubuntu.com> = 10
+- <www.techradar.com> = 22
+- <discourse.ubuntu.com> = 11
 - <blogs.gnome.org> = 9
 - <arstechnica.com> = 8
-- <blog.mozilla.org> = 7
+- <blog.mozilla.org> = 8
+- <9to5linux.com> = 6
 - <blog.documentfoundation.org> = 6
 - <blog.linuxmint.com> = 6
-- <9to5linux.com> = 5
 - <discussion.fedoraproject.org> = 4
 - <fedoramagazine.org> = 4
 - <gitlab.gnome.org> = 4
@@ -25,8 +25,10 @@ Top Sources:
 - <www.bleepingcomputer.com> = 4
 - <blogs.kde.org> = 3
 - <frame.work> = 3
+- <lists.fedoraproject.org> = 3
 - <pointieststick.com> = 3
 - <steamcommunity.com> = 3
+- <www.404media.co> = 3
 - <www.politico.eu> = 3
 - <www.theregister.com> = 3
 - <www.zdnet.com> = 3
@@ -40,11 +42,9 @@ Top Sources:
 - <guides.frame.work> = 2
 - <kde.org> = 2
 - <lists.debian.org> = 2
-- <lists.fedoraproject.org> = 2
 - <modal.cx> = 2
 - <tintotint.eu> = 2
 - <ubuntu.com> = 2
-- <www.404media.co> = 2
 - <www.bbc.com> = 2
 - <www.collabora.com> = 2
 - <www.firefox.com> = 2
@@ -86,6 +86,7 @@ Top Sources:
 - <devices.ubuntu-touch.io> = 1
 - <discourse.gnome.org> = 1
 - <discuss.cachyos.org> = 1
+- <docs.flathub.org> = 1
 - <documentation.ubuntu.com> = 1
 - <en.ubunlog.com> = 1
 - <enblog.eischmann.cz> = 1
@@ -152,6 +153,7 @@ Top Sources:
 - <thecybersecguru.com> = 1
 - <thisweek.gnome.org> = 1
 - <usebottles.com> = 1
+- <useraven.org> = 1
 - <vivaldi.com> = 1
 - <vng.nl> = 1
 - <winboat.app> = 1
@@ -194,6 +196,29 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## What is happening to Proton right now?? - Linux Weekly News
+
+- ID: ZqyiZV6Nk0o
+- Published: 2026-10-30T14:27:29+00:00
+
+### References
+
+- <https://www.techradar.com/vpn/vpn-services/proton-is-re-interviewing-staff-about-how-they-use-ai-and-their-jobs-could-depend-on-the-answers>
+- <https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/>
+- <https://discourse.ubuntu.com/t/accelerating-ubuntu-core-desktop/90547>
+- <https://linuxiac.com/mozilla-firefox-159-improves-linux-wayland-support-adds-new-tab-search/>
+- <https://9to5linux.com/mozilla-firefox-160-enters-public-beta-testing-heres-what-to-expect>
+- <https://blog.mozilla.org/en/firefox/come-back-to-firefox/>
+- <https://www.phoronix.com/news/Jamey-Sharp-Praises-Wayland>
+- <https://github.com/systemd/systemd/pull/44324>
+- <https://itsfoss.com/news/ginux/>
+- <https://itsfoss.com/interview/mirko-brombin-raven/>
+- <https://useraven.org>
+- <https://linuxiac.com/fedora-linux-45-delayed-again-new-release-date-set-for-november-3/>
+- <https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/EWDOYT6TOMFY4XPL5MJC2QWCDJBOR6MU/>
+- <https://linuxiac.com/meet-riff-an-open-source-spotify-client-built-for-gnome/>
+- <https://docs.flathub.org/blog/discourse-deprecation>
 
 ## The end of proprietary software & user lock-in, and the biggest opportunity for Linux
 
