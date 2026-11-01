@@ -5,7 +5,7 @@ Top Sources:
 - <github.com> = 85
 - <lists.archlinux.org> = 34
 - <x.com> = 28
-- <lore.kernel.org> = 19
+- <lore.kernel.org> = 20
 - <www.reddit.com> = 15
 - <www.phoronix.com> = 14
 - <youtu.be> = 14
@@ -263,6 +263,23 @@ Top Sources:
 - <www.wiz.io> = 1
 - <xint.io> = 1
 - <xlibre.net> = 1
+
+
+## AMD Is Building A Ryzen Overclocking Driver For Linux
+
+- ID: AijilgbND1c
+- Published: 2026-11-01T16:30:40+00:00
+
+### References
+
+- <https://lore.kernel.org/platform-driver-x86/20261010190543.563161-1-Shyam-sundar.S-k@amd.com/#t>
+
+## He's Working On A Wine Competitor
+
+- ID: q_-5-ZFQm38
+- Published: 2026-10-31T16:30:04+00:00
+
+### References
 
 
 ## Wayland Is Trying To Fix Remote Desktop Support
