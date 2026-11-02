@@ -6,8 +6,8 @@ Top Sources:
 - <lists.archlinux.org> = 34
 - <x.com> = 28
 - <lore.kernel.org> = 20
+- <www.phoronix.com> = 15
 - <www.reddit.com> = 15
-- <www.phoronix.com> = 14
 - <youtu.be> = 14
 - <blogs.gnome.org> = 11
 - <kde.org> = 11
@@ -240,6 +240,7 @@ Top Sources:
 - <www.ign.com> = 1
 - <www.intel.com> = 1
 - <www.islinuxaboutchoice.com> = 1
+- <www.kernel.org> = 1
 - <www.kroah.com> = 1
 - <www.linuxjournal.com> = 1
 - <www.notebookcheck.net> = 1
@@ -264,6 +265,16 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Kernel Devs Lose It When 4 CVEs Were Published To The LKML
+
+- ID: MjTGcBnoGnE
+- Published: 2026-11-02T16:30:25+00:00
+
+### References
+
+- <https://www.kernel.org/doc/html/v6.0/admin-guide/security-bugs.html>
+- <https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities>
 
 ## AMD Is Building A Ryzen Overclocking Driver For Linux
 
