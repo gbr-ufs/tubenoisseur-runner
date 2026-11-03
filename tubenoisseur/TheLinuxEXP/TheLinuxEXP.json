@@ -209,8 +209,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "ZqyiZV6Nk0o",
+  "lastVideoID": "wYSehRUnpJg",
   "videos": [
+    {
+      "id": "wYSehRUnpJg",
+      "published": "2026-11-03T14:25:59+00:00",
+      "title": "Linux will run everything, thank you very much",
+      "urls": []
+    },
     {
       "id": "ZqyiZV6Nk0o",
       "published": "2026-10-30T14:27:29+00:00",
