@@ -30,7 +30,7 @@
     "blog.vladzahorodnii.com": 2,
     "blogs.gentoo.org": 1,
     "blogs.gnome.org": 11,
-    "blogs.kde.org": 5,
+    "blogs.kde.org": 6,
     "blogs.microsoft.com": 1,
     "blogs.windows.com": 1,
     "boilingsteam.com": 1,
@@ -272,8 +272,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "MjTGcBnoGnE",
+  "lastVideoID": "PSHai4Df_U4",
   "videos": [
+    {
+      "id": "PSHai4Df_U4",
+      "published": "2026-11-03T16:30:17+00:00",
+      "title": "KDE Is Building A Konsole Replacement",
+      "urls": [
+        "https://blogs.kde.org/2026/11/01/introducing-kwi/"
+      ]
+    },
     {
       "id": "MjTGcBnoGnE",
       "published": "2026-11-02T16:30:25+00:00",

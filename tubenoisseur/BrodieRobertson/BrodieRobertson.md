@@ -22,11 +22,11 @@ Top Sources:
 - <discourse.gnome.org> = 7
 - <news.ycombinator.com> = 7
 - <store.steampowered.com> = 7
+- <blogs.kde.org> = 6
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
 - <blog.davidedmundson.co.uk> = 5
-- <blogs.kde.org> = 5
 - <lwn.net> = 5
 - <www.osnews.com> = 5
 - <bugs.launchpad.net> = 4
@@ -265,6 +265,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## KDE Is Building A Konsole Replacement
+
+- ID: PSHai4Df_U4
+- Published: 2026-11-03T16:30:17+00:00
+
+### References
+
+- <https://blogs.kde.org/2026/11/01/introducing-kwi/>
 
 ## Kernel Devs Lose It When 4 CVEs Were Published To The LKML
 
