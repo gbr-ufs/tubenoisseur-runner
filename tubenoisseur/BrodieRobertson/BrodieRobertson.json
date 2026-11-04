@@ -127,7 +127,7 @@
     "lkml.iu.edu": 2,
     "lkml.org": 10,
     "lkml.rescloud.iu.edu": 1,
-    "lore.kernel.org": 20,
+    "lore.kernel.org": 21,
     "lwn.net": 5,
     "mail.kde.org": 1,
     "mailarchive.ietf.org": 1,
@@ -234,7 +234,7 @@
     "www.osnews.com": 5,
     "www.pcgamer.com": 3,
     "www.pcworld.com": 1,
-    "www.phoronix.com": 15,
+    "www.phoronix.com": 16,
     "www.raylib.com": 1,
     "www.reddit.com": 15,
     "www.redhat.com": 1,
@@ -272,8 +272,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "PSHai4Df_U4",
+  "lastVideoID": "z1tpVg8UIpI",
   "videos": [
+    {
+      "id": "z1tpVg8UIpI",
+      "published": "2026-11-04T16:30:28+00:00",
+      "title": "Linux 7.4 The Largest Merge Window In History",
+      "urls": [
+        "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
+        "https://lore.kernel.org/lkml/CAHk-=whOCnAwXz-FMRdQEDJQ+9b2YXh9M=GHgRay0o4cxSmPVg@mail.gmail.com/T/#u"
+      ]
+    },
     {
       "id": "PSHai4Df_U4",
       "published": "2026-11-03T16:30:17+00:00",

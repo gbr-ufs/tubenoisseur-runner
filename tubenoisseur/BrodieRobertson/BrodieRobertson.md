@@ -5,8 +5,8 @@ Top Sources:
 - <github.com> = 85
 - <lists.archlinux.org> = 34
 - <x.com> = 28
-- <lore.kernel.org> = 20
-- <www.phoronix.com> = 15
+- <lore.kernel.org> = 21
+- <www.phoronix.com> = 16
 - <www.reddit.com> = 15
 - <youtu.be> = 14
 - <blogs.gnome.org> = 11
@@ -265,6 +265,16 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Linux 7.4 The Largest Merge Window In History
+
+- ID: z1tpVg8UIpI
+- Published: 2026-11-04T16:30:28+00:00
+
+### References
+
+- <https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req>
+- <https://lore.kernel.org/lkml/CAHk-=whOCnAwXz-FMRdQEDJQ+9b2YXh9M=GHgRay0o4cxSmPVg@mail.gmail.com/T/#u>
 
 ## KDE Is Building A Konsole Replacement
 
