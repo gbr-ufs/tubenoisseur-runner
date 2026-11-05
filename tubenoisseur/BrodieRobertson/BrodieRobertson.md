@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 85
+- <github.com> = 87
 - <lists.archlinux.org> = 34
 - <x.com> = 28
 - <lore.kernel.org> = 21
@@ -83,6 +83,7 @@ Top Sources:
 - <media.social.kernel.org> = 2
 - <medium.com> = 2
 - <newgtldprogram.icann.org> = 2
+- <onlineservices.epicgames.com> = 2
 - <quantumproductions.info> = 2
 - <quentinsf.com> = 2
 - <servo.org> = 2
@@ -195,7 +196,6 @@ Top Sources:
 - <neil.fraser.name> = 1
 - <nobaraproject.org> = 1
 - <odin-lang.org> = 1
-- <onlineservices.epicgames.com> = 1
 - <openai.com> = 1
 - <opencourant.org> = 1
 - <pagure.io> = 1
@@ -265,6 +265,17 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## CachyOS Is Working On EACv2 Support
+
+- ID: 2ckNBHmwBHA
+- Published: 2026-11-05T16:30:36+00:00
+
+### References
+
+- <https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2>
+- <https://github.com/CachyOS/linux-cachyos/pull/1084>
+- <https://github.com/CachyOS/wiki/pull/650>
 
 ## Linux 7.4 The Largest Merge Window In History
 

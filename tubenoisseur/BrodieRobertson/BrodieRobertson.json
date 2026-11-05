@@ -93,7 +93,7 @@
     "git.kernel.org": 4,
     "gitea-open-letter.coding.social": 1,
     "gitea.com": 1,
-    "github.com": 85,
+    "github.com": 87,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 10,
     "gitlab.gnome.org": 6,
@@ -150,7 +150,7 @@
     "nobaraproject.org": 1,
     "odin-lang.org": 1,
     "omarchy.org": 3,
-    "onlineservices.epicgames.com": 1,
+    "onlineservices.epicgames.com": 2,
     "openai.com": 1,
     "opencourant.org": 1,
     "pagure.io": 1,
@@ -272,8 +272,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "z1tpVg8UIpI",
+  "lastVideoID": "2ckNBHmwBHA",
   "videos": [
+    {
+      "id": "2ckNBHmwBHA",
+      "published": "2026-11-05T16:30:36+00:00",
+      "title": "CachyOS Is Working On EACv2 Support",
+      "urls": [
+        "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+        "https://github.com/CachyOS/linux-cachyos/pull/1084",
+        "https://github.com/CachyOS/wiki/pull/650"
+      ]
+    },
     {
       "id": "z1tpVg8UIpI",
       "published": "2026-11-04T16:30:28+00:00",
