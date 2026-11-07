@@ -2,27 +2,28 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 56
+- <www.phoronix.com> = 57
 - <linuxiac.com> = 41
 - <itsfoss.com> = 37
 - <www.gamingonlinux.com> = 31
-- <github.com> = 28
-- <www.omgubuntu.co.uk> = 23
-- <www.techradar.com> = 22
+- <github.com> = 29
+- <www.omgubuntu.co.uk> = 24
+- <www.techradar.com> = 23
 - <discourse.ubuntu.com> = 11
 - <blogs.gnome.org> = 9
 - <arstechnica.com> = 8
 - <blog.mozilla.org> = 8
-- <9to5linux.com> = 6
+- <9to5linux.com> = 7
+- <blog.linuxmint.com> = 7
 - <blog.documentfoundation.org> = 6
-- <blog.linuxmint.com> = 6
+- <fedoramagazine.org> = 5
+- <internxt.com> = 5
 - <discussion.fedoraproject.org> = 4
-- <fedoramagazine.org> = 4
 - <gitlab.gnome.org> = 4
-- <internxt.com> = 4
 - <proton.me> = 4
 - <store.steampowered.com> = 4
 - <www.bleepingcomputer.com> = 4
+- <www.theregister.com> = 4
 - <blogs.kde.org> = 3
 - <frame.work> = 3
 - <lists.fedoraproject.org> = 3
@@ -30,7 +31,7 @@ Top Sources:
 - <steamcommunity.com> = 3
 - <www.404media.co> = 3
 - <www.politico.eu> = 3
-- <www.theregister.com> = 3
+- <www.theverge.com> = 3
 - <www.zdnet.com> = 3
 - <youtu.be> = 3
 - <bbhtt.in> = 2
@@ -38,6 +39,7 @@ Top Sources:
 - <brave.com> = 2
 - <canonical.com> = 2
 - <community.kde.org> = 2
+- <cutefish.org> = 2
 - <gs.statcounter.com> = 2
 - <guides.frame.work> = 2
 - <kde.org> = 2
@@ -52,7 +54,6 @@ Top Sources:
 - <www.microsoft.com> = 2
 - <www.neowin.net> = 2
 - <www.reuters.com> = 2
-- <www.theverge.com> = 2
 - <www.tomshardware.com> = 2
 - <www.windowslatest.com> = 2
 - <www.xda-developers.com> = 2
@@ -149,6 +150,7 @@ Top Sources:
 - <superfile.dev> = 1
 - <support.mozilla.org> = 1
 - <t.me> = 1
+- <techcrunch.com> = 1
 - <tesk.page> = 1
 - <thecybersecguru.com> = 1
 - <thisweek.gnome.org> = 1
@@ -196,6 +198,27 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Affinity comes to Linux, Proton explains recent issues, macOS apps run on Linux | Linux Weekly News
+
+- ID: IVS1jpoyp04
+- Published: 2026-11-07T09:20:36+00:00
+
+### References
+
+- <https://internxt.com/thelinuxexp>
+- <https://www.omgubuntu.co.uk/2026/11/affinity-linux-release-confirmed>
+- <https://www.techradar.com/vpn/vpn-services/proton-apologizes-to-community-after-internal-memo-shows-force-behind-proposed-ai-use-in-building-its-privacy-products>
+- <https://cutefish.org/blog/running-mac-apps/>
+- <https://cutefish.org/blog/mac-apps-first-milestone/>
+- <https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950>
+- <https://fedoramagazine.org/announcing-fedora-linux-45/>
+- <https://blog.linuxmint.com/?p=5093>
+- <https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs>
+- <https://9to5linux.com/nvidia-620-linux-graphics-driver-released-with-wayland-improvements>
+- <https://www.theverge.com/news/1027379/discord-ditching-electron-web-app>
+- <https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/>
+- <https://github.com/Broyojo/hadron>
 
 ## Linux will run everything, thank you very much
 
