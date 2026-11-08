@@ -272,8 +272,14 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "2ckNBHmwBHA",
+  "lastVideoID": "PUzYLXMhAoo",
   "videos": [
+    {
+      "id": "PUzYLXMhAoo",
+      "published": "2026-11-07T16:30:28+00:00",
+      "title": "Sam Altman Wants Your RAM",
+      "urls": []
+    },
     {
       "id": "2ckNBHmwBHA",
       "published": "2026-11-05T16:30:36+00:00",
