@@ -18,11 +18,11 @@ Top Sources:
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
 - <aur.archlinux.org> = 7
+- <blogs.kde.org> = 7
 - <daniel.haxx.se> = 7
 - <discourse.gnome.org> = 7
 - <news.ycombinator.com> = 7
 - <store.steampowered.com> = 7
-- <blogs.kde.org> = 6
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
 - <lists.debian.org> = 6
@@ -62,6 +62,7 @@ Top Sources:
 - <blog.vladzahorodnii.com> = 2
 - <brave.com> = 2
 - <brodierobertson.dev> = 2
+- <bugs.kde.org> = 2
 - <canonical.com> = 2
 - <chromium-review.googlesource.com> = 2
 - <data.stackexchange.com> = 2
@@ -126,7 +127,6 @@ Top Sources:
 - <blogs.microsoft.com> = 1
 - <blogs.windows.com> = 1
 - <boilingsteam.com> = 1
-- <bugs.kde.org> = 1
 - <bugzilla.gnome.org> = 1
 - <bugzilla.mozilla.org> = 1
 - <cdn.kernel.org> = 1
@@ -144,6 +144,7 @@ Top Sources:
 - <developer.overheid.nl> = 1
 - <devuanusers.com> = 1
 - <discord.com> = 1
+- <discourse.flathub.org> = 1
 - <discourse.nixos.org> = 1
 - <distrofighter.com> = 1
 - <distrosea.com> = 1
@@ -151,6 +152,7 @@ Top Sources:
 - <dl.acm.org> = 1
 - <docs.buddiesofbudgie.org> = 1
 - <docs.elementary.io> = 1
+- <docs.flathub.org> = 1
 - <docs.freebsd.org> = 1
 - <en.opensuse.org> = 1
 - <excalidraw.com> = 1
@@ -265,6 +267,26 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Chat Apps Cannot Replace A Forum
+
+- ID: SJ1zjGfrceA
+- Published: 2026-11-09T16:30:30+00:00
+
+### References
+
+- <https://discourse.flathub.org/>
+- <https://docs.flathub.org/blog/discourse-deprecation>
+
+## Copying To A USB Has Been Broken On Linux Forever
+
+- ID: DEf10RWc_F0
+- Published: 2026-11-08T16:30:20+00:00
+
+### References
+
+- <https://bugs.kde.org/show_bug.cgi?id=281270>
+- <https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/>
 
 ## Sam Altman Wants Your RAM
 

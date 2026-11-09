@@ -30,13 +30,13 @@
     "blog.vladzahorodnii.com": 2,
     "blogs.gentoo.org": 1,
     "blogs.gnome.org": 11,
-    "blogs.kde.org": 6,
+    "blogs.kde.org": 7,
     "blogs.microsoft.com": 1,
     "blogs.windows.com": 1,
     "boilingsteam.com": 1,
     "brave.com": 2,
     "brodierobertson.dev": 2,
-    "bugs.kde.org": 1,
+    "bugs.kde.org": 2,
     "bugs.launchpad.net": 4,
     "bugzilla.gnome.org": 1,
     "bugzilla.mozilla.org": 1,
@@ -60,6 +60,7 @@
     "developer.overheid.nl": 1,
     "devuanusers.com": 1,
     "discord.com": 1,
+    "discourse.flathub.org": 1,
     "discourse.gnome.org": 7,
     "discourse.nixos.org": 1,
     "discourse.ubuntu.com": 3,
@@ -72,6 +73,7 @@
     "dl.acm.org": 1,
     "docs.buddiesofbudgie.org": 1,
     "docs.elementary.io": 1,
+    "docs.flathub.org": 1,
     "docs.freebsd.org": 1,
     "docs.kernel.org": 3,
     "en.opensuse.org": 1,
@@ -272,8 +274,26 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "PUzYLXMhAoo",
+  "lastVideoID": "SJ1zjGfrceA",
   "videos": [
+    {
+      "id": "SJ1zjGfrceA",
+      "published": "2026-11-09T16:30:30+00:00",
+      "title": "Chat Apps Cannot Replace A Forum",
+      "urls": [
+        "https://discourse.flathub.org/",
+        "https://docs.flathub.org/blog/discourse-deprecation"
+      ]
+    },
+    {
+      "id": "DEf10RWc_F0",
+      "published": "2026-11-08T16:30:20+00:00",
+      "title": "Copying To A USB Has Been Broken On Linux Forever",
+      "urls": [
+        "https://bugs.kde.org/show_bug.cgi?id=281270",
+        "https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/"
+      ]
+    },
     {
       "id": "PUzYLXMhAoo",
       "published": "2026-11-07T16:30:28+00:00",
