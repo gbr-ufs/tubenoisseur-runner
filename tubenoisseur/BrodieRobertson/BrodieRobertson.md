@@ -57,6 +57,7 @@ Top Sources:
 - <www.theregister.com> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
+- <asahilinux.org> = 2
 - <blog.gitea.com> = 2
 - <blog.sonny.re> = 2
 - <blog.vladzahorodnii.com> = 2
@@ -114,7 +115,6 @@ Top Sources:
 - <apps.kde.org> = 1
 - <arstechnica.com> = 1
 - <artixlinux.org> = 1
-- <asahilinux.org> = 1
 - <balooii.pages.gitlab.gnome.org> = 1
 - <bazzite.gg> = 1
 - <bbs.deepin.org> = 1
@@ -267,6 +267,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Asahi Linux Switches To A Real Free Software License
+
+- ID: -HdgP0gkJwA
+- Published: 2026-11-10T16:30:05+00:00
+
+### References
+
+- <https://asahilinux.org/2026/11/progress-report-7-3/>
 
 ## Chat Apps Cannot Replace A Forum
 

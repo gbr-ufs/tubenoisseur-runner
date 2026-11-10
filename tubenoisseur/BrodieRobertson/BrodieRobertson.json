@@ -14,7 +14,7 @@
     "archlinux.org": 3,
     "arstechnica.com": 1,
     "artixlinux.org": 1,
-    "asahilinux.org": 1,
+    "asahilinux.org": 2,
     "aur.archlinux.org": 7,
     "balooii.pages.gitlab.gnome.org": 1,
     "bazzite.gg": 1,
@@ -274,8 +274,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "SJ1zjGfrceA",
+  "lastVideoID": "-HdgP0gkJwA",
   "videos": [
+    {
+      "id": "-HdgP0gkJwA",
+      "published": "2026-11-10T16:30:05+00:00",
+      "title": "Asahi Linux Switches To A Real Free Software License",
+      "urls": [
+        "https://asahilinux.org/2026/11/progress-report-7-3/"
+      ]
+    },
     {
       "id": "SJ1zjGfrceA",
       "published": "2026-11-09T16:30:30+00:00",
