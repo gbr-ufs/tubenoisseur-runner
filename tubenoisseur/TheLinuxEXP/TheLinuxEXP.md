@@ -199,6 +199,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## TrindleOS: no dock, no panel, and some good ideas for a Linux desktop
+
+- ID: 2jnpvPdcavw
+- Published: 2026-11-11T17:16:29+00:00
+
+### References
+
+
 ## Affinity comes to Linux, Proton explains recent issues, macOS apps run on Linux | Linux Weekly News
 
 - ID: IVS1jpoyp04
