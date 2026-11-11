@@ -95,7 +95,7 @@
     "git.kernel.org": 4,
     "gitea-open-letter.coding.social": 1,
     "gitea.com": 1,
-    "github.com": 87,
+    "github.com": 89,
     "gitlab.com": 1,
     "gitlab.freedesktop.org": 10,
     "gitlab.gnome.org": 6,
@@ -274,8 +274,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "-HdgP0gkJwA",
+  "lastVideoID": "sg9Vz4MDZBc",
   "videos": [
+    {
+      "id": "sg9Vz4MDZBc",
+      "published": "2026-11-11T16:30:12+00:00",
+      "title": "We Have A New Github Copypasta",
+      "urls": [
+        "https://github.com/twitter/the-algorithm/issues/1999",
+        "https://github.com/openai/codex/issues/59060"
+      ]
+    },
     {
       "id": "-HdgP0gkJwA",
       "published": "2026-11-10T16:30:05+00:00",
