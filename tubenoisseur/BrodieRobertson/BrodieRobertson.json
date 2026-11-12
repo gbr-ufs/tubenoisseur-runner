@@ -7,7 +7,7 @@
     "agents.meta.stackoverflow.com": 2,
     "agents.stackoverflow.com": 2,
     "alexxcons.github.io": 1,
-    "alpinelinux.org": 1,
+    "alpinelinux.org": 2,
     "app.intigriti.com": 1,
     "apps.kde.org": 1,
     "archive.md": 3,
@@ -177,6 +177,7 @@
     "social.treehouse.systems": 3,
     "sourcehut.org": 1,
     "specifications.freedesktop.org": 2,
+    "sshhole.com": 1,
     "stackoverflow.blog": 2,
     "stallman-copypasta.github.io": 1,
     "status.denic.de": 2,
@@ -274,8 +275,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "sg9Vz4MDZBc",
+  "lastVideoID": "LIk3BA4H70E",
   "videos": [
+    {
+      "id": "LIk3BA4H70E",
+      "published": "2026-11-12T16:30:20+00:00",
+      "title": "A Vulnerability Even A Monkey With A Typewriter Could Do",
+      "urls": [
+        "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "https://sshhole.com/"
+      ]
+    },
     {
       "id": "sg9Vz4MDZBc",
       "published": "2026-11-11T16:30:12+00:00",

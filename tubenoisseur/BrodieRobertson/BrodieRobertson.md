@@ -57,6 +57,7 @@ Top Sources:
 - <www.theregister.com> = 3
 - <agents.meta.stackoverflow.com> = 2
 - <agents.stackoverflow.com> = 2
+- <alpinelinux.org> = 2
 - <asahilinux.org> = 2
 - <blog.gitea.com> = 2
 - <blog.sonny.re> = 2
@@ -110,7 +111,6 @@ Top Sources:
 - <aerynos.com> = 1
 - <aerynos.discourse.group> = 1
 - <alexxcons.github.io> = 1
-- <alpinelinux.org> = 1
 - <app.intigriti.com> = 1
 - <apps.kde.org> = 1
 - <arstechnica.com> = 1
@@ -215,6 +215,7 @@ Top Sources:
 - <sheets.works> = 1
 - <snapcraft.io> = 1
 - <sourcehut.org> = 1
+- <sshhole.com> = 1
 - <stallman-copypasta.github.io> = 1
 - <steamdb.info> = 1
 - <store.epicgames.com> = 1
@@ -267,6 +268,16 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## A Vulnerability Even A Monkey With A Typewriter Could Do
+
+- ID: LIk3BA4H70E
+- Published: 2026-11-12T16:30:20+00:00
+
+### References
+
+- <https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/>
+- <https://sshhole.com/>
 
 ## We Have A New Github Copypasta
 
