@@ -2,29 +2,29 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 57
-- <linuxiac.com> = 41
+- <www.phoronix.com> = 58
+- <linuxiac.com> = 42
 - <itsfoss.com> = 37
-- <www.gamingonlinux.com> = 31
+- <www.gamingonlinux.com> = 32
 - <github.com> = 29
 - <www.omgubuntu.co.uk> = 24
 - <www.techradar.com> = 23
-- <discourse.ubuntu.com> = 11
+- <discourse.ubuntu.com> = 12
 - <blogs.gnome.org> = 9
 - <arstechnica.com> = 8
 - <blog.mozilla.org> = 8
 - <9to5linux.com> = 7
 - <blog.linuxmint.com> = 7
 - <blog.documentfoundation.org> = 6
+- <store.steampowered.com> = 6
 - <fedoramagazine.org> = 5
 - <internxt.com> = 5
+- <blogs.kde.org> = 4
 - <discussion.fedoraproject.org> = 4
 - <gitlab.gnome.org> = 4
 - <proton.me> = 4
-- <store.steampowered.com> = 4
 - <www.bleepingcomputer.com> = 4
 - <www.theregister.com> = 4
-- <blogs.kde.org> = 3
 - <frame.work> = 3
 - <lists.fedoraproject.org> = 3
 - <pointieststick.com> = 3
@@ -34,6 +34,7 @@ Top Sources:
 - <www.theverge.com> = 3
 - <www.zdnet.com> = 3
 - <youtu.be> = 3
+- <asahilinux.org> = 2
 - <bbhtt.in> = 2
 - <blog.davidedmundson.co.uk> = 2
 - <brave.com> = 2
@@ -66,8 +67,8 @@ Top Sources:
 - <apps.kde.org> = 1
 - <artixlinux.org> = 1
 - <arunraghavan.net> = 1
-- <asahilinux.org> = 1
 - <blancbrowser.com> = 1
+- <blog.darlinghq.org> = 1
 - <blog.getutm.app> = 1
 - <blog.kagi.com> = 1
 - <blog.kimiblock.top> = 1
@@ -131,6 +132,7 @@ Top Sources:
 - <neutronproject.org> = 1
 - <news.apache.org> = 1
 - <nura.eco> = 1
+- <nvidianews.nvidia.com> = 1
 - <omarchy.org> = 1
 - <onlineservices.epicgames.com> = 1
 - <open-buro.eu> = 1
@@ -160,6 +162,7 @@ Top Sources:
 - <vng.nl> = 1
 - <winboat.app> = 1
 - <www.androidauthority.com> = 1
+- <www.androidcentral.com> = 1
 - <www.anthropic.com> = 1
 - <www.aswf.io> = 1
 - <www.betterbird.eu> = 1
@@ -198,6 +201,25 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Is Proton's official statement enough? - Linux Weekly News
+
+- ID: T1LvBjXYcFY
+- Published: 2026-11-14T08:49:18+00:00
+
+### References
+
+- <https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/>
+- <https://store.steampowered.com/news/app/593110/view/678515036155543747>
+- <https://store.steampowered.com/news/app/593110/view/685269801333948419>
+- <https://discourse.ubuntu.com/t/introducing-polo-a-mate-wayland-compositor/91698>
+- <https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood>
+- <https://asahilinux.org/2026/11/progress-report-7-3/>
+- <https://www.gamingonlinux.com/2026/11/nexus-mods-hiring-for-a-linux-gaming-specialist-to-work-on-their-vortex-app/>
+- <https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition>
+- <https://linuxiac.com/tuxedo-os-enters-final-beta-testing-ahead-of-debian-based-release/>
+- <https://blogs.kde.org/2026/11/08/dolphin-gets-a-columns-view-again/>
+- <https://www.androidcentral.com/chromebooks-laptops/lenovo-googlebook-15-review-google-botched-it-yet-again>
 
 ## TrindleOS: no dock, no panel, and some good ideas for a Linux desktop
 
