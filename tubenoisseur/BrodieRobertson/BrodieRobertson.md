@@ -5,7 +5,7 @@ Top Sources:
 - <github.com> = 89
 - <lists.archlinux.org> = 34
 - <x.com> = 28
-- <lore.kernel.org> = 21
+- <lore.kernel.org> = 22
 - <www.phoronix.com> = 16
 - <www.reddit.com> = 15
 - <youtu.be> = 14
@@ -80,6 +80,7 @@ Top Sources:
 - <leginfo.legislature.ca.gov> = 2
 - <linuxiac.com> = 2
 - <lkml.iu.edu> = 2
+- <lkml.rescloud.iu.edu> = 2
 - <marco-nett.de> = 2
 - <mastodon.social> = 2
 - <md.archlinux.org> = 2
@@ -184,7 +185,6 @@ Top Sources:
 - <linux.kde.org> = 1
 - <linuxmint.com> = 1
 - <lists.fedoraproject.org> = 1
-- <lkml.rescloud.iu.edu> = 1
 - <mail.kde.org> = 1
 - <mailarchive.ietf.org> = 1
 - <man7.org> = 1
@@ -267,6 +267,24 @@ Top Sources:
 - <www.wiz.io> = 1
 - <xint.io> = 1
 - <xlibre.net> = 1
+
+
+## This Linux Driver Just Got A Cease & Desist
+
+- ID: YfpxV1hbStk
+- Published: 2026-11-15T16:30:39+00:00
+
+### References
+
+- <https://lore.kernel.org/dri-devel/DJBG3H7N9GS9.7AMMRJIHGHRN@kernel.org/T/>
+- <https://lkml.rescloud.iu.edu/hypermail/linux/kernel/2610.1/14966.html>
+
+## Discord's New Rust Client Is 10x Lighter
+
+- ID: ne3PMon7i9I
+- Published: 2026-11-14T16:30:00+00:00
+
+### References
 
 
 ## A Vulnerability Even A Monkey With A Typewriter Could Do
