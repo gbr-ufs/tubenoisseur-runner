@@ -46,6 +46,7 @@ Top Sources:
 - <phabricator.kde.org> = 3
 - <pointieststick.com> = 3
 - <social.treehouse.systems> = 3
+- <stackoverflow.blog> = 3
 - <steambrew.app> = 3
 - <upload.wikimedia.org> = 3
 - <www.cl.cam.ac.uk> = 3
@@ -92,7 +93,6 @@ Top Sources:
 - <quentinsf.com> = 2
 - <servo.org> = 2
 - <specifications.freedesktop.org> = 2
-- <stackoverflow.blog> = 2
 - <status.denic.de> = 2
 - <steamcommunity.com> = 2
 - <ubuntu.com> = 2
@@ -268,6 +268,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## StackOverflow Won't Accept They're Dead
+
+- ID: nAdxeGWVAoI
+- Published: 2026-11-16T16:30:26+00:00
+
+### References
+
+- <https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/>
 
 ## This Linux Driver Just Got A Cease & Desist
 

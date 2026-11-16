@@ -178,7 +178,7 @@
     "sourcehut.org": 1,
     "specifications.freedesktop.org": 2,
     "sshhole.com": 1,
-    "stackoverflow.blog": 2,
+    "stackoverflow.blog": 3,
     "stallman-copypasta.github.io": 1,
     "status.denic.de": 2,
     "steambrew.app": 3,
@@ -275,8 +275,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "YfpxV1hbStk",
+  "lastVideoID": "nAdxeGWVAoI",
   "videos": [
+    {
+      "id": "nAdxeGWVAoI",
+      "published": "2026-11-16T16:30:26+00:00",
+      "title": "StackOverflow Won't Accept They're Dead",
+      "urls": [
+        "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/"
+      ]
+    },
     {
       "id": "YfpxV1hbStk",
       "published": "2026-11-15T16:30:39+00:00",
