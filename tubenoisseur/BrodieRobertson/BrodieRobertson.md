@@ -4,7 +4,7 @@ Top Sources:
 
 - <github.com> = 89
 - <lists.archlinux.org> = 34
-- <x.com> = 28
+- <x.com> = 29
 - <lore.kernel.org> = 22
 - <www.phoronix.com> = 16
 - <www.reddit.com> = 15
@@ -70,6 +70,7 @@ Top Sources:
 - <chromium-review.googlesource.com> = 2
 - <data.stackexchange.com> = 2
 - <desktopsummit.org> = 2
+- <discord.com> = 2
 - <discuss.cachyos.org> = 2
 - <discuss.kde.org> = 2
 - <discussion.fedoraproject.org> = 2
@@ -144,7 +145,6 @@ Top Sources:
 - <developer.gimp.org> = 1
 - <developer.overheid.nl> = 1
 - <devuanusers.com> = 1
-- <discord.com> = 1
 - <discourse.flathub.org> = 1
 - <discourse.nixos.org> = 1
 - <distrofighter.com> = 1
@@ -268,6 +268,16 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Discord On Linux Keeps Getting Better
+
+- ID: 9nerXzfnfQA
+- Published: 2026-11-17T16:30:37+00:00
+
+### References
+
+- <https://discord.com/blog/discord-linux-a-year-of-upgrades>
+- <https://x.com/svishnevskiy/status/2121671429402005624>
 
 ## StackOverflow Won't Accept They're Dead
 

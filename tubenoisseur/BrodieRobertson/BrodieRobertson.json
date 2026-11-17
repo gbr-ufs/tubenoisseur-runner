@@ -59,7 +59,7 @@
     "developer.gimp.org": 1,
     "developer.overheid.nl": 1,
     "devuanusers.com": 1,
-    "discord.com": 1,
+    "discord.com": 2,
     "discourse.flathub.org": 1,
     "discourse.gnome.org": 7,
     "discourse.nixos.org": 1,
@@ -261,7 +261,7 @@
     "www.windowslatest.com": 2,
     "www.wiz.io": 1,
     "www.zdnet.com": 2,
-    "x.com": 28,
+    "x.com": 29,
     "xint.io": 1,
     "xkcd.com": 2,
     "xlibre.net": 1,
@@ -275,8 +275,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "nAdxeGWVAoI",
+  "lastVideoID": "9nerXzfnfQA",
   "videos": [
+    {
+      "id": "9nerXzfnfQA",
+      "published": "2026-11-17T16:30:37+00:00",
+      "title": "Discord On Linux Keeps Getting Better",
+      "urls": [
+        "https://discord.com/blog/discord-linux-a-year-of-upgrades",
+        "https://x.com/svishnevskiy/status/2121671429402005624"
+      ]
+    },
     {
       "id": "nAdxeGWVAoI",
       "published": "2026-11-16T16:30:26+00:00",
