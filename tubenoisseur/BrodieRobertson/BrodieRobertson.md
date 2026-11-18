@@ -21,19 +21,19 @@ Top Sources:
 - <blogs.kde.org> = 7
 - <daniel.haxx.se> = 7
 - <discourse.gnome.org> = 7
+- <lists.debian.org> = 7
 - <news.ycombinator.com> = 7
 - <store.steampowered.com> = 7
 - <gitlab.gnome.org> = 6
 - <ladybird.org> = 6
-- <lists.debian.org> = 6
 - <blog.davidedmundson.co.uk> = 5
 - <lwn.net> = 5
+- <www.debian.org> = 5
 - <www.osnews.com> = 5
 - <bugs.launchpad.net> = 4
 - <en.wikipedia.org> = 4
 - <git.kernel.org> = 4
 - <ioctl.fail> = 4
-- <www.debian.org> = 4
 - <www.gamingonlinux.com> = 4
 - <www.ietf.org> = 4
 - <archive.md> = 3
@@ -246,6 +246,7 @@ Top Sources:
 - <www.kernel.org> = 1
 - <www.kroah.com> = 1
 - <www.linuxjournal.com> = 1
+- <www.mail-archive.com> = 1
 - <www.notebookcheck.net> = 1
 - <www.openbsd.org> = 1
 - <www.pcworld.com> = 1
@@ -268,6 +269,17 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## The Consequences Of Debian's AI Resolution
+
+- ID: bxQARVyNnEc
+- Published: 2026-11-18T16:30:34+00:00
+
+### References
+
+- <https://www.debian.org/vote/2026/vote_002>
+- <https://lists.debian.org/debian-project/2026/08/msg00041.html>
+- <https://www.mail-archive.com/debian-devel@lists.debian.org/msg393036.html>
 
 ## Discord On Linux Keeps Getting Better
 

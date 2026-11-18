@@ -124,7 +124,7 @@
     "linuxiac.com": 2,
     "linuxmint.com": 1,
     "lists.archlinux.org": 34,
-    "lists.debian.org": 6,
+    "lists.debian.org": 7,
     "lists.fedoraproject.org": 1,
     "lkml.iu.edu": 2,
     "lkml.org": 10,
@@ -210,7 +210,7 @@
     "www.compart.com": 1,
     "www.damnsmalllinux.org": 1,
     "www.davidrevoy.com": 1,
-    "www.debian.org": 4,
+    "www.debian.org": 5,
     "www.dotfurry.org": 2,
     "www.eff.org": 1,
     "www.freexian.com": 1,
@@ -230,6 +230,7 @@
     "www.kernel.org": 1,
     "www.kroah.com": 1,
     "www.linuxjournal.com": 1,
+    "www.mail-archive.com": 1,
     "www.notebookcheck.net": 1,
     "www.omgubuntu.co.uk": 3,
     "www.openbsd.org": 1,
@@ -275,8 +276,18 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "9nerXzfnfQA",
+  "lastVideoID": "bxQARVyNnEc",
   "videos": [
+    {
+      "id": "bxQARVyNnEc",
+      "published": "2026-11-18T16:30:34+00:00",
+      "title": "The Consequences Of Debian's AI Resolution",
+      "urls": [
+        "https://www.debian.org/vote/2026/vote_002",
+        "https://lists.debian.org/debian-project/2026/08/msg00041.html",
+        "https://www.mail-archive.com/debian-devel@lists.debian.org/msg393036.html"
+      ]
+    },
     {
       "id": "9nerXzfnfQA",
       "published": "2026-11-17T16:30:37+00:00",
