@@ -214,8 +214,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "T1LvBjXYcFY",
+  "lastVideoID": "TBD8o5XQ2uY",
   "videos": [
+    {
+      "id": "TBD8o5XQ2uY",
+      "published": "2026-11-18T13:37:09+00:00",
+      "title": "9 insane Linux and FOSS takes that I still (or said myself)",
+      "urls": []
+    },
     {
       "id": "T1LvBjXYcFY",
       "published": "2026-11-14T08:49:18+00:00",

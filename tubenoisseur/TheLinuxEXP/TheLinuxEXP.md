@@ -202,6 +202,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## 9 insane Linux and FOSS takes that I still (or said myself)
+
+- ID: TBD8o5XQ2uY
+- Published: 2026-11-18T13:37:09+00:00
+
+### References
+
+
 ## Is Proton's official statement enough? - Linux Weekly News
 
 - ID: T1LvBjXYcFY
