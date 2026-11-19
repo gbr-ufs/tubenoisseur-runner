@@ -240,7 +240,7 @@
     "www.pcworld.com": 1,
     "www.phoronix.com": 16,
     "www.raylib.com": 1,
-    "www.reddit.com": 15,
+    "www.reddit.com": 16,
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.siemens.com": 1,
@@ -276,8 +276,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "bxQARVyNnEc",
+  "lastVideoID": "g2qaR5oVQI8",
   "videos": [
+    {
+      "id": "g2qaR5oVQI8",
+      "published": "2026-11-19T16:30:13+00:00",
+      "title": "The Year Of The Linux Desktop Is Never Coming",
+      "urls": [
+        "https://www.reddit.com/r/linux/comments/1xvjaa4/the_year_of_linux_isnt_coming/"
+      ]
+    },
     {
       "id": "bxQARVyNnEc",
       "published": "2026-11-18T16:30:34+00:00",

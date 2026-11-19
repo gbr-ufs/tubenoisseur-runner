@@ -7,7 +7,7 @@ Top Sources:
 - <x.com> = 29
 - <lore.kernel.org> = 22
 - <www.phoronix.com> = 16
-- <www.reddit.com> = 15
+- <www.reddit.com> = 16
 - <youtu.be> = 14
 - <blogs.gnome.org> = 11
 - <kde.org> = 11
@@ -269,6 +269,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## The Year Of The Linux Desktop Is Never Coming
+
+- ID: g2qaR5oVQI8
+- Published: 2026-11-19T16:30:13+00:00
+
+### References
+
+- <https://www.reddit.com/r/linux/comments/1xvjaa4/the_year_of_linux_isnt_coming/>
 
 ## The Consequences Of Debian's AI Resolution
 
