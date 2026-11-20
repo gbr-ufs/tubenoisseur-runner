@@ -2,15 +2,15 @@
 
 Top Sources:
 
-- <www.phoronix.com> = 58
-- <linuxiac.com> = 42
+- <www.phoronix.com> = 59
+- <linuxiac.com> = 45
 - <itsfoss.com> = 37
 - <www.gamingonlinux.com> = 32
 - <github.com> = 29
-- <www.omgubuntu.co.uk> = 24
+- <www.omgubuntu.co.uk> = 25
 - <www.techradar.com> = 23
 - <discourse.ubuntu.com> = 12
-- <blogs.gnome.org> = 9
+- <blogs.gnome.org> = 10
 - <arstechnica.com> = 8
 - <blog.mozilla.org> = 8
 - <9to5linux.com> = 7
@@ -23,6 +23,7 @@ Top Sources:
 - <discussion.fedoraproject.org> = 4
 - <gitlab.gnome.org> = 4
 - <proton.me> = 4
+- <www.androidauthority.com> = 4
 - <www.bleepingcomputer.com> = 4
 - <www.theregister.com> = 4
 - <frame.work> = 3
@@ -32,6 +33,7 @@ Top Sources:
 - <www.404media.co> = 3
 - <www.politico.eu> = 3
 - <www.theverge.com> = 3
+- <www.tomshardware.com> = 3
 - <www.zdnet.com> = 3
 - <youtu.be> = 3
 - <asahilinux.org> = 2
@@ -46,6 +48,7 @@ Top Sources:
 - <kde.org> = 2
 - <lists.debian.org> = 2
 - <modal.cx> = 2
+- <techcrunch.com> = 2
 - <tintotint.eu> = 2
 - <ubuntu.com> = 2
 - <www.bbc.com> = 2
@@ -55,7 +58,6 @@ Top Sources:
 - <www.microsoft.com> = 2
 - <www.neowin.net> = 2
 - <www.reuters.com> = 2
-- <www.tomshardware.com> = 2
 - <www.windowslatest.com> = 2
 - <www.xda-developers.com> = 2
 - <zamundaaa.github.io> = 2
@@ -93,6 +95,7 @@ Top Sources:
 - <en.ubunlog.com> = 1
 - <enblog.eischmann.cz> = 1
 - <espanso.org> = 1
+- <feed.itsfoss.com> = 1
 - <ferdium.org> = 1
 - <filipfila.wordpress.com> = 1
 - <forum.artixlinux.org> = 1
@@ -152,7 +155,6 @@ Top Sources:
 - <superfile.dev> = 1
 - <support.mozilla.org> = 1
 - <t.me> = 1
-- <techcrunch.com> = 1
 - <tesk.page> = 1
 - <thecybersecguru.com> = 1
 - <thisweek.gnome.org> = 1
@@ -161,7 +163,6 @@ Top Sources:
 - <vivaldi.com> = 1
 - <vng.nl> = 1
 - <winboat.app> = 1
-- <www.androidauthority.com> = 1
 - <www.androidcentral.com> = 1
 - <www.anthropic.com> = 1
 - <www.aswf.io> = 1
@@ -201,6 +202,26 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## The enh*tifcation of Android continues & other Linux Weekly News
+
+- ID: KsZdhAUdlno
+- Published: 2026-11-20T13:44:44+00:00
+
+### References
+
+- <https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/>
+- <https://www.androidauthority.com/android-sideloading-rules-developer-verification-global-3737188/>
+- <https://www.androidauthority.com/android-native-app-lock-older-versions-3737530/>
+- <https://linuxiac.com/manjaro-linux-moves-toward-independent-community-governance/>
+- <https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/>
+- <https://feed.itsfoss.com/link/24361/17526502/canonical-surge-announcemengt>
+- <https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance>
+- <https://www.omgubuntu.co.uk/2026/11/snap-store-new-app-increase-ai>
+- <https://linuxiac.com/purism-unveils-1599-librem-5-v2-linux-phone-powered-by-risc-v/>
+- <https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve>
+- <https://blogs.gnome.org/foundation/2026/11/18/lets-build-the-future-of-gnome-together/>
+- <https://linuxiac.com/codeberg-domain-suspended-by-namesilo-disrupting-open-source-projects/>
 
 ## 9 insane Linux and FOSS takes that I still (or said myself)
 
