@@ -188,6 +188,7 @@
     "store.steampowered.com": 7,
     "supakeen.com": 1,
     "sw.kovidgoyal.net": 1,
+    "terminal2shell.com": 1,
     "tweakers.net": 1,
     "ubuntu.com": 2,
     "upload.wikimedia.org": 3,
@@ -276,8 +277,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "g2qaR5oVQI8",
+  "lastVideoID": "dIYPerRXkL8",
   "videos": [
+    {
+      "id": "dIYPerRXkL8",
+      "published": "2026-11-21T16:30:17+00:00",
+      "title": "The Most Serious Vulnerability Ever Found",
+      "urls": [
+        "https://terminal2shell.com/"
+      ]
+    },
     {
       "id": "g2qaR5oVQI8",
       "published": "2026-11-19T16:30:13+00:00",

@@ -221,6 +221,7 @@ Top Sources:
 - <store.epicgames.com> = 1
 - <supakeen.com> = 1
 - <sw.kovidgoyal.net> = 1
+- <terminal2shell.com> = 1
 - <tweakers.net> = 1
 - <usbguard.github.io> = 1
 - <uutils.org> = 1
@@ -269,6 +270,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## The Most Serious Vulnerability Ever Found
+
+- ID: dIYPerRXkL8
+- Published: 2026-11-21T16:30:17+00:00
+
+### References
+
+- <https://terminal2shell.com/>
 
 ## The Year Of The Linux Desktop Is Never Coming
 
