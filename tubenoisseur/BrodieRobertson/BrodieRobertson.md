@@ -2,7 +2,7 @@
 
 Top Sources:
 
-- <github.com> = 89
+- <github.com> = 90
 - <lists.archlinux.org> = 34
 - <x.com> = 29
 - <lore.kernel.org> = 22
@@ -31,6 +31,7 @@ Top Sources:
 - <www.debian.org> = 5
 - <www.osnews.com> = 5
 - <bugs.launchpad.net> = 4
+- <discourse.ubuntu.com> = 4
 - <en.wikipedia.org> = 4
 - <git.kernel.org> = 4
 - <ioctl.fail> = 4
@@ -38,7 +39,6 @@ Top Sources:
 - <www.ietf.org> = 4
 - <archive.md> = 3
 - <archlinux.org> = 3
-- <discourse.ubuntu.com> = 3
 - <docs.kernel.org> = 3
 - <filipfila.wordpress.com> = 3
 - <itsfoss.com> = 3
@@ -228,6 +228,7 @@ Top Sources:
 - <voidlinux.org> = 1
 - <waydro.id> = 1
 - <wiki.gentoo.org> = 1
+- <wiki.mate-desktop.org> = 1
 - <wiki.xfce.org> = 1
 - <www.8bitdo.com> = 1
 - <www.cloudflarestatus.com> = 1
@@ -270,6 +271,17 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Mate Has Another Wayland Compositor In The Works
+
+- ID: DAD88aeew6g
+- Published: 2026-11-22T16:30:40+00:00
+
+### References
+
+- <https://wiki.mate-desktop.org/developers-corner/wayland-meson/>
+- <https://github.com/mate-desktop/mate-wayland-session>
+- <https://discourse.ubuntu.com/t/introducing-polo-a-mate-wayland-compositor/91698>
 
 ## The Most Serious Vulnerability Ever Found
 
