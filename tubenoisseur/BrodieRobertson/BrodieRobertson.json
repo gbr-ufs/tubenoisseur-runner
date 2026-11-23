@@ -242,7 +242,7 @@
     "www.pcworld.com": 1,
     "www.phoronix.com": 16,
     "www.raylib.com": 1,
-    "www.reddit.com": 16,
+    "www.reddit.com": 17,
     "www.redhat.com": 1,
     "www.rfc-editor.org": 3,
     "www.siemens.com": 1,
@@ -278,8 +278,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "DAD88aeew6g",
+  "lastVideoID": "2OeoqXv5NzE",
   "videos": [
+    {
+      "id": "2OeoqXv5NzE",
+      "published": "2026-11-23T16:30:17+00:00",
+      "title": "Flathub Is \"Unsafe\"",
+      "urls": [
+        "https://www.reddit.com/r/Bitwarden/comments/1xtplkd/why_does_flatpak_bazaar_say_that_bitwarden_is/"
+      ]
+    },
     {
       "id": "DAD88aeew6g",
       "published": "2026-11-22T16:30:40+00:00",

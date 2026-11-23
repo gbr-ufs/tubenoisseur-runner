@@ -6,8 +6,8 @@ Top Sources:
 - <lists.archlinux.org> = 34
 - <x.com> = 29
 - <lore.kernel.org> = 22
+- <www.reddit.com> = 17
 - <www.phoronix.com> = 16
-- <www.reddit.com> = 16
 - <youtu.be> = 14
 - <blogs.gnome.org> = 11
 - <kde.org> = 11
@@ -271,6 +271,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## Flathub Is "Unsafe"
+
+- ID: 2OeoqXv5NzE
+- Published: 2026-11-23T16:30:17+00:00
+
+### References
+
+- <https://www.reddit.com/r/Bitwarden/comments/1xtplkd/why_does_flatpak_bazaar_say_that_bitwarden_is/>
 
 ## Mate Has Another Wayland Compositor In The Works
 
