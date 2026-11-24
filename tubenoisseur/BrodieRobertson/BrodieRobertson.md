@@ -131,6 +131,7 @@ Top Sources:
 - <boilingsteam.com> = 1
 - <bugzilla.gnome.org> = 1
 - <bugzilla.mozilla.org> = 1
+- <cachyos.org> = 1
 - <cdn.kernel.org> = 1
 - <code.overheid.nl> = 1
 - <codeberg.org> = 1
@@ -271,6 +272,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## CachyOS Is Ready For EACv2 To Drop
+
+- ID: 5lH6DjXpiVE
+- Published: 2026-11-24T16:30:29+00:00
+
+### References
+
+- <https://cachyos.org/blog/2611-november-release/>
 
 ## Flathub Is "Unsafe"
 

@@ -40,6 +40,7 @@
     "bugs.launchpad.net": 4,
     "bugzilla.gnome.org": 1,
     "bugzilla.mozilla.org": 1,
+    "cachyos.org": 1,
     "canonical.com": 2,
     "cdn.kernel.org": 1,
     "chromium-review.googlesource.com": 2,
@@ -278,8 +279,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "2OeoqXv5NzE",
+  "lastVideoID": "5lH6DjXpiVE",
   "videos": [
+    {
+      "id": "5lH6DjXpiVE",
+      "published": "2026-11-24T16:30:29+00:00",
+      "title": "CachyOS Is Ready For EACv2 To Drop",
+      "urls": [
+        "https://cachyos.org/blog/2611-november-release/"
+      ]
+    },
     {
       "id": "2OeoqXv5NzE",
       "published": "2026-11-23T16:30:17+00:00",
