@@ -78,7 +78,7 @@
     "guides.frame.work": 2,
     "help.steampowered.com": 1,
     "hindenburgresearch.com": 1,
-    "hostinger.com": 1,
+    "hostinger.com": 2,
     "hwbusters.com": 1,
     "internxt.com": 5,
     "isene.org": 1,
@@ -215,8 +215,16 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "KsZdhAUdlno",
+  "lastVideoID": "Se2bB65gS4I",
   "videos": [
+    {
+      "id": "Se2bB65gS4I",
+      "published": "2026-11-25T12:19:22+00:00",
+      "title": "Pop!_OS 26.04 is out: is the Cosmic desktop ready now?",
+      "urls": [
+        "https://hostinger.com/linuxexperiment"
+      ]
+    },
     {
       "id": "KsZdhAUdlno",
       "published": "2026-11-20T13:44:44+00:00",

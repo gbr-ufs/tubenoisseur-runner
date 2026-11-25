@@ -45,6 +45,7 @@ Top Sources:
 - <cutefish.org> = 2
 - <gs.statcounter.com> = 2
 - <guides.frame.work> = 2
+- <hostinger.com> = 2
 - <kde.org> = 2
 - <lists.debian.org> = 2
 - <modal.cx> = 2
@@ -116,7 +117,6 @@ Top Sources:
 - <groups.google.com> = 1
 - <help.steampowered.com> = 1
 - <hindenburgresearch.com> = 1
-- <hostinger.com> = 1
 - <hwbusters.com> = 1
 - <isene.org> = 1
 - <junocomputers.com> = 1
@@ -202,6 +202,15 @@ Top Sources:
 - <x.com> = 1
 - <xint.io> = 1
 
+
+## Pop!_OS 26.04 is out: is the Cosmic desktop ready now?
+
+- ID: Se2bB65gS4I
+- Published: 2026-11-25T12:19:22+00:00
+
+### References
+
+- <https://hostinger.com/linuxexperiment>
 
 ## The enh*tifcation of Android continues & other Linux Weekly News
 
