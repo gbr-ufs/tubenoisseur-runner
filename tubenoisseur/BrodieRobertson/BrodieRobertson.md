@@ -14,11 +14,11 @@ Top Sources:
 - <gitlab.freedesktop.org> = 10
 - <invent.kde.org> = 10
 - <lkml.org> = 10
+- <blogs.kde.org> = 9
 - <web.archive.org> = 9
 - <wiki.archlinux.org> = 9
 - <www.sovereign.tech> = 9
 - <aur.archlinux.org> = 7
-- <blogs.kde.org> = 7
 - <daniel.haxx.se> = 7
 - <discourse.gnome.org> = 7
 - <lists.debian.org> = 7
@@ -272,6 +272,16 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## KDE's New Terminal Has Arrived And It's...
+
+- ID: _I5yJtZGCXc
+- Published: 2026-11-25T16:30:26+00:00
+
+### References
+
+- <https://blogs.kde.org/2026/11/01/introducing-kwi/>
+- <https://blogs.kde.org/2026/11/20/this-week-in-kwi-2026-w47/>
 
 ## CachyOS Is Ready For EACv2 To Drop
 

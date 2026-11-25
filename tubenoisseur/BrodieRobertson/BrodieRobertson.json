@@ -30,7 +30,7 @@
     "blog.vladzahorodnii.com": 2,
     "blogs.gentoo.org": 1,
     "blogs.gnome.org": 11,
-    "blogs.kde.org": 7,
+    "blogs.kde.org": 9,
     "blogs.microsoft.com": 1,
     "blogs.windows.com": 1,
     "boilingsteam.com": 1,
@@ -279,8 +279,17 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "5lH6DjXpiVE",
+  "lastVideoID": "_I5yJtZGCXc",
   "videos": [
+    {
+      "id": "_I5yJtZGCXc",
+      "published": "2026-11-25T16:30:26+00:00",
+      "title": "KDE's New Terminal Has Arrived And It's...",
+      "urls": [
+        "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+        "https://blogs.kde.org/2026/11/20/this-week-in-kwi-2026-w47/"
+      ]
+    },
     {
       "id": "5lH6DjXpiVE",
       "published": "2026-11-24T16:30:29+00:00",
