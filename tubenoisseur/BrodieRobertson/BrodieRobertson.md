@@ -81,6 +81,7 @@ Top Sources:
 - <gjs.guide> = 2
 - <leginfo.legislature.ca.gov> = 2
 - <linuxiac.com> = 2
+- <linuxmint.com> = 2
 - <lkml.iu.edu> = 2
 - <lkml.rescloud.iu.edu> = 2
 - <marco-nett.de> = 2
@@ -184,7 +185,6 @@ Top Sources:
 - <launcher.epicgames.com> = 1
 - <linux.die.net> = 1
 - <linux.kde.org> = 1
-- <linuxmint.com> = 1
 - <lists.fedoraproject.org> = 1
 - <mail.kde.org> = 1
 - <mailarchive.ietf.org> = 1
@@ -272,6 +272,15 @@ Top Sources:
 - <xint.io> = 1
 - <xlibre.net> = 1
 
+
+## What Keeps Linux Mint So Popular
+
+- ID: txm4wvxKeG0
+- Published: 2026-11-26T16:30:15+00:00
+
+### References
+
+- <https://linuxmint.com/>
 
 ## KDE's New Terminal Has Arrived And It's...
 

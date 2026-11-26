@@ -123,7 +123,7 @@
     "linux.die.net": 1,
     "linux.kde.org": 1,
     "linuxiac.com": 2,
-    "linuxmint.com": 1,
+    "linuxmint.com": 2,
     "lists.archlinux.org": 34,
     "lists.debian.org": 7,
     "lists.fedoraproject.org": 1,
@@ -279,8 +279,16 @@
     "ncs.io"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
-  "lastVideoID": "_I5yJtZGCXc",
+  "lastVideoID": "txm4wvxKeG0",
   "videos": [
+    {
+      "id": "txm4wvxKeG0",
+      "published": "2026-11-26T16:30:15+00:00",
+      "title": "What Keeps Linux Mint So Popular",
+      "urls": [
+        "https://linuxmint.com/"
+      ]
+    },
     {
       "id": "_I5yJtZGCXc",
       "published": "2026-11-25T16:30:26+00:00",
