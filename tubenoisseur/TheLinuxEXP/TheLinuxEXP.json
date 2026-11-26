@@ -215,8 +215,14 @@
     "the-linux-experiment.creator-spring.com"
   ],
   "feedURL": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-  "lastVideoID": "Se2bB65gS4I",
+  "lastVideoID": "2wi4ZUenbwQ",
   "videos": [
+    {
+      "id": "2wi4ZUenbwQ",
+      "published": "2026-11-26T14:00:47+00:00",
+      "title": "Microsoft wouldn't move to Linux, so crazy devs put the real Windows shell on Linux",
+      "urls": []
+    },
     {
       "id": "Se2bB65gS4I",
       "published": "2026-11-25T12:19:22+00:00",

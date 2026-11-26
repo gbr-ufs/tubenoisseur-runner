@@ -203,6 +203,14 @@ Top Sources:
 - <xint.io> = 1
 
 
+## Microsoft wouldn't move to Linux, so crazy devs put the real Windows shell on Linux
+
+- ID: 2wi4ZUenbwQ
+- Published: 2026-11-26T14:00:47+00:00
+
+### References
+
+
 ## Pop!_OS 26.04 is out: is the Cosmic desktop ready now?
 
 - ID: Se2bB65gS4I
